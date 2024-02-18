@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screen Shot][product-screenshot]](https://example.com)
+[![Product Screen Shot][product-screenshot]](https://github.com/yiren-liu/coquest)
 
 We proposed a novel system called CoQuest, which allows an AI agent to initiate research question (RQ) generation by tapping the power of LLMs and taking humans' feedback into a co-creation process.
 
@@ -30,14 +30,13 @@ Major features of the CoQuest system:
 * ***Paper Graph Visualizer*** that displays the literature space related to each RQ.
 * ***AI Thoughts*** that explains AI’s rationale of why each RQ is generated.
 
-[![System Framework][system-framework]](https://example.com)
+[![System Framework][system-framework]](https://github.com/yiren-liu/coquest)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 #### Demo Video
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1nK-T4aHCTxBdPXBs-ADs273yPEPulwi_/preview" ></iframe>
-
+![Demo Video](https://drive.google.com/file/d/1nK-T4aHCTxBdPXBs-ADs273yPEPulwi_/view?usp=sharing)
 
 ### Built With
 
@@ -71,9 +70,9 @@ Alternatively, to install from source, you would need to install Node.js and Pyt
 #### Adding API configs
 This is required for both running from docker or source.
 
-1. First create a config file ```backend\.env``` based on your API choice and info. Refer to the ```backend\.env.example``` for an example.
+1. First create a config file ```backend/.env``` based on your API choice and info. Refer to the ```backend/.env.example``` for an example.
 
-2. IF you are using Azure OpenAI API, create another Azure config file at ```backend\azure.yaml```. Refer to the ```backend\azure.yaml.example``` for an example.
+2. IF you are using Azure OpenAI API, create another Azure config file at ```backend/azure.yaml```. Refer to the ```backend/azure.yaml.example``` for an example.
 
 
 #### From docker (Recommended)
@@ -118,8 +117,8 @@ The backend DB for logging change be changed to any self-hosted postgres DB by m
 After deploying the service locally, visit: http://localhost:3000/app
 
 ### Replacing the paper pool with your own
-The paper pool used in the search function is vectorized and stored using ChromaDB under ```backend\paper_graph\db```. 
-Currently, the embedding model we used is OpenAI Ada 2, but you could use any other models if needed. When swapping the paper pool, modify and run the ```backend\paper_graph\get_embeddings.py```.
+The paper pool used in the search function is vectorized and stored using ChromaDB under ```backend/paper_graph/db```. 
+Currently, the embedding model we used is OpenAI Ada 2, but you could use any other models if needed. When swapping the paper pool, modify and run the ```backend/paper_graph/get_embeddings.py```.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
