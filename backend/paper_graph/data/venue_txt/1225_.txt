@@ -1,0 +1,12 @@
+corpus id: 11952089, 
+
+Title: As-rigid-as-possible surface modeling
+
+Abstract: Modeling tasks, such as surface deformation and editing, can be analyzed by observing the local behavior of the surface. We argue that defining a modeling operation by asking for rigidity of the local transformations is useful in various settings. Such formulation leads to a non-linear, yet conceptually simple energy formulation, which is to be minimized by the deformed surface under particular modeling constraints. We devise a simple iterative mesh editing scheme based on this principle, that leads to detail-preserving and intuitive deformations. Our algorithm is effective and notably easy to implement, making it attractive for practical modeling applications.
+
+TLDR: This work argues that defining a modeling operation by asking for rigidity of the local transformations is useful in various settings, and devise a simple iterative mesh editing scheme based on this principle, that leads to detail-preserving and intuitive deformations.
+
+Fields of Study: ['Computer Science']
+
+Authors: O. Sorkine-Hornung, M. Alexa
+

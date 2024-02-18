@@ -1,0 +1,12 @@
+corpus id: 19663974, 
+
+Title: A rationale and test for the number of factors in factor analysis
+
+Abstract: None
+
+TLDR: It is suggested that if Guttman's latent-root-one lower bound estimate for the rank of a correlation matrix is accepted as a psychometric upper bound, then the rank for a sample matrix should be estimated by subtracting out the component in the latent roots which can be attributed to sampling error.
+
+Fields of Study: ['Mathematics', 'Medicine']
+
+Authors: J. Horn
+

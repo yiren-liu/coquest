@@ -1,0 +1,12 @@
+corpus id: 201562483, 
+
+Title: The Art of Game Design: A book of lenses
+
+Abstract: Anyone can master the fundamentals of game design - no technological expertise is necessary. "The Art of Game Design: A Book of Lenses" shows that the same basic principles of psychology that work for board games, card games and athletic games also are the keys to making top-quality videogames. Good game design happens when you view your game from many different perspectives, or lenses. While touring through the unusual territory that is game design, this book gives the reader one hundred of these lenses - one hundred sets of insightful questions to ask yourself that will help make your game better. These lenses are gathered from fields as diverse as psychology, architecture, music, visual design, film, software engineering, theme park design, mathematics, writing, puzzle design, and anthropology. Anyone who reads this book will be inspired to become a better game designer - and will understand how to do it.
+
+TLDR: The Art of Game Design: A Book of Lenses shows that the same basic principles of psychology that work for board games, card games and athletic games also are the keys to making top-quality videogames.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: J. Schell
+

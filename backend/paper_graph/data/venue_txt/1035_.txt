@@ -1,0 +1,12 @@
+corpus id: 8056977, 
+
+Title: Visual search and stimulus similarity.
+
+Abstract: A new theory of search and visual attention is presented. Results support neither a distinction between serial and parallel search nor between search for features and conjunctions. For all search materials, instead, difficulty increases with increased similarity of targets to nontargets and decreasedsimilarity between nontargets, producing a continuum of search efficiency. A parallel stage of perceptual grouping and description is followed by competitive interaction between inputs, guiding selective access to awareness and action. An input gains weight to the extent that it matches an internal description of that information needed in current behavior (hence the effect of targetnontarget similarity). Perceptual grouping encourages input weights to change together (allowing "spreading suppression" of similar nontargets). The theory accounts for harmful effects of nontargets resembling any possible target, the importance of local nontarget grouping, and many other findings.
+
+TLDR: A new theory of search and visual attention is presented, which accounts for harmful effects of nontargets resembling any possible target, the importance of local nontarget grouping, and many other findings.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. Duncan, G. Humphreys
+

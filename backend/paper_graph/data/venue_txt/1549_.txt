@@ -1,0 +1,12 @@
+corpus id: 1916803, 
+
+Title: Working memory.
+
+Abstract: None
+
+TLDR: This chapter demonstrates the functional importance of dopamine to working memory function in several ways and demonstrates that a network of brain regions, including the prefrontal cortex, is critical for the active maintenance of internal representations.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: M. D’Esposito
+

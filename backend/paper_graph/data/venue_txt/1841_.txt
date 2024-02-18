@@ -1,0 +1,12 @@
+corpus id: 16637923, 
+
+Title: IPython: A System for Interactive Scientific Computing
+
+Abstract: Python offers basic facilities for interactive work and a comprehensive library on top of which more sophisticated systems can be built. The IPython project provides on enhanced interactive environment that includes, among other features, support for data visualization and facilities for distributed and parallel computation
+
+TLDR: The IPython project provides on enhanced interactive environment that includes, among other features, support for data visualization and facilities for distributed and parallel computation.
+
+Fields of Study: ['Computer Science']
+
+Authors: Fernando Pérez, B. Granger
+

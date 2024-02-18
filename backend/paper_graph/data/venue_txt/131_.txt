@@ -1,0 +1,12 @@
+corpus id: 206769866, 
+
+Title: ORB: An efficient alternative to SIFT or SURF
+
+Abstract: Feature matching is at the base of many computer vision problems, such as object recognition or structure from motion. Current methods rely on costly descriptors for detection and matching. In this paper, we propose a very fast binary descriptor based on BRIEF, called ORB, which is rotation invariant and resistant to noise. We demonstrate through experiments how ORB is at two orders of magnitude faster than SIFT, while performing as well in many situations. The efficiency is tested on several real-world applications, including object detection and patch-tracking on a smart phone.
+
+TLDR: This paper proposes a very fast binary descriptor based on BRIEF, called ORB, which is rotation invariant and resistant to noise, and demonstrates through experiments how ORB is at two orders of magnitude faster than SIFT, while performing as well in many situations.
+
+Fields of Study: ['Computer Science']
+
+Authors: Ethan Rublee, V. Rabaud, K. Konolige, G. Bradski
+

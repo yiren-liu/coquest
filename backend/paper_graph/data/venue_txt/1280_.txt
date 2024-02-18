@@ -1,0 +1,12 @@
+corpus id: 38872875, 
+
+Title: AttrakDiff: Ein Fragebogen zur Messung wahrgenommener hedonischer und pragmatischer Qualität
+
+Abstract: None
+
+TLDR: In diesem Beitrag wird der „AttrakDiff 2“ Fragebogen vorgestellt, der sowohl wahrgenommene pragmatische als auch hedonische Qualitat zu messen vermag, ergebnisse zur Reliabilitat and Validitat werden vorgESTellt and diskutiert.
+
+Fields of Study: ['Computer Science', 'Art']
+
+Authors: Marc Hassenzahl, Michael Burmester, F. Koller
+

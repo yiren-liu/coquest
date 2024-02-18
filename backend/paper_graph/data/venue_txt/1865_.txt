@@ -1,0 +1,12 @@
+corpus id: 8777811, 
+
+Title: Recognizing human actions: a local SVM approach
+
+Abstract: Local space-time features capture local events in video and can be adapted to the size, the frequency and the velocity of moving patterns. In this paper, we demonstrate how such features can be used for recognizing complex motion patterns. We construct video representations in terms of local space-time features and integrate such representations with SVM classification schemes for recognition. For the purpose of evaluation we introduce a new video database containing 2391 sequences of six human actions performed by 25 people in four different scenarios. The presented results of action recognition justify the proposed method and demonstrate its advantage compared to other relative approaches for action recognition.
+
+TLDR: This paper construct video representations in terms of local space-time features and integrate such representations with SVM classification schemes for recognition and presents the presented results of action recognition.
+
+Fields of Study: ['Computer Science']
+
+Authors: Christian Schüldt, I. Laptev, B. Caputo
+

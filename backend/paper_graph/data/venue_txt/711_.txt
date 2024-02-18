@@ -1,0 +1,12 @@
+corpus id: 3634658, 
+
+Title: Development and psychometric evaluation of the Resilience Scale.
+
+Abstract: This study describes the development and initial psychometric evaluation of the 25-item Resilience Scale (RS) in a sample of 810 community-dwelling older adults. Principal components factor analysis of the RS was conducted followed by oblimin rotation indicating that the factor structure represented two factors (Personal Competence and Acceptance of Self and Life). Positive correlations with adaptational outcomes (physical health, morale, and life satisfaction) and a negative correlation with depression supported concurrent validity of the RS. The results of this study support the internal consistency reliability and concurrent validity of the RS as an instrument to measure resilience.
+
+TLDR: The development and initial psychometric evaluation of the Resilience Scale in a sample of 810 community-dwelling older adults support the internal consistency reliability and concurrent validity of the RS as an instrument to measure resilience.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: G. Wagnild, H. Young
+

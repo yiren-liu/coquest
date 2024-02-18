@@ -1,0 +1,12 @@
+corpus id: 62737285, 
+
+Title: Survey Research Methods
+
+Abstract: Preface 1. Introduction 2. Types of Error in Surveys 3. Sampling 4. Nonresponse: Implementing a Sample Design 5. Methods of Data Collection 6. Designing Questions to be Good Measures 7. Evaluating Survey Questions and Instruments 8. Survey Interviewing 9. Preparing Survey Data for Analysis 10. Analyzing Survey Data 11. Ethical Issues in Survey Research 12. Providing Information About Survey Methods 13. Survey Error in Perspective
+
+TLDR: This chapter discusses ethical issues in Survey Research, as well as methods of data collection and analysis, and types of error in Surveys.
+
+Fields of Study: ['Computer Science']
+
+Authors: F. J. Fowler
+

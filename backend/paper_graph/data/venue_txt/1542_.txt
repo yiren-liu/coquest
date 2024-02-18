@@ -1,0 +1,12 @@
+corpus id: 144977536, 
+
+Title: Normal Personality Assessment in Clinical Practice: The NEO Personality Inventory.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: P. Costa, R. McCrae
+

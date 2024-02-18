@@ -1,0 +1,12 @@
+corpus id: 143435386, 
+
+Title: The Development of the Game Engagement Questionnaire: A Measure of Engagement in Video Game Playing: Response to Reviews
+
+Abstract: This paper begins with an argument that most measure development in the social sciences, with its reliance on correlational techniques as a tool, falls short of the requirements for constructing meaningful, unidimensional measures of human attributes. By demonstrating how rating scales are ordinal-level data, we argue the necessity of converting these to equal-interval units to develop a measure that is both qualitatively and quantitatively defensible. This requires that the empirical results and theoretical explanation are questioned and adjusted at each step of the process. In our response to the reviewers, we describe how this approach was used to develop the Game Engagement Questionnaire (GEQ), including its emphasis on examining a continuum of involvement in violent video games. The GEQ is an empirically sound measure focused on one player characteristic that may be important in determining game influence.
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: C. Fox, Jeanne H. Brockmyer
+

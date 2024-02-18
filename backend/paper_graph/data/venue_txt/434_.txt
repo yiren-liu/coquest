@@ -1,0 +1,12 @@
+corpus id: 145642577, 
+
+Title: Compliance, identification, and internalization three processes of attitude change
+
+Abstract: 1 An earlier draft of this paper was written while the author was with the Laboratory of Psychology, National Institute of Mental Health, and was read at the annual meeting of the American Psychological Association in Chicago on August 30, 1956. The experiment reported here was conducted while the author was at Johns Hopkins University as a Public Health Service Research Fellow of the National Institute of Mental Health. Additional financial support was received from the Yale Communication Research Program, which is under the direction of Carl I. Hovland and which is operating under a grant from the Rockefeller Foundation. The author is particularly grateful to James Owings for his help in running the experiment; to Ramon J. Rhine and Janet Baldwin Barclay for their help in analysis of the data; and to Roger K. Williams, Chairman of the Psychology Department at Morgan State College, for the many ways in which he facilitated collection of the data. nication produce public conformity without private acceptance, or did it produce public conformity coupled with private acceptance? (Cf. 1, 4.) Only if we know something about the nature and depth of changes can we make meaningful predictions about the way in which attitude changes will be reflected in subsequent actions and reactions to events.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: H. Kelman
+

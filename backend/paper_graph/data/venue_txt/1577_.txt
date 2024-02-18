@@ -1,0 +1,12 @@
+corpus id: 166235030, 
+
+Title: The partial least squares approach for structural equation modeling.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: Wynne W. Chin
+

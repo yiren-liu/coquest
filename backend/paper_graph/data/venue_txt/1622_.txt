@@ -1,0 +1,12 @@
+corpus id: 143501491, 
+
+Title: Basic Content Analysis
+
+Abstract: Introduction Content Classification and Interpretation Techniques of Content Analysis Issues in Content Analysis
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Sociology']
+
+Authors: R. Weber
+

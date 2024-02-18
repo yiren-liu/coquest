@@ -1,0 +1,12 @@
+corpus id: 143754461, 
+
+Title: Parasocial Interaction: A Review of the Literature and a Model for Future Research
+
+Abstract: This paper considers the phenomenon of parasocial interaction (PSI) used by media researchers to describe the relationship between media users and media figures (from celebrities to fictional characters). Although the concept has been used consistently across the past two decades in media research, it is argued here that it has not been sufficiently developed at a theoretical level to be taken up by psychologists. A number of key issues have not been addressed: firstly, how PSI might, as its originators put it, be "integrated into the matrix of usual social activity" (Horton & Wohl, 1956); secondly, how PSI might vary according to different types of media figure; and thirdly, what processes over time and media use bind user and figure into a "parasocial relationship." In this paper the existing literature on PSI is extensively reviewed, and an original model of PSI is developed for use in future social psychological research, which places PSI within the realm of ordinary social interaction and suggests ways in which different media use and different types of media figure interact to produce different styles of relationship. Finally, some applications of more detailed research into PSI are suggested.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Giles
+

@@ -1,0 +1,12 @@
+corpus id: 14671665, 
+
+Title: Virtual Teams: What Do We Know and Where Do We Go From Here?
+
+Abstract: None
+
+TLDR: An integrative definition is proposed that suggests that all teams may be defined in terms of their extent of virtualness, and avenues for future research are suggested, including methodological and theoretical considerations that are important to advancing understanding of virtual teams.
+
+Fields of Study: ['Computer Science']
+
+Authors: L. Martins, L. Gilson, M. Maynard
+

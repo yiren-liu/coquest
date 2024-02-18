@@ -1,0 +1,12 @@
+corpus id: 122166830, 
+
+Title: Relations Between Two Sets of Variates
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: H. Hotelling
+

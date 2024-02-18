@@ -1,0 +1,12 @@
+corpus id: 31076785, 
+
+Title: Taking risky opportunities in youthful content creation: teenagers' use of social networking sites for intimacy, privacy and self-expression
+
+Abstract: The explosion in social networking sites such as MySpace, Facebook, Bebo and Friendster is widely regarded as an exciting opportunity, especially for youth.Yet the public response tends to be one of puzzled dismay regarding a generation that, supposedly, has many friends but little sense of privacy and a narcissistic fascination with self-display. This article explores teenagers' practices of social networking in order to uncover the subtle connections between online opportunity and risk. While younger teenagers relish the opportunities to recreate continuously a highly-decorated, stylistically-elaborate identity, older teenagers favour a plain aesthetic that foregrounds their links to others, thus expressing a notion of identity lived through authentic relationships. The article further contrasts teenagers' graded conception of `friends' with the binary classification of social networking sites, this being one of several means by which online privacy is shaped and undermined by the affordances of these sites.
+
+TLDR: While younger teenagers relish the opportunities to recreate continuously a highly-decorated, stylistically-elaborate identity, older teenagers favour a plain aesthetic that foregrounds their links to others, thus expressing a notion of identity lived through authentic relationships.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: S. Livingstone
+

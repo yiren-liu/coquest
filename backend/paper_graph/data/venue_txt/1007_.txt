@@ -1,0 +1,12 @@
+corpus id: 108538895, 
+
+Title: What a waste? : a global review of solid waste management
+
+Abstract: Solid waste management is the one thing just about every city government provides for its residents. While service levels, environmental impacts and costs vary dramatically, solid waste management is arguably the most important municipal service and serves as a prerequisite for other municipal action. As the world hurtles toward its urban future, the amount of municipal solid waste (MSW), one of the most important by-products of an urban lifestyle, is growing even faster than the rate of urbanization. Ten years ago there were 2.9 billion urban residents who generated about 0.64 kg of MSW per person per day (0.68 billion tonnes per year). This report estimates that today these amounts have increased to about 3 billion residents generating 1.2 kg per person per day (1.3 billion tonnes per year). By 2025 this will likely increase to 4.3 billion urban residents generating about 1.42 kg/capita/day of municipal solid waste (2.2 billion tonnes per year).
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: Perinaz Bhada-Tata, D. Hoornweg
+

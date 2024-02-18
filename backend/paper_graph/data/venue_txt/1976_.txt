@@ -1,0 +1,12 @@
+corpus id: 15252590, 
+
+Title: Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: S. Hart, L. Staveland
+

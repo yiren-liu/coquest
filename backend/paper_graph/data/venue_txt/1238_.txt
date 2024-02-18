@@ -1,0 +1,12 @@
+corpus id: 44451104, 
+
+Title: Loss Aversion in Riskless Choice: A Reference-Dependent Model
+
+Abstract: Much experimental evidence indicates that choice depends on the status quo or reference level: changes of reference point often lead to reversals of preference. We present a reference-dependent theory of consumer choice, which explains such effects by a deformation of indifference curves about the reference point. The central assumption of the theory is that losses and disadvantages have greater impact on preferences than gains and advantages. Implications of loss aversion for economic behavior are considered.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: A. Tversky, D. Kahneman
+

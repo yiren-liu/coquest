@@ -1,0 +1,12 @@
+corpus id: 17301954, 
+
+Title: In Search of How People Change: Applications to Addictive Behaviors
+
+Abstract: Abstract How people intentionally change addictive behaviors with and without treatment is not well understood by behavioral scientists. This article summarizes research on self‐initiated and professionally facilitated change of addictive behaviors using the key transtheoretical constructs of stages and processes of change. Modification of addictive behaviors involves progression through five stages—precontemplation, contemplation, preparation, action, and maintenance—and individuals typically recycle through these stages several times before termination of the addiction. Multiple studies provide strong support for these stages as well as for a finite and common set of change processes used to progress through the stages. Research to date supports a transtheoretical model of change that systematically integrates the stages with processes of change from diverse theories of psychotherapy.
+
+TLDR: Research to date supports a trans-theoretical model of change that systematically integrates the stages with processes of change from diverse theories of psychotherapy.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Prochaska, C. DiClemente, J. Norcross
+

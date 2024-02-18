@@ -1,0 +1,12 @@
+corpus id: 189762205, 
+
+Title: Contrastive Multiview Coding
+
+Abstract: None
+
+TLDR: Key properties of the multiview contrastive learning approach are analyzed, finding that the contrastive loss outperforms a popular alternative based on cross-view prediction, and that the more views the authors learn from, the better the resulting representation captures underlying scene semantics.
+
+Fields of Study: ['Computer Science']
+
+Authors: Yonglong Tian, Dilip Krishnan, Phillip Isola
+

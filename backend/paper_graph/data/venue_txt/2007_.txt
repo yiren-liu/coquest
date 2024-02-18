@@ -1,0 +1,12 @@
+corpus id: 144301400, 
+
+Title: Belief, Attitude, Intention, and Behavior: An Introduction to Theory and Research
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: M. Fishbein, I. Ajzen
+

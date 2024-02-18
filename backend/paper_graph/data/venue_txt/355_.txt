@@ -1,0 +1,12 @@
+corpus id: 60384785, 
+
+Title: Business Research Methods and Statistics Using SPSS
+
+Abstract: PART ONE: GENERAL ORIENTATION TO RESEARCH IN BUSINESS AND MANAGEMENT Research, Statistics and Business Decisions Contrasting Philosophies and Approaches to Research Ethical Issues in Research Selecting the Topic and Conducting a Literature Review Theory, Problem Definition, Frameworks and Research Design PART TWO: ENTERING, DESCRIBING AND OBTAINING DATA How To Enter Data into SPSS and Undertake Initial Screening Describing and Presenting your Data Normal Distribution, Probability and Statistical Significance Sampling Issues Hypothesis Formation, Types of Error and Estimation Power and Effect Size PART THREE: STATISTICALLY ANALYSING DATA Hypothesis Testing for Differences between Means and Proportions Analysis of Variance Techniques (ANOVA) Chi Square Methods of Correlation Testing Hypotheses of Relationships Prediction and Regression Reliability and Validity Factor Analysis PART FOUR: SURVEY METHODS FOR RESEARCH IN BUSINESS AND MANAGEMENT Attitude Questionnaires and Measurement Structured Interview and Questionnaires Surveys PART FIVE: REPORTING AND PRESENTING RESEARCH Writing Up and Communicating Research
+
+TLDR: This chapter discusses methodology for research in business and management, and the importance of knowing the sources of your data and how to deal with ambiguity.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Burns, R. Burns
+

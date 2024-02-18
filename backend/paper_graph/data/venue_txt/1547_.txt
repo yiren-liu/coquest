@@ -1,0 +1,12 @@
+corpus id: 39327657, 
+
+Title: Wireless communications - principles and practice
+
+Abstract: From the Publisher: The indispensable guide to wireless communicationsnow fully revised and updated!  Wireless Communications: Principles and Practice, Second Edition is the definitive modern text for wireless communications technology and system design. Building on his classic first edition, Theodore S. Rappaport covers the fundamental issues impacting all wireless networks and reviews virtually every important new wireless standard and technological development, offering especially comprehensive coverage of the 3G systems and wireless local area networks (WLANs) that will transform communications in the coming years. Rappaport illustrates each key concept with practical examples, thoroughly explained and solved step by step. Coverage includes:  An overview of key wireless technologies: voice, data, cordless, paging, fixed and mobile broadband wireless systems, and beyond Wireless system design fundamentals: channel assignment, handoffs, trunking efficiency, interference, frequency reuse, capacity planning, large-scale fading, and more Path loss, small-scale fading, multipath, reflection, diffraction, scattering, shadowing, spatial-temporal channel modeling, and microcell/indoor propagation Modulation, equalization, diversity, channel coding, and speech coding New wireless LAN technologies: IEEE 802.11a/b, HIPERLAN, BRAN, and other alternatives New 3G air interface standards, including W-CDMA, cdma2000, GPRS, UMTS, and EDGE Bluetooth wearable computers, fixed wireless and Local Multipoint Distribution Service (LMDS), and other advanced technologies Updated glossary of abbreviations and acronyms, and a thorolist of references Dozens of new examples and end-of-chapter problems   Whether you're a communications/network professional, manager, researcher, or student, Wireless Communications: Principles and Practice, Second Edition gives you an in-depth understanding of the state of the art in wireless technologytoday's and tomorrow's.
+
+TLDR: 
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: T. Rappaport
+

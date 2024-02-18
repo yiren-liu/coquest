@@ -1,0 +1,12 @@
+corpus id: 14051760, 
+
+Title: Unrealistic optimism about future life events
+
+Abstract: Two studies investigated the tendency of people to be unrealistically optimistic about future life events. In Study 1, 258 college students estimated how much their own chances of experiencing 42 events differed from the chances of their classmates. Overall, they rated their own chances to be above average for positive events and below average for negative events, ps<.001. Cognitive and motivational considerations led to predictions that degree of desirability, perceived probability, personal experience, perceived controllability, and stereotype salience would influence the amount of optimistic bias evoked by different events. All predictions were supported, although the pattern of effects differed for positive and negative events. Study 2 tested the idea that people are unrealistically optimistic because they focus on factors that improve their own chances of achieving desirable outcomes and fail to realize that others may have just as many factors in their favor. Students listed the factors that they thought influenced their own chances of experiencing eight future events. When such lists were read by a second group of students, the amount of unrealistic optimism shown by this second group for the same eight events decreased significantly, although it was not eliminated.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: N. Weinstein
+

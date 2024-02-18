@@ -1,0 +1,12 @@
+corpus id: 123217261, 
+
+Title: Statistical Power Analysis for the Behavioral Sciences
+
+Abstract: Contents: Prefaces. The Concepts of Power Analysis. The t-Test for Means. The Significance of a Product Moment rs (subscript s). Differences Between Correlation Coefficients. The Test That a Proportion is .50 and the Sign Test. Differences Between Proportions. Chi-Square Tests for Goodness of Fit and Contingency Tables. The Analysis of Variance and Covariance. Multiple Regression and Correlation Analysis. Set Correlation and Multivariate Methods. Some Issues in Power Analysis. Computational Procedures.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: Jacob Cohen
+

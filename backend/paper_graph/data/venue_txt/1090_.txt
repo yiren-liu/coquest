@@ -1,0 +1,12 @@
+corpus id: 15911186, 
+
+Title: Consumer Acceptance of Electronic Commerce: Integrating Trust and Risk with the Technology Acceptance Model
+
+Abstract: This paper aims to predict consumer acceptance of e-commerce by proposing a set of key drivers for engaging consumers in on-line transactions. The primary constructs for capturing consumer acceptance of e-commerce are intention to transact and on-line transaction behavior. Following the theory of reasoned action (TRA) as applied to a technology-driven environment, technology acceptance model (TAM) variables (perceived usefulness and ease of use) are posited as key drivers of e-commerce acceptance. The practical utility of TAM stems from the fact that e-commerce is technology-driven. The proposed model integrates trust and perceived risk, which are incorporated given the implicit uncertainty of the e-commerce environment. The proposed integration of the hypothesized independent variables is justified by placing all the variables under the nomological TRA structure and proposing their interrelationships. The resulting research model is tested using data from two empirical studies. The first, exploratory study comprises three experiential scenarios with 103 students. The second, confirmatory study uses a sample of 155 on-line consumers. Both studies strongly support the e-commerce acceptance model by validating the proposed hypotheses. The paper discusses the implications for e-commerce theory, research, and practice, and makes several suggestions for future research.
+
+TLDR: The proposed model integrates trust and perceived risk, which are incorporated given the implicit uncertainty of the e-commerce environment, and is justified by placing all the variables under the nomological TRA structure and proposing their interrelationships.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: P. Pavlou
+

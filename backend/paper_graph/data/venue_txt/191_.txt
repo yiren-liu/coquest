@@ -1,0 +1,12 @@
+corpus id: 111255902, 
+
+Title: Online Communities: Designing Usability and Supporting Sociability
+
+Abstract: From the Publisher: Learn the enabling technologies behind some of the most successful online communities Although the Internet has grown considerably, people are still looking for more effective methods of communicating over it. This has become a hot topic among Web developers as they look for new enabling technologies. Well-respected author Jenny Preece provides readers with an in-depth look at the design of effective online communities. She evaluates these communities and then details the enabling technologies. Analysis is also included to explain what these technologies are capable of doing and what they actually should do. Companion Web site contains a forum for discussions on experiences setting up and running online communities
+
+TLDR: Jenny Preece provides readers with an in-depth look at the design of effective online communities and details the enabling technologies behind some of the most successful online communities.
+
+Fields of Study: ['Engineering']
+
+Authors: J. Preece
+

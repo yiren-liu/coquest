@@ -1,0 +1,12 @@
+corpus id: 86743286, 
+
+Title: Taxonomy of Educational Objectives: The Classification of Educational Goals.
+
+Abstract: Information and Communication Technologies and Real-Life LearningThe Sourcebook for Teaching Science, Grades 6-12Taxonomy of Educational ObjectivesThe Virtual UniversityHow to Write and Use Instructional ObjectivesThe SAGE Encyclopedia of Educational Research, Measurement, and EvaluationA Taxonomy for Learning, Teaching, and AssessingHow to Use Bloom's Taxonomy in the Classroom The Complete GuideEncyclopedia of the Sciences of LearningDesigning a New Taxonomy of Educational ObjectivesThe New Taxonomy of Educational ObjectivesBehavioral ObjectivesEncyclopedia of Educational Reform and DissentTaxonomy of Educational ObjectivesExtensions to Bloom's Taxonomy of Educational ObjectivesTaxonomy of Educational ObjectivesA Conceptual Framework for Educational ObjectivesBloom's TaxonomyTaxonomy of Educational ObjectivesClassroom Assessment & Grading that WorkA Taxonomy of the Psychomotor DomainTaxanomy of Educational ObjectivesThe Seven Laws of TeachingIntroduction Plant TaxonmyDeveloping Talent in Young PeopleTeaching TodayEvaluation to Improve LearningPlanning Programs for Adult LearnersObjectives for Instruction and EvaluationDesigning and Assessing Educational ObjectivesMental CultureTaxonomy of Educational ObjectivesUsing Bloom's Taxonomy to Write Effective Learning Objectives: The Abcds of Writing Learning Objectives: A Basic GuideDefining Educational ObjectivesHow to Prepare a Dissertation ProposalIntroduction to Steroid ChemistryMarzano's Taxonomy of Educational ObjectivesHealth and Physical EducationKrathwohlBiology of Root Formation and Development
+
+TLDR: Using Bloom's Taxonomy to Write Effective Learning Objectives: The Abcds of Writing Learning ObjectIVES: A Basic Guide.
+
+Fields of Study: ['Psychology', 'Computer Science', 'Sociology']
+
+Authors: B. Bloom
+

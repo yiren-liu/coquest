@@ -1,0 +1,12 @@
+corpus id: 5873834, 
+
+Title: What drives mobile commerce?: An empirical evaluation of the revised technology acceptance model
+
+Abstract: None
+
+TLDR: This study presents an extended technology acceptance model (TAM) that integrates innovation diffusion theory, perceived risk and cost into the TAM to investigate what determines user mobile commerce (MC) acceptance.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: Jen-Her Wu, Shu-Chin Wang
+

@@ -1,0 +1,12 @@
+corpus id: 4637184, 
+
+Title: Deep Face Recognition
+
+Abstract: The goal of this paper is face recognition – from either a single photograph or from a set of faces tracked in a video. Recent progress in this area has been due to two factors: (i) end to end learning for the task using a convolutional neural network (CNN), and (ii) the availability of very large scale training datasets. We make two contributions: first, we show how a very large scale dataset (2.6M images, over 2.6K people) can be assembled by a combination of automation and human in the loop, and discuss the trade off between data purity and time; second, we traverse through the complexities of deep network training and face recognition to present methods and procedures to achieve comparable state of the art results on the standard LFW and YTF face benchmarks.
+
+TLDR: It is shown how a very large scale dataset can be assembled by a combination of automation and human in the loop, and the trade off between data purity and time is discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: O. Parkhi, A. Vedaldi, Andrew Zisserman
+

@@ -1,0 +1,12 @@
+corpus id: 8707245, 
+
+Title: Face recognition using Eigenfaces
+
+Abstract: Face is a complex multidimensional visual model and developing a computational model for face recognition is difficult. The paper presents a methodology for face recognition based on information theory approach of coding and decoding the face image. Proposed methodology is connection of two stages - Feature extraction using Principle Component Analysis and recognition using the feed forward back propagation Neural Network. The goal is to implement the system (model) for a particular face and distinguish it from a large number of stored faces with some real-time variations as well. The Eigenface approach uses Principal Component Analysis (PCA) algorithm for the recognition of the images. It gives us efficient way to find the lower dimensional space.
+
+TLDR: The paper presents a methodology for face recognition based on information theory approach of coding and decoding the face image using Principle Component Analysis and recognition using the feed forward back propagation Neural Network.
+
+Fields of Study: ['Mathematics']
+
+Authors: V. Kshirsagar, M. Baviskar, M.E. Gaikwad
+

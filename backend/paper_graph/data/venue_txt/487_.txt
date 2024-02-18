@@ -1,0 +1,12 @@
+corpus id: 142574268, 
+
+Title: What the face reveals : basic and applied studies of spontaneous expression using the facial action coding system (FACS)
+
+Abstract: Foreword Introduction The study of spontaneous facial expression in psychology I: BASIC RESEARCH ON EMOTION 1. Is the startle reaction an emotion? 2. The asymmetry of facial actions is inconsisten with models of hemispheric specialization 3. Coherence between expressive and experiential systmes in emotion 4. Will the real relationship between facial expression and affective experience please stand up: The case of exhilaration 5. Extraversion, alcohol, and enjoyment 6. Signs of appeasement: Evidence for the distinct displays of embarrassment, amusement, and shame 7. Genuine, suppressed, and faked facial behavior during exacerbation of chronic low back pain 8. The consistency of facial expressions of pain: a comparison across modalities 9. Smiles when lying 10. Behavioral markers and recognizability of the smile of enjoyment 11. Components and recognition of facial expression in the communication of emotion by actors 12. Differentiating emotion elicited and deliberate emotional facial expressions 13. Japanese and American infants' responses to arm restraint 14. Differential facial responses to four basic tests in newborns II: APPLIED RESEARCH 15. Facial expressions in affective disorders 16. Emotional experience and epxression in schizophrenia and depression 17. Interaction regulations used by schizophrenic and psychosomatic patients: Studies on facial behavior in dyadic interactions 18. Nonverbal expression of psychological states in psychiatric patients 19. Depression and suicide faces 20. Prototypical affective microsequences in psychotherapeutic interaction 21. Facial expressions of emotion and psychopathology in adolescent boys 22. Type A behavior pattern: Facial behavior and speech components Conclusion What we have learned by measuring the face Index
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: P. Ekman, E. Rosenberg
+

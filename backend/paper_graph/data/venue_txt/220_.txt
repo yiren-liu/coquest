@@ -1,0 +1,12 @@
+corpus id: 206769852, 
+
+Title: HMDB: A large video database for human motion recognition
+
+Abstract: With nearly one billion online videos viewed everyday, an emerging new frontier in computer vision research is recognition and search in video. While much effort has been devoted to the collection and annotation of large scalable static image datasets containing thousands of image categories, human action datasets lag far behind. Current action recognition databases contain on the order of ten different action categories collected under fairly controlled conditions. State-of-the-art performance on these datasets is now near ceiling and thus there is a need for the design and creation of new benchmarks. To address this issue we collected the largest action video database to-date with 51 action categories, which in total contain around 7,000 manually annotated clips extracted from a variety of sources ranging from digitized movies to YouTube. We use this database to evaluate the performance of two representative computer vision systems for action recognition and explore the robustness of these methods under various conditions such as camera motion, viewpoint, video quality and occlusion.
+
+TLDR: This paper uses the largest action video database to-date with 51 action categories, which in total contain around 7,000 manually annotated clips extracted from a variety of sources ranging from digitized movies to YouTube, to evaluate the performance of two representative computer vision systems for action recognition and explore the robustness of these methods under various conditions.
+
+Fields of Study: ['Computer Science']
+
+Authors: Hilde Kuehne, Hueihan Jhuang, Estíbaliz Garrote, T. Poggio, Thomas Serre
+

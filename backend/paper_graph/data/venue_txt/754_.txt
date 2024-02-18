@@ -1,0 +1,12 @@
+corpus id: 15709015, 
+
+Title: A translation approach to portable ontology specifications
+
+Abstract: Abstract To support the sharing and reuse of formally represented knowledge among AI systems, it is useful to define the common vocabulary in which shared knowledge is represented. A specification of a representational vocabulary for a shared domain of discourse—definitions of classes, relations, functions, and other objects—is called an ontology. This paper describes a mechanism for defining ontologies that are portable over representation systems. Definitions written in a standard format for predicate calculus are translated by a system called Ontolingua into specialized representations, including frame-based systems as well as relational languages. This allows researchers to share and reuse ontologies, while retaining the computational benefits of specialized implementations. We discuss how the translation approach to portability addresses several technical problems. One problem is how to accommodate the stylistic and organizational differences among representations while preserving declarative content. Another is how to translate from a very expressive language into restricted languages, remaining system-independent while preserving the computational efficiency of implemented systems. We describe how these problems are addressed by basing Ontolingua itself on an ontology of domain-independent, representational idioms.
+
+TLDR: This paper describes a mechanism for defining ontologies that are portable over representation systems, basing Ontolingua itself on an ontology of domain-independent, representational idioms.
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Gruber
+

@@ -1,0 +1,12 @@
+corpus id: 997691, 
+
+Title: Time Discounting and Time Preference: A Critical Review
+
+Abstract: This paper discusses the discounted utility (DU) model: its historical development, underlying assumptions, and "anomalies" - the empirical regularities that are inconsistent with its theoretical predictions. We then summarize the alternate theoretical formulations that have been advanced to address these anomalies. We also review three decades of empirical research on intertemporal choice, and discuss reasons for the spectacular variation in implicit discount rates across studies. Throughout the paper, we stress the importance of distinguishing time preference, per se, from many other considerations that also influence intertemporal choices.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: S. Frederick, G. Loewenstein, Ted O’Donoghue
+

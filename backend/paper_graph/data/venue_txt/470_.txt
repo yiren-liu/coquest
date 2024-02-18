@@ -1,0 +1,12 @@
+corpus id: 25843814, 
+
+Title: The positive and negative affect schedule (PANAS): construct validity, measurement properties and normative data in a large non-clinical sample.
+
+Abstract: OBJECTIVESTo evaluate the reliability and validity of the PANAS (Watson, Clark, & Tellegen, 1988b) and provide normative data.DESIGNCross-sectional and correlational.METHODThe PANAS was administered to a non-clinical sample, broadly representative of the general adult UK population (N = 1,003). Competing models of the latent structure of the PANAS were evaluated using confirmatory factor analysis. Regression and correlational analysis were used to determine the influence of demographic variables on PANAS scores as well as the relationship between the PANAS with measures of depression and anxiety (the HADS and the DASS).RESULTSThe best-fitting model (robust comparative fit index = .94) of the latent structure of the PANAS consisted of two correlated factors corresponding to the PA and NA scales, and permitted correlated error between items drawn from the same mood subcategories (Zevon & Tellegen, 1982). Demographic variables had only very modest influences on PANAS scores and the PANAS exhibited measurement invariance across demographic subgroups. The reliability of the PANAS was high, and the pattern of relationships between the PANAS and the DASS and HADS were consistent with tripartite theory.CONCLUSIONThe PANAS is a reliable and valid measure of the constructs it was intended to assess, although the hypothesis of complete independence between PA and NA must be rejected. The utility of this measure is enhanced by the provision of large-scale normative data.
+
+TLDR: The PANAS is a reliable and valid measure of the constructs it was intended to assess, although the hypothesis of complete independence between PA and NA must be rejected and the utility of this measure is enhanced by the provision of large-scale normative data.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Crawford, J. Henry
+

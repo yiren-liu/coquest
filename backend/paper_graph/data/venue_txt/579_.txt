@@ -1,0 +1,12 @@
+corpus id: 3208041, 
+
+Title: The Increasing Dominance of Teams in Production of Knowledge
+
+Abstract: We have used 19.9 million papers over 5 decades and 2.1 million patents to demonstrate that teams increasingly dominate solo authors in the production of knowledge. Research is increasingly done in teams across nearly all fields. Teams typically produce more frequently cited research than individuals do, and this advantage has been increasing over time. Teams now also produce the exceptionally high-impact research, even where that distinction was once the domain of solo authors. These results are detailed for sciences and engineering, social sciences, arts and humanities, and patents, suggesting that the process of knowledge creation has fundamentally changed.
+
+TLDR: It is demonstrated that teams increasingly dominate solo authors in the production of knowledge, suggesting that the process of knowledge creation has fundamentally changed.
+
+Fields of Study: ['Medicine', 'Sociology']
+
+Authors: S. Wuchty, Benjamin F. Jones, B. Uzzi
+

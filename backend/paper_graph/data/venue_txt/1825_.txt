@@ -1,0 +1,12 @@
+corpus id: 59899155, 
+
+Title: Exact indexing of dynamic time warping
+
+Abstract: None
+
+TLDR: This work introduces a novel technique for the exact indexing of Dynamic time warping and proves its vast superiority over all competing approaches in the largest and most comprehensive set of time series indexing experiments ever undertaken.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Eamonn J. Keogh
+

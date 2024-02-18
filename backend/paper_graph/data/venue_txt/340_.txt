@@ -1,0 +1,12 @@
+corpus id: 107072129, 
+
+Title: Manifesto for Agile Software Development
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: Agile Manifesto
+

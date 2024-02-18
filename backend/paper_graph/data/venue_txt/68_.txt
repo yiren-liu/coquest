@@ -1,0 +1,12 @@
+corpus id: 142735657, 
+
+Title: Engineering Psychology and Human Performance
+
+Abstract: 1. Introduction to Engineering Psychology and Human Performance 2. Signal Detection, Information Theory and Absolute Judgment 3. Attention in Perception and Display Space 4. Spatial Displays 5. Spatial Cognition, Navigation and Manual Control 6. Language and Communications 7. Memory and Training 8. Decision Making 9. Selection of Action 10. Attention, Time sharing and Workload 11. Mental Workload, Stress, and Individual Differences: Cognitive and Neuroergonomic Perspectives 12. Automation 13. Epilogue
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: C. Wickens, J. G. Hollands, S. Banbury, R. Parasuraman
+

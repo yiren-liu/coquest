@@ -1,0 +1,12 @@
+corpus id: 12309041, 
+
+Title: Toward accurate dynamic time warping in linear time and space
+
+Abstract: Dynamic Time Warping (DTW) has a quadratic time and space complexity that limits its use to small time series. In this paper we introduce FastDTW, an approximation of DTW that has a linear time and space complexity. FastDTW uses a multilevel approach that recursively projects a solution from a coarser resolution and refines the projected solution. We prove the linear time and space complexity of FastDTW both theoretically and empirically. We also analyze the accuracy of FastDTW by comparing it to two other types of existing approximate DTW algorithms: constraints (such as Sakoe-Chiba Bands) and abstraction. Our results show a large improvement in accuracy over existing methods.
+
+TLDR: This paper introduces FastDTW, an approximation of DTW that has a linear time and space complexity and shows a large improvement in accuracy over existing methods.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: S. Salvador, P. Chan
+

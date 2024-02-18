@@ -1,0 +1,12 @@
+corpus id: 10891455, 
+
+Title: Identifying careless responses in survey data.
+
+Abstract: When data are collected via anonymous Internet surveys, particularly under conditions of obligatory participation (such as with student samples), data quality can be a concern. However, little guidance exists in the published literature regarding techniques for detecting careless responses. Previously several potential approaches have been suggested for identifying careless respondents via indices computed from the data, yet almost no prior work has examined the relationships among these indicators or the types of data patterns identified by each. In 2 studies, we examined several methods for identifying careless responses, including (a) special items designed to detect careless response, (b) response consistency indices formed from responses to typical survey items, (c) multivariate outlier analysis, (d) response time, and (e) self-reported diligence. Results indicated that there are two distinct patterns of careless response (random and nonrandom) and that different indices are needed to identify these different response patterns. We also found that approximately 10%-12% of undergraduates completing a lengthy survey for course credit were identified as careless responders. In Study 2, we simulated data with known random response patterns to determine the efficacy of several indicators of careless response. We found that the nature of the data strongly influenced the efficacy of the indices to identify careless responses. Recommendations include using identified rather than anonymous responses, incorporating instructed response items before data collection, as well as computing consistency indices and multivariate outlier analysis to ensure high-quality data.
+
+TLDR: Recommendations include using identified rather than anonymous responses, incorporating instructed response items before data collection, as well as computing consistency indices and multivariate outlier analysis to ensure high-quality data.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: A. Meade, S. B. Craig
+

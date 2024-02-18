@@ -1,0 +1,12 @@
+corpus id: 53051699, 
+
+Title: Internet of Things for Smart Cities
+
+Abstract: : The Internet of Things (IoT) shall be able to incorporate transparently and seamlessly a large number of different and heterogeneous end systems, while providing open access to selected subsets of data for the development of a plethora of digital services. Building a general architecture for the IoT is hence a very complex task, mainly because of the extremely large variety of devices, link layer technologies, and services that may be involved in such a system. In this paper we focus specifically to an urban IoT systems that, while still being quite a broad category, are characterized by their specific application domain. Urban IoTs, in fact, are designed to support the Smart City vision, which aims at exploiting the most advanced communication technologies to support added-value services for the administration of the city and for the citizens.
+
+TLDR: This paper focuses specifically to an urban IoT systems that, while still being quite a broad category, are characterized by their specific application domain and are designed to support the Smart City vision.
+
+Fields of Study: ['Engineering']
+
+Authors: Sneha A. Dalvi, Dr.M.Z. Shaikh
+

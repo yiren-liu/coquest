@@ -1,0 +1,12 @@
+corpus id: 119719915, 
+
+Title: Applied Multivariate Statistics for the Social Sciences
+
+Abstract: Nelder 1989 and Dobson 1990), this book presents two speci c generalized linear models before its general discussion of the family of generalized linear models. I wish the authors would give some practical examples to motivate the considerations of logistic and Poisson regression models in chapter 4, where the two speci c models are introduced. Also, it would have been helpful to have some additional interpretation of the model parameters. See the approach by Agresti (1996) for an example.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: R. Gonzalez
+

@@ -1,0 +1,12 @@
+corpus id: 15571612, 
+
+Title: Impact of Online Consumer Reviews on Sales: The Moderating Role of Product and Consumer Characteristics
+
+Abstract: This article examines how product and consumer characteristics moderate the influence of online consumer reviews on product sales using data from the video game industry. The findings indicate that online reviews are more influential for less popular games and games whose players have greater Internet experience. The article shows differential impact of consumer reviews across products in the same product category and suggests that firms’ online marketing strategies should be contingent on product and consumer characteristics. The authors discuss the implications of these results in light of the increased share of niche products in recent years.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: Feng Zhu, X. Zhang
+

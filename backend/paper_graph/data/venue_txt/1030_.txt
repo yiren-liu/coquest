@@ -1,0 +1,12 @@
+corpus id: 18139136, 
+
+Title: Distracted and confused?: Selective attention under load
+
+Abstract: None
+
+TLDR: These findings provide a resolution to the long-standing early and late selection debate within a load theory of attention that accommodates behavioural and neuroimaging data within a framework that integrates attention research with executive function.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: N. Lavie
+

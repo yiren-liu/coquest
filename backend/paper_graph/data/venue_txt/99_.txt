@@ -1,0 +1,12 @@
+corpus id: 48637821, 
+
+Title: Image processing with ImageJ
+
+Abstract: Wayne Rasband of NIH has created ImageJ, an open source Java-written program that is now at version 1.31 and is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience. ImageJ is in the public domain and runs on any operating system (OS). ImageJ is easy to use and can do many imaging manipulations. A very large and knowledgeable group makes up the user community for ImageJ. Topics covered are imaging abilities; cross platform; image formats support as of June 2004; extensions, including macros and plug-ins; and imaging library. NIH reports tens of thousands of downloads at a rate of about 24,000 per month currently. ImageJ can read most of the widely used and significant formats used in biomedical images. Manipulations supported are read/write of image files and operations on separate pixels, image regions, entire images, and volumes (stacks in ImageJ). Basic operations supported include convolution, edge detection, Fourier transform, histogram and particle analyses, editing and color manipulation, and more advanced operations, as well as visualization. For assistance in using ImageJ, users e-mail each other, and the user base is highly knowledgeable and will answer requests on the mailing list. A thorough manual with many examples and illustrations has been written by Tony Collins of the Wright Cell Imaging Facility at Toronto Western Research Institute and is available, along with other listed resources, via the Web.
+
+TLDR: ImageJ is an open source Java-written program that is used for many imaging applications, including those that that span the gamut from skin analysis to neuroscience, and can read most of the widely used and significant formats used in biomedical images.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Abràmoff, P. J. Magalhães, S. Ram
+

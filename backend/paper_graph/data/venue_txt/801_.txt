@@ -1,0 +1,12 @@
+corpus id: 59919197, 
+
+Title: The Principles of Readability.
+
+Abstract: The Principles of Readability gives a brief introduction to the literacy studies in the U.S. and the research on readability and the readability formulas.
+
+TLDR: The Principles of Readability gives a brief introduction to the literacy studies in the U.S. and the research on readability and the readability formulas.
+
+Fields of Study: ['Computer Science']
+
+Authors: William H. DuBay
+

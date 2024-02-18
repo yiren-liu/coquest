@@ -1,0 +1,12 @@
+corpus id: 3074096, 
+
+Title: Deep Learning
+
+Abstract: None
+
+TLDR: Deep learning is making major advances in solving problems that have resisted the best attempts of the artificial intelligence community for many years, and will have many more successes in the near future because it requires very little engineering by hand and can easily take advantage of increases in the amount of available computation and data.
+
+Fields of Study: ['Medicine', 'Computer Science']
+
+Authors: Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton
+

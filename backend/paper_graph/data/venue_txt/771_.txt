@@ -1,0 +1,12 @@
+corpus id: 6210630, 
+
+Title: ConceptNet — A Practical Commonsense Reasoning Tool-Kit
+
+Abstract: None
+
+TLDR: ConceptNet is a freely available commonsense knowledge base and natural-language-processing tool-kit which supports many practical textual-reasoning tasks over real-world documents including topic-gisting, analogy-making, and other context oriented inferences.
+
+Fields of Study: ['Computer Science']
+
+Authors: Hugo Liu, Push Singh
+

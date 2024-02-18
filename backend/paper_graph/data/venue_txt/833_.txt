@@ -1,0 +1,12 @@
+corpus id: 10730254, 
+
+Title: Identifying fixations and saccades in eye-tracking protocols
+
+Abstract: The process of fixation identification—separating and labeling fixations and saccades in eye-tracking protocols—is an essential part of eye-movement data analysis and can have a dramatic impact on higher-level analyses. However, algorithms for performing fixation identification are often described informally and rarely compared in a meaningful way. In this paper we propose a taxonomy of fixation identification algorithms that classifies algorithms in terms of how they utilize spatial and temporal information in eye-tracking protocols. Using this taxonomy, we describe five algorithms that are representative of different classes in the taxonomy and are based on commonly employed techniques. We then evaluate and compare these algorithms with respect to a number of qualitative characteristics. The results of these comparisons offer interesting implications for the use of the various algorithms in future work.
+
+TLDR: A taxonomy of fixation identification algorithms is proposed that classifies algorithms in terms of how they utilize spatial and temporal information in eye-tracking protocols in order to evaluate and compare these algorithms with respect to a number of qualitative characteristics.
+
+Fields of Study: ['Computer Science']
+
+Authors: Dario D. Salvucci, J. Goldberg
+

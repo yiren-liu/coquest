@@ -1,0 +1,12 @@
+corpus id: 61775819, 
+
+Title: Motor imagery and direct brain-computer communication
+
+Abstract: Motor imagery can modify the neuronal activity in the primary sensorimotor areas in a very similar way as observable with a real executed movement. One part of EEG-based brain-computer interfaces (BCI) is based on the recording and classification of circumscribed and transient EEG changes during different types of motor imagery such as, e.g., imagination of left-hand, right-hand, or foot movement. Features such as, e.g., band power or adaptive autoregressive parameters are either extracted in bipolar EEG recordings overlaying sensorimotor areas or from an array of electrodes located over central and neighboring areas. For the classification of the features, linear discrimination analysis and neural networks are used. Characteristic for the Graz BCI is that a classifier is set up in a learning session and updated after one or more sessions with online feedback using the procedure of "rapid prototyping." As a result, a discrimination of two brain states (e.g., leftversus right-hand movement imagination) can be reached within only a few days of training. At this time, a tetraplegic patient is able to operate an EEG-based control of a hand orthosis with nearly 100% classification accuracy by mental imagination of specific motor commands.
+
+TLDR: At this time, a tetraplegic patient is able to operate an EEG-based control of a hand orthosis with nearly 100% classification accuracy by mental imagination of specific motor commands.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Pfurtscheller, C. Neuper
+

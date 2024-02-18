@@ -1,0 +1,12 @@
+corpus id: 5246200, 
+
+Title: Nearest neighbor pattern classification
+
+Abstract: The nearest neighbor decision rule assigns to an unclassified sample point the classification of the nearest of a set of previously classified points. This rule is independent of the underlying joint distribution on the sample points and their classifications, and hence the probability of error R of such a rule must be at least as great as the Bayes probability of error R^{\ast} --the minimum probability of error over all decision rules taking underlying probability structure into account. However, in a large sample analysis, we will show in the M -category case that R^{\ast} \leq R \leq R^{\ast}(2 --MR^{\ast}/(M-1)) , where these bounds are the tightest possible, for all suitably smooth underlying distributions. Thus for any number of categories, the probability of error of the nearest neighbor rule is bounded above by twice the Bayes probability of error. In this sense, it may be said that half the classification information in an infinite sample set is contained in the nearest neighbor.
+
+TLDR: The nearest neighbor decision rule assigns to an unclassified sample point the classification of the nearest of a set of previously classified points, so it may be said that half the classification information in an infinite sample set is contained in the nearest neighbor.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: T. Cover, P. Hart
+

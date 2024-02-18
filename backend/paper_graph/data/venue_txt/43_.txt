@@ -1,0 +1,12 @@
+corpus id: 54752617, 
+
+Title: Preparing a Nation for Autonomous Vehicles: Opportunities, Barriers and Policy Recommendations
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Business', 'Engineering']
+
+Authors: Daniel J. Fagnant, K. Kockelman
+

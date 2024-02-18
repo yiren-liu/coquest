@@ -1,0 +1,12 @@
+corpus id: 25120635, 
+
+Title: Emergence and characterization of sex differences in spatial ability: a meta-analysis.
+
+Abstract: Sex differences in spatial ability are widely acknowledged, yet considerable dispute surrounds the magnitude, nature, and age of first occurrence of these differences. This article focuses on 3 questions about sex differences in spatial ability: What is the magnitude of sex differences in spatial ability? On which aspects of spatial ability are sex differences found? and When, in the life span, are sex differences in spatial ability first detected? Implications for clarifying the linkage between sex differences in spatial ability and other differences between males and females are discussed. We use meta-analysis, a method for synthesizing empirical studies, to investigate these questions. Results of the meta-analysis suggest that sex differences arise on some types of spatial ability but not others, that large sex differences are found only on measures of mental rotation, that smaller sex differences are found on measures of spatial perception, and that, when sex differences are found, they can be detected across the life span.
+
+TLDR: Meta-analysis is used, a method for synthesizing empirical studies, to investigate sex differences in spatial ability and suggests that sex differences arise on some types of spatial ability but not others, and that, when sex differences are found, they can be detected across the life span.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: M. Linn, A. Petersen
+

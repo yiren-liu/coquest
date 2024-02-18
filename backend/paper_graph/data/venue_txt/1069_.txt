@@ -1,0 +1,12 @@
+corpus id: 212656559, 
+
+Title: Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study
+
+Abstract: None
+
+TLDR: Prolonged viral shedding provides the rationale for a strategy of isolation of infected patients and optimal antiviral interventions in the future.
+
+Fields of Study: ['Medicine']
+
+Authors: F. Zhou, Ting Yu, R. Du, Guohui Fan, Y. Liu, Zhibo Liu, J. Xiang, Ye-ming Wang, Bin Song, Xiaoying Gu, Lulu Guan, Yuan Wei, Hui Li, Xudong Wu, Jiuyang Xu, Shengjin Tu, Yi Zhang, Hua Chen, B. Cao
+

@@ -1,0 +1,12 @@
+corpus id: 38363, 
+
+Title: An Introduction to MCMC for Machine Learning
+
+Abstract: None
+
+TLDR: This purpose of this introductory paper is to introduce the Monte Carlo method with emphasis on probabilistic machine learning and review the main building blocks of modern Markov chain Monte Carlo simulation.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Andrieu, N. D. Freitas, A. Doucet, Michael I. Jordan
+

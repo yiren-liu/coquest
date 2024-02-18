@@ -1,0 +1,12 @@
+corpus id: 5850884, 
+
+Title: Product Quantization for Nearest Neighbor Search
+
+Abstract: This paper introduces a product quantization-based approach for approximate nearest neighbor search. The idea is to decompose the space into a Cartesian product of low-dimensional subspaces and to quantize each subspace separately. A vector is represented by a short code composed of its subspace quantization indices. The euclidean distance between two vectors can be efficiently estimated from their codes. An asymmetric version increases precision, as it computes the approximate distance between a vector and a code. Experimental results show that our approach searches for nearest neighbors efficiently, in particular in combination with an inverted file system. Results for SIFT and GIST image descriptors show excellent search accuracy, outperforming three state-of-the-art approaches. The scalability of our approach is validated on a data set of two billion vectors.
+
+TLDR: This paper introduces a product quantization-based approach for approximate nearest neighbor search to decompose the space into a Cartesian product of low-dimensional subspaces and to quantize each subspace separately.
+
+Fields of Study: ['Computer Science', 'Medicine', 'Mathematics']
+
+Authors: H. Jégou, Matthijs Douze, C. Schmid
+

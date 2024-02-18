@@ -1,0 +1,12 @@
+corpus id: 7100897, 
+
+Title: SUS: a retrospective
+
+Abstract: Rather more than 25 years ago, as part of a usability engineering program, I developed a questionnaire---the System Usability Scale (SUS)---that could be used to take a quick measurement of how people perceived the usability of computer systems on which they were working. This proved to be an extremely simple and reliable tool for use when doing usability evaluations, and I decided, with the blessing of engineering management at Digital Equipment Co. Ltd (DEC; where I developed SUS), that it was probably something that could be used by other organizations (the benefit for us being that if they did use it, we potentially had something we could use to compare their systems against ours). So, in 1986, I made SUS freely available to a number of colleagues, with permission to pass it on to anybody else who might find it useful, and over the next few years occasionally heard of evaluations of systems where researchers and usability engineers had used it with some success.
+
+TLDR: A questionnaire that could be used to take a quick measurement of how people perceived the usability of computer systems on which they were working, SUS proved to be an extremely simple and reliable tool for use when doing usability evaluations.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Brooke
+

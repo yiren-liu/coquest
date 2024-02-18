@@ -1,0 +1,12 @@
+corpus id: 16669289, 
+
+Title: E-Commerce Product Recommendation Agents: Use, Characteristics, and Impact
+
+Abstract: Recommendation agents (RAs) are software agents that elicit the interests or preferences of individual consumers for products, either explicitly or implicitly, and make recommendations accordingly. RAs have the potential to support and improve the quality of the decisions consumers make when searching for and selecting products online. They can reduce the information overload facing consumers, as well as the complexity of online searches. Prior research on RAs has focused mostly on developing and evaluating different underlying algorithms that generate recommendations. This paper instead identifies other important aspects of RAs, namely RA use, RA characteristics, provider credi'r, and user-RA interaction, which influence users' decision-making processes and outcomes, as well as their evaluation of RAs. It goes beyond generalized models, such as TAM, and identifies the RA-specific features, such as RA input, process, and output design characteristics, that affect users' evaluations, including their assessments of the usefulness and ease-of-use of RA applications.  Based on a review of existing literature on e-commerce RAs, this paper develops a conceptual model with 28 propositions derived from five theoretical perspectives. The propositions help answer the two research questions: (1) How do RA use, RA characteristics, and other factors influence consumer decision making processes and outcomes? (2) How do RA use, RA characteristics, and other factors influence users' evaluations of RAs? By identifying the critical gaps between what we know and what we need to know, this paper identifies potential areas of future research for scholars. It also provides advice to information systems practitioners concerning the effective design and development of RAs.
+
+TLDR: A conceptual model with 28 propositions derived from five theoretical perspectives is developed that identifies other important aspects of RAs, namely RA use, RA characteristics, provider credi'r, and user-RA interaction, which influence users' decision-making processes and outcomes, as well as their evaluation of RA.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: B. Xiao, I. Benbasat
+

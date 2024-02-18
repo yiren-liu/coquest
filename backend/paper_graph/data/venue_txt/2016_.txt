@@ -1,0 +1,12 @@
+corpus id: 145694875, 
+
+Title: The Nature of Recollection and Familiarity: A Review of 30 Years of Research
+
+Abstract: To account for dissociations observed in recognition memory tests, several dual-process models have been proposed that assume that recognition judgments can be based on the recollection of details about previous events or on the assessment of stimulus familiarity. In the current article, these models are examined, along with the methods that have been developed to measure recollection and familiarity. The relevant empirical literature from behavioral, neuropsychological, and neuroimaging studies is then reviewed in order to assess model predictions. Results from a variety of measurement methods, including task-dissociation and process-estimation methods, are found to lead to remarkably consistent conclusions about the nature of recollection and familiarity, particularly when ceiling effects are avoided. For example, recollection is found to be more sensitive than familiarity to response speeding, division of attention, generation, semantic encoding, the effects of aging, and the amnestic effects of benzodiazepines, but it is less sensitive than familiarity to shifts in response criterion, fluency manipulations, forgetting over short retention intervals, and some perceptual manipulations. Moreover, neuropsychological and neuroimaging results indicate that the two processes rely on partially distinct neural substrates and provide support for models that assume that recollection relies on the hippocampus and prefrontal cortex, whereas familiarity relies on regions surrounding the hippocampus. Double dissociations produced by experimental manipulations at time of test indicate that the two processes are independent at retrieval, and single dissociations produced by study manipulations indicate that they are partially independent during encoding. Recollection is similar but not identical to free recall, whereas familiarity is similar to conceptual implicit memory, but is dissociable from perceptual implicit memory. Finally, the results indicate that recollection reflects a thresholdlike retrieval process that supports novel learning, whereas familiarity reflects a signal-detection process that can support novel learning only under certain conditions. The results verify a number of model predictions and prove useful in resolving several theoretical disagreements.
+
+TLDR: None
+
+Fields of Study: ['Psychology']
+
+Authors: A. Yonelinas
+

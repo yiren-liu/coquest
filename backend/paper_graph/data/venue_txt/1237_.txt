@@ -1,0 +1,12 @@
+corpus id: 142620845, 
+
+Title: Manual for the State-Trait Anxiety Inventory
+
+Abstract: The STAI serves as an indicator of two types of anxiety, the state and trait anxiety, and measure the severity of the overall anxiety level.The STAI, which is appropriate for those who have at least a sixth grade reading level, contains four-point Likert items. The instrument is divided into two sections, each having twenty questions. Approximately 15 minutes are required for adults to complete the both STAI. The number on the scale is positively correlated to the anxiety related to in the question.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: C. Spielberger, R. Gorsuch, R. Lushene
+

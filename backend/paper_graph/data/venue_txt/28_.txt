@@ -1,0 +1,12 @@
+corpus id: 15405799, 
+
+Title: Conceptual pacts and lexical choice in conversation.
+
+Abstract: When people in conversation refer repeatedly to the same object, they come to use the same terms. This phenomenon, called lexical entrainment, has several possible explanations. Ahistorical accounts appeal only to the informativeness and availability of terms and to the current salience of the object's features. Historical accounts appeal in addition to the recency and frequency of past references and to partner-specific conceptualizations of the object that people achieve interactively. Evidence from 3 experiments favors a historical account and suggests that when speakers refer to an object, they are proposing a conceptualization of it, a proposal their addresses may or may not agree to. Once they do establish a shared conceptualization, a conceptual pact, they appeal to it in later references even when they could use simpler references. Over time, speakers simplify conceptual pacts and, when necessary, abandon them for new conceptualizations.
+
+TLDR: Evidence from 3 experiments favors a historical account and suggests that when speakers refer to an object, they are proposing a conceptualization of it, a proposal their addresses may or may not agree to.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: S. Brennan, H. H. Clark
+

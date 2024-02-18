@@ -1,0 +1,12 @@
+corpus id: 145580646, 
+
+Title: Contextual correlates of semantic similarity
+
+Abstract: Abstract The relationship between semantic and contextual similarity is investigated for pairs of nouns that vary from high to low semantic similarity. Semantic similarity is estimated by subjective ratings; contextual similarity is estimated by the method of sorting sentential contexts. The results show an inverse linear relationship between similarity of meaning and the discriminability of contexts. This relation, is obtained for two separate corpora of sentence contexts. It is concluded that, on average, for words in the same language drawn from the same syntactic and semantic categories, the more often two words can be substituted into the same contexts the more similar in meaning they are judged to be.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: G. Miller, W. Charles
+

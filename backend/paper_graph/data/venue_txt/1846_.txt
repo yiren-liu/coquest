@@ -1,0 +1,12 @@
+corpus id: 206742345, 
+
+Title: Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions
+
+Abstract: This paper presents an overview of the field of recommender systems and describes the current generation of recommendation methods that are usually classified into the following three main categories: content-based, collaborative, and hybrid recommendation approaches. This paper also describes various limitations of current recommendation methods and discusses possible extensions that can improve recommendation capabilities and make recommender systems applicable to an even broader range of applications. These extensions include, among others, an improvement of understanding of users and items, incorporation of the contextual information into the recommendation process, support for multicriteria ratings, and a provision of more flexible and less intrusive types of recommendations.
+
+TLDR: This paper presents an overview of the field of recommender systems and describes the current generation of recommendation methods that are usually classified into the following three main categories: content-based, collaborative, and hybrid recommendation approaches.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Adomavicius, A. Tuzhilin
+

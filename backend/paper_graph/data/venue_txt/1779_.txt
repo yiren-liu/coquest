@@ -1,0 +1,12 @@
+corpus id: 32730475, 
+
+Title: Social Media and Fake News in the 2016 Election
+
+Abstract: Following the 2016 U.S. presidential election, many have expressed concern about the effects of false stories (“fake news”), circulated largely through social media. We discuss the economics of fake news and present new data on its consumption prior to the election. Drawing on web browsing data, archives of fact-checking websites, and results from a new online survey, we find: (i) social media was an important but not dominant source of election news, with 14 percent of Americans calling social media their “most important” source; (ii) of the known false news stories that appeared in the three months before the election, those favoring Trump were shared a total of 30 million times on Facebook, while those favoring Clinton were shared 8 million times; (iii) the average American adult saw on the order of one or perhaps several fake news stories in the months around the election, with just over half of those who recalled seeing them believing them; and (iv) people are much more likely to believe stories that favor their preferred candidate, especially if they have ideologically segregated social media networks.
+
+TLDR: 
+
+Fields of Study: ['Political Science']
+
+Authors: H. Allcott, M. Gentzkow
+

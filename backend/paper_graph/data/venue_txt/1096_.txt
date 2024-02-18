@@ -1,0 +1,12 @@
+corpus id: 13585619, 
+
+Title: ADAPTIVE GOVERNANCE OF SOCIAL-ECOLOGICAL SYSTEMS
+
+Abstract: ▪ Abstract We explore the social dimension that enables adaptive ecosystem-based management. The review concentrates on experiences of adaptive governance of social-ecological systems during periods of abrupt change (crisis) and investigates social sources of renewal and reorganization. Such governance connects individuals, organizations, agencies, and institutions at multiple organizational levels. Key persons provide leadership, trust, vision, meaning, and they help transform management organizations toward a learning environment. Adaptive governance systems often self-organize as social networks with teams and actor groups that draw on various knowledge systems and experiences for the development of a common understanding and policies. The emergence of “bridging organizations” seem to lower the costs of collaboration and conflict resolution, and enabling legislation and governmental policies can support self-organization while framing creativity for adaptive comanagement efforts. A resilient social-eco...
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: C. Folke, T. Hahn, P. Olsson, J. Norberg
+

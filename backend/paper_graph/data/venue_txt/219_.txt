@@ -1,0 +1,12 @@
+corpus id: 144089711, 
+
+Title: Goal Achievement: The Role of Intentions
+
+Abstract: The intention-to-behavior process is analyzed with respect to implementation intentions. These intentions link an intended goal-directed behavior to an anticipated situational context. The reported experimental evidence suggests that implementation intentions create a heightened accessibility of the mental representation of the specified situational cues and induce direct (automatic) control of the intended behavior through these cues. The formation of implementation intentions promotes goal achievement through both of these processes because they eliminate classic problems associated with the control of goal-directed action. Similarities and differences to other theoretical approaches on intentions, planning, and action control are discussed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: P. Gollwitzer
+

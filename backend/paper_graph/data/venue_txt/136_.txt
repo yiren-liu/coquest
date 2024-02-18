@@ -1,0 +1,12 @@
+corpus id: 7859959, 
+
+Title: Information Richness. A New Approach to Managerial Behavior and Organization Design
+
+Abstract: Abstract : This paper introduces the concept of information richness, and proposes three models of information processing. The models describe (1) manager information behavior, (2) organizational mechanisms for coping with equivocality from the environment, and (3) organizational mechanisms for internal coordination. Concepts developed by Weick (1979) and Galbraith (1973) are integrated into two information tasks: equivocality reduction and the processing of a sufficient amount of information. The premise of this paper is that the accomplishment of these information tasks and the ultimate success of the organization are related to the balance of information richness used in the organization.
+
+TLDR: The concept of information richness is introduced, and three models of information processing are proposed that describe (1) manager information behavior, (2) organizational mechanisms for coping with equivocality from the environment, and (3) organizational mechanism for internal coordination.
+
+Fields of Study: ['Political Science']
+
+Authors: R. Daft, R. Lengel
+

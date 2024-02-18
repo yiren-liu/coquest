@@ -1,0 +1,12 @@
+corpus id: 145841720, 
+
+Title: The strength of strong ties: The importance of Philos in organizations
+
+Abstract: 4-Pyridylthioacetic acid is prepared economically without the formation of any noxious substance by (1) reacting a 4-nitropyridyl-N-oxide with a lower alkyl thioglycolate or with thioglycolic acid to form 4-thioglycolic acid (or 4-thioglycolate)-pyridyl-N-oxide, (2) reducing the latter oxide in the form of its 4-alkyl thioglycolate to obtain the corresponding 4-pyridylthioglycolic acid ester, and (3) converting said ester into a 4-pyridylthioacetic acid by saponification followed by acidification. When a lower alkyl thioglycolate is used for the reaction in step (1), step (2) can follow directly for reduction of the reaction product, and high yields are obtained.
+
+TLDR: 
+
+Fields of Study: ['Business', 'Chemistry']
+
+Authors: D. Krackhardt
+

@@ -1,0 +1,12 @@
+corpus id: 3155054, 
+
+Title: Actions in context
+
+Abstract: This paper exploits the context of natural dynamic scenes for human action recognition in video. Human actions are frequently constrained by the purpose and the physical properties of scenes and demonstrate high correlation with particular scene classes. For example, eating often happens in a kitchen while running is more common outdoors. The contribution of this paper is three-fold: (a) we automatically discover relevant scene classes and their correlation with human actions, (b) we show how to learn selected scene classes from video without manual supervision and (c) we develop a joint framework for action and scene recognition and demonstrate improved recognition of both in natural video. We use movie scripts as a means of automatic supervision for training. For selected action classes we identify correlated scene classes in text and then retrieve video samples of actions and scenes for training using script-to-video alignment. Our visual models for scenes and actions are formulated within the bag-of-features framework and are combined in a joint scene-action SVM-based classifier. We report experimental results and validate the method on a new large dataset with twelve action classes and ten scene classes acquired from 69 movies.
+
+TLDR: This paper automatically discover relevant scene classes and their correlation with human actions, and shows how to learn selected scene classes from video without manual supervision and develops a joint framework for action and scene recognition and demonstrates improved recognition of both in natural video.
+
+Fields of Study: ['Computer Science']
+
+Authors: Marcin Marszalek, I. Laptev, C. Schmid
+

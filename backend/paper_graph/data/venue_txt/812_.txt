@@ -1,0 +1,12 @@
+corpus id: 106591325, 
+
+Title: Blockchain: Blueprint for a New Economy
+
+Abstract: Bitcoin is starting to come into its own as a digital currency, but the blockchain technology behind it could prove to be much more significant. This book takes you beyond the currency ("Blockchain 1.0") and smart contracts ("Blockchain 2.0") to demonstrate how the blockchain is in position to become the fifth disruptive computing paradigm after mainframes, PCs, the Internet, and mobile/social networking. Author Melanie Swan, Founder of the Institute for Blockchain Studies, explains that the blockchain is essentially a public ledger with potential as a worldwide, decentralized record for the registration, inventory, and transfer of all assetsnot just finances, but property and intangible assets such as votes, software, health data, and ideas. Topics include:Concepts, features, and functionality of Bitcoin and the blockchain Using the blockchain for automated tracking of all digital endeavors Enabling censorship? resistant organizational modelsCreating a decentralized digital repository to verify identity Possibility of cheaper, more efficient services traditionally provided by nations Blockchain for science: making better use of the data-mining network Personal health record storage, including access to ones own genomic dataOpen access academic publishing on the blockchain This book is part of an ongoing OReilly series. Mastering Bitcoin: Unlocking Digital Crypto-Currencies introduces Bitcoin and describes the technology behind Bitcoin and the blockchain. Blockchain: Blueprint for a New Economy considers theoretical, philosophical, and societal impact of cryptocurrencies and blockchain technologies.
+
+TLDR: Mastering Bitcoin: Unlocking Digital Crypto-Currencies introduces Bitcoin and describes the technology behind Bitcoin and the blockchain, and Blockchain: Blueprint for a New Economy considers theoretical, philosophical, and societal impact of cryptocurrencies and blockchain technologies.
+
+Fields of Study: ['Engineering']
+
+Authors: M. Swan
+

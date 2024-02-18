@@ -1,0 +1,12 @@
+corpus id: 3030884, 
+
+Title: TinyOS: An Operating System for Sensor Networks
+
+Abstract: None
+
+TLDR: A qualitative and quantitative evaluation of the TinyOS system is provided, showing that it supports complex, concurrent programs with very low memory requirements and efficient, low-power operation.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Levis, S. Madden, J. Polastre, R. Szewczyk, K. Whitehouse, A. Woo, David E. Gay, Jason L. Hill, M. Welsh, E. Brewer, D. Culler
+

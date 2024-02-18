@@ -1,0 +1,12 @@
+corpus id: 365939, 
+
+Title: Pancreatic Cancer
+
+Abstract: None
+
+TLDR: This systematic review aimed to answer clinical questions relating to the effectiveness and safety of the following interventions: chemoradiotherapy for non-resectable pancreatic cancer; chemoradaotherapy for resected pancreaticcancer; and gemcitabine-based chemotherapy (adjuvant) for resection.
+
+Fields of Study: ['Medicine']
+
+Authors: H. Kocher, W. Alrawashdeh
+

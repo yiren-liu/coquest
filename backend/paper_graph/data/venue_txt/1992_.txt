@@ -1,0 +1,12 @@
+corpus id: 141105270, 
+
+Title: InterViews: An Introduction to Qualitative Research Interviewing
+
+Abstract: I Interviewing as Research With qualitative research interviews you try to understand something from the subjects point of view and to uncover the meaning of their experiences. Interviews allow people to convey to others a situation from their own perspective and in their own words. Research interviews are based on the conversations of everyday life. They are conversations with structure and purpose that are defined and controlled by the researcher. Although the research interview may not lead to objective information, it captures many of the subjects views on something. That’s why the basic subject matter is not, as in qualitative research, object data, but consists of meaningful relations to be interpreted.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Lois W. Sayrs
+

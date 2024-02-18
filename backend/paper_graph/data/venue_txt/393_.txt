@@ -1,0 +1,12 @@
+corpus id: 145509060, 
+
+Title: Understanding Reliability and Validity in Qualitative Research
+
+Abstract: The use of reliability and validity are common in quantitative research and now it is reconsidered in the qualitative research paradigm. Since reliability and validity are rooted in positivist perspective then they should be redefined for their use in a naturalistic approach. Like reliability and validity as used in quantitative research are providing springboard to examine what these two terms mean in the qualitative research paradigm, triangulation as used in quantitative research to test the reliability and validity can also illuminate some ways to test or maximize the validity and reliability of a qualitative study. Therefore, reliability, validity and triangulation, if they are relevant research concepts, particularly from a qualitative point of view, have to be redefined in order to reflect the multiple ways of establishing truth. Key words: Reliability, Validity, Triangulation, Construct, Qualitative, and Quantitative This article discusses the use of reliability and validity in the qualitative research paradigm. First, the meanings of quantitative and qualitative research are discussed. Secondly, reliability and validity as used in quantitative research are discussed as a way of providing a springboard to examining what these two terms mean and how they can be tested in the qualitative research paradigm. This paper concludes by drawing upon the use of triangulation in the two paradigms (quantitative and qualitative) to show how the changes have influenced our understanding of reliability, validity and triangulation in qualitative studies.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Nahid Golafshani
+

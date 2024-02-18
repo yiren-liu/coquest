@@ -1,0 +1,12 @@
+corpus id: 13954684, 
+
+Title: Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acceptance and Use of Technology
+
+Abstract: This paper extends the unified theory of acceptance and use of technology (UTAUT) to study acceptance and use of technology in a consumer context. Our proposed UTAUT2 incorporates three constructs into UTAUT: hedonic motivation, price value, and habit. Individual differences--namely, age, gender, and experience--are hypothesized to moderate the effects of these constructs on behavioral intention and technology use. Results from a two-stage online survey, with technology use data collected four months after the first survey, of 1,512 mobile Internet consumers supported our model. Compared to UTAUT, the extensions proposed in UTAUT2 produced a substantial improvement in the variance explained in behavioral intention (56 percent to 74 percent) and technology use (40 percent to 52 percent). The theoretical and managerial implications of these results are discussed.
+
+TLDR: Compared to UTA UT, the extensions proposed in UTAUT2 produced a substantial improvement in the variance explained in behavioral intention and technology use and the theoretical and managerial implications of these results are discussed.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: V. Venkatesh, J. Thong, Xin Xu
+

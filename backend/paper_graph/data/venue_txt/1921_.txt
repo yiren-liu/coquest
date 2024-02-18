@@ -1,0 +1,12 @@
+corpus id: 2617513, 
+
+Title: Eye Tracking Methodology: Theory and Practice
+
+Abstract: None
+
+TLDR: To the Human Visual System (HVS), Visual Attention, Neurological Substrate of the HVS, and Neuroscience and Psychology, and Industrial Engineering and Human Factors.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Duchowski
+

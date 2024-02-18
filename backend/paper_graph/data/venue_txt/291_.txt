@@ -1,0 +1,12 @@
+corpus id: 41410038, 
+
+Title: Beyond Big and Little: The Four C Model of Creativity
+
+Abstract: Most investigations of creativity tend to take one of two directions: everyday creativity (also called “little-c”), which can be found in nearly all people, and eminent creativity (also called “Big-C”), which is reserved for the great. In this paper, the authors propose a Four C model of creativity that expands this dichotomy. Specifically, the authors add the idea of “mini-c,” creativity inherent in the learning process, and Pro-c, the developmental and effortful progression beyond little-c that represents professional-level expertise in any creative area. The authors include different transitions and gradations of these four dimensions of creativity, and then discuss advantages and examples of the Four C Model.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Kaufman, R. Beghetto
+

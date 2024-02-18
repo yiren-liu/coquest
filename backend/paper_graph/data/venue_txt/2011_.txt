@@ -1,0 +1,12 @@
+corpus id: 18410595, 
+
+Title: A Behavioral Model of Rational Choice
+
+Abstract: Introduction, 99. — I. Some general features of rational choice, 100.— II. The essential simplifications, 103. — III. Existence and uniqueness of solutions, 111. — IV. Further comments on dynamics, 113. — V. Conclusion, 114. — Appendix, 115.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: H. Simon
+

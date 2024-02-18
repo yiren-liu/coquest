@@ -1,0 +1,12 @@
+corpus id: 2281975, 
+
+Title: The eyes have it: a task by data type taxonomy for information visualizations
+
+Abstract: A useful starting point for designing advanced graphical user interfaces is the visual information seeking Mantra: overview first, zoom and filter, then details on demand. But this is only a starting point in trying to understand the rich and varied set of information visualizations that have been proposed in recent years. The paper offers a task by data type taxonomy with seven data types (one, two, three dimensional data, temporal and multi dimensional data, and tree and network data) and seven tasks (overview, zoom, filter, details-on-demand, relate, history, and extracts).
+
+TLDR: A task by data type taxonomy with seven data types and seven tasks (overview, zoom, filter, details-on-demand, relate, history, and extracts) is offered.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Shneiderman
+

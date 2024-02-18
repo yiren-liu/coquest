@@ -1,0 +1,12 @@
+corpus id: 15853582, 
+
+Title: Perceptual load as a necessary condition for selective attention.
+
+Abstract: The early and late selection debate may be resolved if perceptual load of relevant information determines the selective processing of irrelevant information. This hypothesis was tested in 3 studies; all used a variation of the response competition paradigm to measure irrelevant processing when load in the relevant processing was varied. Perceptual load was manipulated by relevant display set size or by different processing requirements for identical displays. These included the requirement to process conjunctions versus isolated features and the requirement to perform simple detection of a character's presence versus difficult identification of its size and position. Distractors' interference was found only under low-load conditions. Because the distractor was usually clearly distinct from the target, it is concluded that physical separation is not a sufficient condition for selective perception; overloading perception is also required. This allows a compromise between early and late selection views and resolves apparent discrepancies in previous work.
+
+TLDR: It is concluded that physical separation is not a sufficient condition for selective perception; overloading perception is also required, which allows a compromise between early and late selection views and resolves apparent discrepancies in previous work.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: N. Lavie
+

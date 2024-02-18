@@ -1,0 +1,12 @@
+corpus id: 63925, 
+
+Title: Motion sickness.
+
+Abstract: The number of recently published papers on motion sickness may convey the impression that motion sickness is far from being understood. The current review focusses on a concept which tends to unify the different manifestations and theories of motion sickness. The paper highlights the relations between ergonomic principles to minimise motion sickness and the concept predictions. The clinical management of sufferers from motion sickness in terms of selection, pharmacological measures and desensitisation courses is treated as well.
+
+TLDR: The relations between ergonomic principles to minimise motion sickness and the concept predictions are highlighted and the clinical management of sufferers from motion sickness in terms of selection, pharmacological measures and desensitisation courses are treated.
+
+Fields of Study: ['Medicine']
+
+Authors: W. Bles, J. Bos, H. Kruit
+

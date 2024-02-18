@@ -1,0 +1,12 @@
+corpus id: 3131928, 
+
+Title: Fast Algorithms for Mining Association Rules in Large Databases
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Agrawal, R. Srikant
+

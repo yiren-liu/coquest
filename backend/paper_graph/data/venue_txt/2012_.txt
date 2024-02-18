@@ -1,0 +1,12 @@
+corpus id: 207195085, 
+
+Title: Usability inspection methods
+
+Abstract: Usability inspection is the generic name for a set of costeffective ways of evaluating user interfaces to find usability problems. They are fairly informal methods and easy to use.
+
+TLDR: Usability inspection is the generic name for a set of costeffective ways of evaluating user interfaces to find usability problems.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Nielsen
+

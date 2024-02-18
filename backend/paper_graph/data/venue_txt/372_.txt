@@ -1,0 +1,12 @@
+corpus id: 60438653, 
+
+Title: Handbook of Markov Chain Monte Carlo
+
+Abstract: Foreword Stephen P. Brooks, Andrew Gelman, Galin L. Jones, and Xiao-Li Meng Introduction to MCMC, Charles J. Geyer A short history of Markov chain Monte Carlo: Subjective recollections from in-complete data, Christian Robert and George Casella Reversible jump Markov chain Monte Carlo, Yanan Fan and Scott A. Sisson Optimal proposal distributions and adaptive MCMC, Jeffrey S. Rosenthal MCMC using Hamiltonian dynamics, Radford M. Neal Inference and Monitoring Convergence, Andrew Gelman and Kenneth Shirley Implementing MCMC: Estimating with confidence, James M. Flegal and Galin L. Jones Perfection within reach: Exact MCMC sampling, Radu V. Craiu and Xiao-Li Meng Spatial point processes, Mark Huber The data augmentation algorithm: Theory and methodology, James P. Hobert Importance sampling, simulated tempering and umbrella sampling, Charles J.Geyer Likelihood-free Markov chain Monte Carlo, Scott A. Sisson and Yanan Fan MCMC in the analysis of genetic data on related individuals, Elizabeth Thompson A Markov chain Monte Carlo based analysis of a multilevel model for functional MRI data, Brian Caffo, DuBois Bowman, Lynn Eberly, and Susan Spear Bassett Partially collapsed Gibbs sampling & path-adaptive Metropolis-Hastings in high-energy astrophysics, David van Dyk and Taeyoung Park Posterior exploration for computationally intensive forward models, Dave Higdon, C. Shane Reese, J. David Moulton, Jasper A. Vrugt and Colin Fox Statistical ecology, Ruth King Gaussian random field models for spatial data, Murali Haran Modeling preference changes via a hidden Markov item response theory model, Jong Hee Park Parallel Bayesian MCMC imputation for multiple distributed lag models: A case study in environmental epidemiology, Brian Caffo, Roger Peng, Francesca Dominici, Thomas A. Louis, and Scott Zeger MCMC for state space models, Paul Fearnhead MCMC in educational research, Roy Levy, Robert J. Mislevy, and John T. Behrens Applications of MCMC in fisheries science, Russell B. Millar Model comparison and simulation for hierarchical models: analyzing rural-urban migration in Thailand, Filiz Garip and Bruce Western
+
+TLDR: A Markov chain Monte Carlo based analysis of a multilevel model for functional MRI data and its applications in environmental epidemiology, educational research, and fisheries science are studied.
+
+Fields of Study: ['Computer Science']
+
+Authors: Steve P. Brooks, A. Gelman, Galin L. Jones, Xiao-Li Meng
+

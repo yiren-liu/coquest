@@ -1,0 +1,12 @@
+corpus id: 35520774, 
+
+Title: Multivariate Data Analysis
+
+Abstract: Chapter 3 deals with probability distributions, discrete and continuous densities, distribution functions, bivariate distributions, means, variances, covariance, correlation, and some random process material. Chapter 4 is a detailed study of the concept of utility including the psychological aspects, risk, attributes, rules for utilities, multidimensional utility, and normal form of analysis. Chapter 5 treats games and optimization, linear optimization, and mixed strategies. Entropy is the topic of Chapter 6 with sections devoted to entropy, disorder, information, Shannon’s theorem, demon’s roulette, Maxwell– Boltzmann distribution, Schrodinger’s nutshell, maximum entropy probability distributions, blackbodies, and Bose–Einstein distribution. Chapter 7 is standard statistical fare including transformations of random variables, characteristic functions, generating functions, and the classic limit theorems such as the central limit theorem and the laws of large numbers. Chapter 8 is about exchangeability and inference with sections on Bayesian techniques and classical inference. Partial exchangeability is also treated. Chapter 9 considers such things as order statistics, extreme value, intensity, hazard functions, and Poisson processes. Chapter 10 covers basic elements of risk and reliability, while Chapter 11 is devoted to curve fitting, regression, and Monte Carlo simulation. There is an ample number of exercises at the ends of the chapters with answers or comments on many of them in an appendix in the back of the book. Other appendices are on the common discrete and continuous distributions and mathematical aspects of integration.
+
+TLDR: This book deals with probability distributions, discrete and continuous densities, distribution functions, bivariate distributions, means, variances, covariance, correlation, and some random process material.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: X. Qu
+

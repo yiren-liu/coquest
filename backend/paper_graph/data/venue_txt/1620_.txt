@@ -1,0 +1,12 @@
+corpus id: 32202501, 
+
+Title: Rules of play: game design fundamentals
+
+Abstract: This text offers an introduction to game design and a unified model for looking at all kinds of games, from board games and sports to computer and video games. Also included are concepts, strategies, and methodologies for creating and understanding games.
+
+TLDR: This text offers an introduction to game design and a unified model for looking at all kinds of games, from board games and sports to computer and video games.
+
+Fields of Study: ['Computer Science']
+
+Authors: Katie Salen, Eric Zimmerman
+

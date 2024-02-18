@@ -1,0 +1,12 @@
+corpus id: 36615542, 
+
+Title: Mechanisms of Skill Acquisition and the Law of Practice
+
+Abstract: Practice, and the performance improvement that it engenders, has long been a major topic in psychology. In this paper, both experimental and theoretical approaches are employed in an investigation of the mechanisms underlying this improvement. On the experimental side, it is argued that a single law, the power of law of practice, adequately describes all of the practice data. On the theoretical side, a model of practice rooted in modern cognitive psychology, the chunking theory of learning, is formulated. The paper consists of (1) the presentation of a set of empirical practice curves; (2) mathematical investigations into the nature of power law functions; (3) evaluations of the ability of three different classes of functions to adequately model the empirical curves; (4) a discussion of the existing models of practice; (5) a presentation of the chunking theory of learning
+
+TLDR: A model of practice rooted in modern cognitive psychology, the chunking theory of learning, is formulated in an investigation of the mechanisms underlying the performance improvement in psychology.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: A. Newell
+

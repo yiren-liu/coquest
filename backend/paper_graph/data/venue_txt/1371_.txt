@@ -1,0 +1,12 @@
+corpus id: 15084699, 
+
+Title: Towards a Theory of Cultural Influence on the Development of Accounting Systems Internationally
+
+Abstract: Research has shown that accounting follows different patterns in different parts of the world. There have been claims that national systems are determined by environmental factors. In this context, cultural factors have not been fully considered. This paper proposes four hypotheses on the relationship between identified cultural characteristics and the development of accounting systems, the regulation of the accounting profession and attitudes towards financial management and disclosure. The hypotheses are not operationalized, and empirical tests have not been carried out. They are proposed here as a first step in the development of a theory of cultural influence on the development of accounting systems.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: S. Gray
+

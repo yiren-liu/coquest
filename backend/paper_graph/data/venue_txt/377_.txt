@@ -1,0 +1,12 @@
+corpus id: 2746042, 
+
+Title: The Bitcoin Backbone Protocol: Analysis and Applications
+
+Abstract: None
+
+TLDR: This work extracts and analyzes the core of the Bitcoin protocol, which is term the Bitcoin backbone, and proves two of its fundamental properties which are called common prefix and chain quality in the static setting where the number of players remains fixed.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: J. Garay, A. Kiayias, Nikos Leonardos
+

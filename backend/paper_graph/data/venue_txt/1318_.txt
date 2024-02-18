@@ -1,0 +1,12 @@
+corpus id: 46879746, 
+
+Title: The Transtheoretical Model of Health Behavior Change
+
+Abstract: The transtheoretical model posits that health behavior change involves progress through six stages of change: precontemplation, contemplation, preparation, action, maintenance, and termination. Ten processes of change have been identified for producing progress along with decisional balance, self-efficacy, and temptations. Basic research has generated a rule of thumb for at-risk populations: 40% in precontemplation, 40% in contemplation, and 20% in preparation. Across 12 health behaviors, consistent patterns have been found between the pros and cons of changing and the stages of change. Applied research has demonstrated dramatic improvements in recruitment, retention, and progress using stage-matched interventions and proactive recruitment procedures. The most promising outcomes to date have been found with computer-based individualized and interactive interventions. The most promising enhancement to the computer-based programs are personalized counselors. One of the most striking results to date for stage-matched programs is the similarity between participants reactively recruited who reached us for help and those proactively recruited who we reached out to help. If results with stage-matched interventions continue to be replicated, health promotion programs will be able to produce unprecedented impacts on entire at-risk populations.
+
+TLDR: If results with stage-matched interventions continue to be replicated, health promotion programs will be able to produce unprecedented impacts on entire at-risk populations.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Prochaska, W. Velicer
+

@@ -1,0 +1,12 @@
+corpus id: 141419619, 
+
+Title: Brown v. Board of Education and the Interest-Convergence Dilemma.
+
+Abstract: After Brown v. Board of Education was decided, Professor Herbert Wechsler questioned whether the Supreme Court’s decision could be justified on the basis of “neutral” principles. To him Brown arbitrarily traded the rights of whites not to associate with blacks in favor of the rights of blacks to associate with whites. In this Comment, Prof. Derrick Bell suggests that no conflict of interest actually existed; for a brief period, the interests of the races converged to make the Brown decision inevitable. More recent Supreme Court decisions, however, suggest to Professor Bell a growing divergence of interests that makes integration less feasible. He suggests the interest of blacks in quality education might now be better served by concentration on improving the quality of existing schools, whether desegregated or all-black.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: D. Bell
+

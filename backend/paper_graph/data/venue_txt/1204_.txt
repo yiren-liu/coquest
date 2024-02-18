@@ -1,0 +1,12 @@
+corpus id: 1659386, 
+
+Title: A behavior model for persuasive design
+
+Abstract: This paper presents a new model for understanding human behavior. In this model (FBM), behavior is a product of three factors: motivation, ability, and triggers, each of which has subcomponents. The FBM asserts that for a person to perform a target behavior, he or she must (1) be sufficiently motivated, (2) have the ability to perform the behavior, and (3) be triggered to perform the behavior. These three factors must occur at the same moment, else the behavior will not happen. The FBM is useful in analysis and design of persuasive technologies. The FBM also helps teams work together efficiently because this model gives people a shared way of thinking about behavior change.
+
+TLDR: A new model for understanding human behavior is presented, which asserts that for a person to perform a target behavior, he or she must be sufficiently motivated, have the ability to perform the behavior, and be triggered to performed the behavior.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: B. Fogg
+

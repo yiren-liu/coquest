@@ -1,0 +1,12 @@
+corpus id: 12602767, 
+
+Title: Motivational, emotional, and behavioral correlates of fear of missing out
+
+Abstract: None
+
+TLDR: The present research presents three studies conducted to advance an empirically based understanding of the fear of missing out phenomenon, the Fear of Missing Out scale (FoMOs), which is the first to operationalize the construct.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: Andrew K. Przybylski, K. Murayama, Cody R. DeHaan, V. Gladwell
+

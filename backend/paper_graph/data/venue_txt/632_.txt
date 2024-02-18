@@ -1,0 +1,12 @@
+corpus id: 1611611, 
+
+Title: Defining Identification: A Theoretical Look at the Identification of Audiences With Media Characters
+
+Abstract: In this article I argue that although the notion of identification with media characters is widely discussed in media research, it has not been carefully conceptualized or rigorously tested in empirical audience studies. This study presents a theoretical discussion of identification, including a definition of identification and a discussion of the consequences of identification with media characters for the development of identity and socialization processes. It is suggested that a useful distinction can be made between identification and other types of reactions that media audiences have to media characters. A critical look at media research involving identification exposes the inherent conceptual problems in this research and leads to hypotheses regarding the antecedents and consequences of identification with media characters. The importance of a theory of identification to media research and communication research, more broadly, is presented.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Jonathan Cohen
+

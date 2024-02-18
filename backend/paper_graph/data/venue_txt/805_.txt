@@ -1,0 +1,12 @@
+corpus id: 27209693, 
+
+Title: Privacy in Context - Technology, Policy, and the Integrity of Social Life
+
+Abstract: Privacy is one of the most urgent issues associated with information technology and digital media. This book claims that what people really care about when they complain and protest that privacy has been violated is not the act of sharing information itselfmost people understand that this is crucial to social life but the inappropriate, improper sharing of information. Arguing that privacy concerns should not be limited solely to concern about control over personal information, Helen Nissenbaum counters that information ought to be distributed and protected according to norms governing distinct social contextswhether it be workplace, health care, schools, or among family and friends. She warns that basic distinctions between public and private, informing many current privacy policies, in fact obscure more than they clarify. In truth, contemporary information systems should alarm us only when they function without regard for social norms and values, and thereby weaken the fabric of social life.
+
+TLDR: Arguing that privacy concerns should not be limited solely to concern about control over personal information, Helen Nissenbaum counters that information ought to be distributed and protected according to norms governing distinct social context, be it workplace, health care, schools, or among family and friends.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: H. Nissenbaum
+

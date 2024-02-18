@@ -1,0 +1,12 @@
+corpus id: 144882055, 
+
+Title: Learning from strangers : the art and method of qualitative interview studies
+
+Abstract: "Learning From Strangers" is the definitive work on qualitative research interviewing. It draws on Robert Weiss's thirty years of experience in interviewing and teaching others how to do it. The most effective interviews, says Weiss, rely on creating cooperation-- an open and trusting alliance between interviewer and respondent, dedicated to specific and honest accounts of both internal and external events. Against the eclectic background of his work in national sample surveys, studies based on semi-structured interviewing, and participant observation, Weiss walks the reader through the method of qualitative interview studies: sample selection, development of an interview guide, the conduct of the interview, analysis, and preparation of the data. Weiss gives examples of successful and less successful interviews and offers specific techniques and guidelines for the practitioner.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Weiss
+

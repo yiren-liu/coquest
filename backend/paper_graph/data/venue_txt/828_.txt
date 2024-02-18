@@ -1,0 +1,12 @@
+corpus id: 6931551, 
+
+Title: Factors influencing the usage of websites: the case of a generic portal in The Netherlands
+
+Abstract: None
+
+TLDR: An extension of the Technology Acceptance Model (TAM) to explain the individual acceptance and usage of websites is empirically investigated and a new construct, "perceived visual attractiveness" of the website is introduced and demonstrates that it influences usefulness, enjoyment, and ease-of-use.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: H. Heijden
+

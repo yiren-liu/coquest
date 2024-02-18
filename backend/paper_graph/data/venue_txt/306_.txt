@@ -1,0 +1,12 @@
+corpus id: 143052491, 
+
+Title: Interviewing as qualitative research : a guide for researchersin education and the social sciences
+
+Abstract: The third edition of this bestselling resource provides clear, step-by-step guidance for new and experienced interviewers to help them develop, shape, and reflect on interviewing as a qualitative research process. While proposing a phenomenological approach to in-depth interviewing, the author also includes principles and methods that can be adapted to a range of interviewing approaches. Using concrete examples of interviewing techniques to illustrate the issues under discussion, this classic text helps readers to understand the complexities of interviewing and its connections to broader issues of qualitative research. Equally popular for individual and classroom use, the new Third Edition of "Interviewing as Qualitative Research" features: an introduction to the Institutional Review Board (IRB) process in its historical context, including an expanded discussion of informed consent and its complexities; special attention to the rights of participants in interview research as those rights interact with ethical issues; and, updated references and suggestions for additional reading for a deeper consideration of methodological, ethical, and philosophical issues, including relevant Internet resources.
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Sociology']
+
+Authors: I. Seidman
+

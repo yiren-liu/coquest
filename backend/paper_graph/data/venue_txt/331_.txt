@@ -1,0 +1,12 @@
+corpus id: 45015079, 
+
+Title: Communications of the Association for Information Systems
+
+Abstract: The Technology Acceptance Model
+
+TLDR: None
+
+Fields of Study: None
+
+Authors: Samuel C. Yang, C. C. Chan
+

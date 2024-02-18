@@ -1,0 +1,12 @@
+corpus id: 14998234, 
+
+Title: Knowledge-Sharing Dilemmas
+
+Abstract: The exchange of information among organizational employees is a vital component of the knowledge-management process. Modem information and telecommunication technology is available to support such exchanges across time and distance barriers. However, organizations investing in this type of technology often face difficulties in encouraging their employees to use the system to share their ideas. This paper elaborates on previous research, suggesting that sharing personal insights with one's co-workers may carry a cost for some individuals which may yield, at the aggregate level, a co-operation dilemma, similar to a public-good dilemma. A review of the research on different types of public-good dilemmas provides some indications of the specific interventions that may help organizations encourage the kind of social dynamics that will increase overall knowledge sharing. These interventions can be classified into three categories: interventions aimed at restructuring the pay-offs for contributing, those that try to increase efficacy perceptions, and those that make employees' sense of group identity and personal responsibility more salient.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Angel Cabrera, E. F. Cabrera
+

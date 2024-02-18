@@ -1,0 +1,12 @@
+corpus id: 14066603, 
+
+Title: Toward a Theory of Knowledge Reuse: Types of Knowledge Reuse Situations and Factors in Reuse Success
+
+Abstract: This paper represents a step toward a theory of knowledge reusability with emphasis on knowledge management systems and repositories, often called organizational memory systems. Synthesis of evidence from a wide variety of sources suggests four distinct types of knowledge reuse situations according to the knowledge reuser and the purpose of knowledge reuse. The types involve shared work producers, who produce knowledge they later reuse; shared work practitioners, who reuse each other's knowledge contributions; expertise-seeking novices; and secondary knowledge miners. Each type of knowledge reuser has different requirements for knowledge repositories. Owing to how repositories are created, reusers'requirements often remain unmet. Repositories often require considerable rework to be useful for new reusers, but knowledge producers rarely have the resources and incentives to do a good job of repurposing knowledge. Solutions include careful use of incentives and human and technical intermediaries.
+
+TLDR: Synthesis of evidence from a wide variety of sources suggests four distinct types ofknowledge reuse situations according to the knowledge reuser and the purpose of knowledge reuse, which involve shared work producers, who produce knowledge they later reuse; shared work practitioners, who reuse each other's knowledge contributions; expertise-seeking novices; and secondary knowledge miners.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Markus
+

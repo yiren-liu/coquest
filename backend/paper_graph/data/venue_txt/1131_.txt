@@ -1,0 +1,12 @@
+corpus id: 14227674, 
+
+Title: Examining the Technology Acceptance Model Using Physician Acceptance of Telemedicine Technology
+
+Abstract: The rapid growth of investment in information technology (IT) by organizations worldwide has made user acceptance an increasingly critical technology implementation and management issue. While such acceptance has received fairly extensive attention from previous research, additional efforts are needed to examine or validate existing research results, particularly those involving different technologies, user populations, and/or organizational contexts. In response, this paper reports a research work that examined the applicability of the Technology Acceptance Model (TAM) in explaining physicians' decisions to accept telemedicine technology in the health-care context. The technology, the user group, and the organizational context are all new to IT acceptance/adoption research. The study also addressed a pragmatic technology management need resulting from millions of dollars invested by health-care organizations in developing and implementing telemedicine programs in recent years. The model's overall fit, explanatory power, and the individual causal links that it postulates were evaluated by examining the acceptance of telemedicine technology among physicians practicing at public tertiary hospitals in Hong Kong. Our results suggested that TAM was able to provide a reasonable depiction of physicians' intention to use telemedicine technology. Perceived usefulness was found to be a significant determinant of attitude and intention but perceived ease of use was not. The relatively low R-square of the model suggests both the limitations of the parsimonious model and the need for incorporating additional factors or integrating with other IT acceptance models in order to improve its specificity and explanatory utility in a health-care context. Based on the study findings, implications for user technology acceptance research and telemedicine management are discussed.
+
+TLDR: The results suggested that TAM was able to provide a reasonable depiction of physicians' intention to use telemedicine technology, and suggested both the limitations of the parsimonious model and the need for incorporating additional factors or integrating with other IT acceptance models in order to improve its specificity and explanatory utility in a health-care context.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: P. H. Hu, P. Chau, O. R. Sheng, K. Y. Tam
+

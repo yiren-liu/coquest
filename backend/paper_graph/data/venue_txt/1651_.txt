@@ -1,0 +1,12 @@
+corpus id: 60502900, 
+
+Title: Advances in kernel methods: support vector learning
+
+Abstract: Introduction to support vector learning roadmap. Part 1 Theory: three remarks on the support vector method of function estimation, Vladimir Vapnik generalization performance of support vector machines and other pattern classifiers, Peter Bartlett and John Shawe-Taylor Bayesian voting schemes and large margin classifiers, Nello Cristianini and John Shawe-Taylor support vector machines, reproducing kernel Hilbert spaces, and randomized GACV, Grace Wahba geometry and invariance in kernel based methods, Christopher J.C. Burges on the annealed VC entropy for margin classifiers - a statistical mechanics study, Manfred Opper entropy numbers, operators and support vector kernels, Robert C. Williamson et al. Part 2 Implementations: solving the quadratic programming problem arising in support vector classification, Linda Kaufman making large-scale support vector machine learning practical, Thorsten Joachims fast training of support vector machines using sequential minimal optimization, John C. Platt. Part 3 Applications: support vector machines for dynamic reconstruction of a chaotic system, Davide Mattera and Simon Haykin using support vector machines for time series prediction, Klaus-Robert Muller et al pairwise classification and support vector machines, Ulrich Kressel. Part 4 Extensions of the algorithm: reducing the run-time complexity in support vector machines, Edgar E. Osuna and Federico Girosi support vector regression with ANOVA decomposition kernels, Mark O. Stitson et al support vector density estimation, Jason Weston et al combining support vector and mathematical programming methods for classification, Bernhard Scholkopf et al.
+
+TLDR: Support vector machines for dynamic reconstruction of a chaotic system, Klaus-Robert Muller et al pairwise classification and support vector machines, Ulrich Kressel.
+
+Fields of Study: ['Mathematics']
+
+Authors: B. Schölkopf, C. Burges, Alex Smola
+

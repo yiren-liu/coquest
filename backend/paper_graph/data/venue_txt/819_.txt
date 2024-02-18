@@ -1,0 +1,12 @@
+corpus id: 753304, 
+
+Title: Probabilistic Topic Models
+
+Abstract: In this article, we review probabilistic topic models: graphical models that can be used to summarize a large collection of documents with a smaller number of distributions over words. Those distributions are called "topics" because, when fit to data, they capture the salient themes that run through the collection. We describe both finite-dimensional parametric topic models and their Bayesian nonparametric counterparts, which are based on the hierarchical Dirichlet process (HDP). We discuss two extensions of topic models to time-series data-one that lets the topics slowly change over time and one that lets the assumed prevalence of the topics change. Finally, we illustrate the application of topic models to nontext data, summarizing some recent research results in image analysis.
+
+TLDR: None
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Blei
+

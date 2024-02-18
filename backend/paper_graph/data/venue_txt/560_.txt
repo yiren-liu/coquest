@@ -1,0 +1,12 @@
+corpus id: 125353385, 
+
+Title: Statistical methods for rates and proportions
+
+Abstract: Preface.Preface to the Second Edition.Preface to the First Edition.1. An Introduction to Applied Probability.2. Statistical Inference for a Single Proportion.3. Assessing Significance in a Fourfold Table.4. Determining Sample Sizes Needed to Detect a Difference Between Two Proportions.5. How to Randomize.6. Comparative Studies: Cross-Sectional, Naturalistic, or Multinomial Sampling.7. Comparative Studies: Prospective and Retrospective Sampling.8. Randomized Controlled Trials.9. The Comparison of Proportions from Several Independent Samples.10. Combining Evidence from Fourfold Tables.11. Logistic Regression.12. Poisson Regression.13. Analysis of Data from Matched Samples.14. Regression Models for Matched Samples.15. Analysis of Correlated Binary Data.16. Missing Data.17. Misclassification Errors: Effects, Control, and Adjustment.18. The Measurement of Interrater Agreement.19. The Standardization of Rates.Appendix A. Numerical Tables.Appendix B. The Basic Theory of Maximum Likelihood Estimation.Appendix C. Answers to Selected Problems.Author Index.Subject Index.
+
+TLDR: An Introduction to Applied Probability: The Basic Theory of Maximum Likelihood Estimation and Answers to Selected Problems.
+
+Fields of Study: ['Mathematics', 'Medicine', 'Psychology']
+
+Authors: J. Fleiss
+

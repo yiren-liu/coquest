@@ -1,0 +1,12 @@
+corpus id: 207158373, 
+
+Title: When and how to develop domain-specific languages
+
+Abstract: Domain-specific languages (DSLs) are languages tailored to a specific application domain. They offer substantial gains in expressiveness and ease of use compared with general-purpose programming languages in their domain of application. DSL development is hard, requiring both domain knowledge and language development expertise. Few people have both. Not surprisingly, the decision to develop a DSL is often postponed indefinitely, if considered at all, and most DSLs never get beyond the application library stage.Although many articles have been written on the development of particular DSLs, there is very limited literature on DSL development methodologies and many questions remain regarding when and how to develop a DSL. To aid the DSL developer, we identify patterns in the decision, analysis, design, and implementation phases of DSL development. Our patterns improve and extend earlier work on DSL design patterns. We also discuss domain analysis tools and language development systems that may help to speed up DSL development. Finally, we present a number of open problems.
+
+TLDR: To aid the DSL developer, patterns in the decision, analysis, design, and implementation phases of DSL development are identified and patterns improve and extend earlier work on DSL design patterns.
+
+Fields of Study: ['Computer Science', 'Physics']
+
+Authors: M. Mernik, J. Heering, A. Sloane
+

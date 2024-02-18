@@ -1,0 +1,12 @@
+corpus id: 239540, 
+
+Title: Algorithmic game theory
+
+Abstract: A new era of theoretical computer science addresses fundamental problems about auctions, networks, and human behavior.
+
+TLDR: A new era of theoretical computer science addresses fundamental problems about auctions, networks, and human behavior in a bid to solve the challenges of 21st Century finance.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: T. Roughgarden
+

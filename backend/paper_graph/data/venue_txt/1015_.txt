@@ -1,0 +1,12 @@
+corpus id: 9166388, 
+
+Title: Reinforcement Learning: An Introduction
+
+Abstract: Reinforcement learning, one of the most active research areas in artificial intelligence, is a computational approach to learning whereby an agent tries to maximize the total amount of reward it receives when interacting with a complex, uncertain environment. In Reinforcement Learning, Richard Sutton and Andrew Barto provide a clear and simple account of the key ideas and algorithms of reinforcement learning. Their discussion ranges from the history of the field's intellectual foundations to the most recent developments and applications. The only necessary mathematical background is familiarity with elementary concepts of probability. The book is divided into three parts. Part I defines the reinforcement learning problem in terms of Markov decision processes. Part II provides basic solution methods: dynamic programming, Monte Carlo methods, and temporal-difference learning. Part III presents a unified view of the solution methods and incorporates artificial neural networks, eligibility traces, and planning; the two final chapters present case studies and consider the future of reinforcement learning.
+
+TLDR: This book provides a clear and simple account of the key ideas and algorithms of reinforcement learning, which ranges from the history of the field's intellectual foundations to the most recent developments and applications.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Sutton, A. Barto
+

@@ -1,0 +1,12 @@
+corpus id: 17270424, 
+
+Title: Conventional wisdom on measurement: A structural equation perspective.
+
+Abstract: The applicability of 5 conventional guidelines for construct measurement is critically examined: (a) Construct indicators should be internally consistent for valid measures, (b) there are optimal magnitudes of correlations between items, (c) the validity of measures depends on the adequacy with which a specified domain is sampled, (d) within-construct correlations must be greater than between-construct correlations, and (e) linear composites of indicators can replace latent variables. A structural equation perspective is used, showing that without an explicit measurement model relating indicators to latent variables and measurement errors, none of these conventional beliefs hold without qualifications. Moreover, a "causal" indicator model is presented that sometimes better corresponds to the relation of indicators to a construct than does the classical test theory "effect" indicator model.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: K. Bollen, R. Lennox
+

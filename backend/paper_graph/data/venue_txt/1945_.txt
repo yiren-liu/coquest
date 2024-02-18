@@ -1,0 +1,12 @@
+corpus id: 756729, 
+
+Title: HDR-VDP-2: a calibrated visual metric for visibility and quality predictions in all luminance conditions
+
+Abstract: Visual metrics can play an important role in the evaluation of novel lighting, rendering, and imaging algorithms. Unfortunately, current metrics only work well for narrow intensity ranges, and do not correlate well with experimental data outside these ranges. To address these issues, we propose a visual metric for predicting visibility (discrimination) and quality (mean-opinion-score). The metric is based on a new visual model for all luminance conditions, which has been derived from new contrast sensitivity measurements. The model is calibrated and validated against several contrast discrimination data sets, and image quality databases (LIVE and TID2008). The visibility metric is shown to provide much improved predictions as compared to the original HDR-VDP and VDP metrics, especially for low luminance conditions. The image quality predictions are comparable to or better than for the MS-SSIM, which is considered one of the most successful quality metrics. The code of the proposed metric is available on-line.
+
+TLDR: The visibility metric is shown to provide much improved predictions as compared to the original HDR-VDP and VDP metrics, especially for low luminance conditions, and is comparable to or better than for the MS-SSIM, which is considered one of the most successful quality metrics.
+
+Fields of Study: ['Computer Science']
+
+Authors: Rafał K. Mantiuk, Kil Joong Kim, Allan G. Rempel, W. Heidrich
+

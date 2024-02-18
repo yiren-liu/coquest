@@ -1,0 +1,12 @@
+corpus id: 62537074, 
+
+Title: Human Problem Solving
+
+Abstract: Abstract : The aim of the book is to advance the understanding of how humans think. It seeks to do so by putting forth a theory of human problem solving, along with a body of empirical evidence that permits assessment of the theory. (Author)
+
+TLDR: The aim of the book is to advance the understanding of how humans think by putting forth a theory of human problem solving, along with a body of empirical evidence that permits assessment of the theory.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Newell
+

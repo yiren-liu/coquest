@@ -1,0 +1,12 @@
+corpus id: 125512938, 
+
+Title: Using multivariate statistics, 5th ed.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: B. Tabachnick, L. Fidell
+

@@ -1,0 +1,12 @@
+corpus id: 61109334, 
+
+Title: Information Seeking in Electronic Environments
+
+Abstract: Information and information seeking 2. Information seekers and electronic environments 3. Information-seeking perspective and framework 4. Foundations for personal information infrastructures: 5. Information-seeking knowledge, skills, and attitudes 6. Analytical search strategies 7. Browsing strategies 8. Designing support for Browsing: 9. A research and development perspective 10. The continuing evolution of information seeking 11. Future directions and conclusion.
+
+TLDR: This chapter discusses the continuing evolution of information seeking and its role in the development of knowledge, skills, and attitudes in the rapidly changing electronic environments.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Marchionini
+

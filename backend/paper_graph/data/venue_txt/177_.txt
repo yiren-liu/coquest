@@ -1,0 +1,12 @@
+corpus id: 1359859, 
+
+Title: Awareness and coordination in shared workspaces
+
+Abstract: Awareness of individual and group activities is critical to successful collaboration and is commonly supported in CSCW systems by active, information generation mechanisms separate from the shared workspace. These mechanisms pena~ise information providers, presuppose relevance to the recipient, and make access difficult, We discuss a study of shared editor use which suggests that awareness information provided and exploited passively through the shared workspace, allows users to move smoothly between close and loose collaboration, and to assign and coordinate work dynamically. Passive awareness mechanisms promise effective support for collaboration requiring this sort of behaviour, whilst avoiding problems with active approaches.
+
+TLDR: A study of shared editor use is discussed which suggests that awareness information provided and exploited passively through the shared workspace, allows users to move smoothly between close and loose collaboration, and to assign and coordinate work dynamically.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Dourish, V. Bellotti
+

@@ -1,0 +1,12 @@
+corpus id: 124418736, 
+
+Title: 4. Modelling Survival Data in Medical Research
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Medicine']
+
+Authors: W. D. Ray
+

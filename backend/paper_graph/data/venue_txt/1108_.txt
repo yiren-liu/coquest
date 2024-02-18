@@ -1,0 +1,12 @@
+corpus id: 204824113, 
+
+Title: Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI
+
+Abstract: None
+
+TLDR: Previous efforts to define explainability in Machine Learning are summarized, establishing a novel definition that covers prior conceptual propositions with a major focus on the audience for which explainability is sought, and a taxonomy of recent contributions related to the explainability of different Machine Learning models are proposed.
+
+Fields of Study: ['Computer Science']
+
+Authors: Alejandro Barredo Arrieta, Natalia Díaz Rodríguez, J. Ser, Adrien Bennetot, S. Tabik, A. Barbado, S. García, S. Gil-Lopez, D. Molina, Richard Benjamins, Raja Chatila, Francisco Herrera
+

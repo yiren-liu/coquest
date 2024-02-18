@@ -1,0 +1,12 @@
+corpus id: 6617228, 
+
+Title: Convex multi-task feature learning
+
+Abstract: None
+
+TLDR: It is proved that the method for learning sparse representations shared across multiple tasks is equivalent to solving a convex optimization problem for which there is an iterative algorithm which converges to an optimal solution.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Andreas Argyriou, T. Evgeniou, M. Pontil
+

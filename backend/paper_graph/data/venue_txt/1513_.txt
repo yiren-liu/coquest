@@ -1,0 +1,12 @@
+corpus id: 207745307, 
+
+Title: Maté: a tiny virtual machine for sensor networks
+
+Abstract: Composed of tens of thousands of tiny devices with very limited resources ("motes"), sensor networks are subject to novel systems problems and constraints. The large number of motes in a sensor network means that there will often be some failing nodes; networks must be easy to repopulate. Often there is no feasible method to recharge motes, so energy is a precious resource. Once deployed, a network must be reprogrammable although physically unreachable, and this reprogramming can be a significant energy cost.We present Maté, a tiny communication-centric virtual machine designed for sensor networks. Maté's high-level interface allows complex programs to be very short (under 100 bytes), reducing the energy cost of transmitting new programs. Code is broken up into small capsules of 24 instructions, which can self-replicate through the network. Packet sending and reception capsules enable the deployment of ad-hoc routing and data aggregation algorithms. Maté's concise, high-level program representation simplifies programming and allows large networks to be frequently reprogrammed in an energy-efficient manner; in addition, its safe execution environment suggests a use of virtual machines to provide the user/kernel boundary on motes that have no hardware protection mechanisms.
+
+TLDR: Maté's concise, high-level program representation simplifies programming and allows large networks to be frequently reprogrammed in an energy-efficient manner; in addition, its safe execution environment suggests a use of virtual machines to provide the user/kernel boundary on motes that have no hardware protection mechanisms.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Levis, D. Culler
+

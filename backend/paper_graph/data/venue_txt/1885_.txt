@@ -1,0 +1,12 @@
+corpus id: 60777797, 
+
+Title: Principles and Practice of Structural Equation Modeling
+
+Abstract: Designed for students and researchers without an extensive quantitative background, this book offers an informative guide to the application, interpretation and pitfalls of structural equation modelling (SEM) in the social sciences. The book covers introductory techniques including path analysis and confirmatory factor analysis, and provides an overview of more advanced methods such as the evaluation of non-linear effects, the analysis of means in convariance structure models, and latent growth models for longitudinal data. Providing examples from various disciplines to illustrate all aspects of SEM, the book offers clear instructions on the preparation and screening of data, common mistakes to avoid and widely used software programs (Amos, EQS and LISREL). The book aims to provide the skills necessary to begin to use SEM in research and to interpret and critique the use of method by others.
+
+TLDR: The book aims to provide the skills necessary to begin to use SEM in research and to interpret and critique the use of method by others.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Kline
+

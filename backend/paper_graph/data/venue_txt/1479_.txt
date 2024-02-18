@@ -1,0 +1,12 @@
+corpus id: 6155330, 
+
+Title: Dlib-ml: A Machine Learning Toolkit
+
+Abstract: There are many excellent toolkits which provide support for developing machine learning software in Python, R, Matlab, and similar environments. Dlib-ml is an open source library, targeted at both engineers and research scientists, which aims to provide a similarly rich environment for developing machine learning software in the C++ language. Towards this end, dlib-ml contains an extensible linear algebra toolkit with built in BLAS support. It also houses implementations of algorithms for performing inference in Bayesian networks and kernel-based methods for classification, regression, clustering, anomaly detection, and feature ranking. To enable easy use of these tools, the entire library has been developed with contract programming, which provides complete and precise documentation as well as powerful debugging tools.
+
+TLDR: dlib-ml contains an extensible linear algebra toolkit with built in BLAS support, and implementations of algorithms for performing inference in Bayesian networks and kernel-based methods for classification, regression, clustering, anomaly detection, and feature ranking.
+
+Fields of Study: ['Computer Science']
+
+Authors: Davis E. King
+

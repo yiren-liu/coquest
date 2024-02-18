@@ -1,0 +1,12 @@
+corpus id: 17451097, 
+
+Title: Heuristic evaluation of user interfaces
+
+Abstract: Heuristic evaluation is an informal method of usability analysis where a number of evaluators are presented with an interface design and asked to comment on it. Four experiments showed that individual evaluators were mostly quite bad at doing such heuristic evaluations and that they only found between 20 and 51% of the usability problems in the interfaces they evaluated. On the other hand, we could aggregate the evaluations from several evaluators to a single evaluation and such aggregates do rather well, even when they consist of only three to five people.
+
+TLDR: Four experiments showed that individual evaluators were mostly quite bad at doing heuristic evaluations and that they only found between 20 and 51% of the usability problems in the interfaces they evaluated.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Nielsen, R. Molich
+

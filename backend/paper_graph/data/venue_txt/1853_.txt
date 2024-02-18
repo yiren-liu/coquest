@@ -1,0 +1,12 @@
+corpus id: 1486613, 
+
+Title: Local Features and Kernels for Classification of Texture and Object Categories: A Comprehensive Study
+
+Abstract: None
+
+TLDR: A large-scale evaluation of an approach that represents images as distributions of features extracted from a sparse set of keypoint locations and learns a Support Vector Machine classifier with kernels based on two effective measures for comparing distributions, the Earth Mover’s Distance and the χ2 distance.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Jianguo Zhang, Marcin Marszalek, S. Lazebnik, C. Schmid
+

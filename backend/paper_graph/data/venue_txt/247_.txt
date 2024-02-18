@@ -1,0 +1,12 @@
+corpus id: 11454318, 
+
+Title: Single-Pixel Imaging via Compressive Sampling
+
+Abstract: In this article, the authors present a new approach to building simpler, smaller, and cheaper digital cameras that can operate efficiently across a broader spectral range than conventional silicon-based cameras. The approach fuses a new camera architecture based on a digital micromirror device with the new mathematical theory and algorithms of compressive sampling.
+
+TLDR: A new camera architecture based on a digital micromirror device with the new mathematical theory and algorithms of compressive sampling is presented that can operate efficiently across a broader spectral range than conventional silicon-based cameras.
+
+Fields of Study: ['Computer Science']
+
+Authors: Marco F. Duarte, M. Davenport, D. Takhar, J. Laska, Ting Sun, K. Kelly, Richard Baraniuk
+

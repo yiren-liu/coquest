@@ -1,0 +1,12 @@
+corpus id: 11818459, 
+
+Title: The chameleon effect: the perception-behavior link and social interaction.
+
+Abstract: The chameleon effect refers to nonconscious mimicry of the postures, mannerisms, facial expressions, and other behaviors of one's interaction partners, such that one's behavior passively and unintentionally changes to match that of others in one's current social environment. The authors suggest that the mechanism involved is the perception-behavior link, the recently documented finding (e.g., J. A. Bargh, M. Chen, & L. Burrows, 1996) that the mere perception of another's behavior automatically increases the likelihood of engaging in that behavior oneself. Experiment 1 showed that the motor behavior of participants unintentionally matched that of strangers with whom they worked on a task. Experiment 2 had confederates mimic the posture and movements of participants and showed that mimicry facilitates the smoothness of interactions and increases liking between interaction partners. Experiment 3 showed that dispositionally empathic individuals exhibit the chameleon effect to a greater extent than do other people.
+
+TLDR: The authors suggest that the mechanism involved is the perception-behavior link, the recently documented finding that the mere perception of another's behavior automatically increases the likelihood of engaging in that behavior oneself.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: T. Chartrand, J. Bargh
+

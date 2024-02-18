@@ -1,0 +1,12 @@
+corpus id: 39986880, 
+
+Title: Musings on Telepresence and Virtual Presence
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Sheridan
+

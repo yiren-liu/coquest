@@ -1,0 +1,12 @@
+corpus id: 3330313, 
+
+Title: A Survey of Outlier Detection Methodologies
+
+Abstract: None
+
+TLDR: A survey of contemporary techniques for outlier detection is introduced and their respective motivations are identified and distinguish their advantages and disadvantages in a comparative review.
+
+Fields of Study: ['Computer Science']
+
+Authors: Victoria J. Hodge, J. Austin
+

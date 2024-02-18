@@ -1,0 +1,12 @@
+corpus id: 8895676, 
+
+Title: The political blogosphere and the 2004 U.S. election: divided they blog
+
+Abstract: In this paper, we study the linking patterns and discussion topics of political bloggers. Our aim is to measure the degree of interaction between liberal and conservative blogs, and to uncover any differences in the structure of the two communities. Specifically, we analyze the posts of 40 "A-list" blogs over the period of two months preceding the U.S. Presidential Election of 2004, to study how often they referred to one another and to quantify the overlap in the topics they discussed, both within the liberal and conservative communities, and also across communities. We also study a single day snapshot of over 1,000 political blogs. This snapshot captures blogrolls (the list of links to other blogs frequently found in sidebars), and presents a more static picture of a broader blogosphere. Most significantly, we find differences in the behavior of liberal and conservative blogs, with conservative blogs linking to each other more frequently and in a denser pattern.
+
+TLDR: Differences in the behavior of liberal and conservative blogs are found, with conservative blogs linking to each other more frequently and in a denser pattern.
+
+Fields of Study: ['Political Science', 'Computer Science']
+
+Authors: Lada A. Adamic, N. Glance
+

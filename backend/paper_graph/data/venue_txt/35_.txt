@@ -1,0 +1,12 @@
+corpus id: 124895197, 
+
+Title: Human Inference: Strategies and Shortcomings of Social Judgment.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: H. Weiner, R. Nisbett, L. Ross
+

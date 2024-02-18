@@ -1,0 +1,12 @@
+corpus id: 9530137, 
+
+Title: Acoustic Modeling Using Deep Belief Networks
+
+Abstract: Gaussian mixture models are currently the dominant technique for modeling the emission distribution of hidden Markov models for speech recognition. We show that better phone recognition on the TIMIT dataset can be achieved by replacing Gaussian mixture models by deep neural networks that contain many layers of features and a very large number of parameters. These networks are first pre-trained as a multi-layer generative model of a window of spectral feature vectors without making use of any discriminative information. Once the generative pre-training has designed the features, we perform discriminative fine-tuning using backpropagation to adjust the features slightly to make them better at predicting a probability distribution over the states of monophone hidden Markov models.
+
+TLDR: It is shown that better phone recognition on the TIMIT dataset can be achieved by replacing Gaussian mixture models by deep neural networks that contain many layers of features and a very large number of parameters.
+
+Fields of Study: ['Computer Science']
+
+Authors: Abdel-rahman Mohamed, George E. Dahl, Geoffrey E. Hinton
+

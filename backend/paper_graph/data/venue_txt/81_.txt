@@ -1,0 +1,12 @@
+corpus id: 14713786, 
+
+Title: Cooperative Localization in Wireless Networks
+
+Abstract: Location-aware technologies will revolutionize many aspects of commercial, public service, and military sectors, and are expected to spawn numerous unforeseen applications. A new era of highly accurate ubiquitous location-awareness is on the horizon, enabled by a paradigm of cooperation between nodes. In this paper, we give an overview of cooperative localization approaches and apply them to ultrawide bandwidth (UWB) wireless networks. UWB transmission technology is particularly attractive for short- to medium-range localization, especially in GPS-denied environments: wide transmission bandwidths enable robust communication in dense multipath scenarios, and the ability to resolve subnanosecond delays results in centimeter-level distance resolution. We will describe several cooperative localization algorithms and quantify their performance, based on realistic UWB ranging models developed through an extensive measurement campaign using FCC-compliant UWB radios. We will also present a powerful localization algorithm by mapping a graphical model for statistical inference onto the network topology, which results in a net-factor graph, and by developing a suitable net-message passing schedule. The resulting algorithm (SPAWN) is fully distributed, can cope with a wide variety of scenarios, and requires little communication overhead to achieve accurate and robust localization.
+
+TLDR: This paper describes several cooperative localization algorithms and quantify their performance, based on realistic UWB ranging models developed through an extensive measurement campaign using FCC-compliant UWB radios, and presents a powerful localization algorithm that is fully distributed, can cope with a wide variety of scenarios, and requires little communication overhead.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: H. Wymeersch, J. Lien, M. Win
+

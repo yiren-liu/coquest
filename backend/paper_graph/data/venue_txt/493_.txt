@@ -1,0 +1,12 @@
+corpus id: 207496393, 
+
+Title: Measurement of Situation Awareness in Dynamic Systems
+
+Abstract: Methodologies for the empirical measurement of situation awareness are reviewed, including a discussion of the advantages and disadvantages of each method and the potential limitations of the measures from a theoretical and practical viewpoint. Two studies are presented that investigate questions of validity and intrusiveness regarding a query-based technique. This technique requires that a simulation of the operational tasks be momentarily interrupted in order to query operators on their situation awareness. The results of the two studies indicate that the query technique is not intrusive on normal subject behavior during the trial and does not suffer from limitations of human memory, which provides an indication of empirical validity. The results of other validity studies regarding the technique are discussed along with recommendations for its use in measuring situation awareness in varied settings.
+
+TLDR: Two studies are presented that investigate questions of validity and intrusiveness regarding a query-based technique that requires that a simulation of the operational tasks be momentarily interrupted in order to query operators on their situation awareness.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: M. Endsley
+

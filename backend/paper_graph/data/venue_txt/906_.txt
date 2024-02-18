@@ -1,0 +1,12 @@
+corpus id: 141843786, 
+
+Title: Book Review: Taxonomy of Educational Objectives, The Classification of Educational Goals, Handbook I: Cognitive Domain
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: W. Michael, J. Stanley, D. Bolton
+

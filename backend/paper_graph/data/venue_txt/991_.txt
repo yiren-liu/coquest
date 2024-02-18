@@ -1,0 +1,12 @@
+corpus id: 60563397, 
+
+Title: Neural networks for pattern recognition
+
+Abstract: From the Publisher: This is the first comprehensive treatment of feed-forward neural networks from the perspective of statistical pattern recognition. After introducing the basic concepts, the book examines techniques for modelling probability density functions and the properties and merits of the multi-layer perceptron and radial basis function network models. Also covered are various forms of error functions, principal algorithms for error function minimalization, learning and generalization in neural networks, and Bayesian techniques and their applications. Designed as a text, with over 100 exercises, this fully up-to-date work will benefit anyone involved in the fields of neural computation and pattern recognition.
+
+TLDR: This is the first comprehensive treatment of feed-forward neural networks from the perspective of statistical pattern recognition, and is designed as a text, with over 100 exercises, to benefit anyone involved in the fields of neural computation and pattern recognition.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Bishop
+

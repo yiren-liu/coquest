@@ -1,0 +1,12 @@
+corpus id: 12644877, 
+
+Title: Novel approach to nonlinear/non-Gaussian Bayesian state estimation
+
+Abstract: An algorithm, the bootstrap filter, is proposed for implementing recursive Bayesian filters. The required density of the state vector is represented as a set of random samples, which are updated and propagated by the algorithm. The method is not restricted by assumptions of linear- ity or Gaussian noise: it may be applied to any state transition or measurement model. A simula- tion example of the bearings only tracking problem is presented. This simulation includes schemes for improving the efficiency of the basic algorithm. For this example, the performance of the bootstrap filter is greatly superior to the standard extended Kalman filter.
+
+TLDR: An algorithm, the bootstrap filter, is proposed for implementing recursive Bayesian filters, represented as a set of random samples, which are updated and propagated by the algorithm.
+
+Fields of Study: ['Mathematics']
+
+Authors: N. Gordon, D. Salmond, Adrian F. M. Smith
+

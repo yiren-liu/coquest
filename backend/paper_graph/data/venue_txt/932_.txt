@@ -1,0 +1,12 @@
+corpus id: 11750514, 
+
+Title: Usability Analysis of Visual Programming Environments: A 'Cognitive Dimensions' Framework
+
+Abstract: Abstract The cognitive dimensions framework is a broad-brush evaluation technique for interactive devices and for non-interactive notations. It sets out a small vocabulary of terms designed to capture the cognitively-relevant aspects of structure, and shows how they can be traded off against each other. The purpose of this paper is to propose the framework as an evaluation technique for visual programming environments. We apply it to two commercially-available dataflow languages (with further examples from other systems) and conclude that it is effective and insightful; other HCI-based evaluation techniques focus on different aspects and would make good complements. Insofar as the examples we used are representative, current VPLs are successful in achieving a good ‘closeness of match’, but designers need to consider the ‘viscosity ’ (resistance to local change) and the ‘secondary notation’ (possibility of conveying extra meaning by choice of layout, colour, etc.).
+
+TLDR: This paper applies the cognitive dimensions framework to two commercially-available dataflow languages and concludes that it is effective and insightful; other HCI-based evaluation techniques focus on different aspects and would make good complements.
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Green, M. Petre
+

@@ -1,0 +1,12 @@
+corpus id: 6521266, 
+
+Title: Place illusion and plausibility can lead to realistic behaviour in immersive virtual environments
+
+Abstract: In this paper, I address the question as to why participants tend to respond realistically to situations and events portrayed within an immersive virtual reality system. The idea is put forward, based on the experience of a large number of experimental studies, that there are two orthogonal components that contribute to this realistic response. The first is ‘being there’, often called ‘presence’, the qualia of having a sensation of being in a real place. We call this place illusion (PI). Second, plausibility illusion (Psi) refers to the illusion that the scenario being depicted is actually occurring. In the case of both PI and Psi the participant knows for sure that they are not ‘there’ and that the events are not occurring. PI is constrained by the sensorimotor contingencies afforded by the virtual reality system. Psi is determined by the extent to which the system can produce events that directly relate to the participant, the overall credibility of the scenario being depicted in comparison with expectations. We argue that when both PI and Psi occur, participants will respond realistically to the virtual reality.
+
+TLDR: It is argued that when both PI and Psi occur, participants will respond realistically to the virtual reality.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: M. Slater
+

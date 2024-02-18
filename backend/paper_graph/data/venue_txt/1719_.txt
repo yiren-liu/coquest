@@ -1,0 +1,12 @@
+corpus id: 7958844, 
+
+Title: Enticing online consumers: an extended technology acceptance perspective
+
+Abstract: None
+
+TLDR: This research attempted to provide both theoretical and empirical analyses to explain consumers' use of a virtual store and its antecedents and took an extended perspective to examine consumer behavior in the virtual store context.
+
+Fields of Study: ['Computer Science']
+
+Authors: Lei-da Chen, M. Gillenson, Daniel L. Sherrell
+

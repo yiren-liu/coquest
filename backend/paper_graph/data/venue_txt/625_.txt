@@ -1,0 +1,12 @@
+corpus id: 54156244, 
+
+Title: Designing the User Interface: Strategies for Effective Human-Computer Interaction
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Schneirdeman
+

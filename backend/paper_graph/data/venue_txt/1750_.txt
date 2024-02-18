@@ -1,0 +1,12 @@
+corpus id: 12795832, 
+
+Title: Floating search methods in feature selection
+
+Abstract: None
+
+TLDR: Sequential search methods characterized by a dynamically changing number of features included or eliminated at each step, henceforth "floating" methods, are presented and are shown to give very good results and to be computationally more effective than the branch and bound method.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: P. Pudil, J. Novovicová, J. Kittler
+

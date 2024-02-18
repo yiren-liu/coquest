@@ -1,0 +1,12 @@
+corpus id: 59628641, 
+
+Title: Protocol Analysis: Verbal Reports as Data
+
+Abstract: Since the publication of Ericsson and Simon's work in the early 1980s, verbal data has been used increasingly to study cognitive processes in many areas of psychology, and concurrent and retrospective verbal reports are now generally accepted as important sources of data on subjects' cognitive processes in specific tasks. In this revised edition of the book that put protocol analysis on firm theoretical ground, the authors review major advances in verbal reports over the past decade, including new evidence on how giving verbal reports affects subjects' cognitive processes, and on the validity and completeness of such reports. In a new preface Ericsson and Simon summarize the central issues covered in the book and provide an updated version of their information-processing model, which explains verbalization and verbal reports. They describe new studies on the effects of verbalization, interpreting the results of these studies and showing how their theory can be extended to account for them. Next, they address the issue of completeness of verbally reported information, reviewing the new evidence in three particularly active task domains. They conclude by citing recent contributions to the techniques for encoding protocols, raising general issues, and proposing directions for future research.
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Sociology']
+
+Authors: N. Denzin, K. Ericsson, Herbert A. Simon
+

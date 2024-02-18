@@ -1,0 +1,12 @@
+corpus id: 140742248, 
+
+Title: Motivational interviewing: preparing people for change.
+
+Abstract: Since the initial publication of this breakthrough work, motivational interviewing (MI) has been used by countless clinicians. Theory and methods have evolved apace, reflecting new knowledge on the process of behavior change, a growing body of outcome research, and the development of new applications within and beyond the addictions field. Extensively rewritten, this revised and expanded second edition now brings MI practitioners and trainees fully up to date. William R. Miller and Stephen Rollnick explain how to work through ambivalence to facilitate change, present detailed guidelines for using their approach, and reflect on the process of learning MI.  Chapters contributed by other leading experts then address such special topics as MI and the stages-of-change model, applications in medical, public health, and criminal justice settings, and using the approach with groups, couples, and adolescents.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: W. Miller, S. Rollnick
+

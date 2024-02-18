@@ -1,0 +1,12 @@
+corpus id: 2825590, 
+
+Title: Measuring Presence in Virtual Environments: A Presence Questionnaire
+
+Abstract: The effectiveness of virtual environments (VEs) has often been linked to the sense of presence reported by users of those VEs. (Presence is defined as the subjective experience of being in one place or environment, even when one is physically situated in another.) We believe that presence is a normal awareness phenomenon that requires directed attention and is based in the interaction between sensory stimulation, environmental factors that encourage involvement and enable immersion, and internal tendencies to become involved. Factors believed to underlie presence were described in the premier issue of Presence: Teleoperators and Virtual Environments. We used these factors and others as the basis for a presence questionnaire (PQ) to measure presence in VEs. In addition we developed an immersive tendencies questionnaire (ITQ) to measure differences in the tendencies of individuals to experience presence. These questionnaires are being used to evaluate relationships among reported presence and other research variables. Combined results from four experiments lead to the following conclusions: the PQ and ITQ are internally consistent measures with high reliability; there is a weak but consistent positive relation between presence and task performance in VEs; individual tendencies as measured by the ITQ predict presence as measured by the PQ; and individuals who report more simulator sickness symptoms in VE report less presence than those who report fewer symptoms.
+
+TLDR: Combined results from four experiments lead to the following conclusions: the PQ and ITQ are internally consistent measures with high reliability; there is a weak but consistent positive relation between presence and task performance in VEs; individuals who report more simulator sickness symptoms in VE report less presence than those who report fewer symptoms.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Witmer, M. Singer
+

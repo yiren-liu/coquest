@@ -1,0 +1,12 @@
+corpus id: 16064662, 
+
+Title: Purposeful Sampling for Qualitative Data Collection and Analysis in Mixed Method Implementation Research
+
+Abstract: None
+
+TLDR: This paper reviews the principles and practice of purposeful sampling in implementation research, summarizes types and categories of purposefully sampling strategies and provides a set of recommendations for use of single strategy or multistage strategy designs, particularly for state implementation research.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: L. Palinkas, S. Horwitz, C. Green, J. Wisdom, N. Duan, K. Hoagwood
+

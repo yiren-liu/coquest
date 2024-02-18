@@ -1,0 +1,12 @@
+corpus id: 61074523, 
+
+Title: Pattern recognition : a statistical approach
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Devijver, J. Kittler
+

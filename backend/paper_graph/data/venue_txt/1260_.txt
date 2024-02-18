@@ -1,0 +1,12 @@
+corpus id: 20093324, 
+
+Title: Belief and feeling: evidence for an accessibility model of emotional self-report.
+
+Abstract: This review organizes a variety of phenomena related to emotional self-report. In doing so, the authors offer an accessibility model that specifies the types of factors that contribute to emotional self-reports under different reporting conditions. One important distinction is between emotion, which is episodic, experiential, and contextual, and beliefs about emotion, which are semantic, conceptual, and decontextualized. This distinction is important in understanding the discrepancies that often occur when people are asked to report on feelings they are currently experiencing versus those that they are not currently experiencing. The accessibility model provides an organizing framework for understanding self-reports of emotion and suggests some new directions for research.
+
+TLDR: An accessibility model is offered that specifies the types of factors that contribute to emotional self-reports under different reporting conditions and suggests some new directions for research.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: Michael D. Robinson, G. Clore
+

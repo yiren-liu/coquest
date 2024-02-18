@@ -1,0 +1,12 @@
+corpus id: 1606365, 
+
+Title: Contributing Knowledge to Electronic Knowledge Repositories: An Empirical Investigation
+
+Abstract: Organizations are attempting to leverage their knowledge resources by employing knowledge management (KM) systems, a key form of which are electronic knowledge repositories (EKRs). A large number of KM initiatives fail due to the reluctance of employees to share knowledge through these systems. Motivated by such concerns, this study formulates and tests a theoretical model to explain EKR usage by knowledge contributors. The model employs social exchange theory to identify cost and benefit factors affecting EKR usage, and social capital theory to account for the moderating influence of contextual factors. The model is validated through a large-scale survey of public sector organizations. The results reveal that knowledge self-efficacy and enjoyment in helping others significantly impact EKR usage by knowledge contributors. Contextual factors (generalized trust, pro-sharing norms, and identification) moderate the impact of codification effort, reciprocity, and organizational reward on EKR usage, respectively. It can be seen that extrinsic benefits (reciprocity and organizational reward) impact EKR usage contingent on particular contextual factors whereas the effects of intrinsic benefits (knowledge self-efficacy and enjoyment in helping others) on EKR usage are not moderated by contextual factors. The loss of knowledge power and image do not appear to impact EKR usage by knowledge contributors. Besides contributing to theory building in KM, the results of this study inform KM practice.
+
+TLDR: It can be seen that extrinsic benefits (reciprocity and organizational reward) impact EKR usage contingent on particular contextual factors whereas the effects of intrinsic benefits (knowledge self-efficacy and enjoyment in helping others) on E KR usage are not moderated by contextual factors.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: A. Kankanhalli, B. Tan, K. Wei
+

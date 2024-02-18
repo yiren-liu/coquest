@@ -1,0 +1,12 @@
+corpus id: 12224119, 
+
+Title: Towards a standard for pointing device evaluation, perspectives on 27 years of Fitts' law research in HCI
+
+Abstract: None
+
+TLDR: This paper makes seven recommendations to HCI researchers wishing to construct Fitts' law models for either movement time prediction, or for the comparison of conditions in an experiment that support the methods described in the recent ISO 9241-9 standard on the evaluation of pointing devices.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. W. Soukoreff, I. Mackenzie
+

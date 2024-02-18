@@ -1,0 +1,12 @@
+corpus id: 8141345, 
+
+Title: New Results in Linear Filtering and Prediction Theory
+
+Abstract: A nonlinear differential equation of the Riccati type is derived for the covariance matrix of the optimal filtering error. The solution of this "variance equation" completely specifies the optimal filter for either finite or infinite smoothing intervals and stationary or nonstationary statistics. The variance equation is closely related to the Hamiltonian (canonical) differential equations of the calculus of variations. Analytic solutions are available in some cases. The significance of the variance equation is illustrated by examples which duplicate, simplify, or extend earlier results in this field. The Duality Principle relating stochastic estimation and deterministic control problems plays an important role in the proof of theoretical results. In several examples, the estimation problem and its dual are discussed side-by-side. Properties of the variance equation are of great interest in the theory of adaptive systems. Some aspects of this are considered briefly.
+
+TLDR: The Duality Principle relating stochastic estimation and deterministic control problems plays an important role in the proof of theoretical results and properties of the variance equation are of great interest in the theory of adaptive systems.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Kálmán, R. Bucy
+

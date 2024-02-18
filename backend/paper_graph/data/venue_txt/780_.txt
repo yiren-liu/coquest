@@ -1,0 +1,12 @@
+corpus id: 7183812, 
+
+Title: E-mail Survey Response Rates: A Review
+
+Abstract: Electronic mail (e-mail) has been used to distribute surveys and collect data from online users for almost fifteen years. However, some have suggested that the use of e-mail is becoming obsolete. This study analyzes response rates to e-mail surveys undertaken since 1986 and examines five influences to response rates: the year the study was undertaken, the number of questions in the survey, the number of pre-notification contacts, the number of follow-up contacts and survey topic salience. Response rates to e-mail surveys have significantly decreased since 1986. Correlation and regression analyses suggest that year that the survey was undertaken and number of follow-up contacts had the most influence on response rates. A discussion of other influences and future research into this area is provided.
+
+TLDR: Responses to e-mail surveys undertaken since 1986 are analyzed and correlation and regression analyses suggest that year that the survey was undertaken and number of follow-up contacts had the most influence on response rates.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: K. Sheehan
+

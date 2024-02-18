@@ -1,0 +1,12 @@
+corpus id: 143570339, 
+
+Title: Art and Visual Perception, a Psychology of the Creative Eye
+
+Abstract: Since its publication fifty years ago, this work has established itself as a classic. It casts the visual process in psychological terms and describes the creative way one's eye organizes visual material according to specific psychological premises. In 1974 this book was revised and expanded, and since then it has continued to burnish Rudolf Arnheim's reputation as a groundbreaking theoretician in the fields of art and psychology.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Arnheim
+

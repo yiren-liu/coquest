@@ -1,0 +1,12 @@
+corpus id: 63413645, 
+
+Title: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: Sayed Chhattan Shah, Myong-Soon Park, Wan-Sik Choi, Sajjad Hussain, A. Bashir
+

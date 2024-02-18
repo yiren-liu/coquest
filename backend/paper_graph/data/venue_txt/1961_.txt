@@ -1,0 +1,12 @@
+corpus id: 38581081, 
+
+Title: Is Anybody Out There? Antecedents of Trust in Global Virtual Teams
+
+Abstract: A global virtual team is an example of a boundaryless network organization form where a temporary team is assembled on an as-needed basis for the duration of a task and staffed by members from different countries. In such teams, coordination is accomplished via trust and shared communication systems. The focus of the reported study was to explore the antecedents of trust in a global virtual-team setting. Seventyfive teams, consisting of four to six members residing in different countries, interacted and worked together for eight weeks. The two-week trust-building exercises did have a significant effect on the team members' perceptions of the other members' ability, integrity, and benevolence. In the early phases of teamwork, team trust was predicted strongest by perceptions of other team members' integrity, and weakest by perceptions of their benevolence. The effect of other members' perceived ability on trust decreased over time. The members' own propensity to trust had a significant, though unchanging, effect on trust. A qualitative analysis of six teams' electronic mail messages explored strategies that were used by the three highest trust teams, but were used infrequently or not at all by the three lowest trust teams. The strategies suggest the presence of "swift" trust. The paper advances a research model for explaining trust in global virtual teams.
+
+TLDR: A research model for explaining trust in global virtual teams is advanced, and strategies that were used by the three highest trust teams, but were used infrequently or not at all by theThree lowest trust teams suggest the presence of "swift" trust.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: S. Jarvenpaa, K. Knoll, D. Leidner
+

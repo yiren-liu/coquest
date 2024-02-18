@@ -1,0 +1,12 @@
+corpus id: 142745682, 
+
+Title: Introduction to Statistical Mediation Analysis
+
+Abstract: Preface. Introduction. Applications of the Mediation Model. Single Mediator Model. Single Mediator Model Details. Multiple Mediator Model. Path Analysis Mediation Models. Latent Variable Mediation Models. Longitudinal Mediation Models. Multilevel Mediation Models. Mediation and Moderation. Mediation in Categorical Data Analysis. Computer Intensive Methods for Mediation Models. Causal Inference for Mediation Models. Additional Approaches to Identifying Mediating Variables. Conclusions and Future Directions. Appendices: Answers to Odd-Numbered Exercises. Notation.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Mackinnon
+

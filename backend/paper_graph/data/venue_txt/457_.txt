@@ -1,0 +1,12 @@
+corpus id: 146175992, 
+
+Title: Critical Race Methodology: Counter-Storytelling as an Analytical Framework for Education Research
+
+Abstract: This article addresses how critical race theory can inform a critical race methodology in education. The authors challenge the intercentricity of racism with other forms of subordination and exposes deficit-informed research that silences and distorts epistemologies of people of color. Although social scientists tell stories under the guise of “objective” research, these stories actually uphold deficit, racialized notions about people of color. For the authors, a critical race methodology provides a tool to “counter” deficit storytelling. Specifically, a critical race methodology offers space to conduct and present research grounded in the experiences and knowledge of people of color. As they describe how they compose counter-stories, the authors discuss how the stories can be used as theoretical, methodological, and pedagogical tools to challenge racism, sexism, and classism and work toward social justice.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: D. Solorzano, Tara J. Yosso
+

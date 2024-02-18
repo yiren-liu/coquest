@@ -1,0 +1,12 @@
+corpus id: 154502082, 
+
+Title: A review
+
+Abstract: Parenting practices are strategies used by parents to educate their children. This literature review was carried out to survey, describe and measure the frequency of publications of instruments developed by Brazilian researchers to measure parenting practices. Of the 80 articles found, six inventories or scales are used by the researchers to measure parenting practices. Most instruments had satisfactory internal consistency indices. The instruments were used to measure parenting practices in infants, preschool and school children, adolescents, youth, and adults. The correlation or relation of parenting practices with antisocial behavior, depression, teenage pregnancy, school performance, among others, was identified.
+
+TLDR: 
+
+Fields of Study: ['History']
+
+Authors: R. C. Macridis
+

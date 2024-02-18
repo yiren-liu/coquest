@@ -1,0 +1,12 @@
+corpus id: 2673708, 
+
+Title: Context-Aware Computing Applications
+
+Abstract: This paper describes systems that examine and react to an individual's changing context. Such systems can promote and mediate people's interactions with devices, computers, and other people, and they can help navigate unfamiliar places. We believe that a limited amount of information covering a person's proximate environment is most important for this form of computing since the interesting part of the world around us is what we can see, hear, and touch. In this paper we define context-aware computing, and describe four catagories of context-aware applications: proximate selection, automatic contextual reconfiguration, contextual information and commands, and contex-triggered actions. Instances of these application types have been prototyped on the PARCTAB, a wireless, palm-sized computer.
+
+TLDR: This paper describes systems that examine and react to an individual's changing context, and describes four catagories of context-aware applications: proximate selection, automatic contextual reconfiguration, contextual information and commands, and contex-triggered actions.
+
+Fields of Study: ['Computer Science']
+
+Authors: Bill N. Schilit, N. Adams, R. Want
+

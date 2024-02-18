@@ -1,0 +1,12 @@
+corpus id: 8739159, 
+
+Title: The magical number 4 in short-term memory: A reconsideration of mental storage capacity
+
+Abstract: Miller (1956) summarized evidence that people can remember about seven chunks in short-term memory (STM) tasks. However, that number was meant more as a rough estimate and a rhetorical device than as a real capacity limit. Others have since suggested that there is a more precise capacity limit, but that it is only three to five chunks. The present target article brings together a wide variety of data on capacity limits suggesting that the smaller capacity limit is real. Capacity limits will be useful in analyses of information processing only if the boundary conditions for observing them can be carefully described. Four basic conditions in which chunks can be identified and capacity limits can accordingly be observed are: (1) when information overload limits chunks to individual stimulus items, (2) when other steps are taken specifically to block the recoding of stimulus items into larger chunks, (3) in performance discontinuities caused by the capacity limit, and (4) in various indirect effects of the capacity limit. Under these conditions, rehearsal and long-term memory cannot be used to combine stimulus items into chunks of an unknown size; nor can storage mechanisms that are not capacity-limited, such as sensory memory, allow the capacity-limited storage mechanism to be refilled during recall. A single, central capacity limit averaging about four chunks is implicated along with other, noncapacity-limited sources. The pure STM capacity limit expressed in chunks is distinguished from compound STM limits obtained when the number of separately held chunks is unclear. Reasons why pure capacity estimates fall within a narrow range are discussed and a capacity limit for the focus of attention is proposed.
+
+TLDR: A wide variety of data on capacity limits suggesting that the smaller capacity limit in short-term memory tasks is real is brought together and a capacity limit for the focus of attention is proposed.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: N. Cowan
+

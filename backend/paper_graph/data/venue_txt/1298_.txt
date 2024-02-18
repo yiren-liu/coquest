@@ -1,0 +1,12 @@
+corpus id: 15843983, 
+
+Title: Error bounds for convolutional codes and an asymptotically optimum decoding algorithm
+
+Abstract: The probability of error in decoding an optimal convolutional code transmitted over a memoryless channel is bounded from above and below as a function of the constraint length of the code. For all but pathological channels the bounds are asymptotically (exponentially) tight for rates above R_{0} , the computational cutoff rate of sequential decoding. As a function of constraint length the performance of optimal convolutional codes is shown to be superior to that of block codes of the same length, the relative improvement increasing with rate. The upper bound is obtained for a specific probabilistic nonsequential decoding algorithm which is shown to be asymptotically optimum for rates above R_{0} and whose performance bears certain similarities to that of sequential decoding algorithms.
+
+TLDR: The upper bound is obtained for a specific probabilistic nonsequential decoding algorithm which is shown to be asymptotically optimum for rates above R_{0} and whose performance bears certain similarities to that of sequential decoding algorithms.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: A. Viterbi
+

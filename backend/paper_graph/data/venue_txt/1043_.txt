@@ -1,0 +1,12 @@
+corpus id: 6901130, 
+
+Title: Re-place-ing space: the roles of place and space in collaborative systems
+
+Abstract: Many collaborative and communicative environments use notions of “space” and spatial organisation to facilitate and structure interaction. We argue that a focus on spatial models is misplaced. Drawing on understandings from architecture and urban design, as well as from our own research findings, we highlight the critical distinction between “space” and “place”. While designers use spatial models to support interaction, we show how it is actually a notion of “place” which frames interactive behaviour. This leads us to re-evaluate spatial systems, and discuss how “place”, rather than “space”, can support CSCW design.
+
+TLDR: While designers use spatial models to support interaction, it is shown how it is actually a notion of “place” which frames interactive behaviour, which leads to re-evaluate spatial systems and discuss how ‘place’, rather than “space”, can support CSCW design.
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Harrison, P. Dourish
+

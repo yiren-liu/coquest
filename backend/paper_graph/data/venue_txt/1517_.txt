@@ -1,0 +1,12 @@
+corpus id: 15349861, 
+
+Title: A Beginner's Guide to Factor Analysis: Focusing on Exploratory Factor Analysis
+
+Abstract: The following paper discusses exploratory factor analysis and gives an overview of the statistical technique and how it is used in various research designs and applications. A basic outline of how the technique works and its criteria, including its main assumptions are discussed as well as when it should be used. Mathematical theories are explored to enlighten students on how exploratory factor analysis works, an example of how to run an exploratory factor analysis on SPSS is given, and finally a section on how to write up the results is provided. This will allow readers to develop a better understanding of when to employ factor analysis and how to interpret the tables and graphs in the output.
+
+TLDR: An overview of the statistical technique and how it is used in various research designs and applications is given, to develop a better understanding of when to employ factor analysis and how to interpret the tables and graphs in the output.
+
+Fields of Study: ['Computer Science']
+
+Authors: An Gie Yong, S. Pearce
+

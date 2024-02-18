@@ -1,0 +1,12 @@
+corpus id: 196008710, 
+
+Title: Pattern Classification
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Hart, R. Duda, D. Stork
+

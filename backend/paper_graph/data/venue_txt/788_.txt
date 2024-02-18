@@ -1,0 +1,12 @@
+corpus id: 35417665, 
+
+Title: RTP: A Transport Protocol for Real-Time Applications
+
+Abstract: This memorandum describes RTP, the real-time transport protocol. RTP provides end-to-end network transport functions suitable for applications transmitting real-time data, such as audio, video or simulation data, over multicast or unicast network services. RTP does not address resource reservation and does not guarantee quality-of-service for real-time services. The data transport is augmented by a control protocol (RTCP) to allow monitoring of the data delivery in a manner scalable to large multicast networks, and to provide minimal control and identification functionality. RTP and RTCP are designed to be independent of the underlying transport and network layers. The protocol supports the use of RTP-level translators and mixers.
+
+TLDR: RTP provides end-to-end network transport functions suitable for applications transmitting real-time data over multicast or unicast network services and is augmented by a control protocol (RTCP) to allow monitoring of the data delivery in a manner scalable to large multicast networks.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: H. Schulzrinne, S. Casner, R. Frederick, V. Jacobson
+

@@ -1,0 +1,12 @@
+corpus id: 14259584, 
+
+Title: The Elaboration Likelihood Model of Persuasion
+
+Abstract: None
+
+TLDR: This chapter discusses a wide variety of variables that proved instrumental in affecting the elaboration likelihood, and thus the route to persuasion, and outlines the two basic routes to persuasion.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: R. Petty, J. Cacioppo
+

@@ -1,0 +1,12 @@
+corpus id: 12783292, 
+
+Title: Social relationships and health.
+
+Abstract: Recent scientific work has established both a theoretical basis and strong empirical evidence for a causal impact of social relationships on health. Prospective studies, which control for baseline health status, consistently show increased risk of death among persons with a low quantity, and sometimes low quality, of social relationships. Experimental and quasi-experimental studies of humans and animals also suggest that social isolation is a major risk factor for mortality from widely varying causes. The mechanisms through which social relationships affect health and the factors that promote or inhibit the development and maintenance of social relationships remain to be explored.
+
+TLDR: Experimental and quasi-experimental studies suggest that social isolation is a major risk factor for mortality from widely varying causes and the mechanisms through which social relationships affect health remain to be explored.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. House, Karl R. Landis, D. Umberson
+

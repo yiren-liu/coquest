@@ -1,0 +1,12 @@
+corpus id: 146322489, 
+
+Title: Frames of Mind: The Theory of Multiple Intelligences
+
+Abstract: * Introduction to the Tenth Anniversary Edition Background * The Idea of Multiple Intelligences * Intelligence: Earlier Views * Biological Foundations of Intelligence * What Is an Intelligence? The Theory * Linguistic Intelligence * Musical Intelligence * Logical-Mathematical Intelligence * Spatial Intelligence * Bodily-Kinesthetic Intelligence * The Personal Intelligences * A Critique of the Theory of Multiple Intelligences * The Socialization of Human Intelligences through Symbols Implications And Applications * The Education of Intelligences * The Application of Intelligences
+
+TLDR: The Tenth Anniversary Edition of Intelligence explains the development of intelligence in the 21st Century through the applications of language, linguistics, mathematics, and more.
+
+Fields of Study: ['Psychology', 'Art']
+
+Authors: H. Gardner
+

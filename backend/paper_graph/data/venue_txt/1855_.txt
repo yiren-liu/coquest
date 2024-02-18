@@ -1,0 +1,12 @@
+corpus id: 8357832, 
+
+Title: The Impact of Social Structure on Economic Outcomes
+
+Abstract: S ocial structure, especially in the form of social networks, affects economic outcomes for three main reasons. First, social networks affect the flow and the quality of information. Much information is subtle, nuanced and difficult to verify, so actors do not believe impersonal sources and instead rely on people they know. Second, social networks are an important source of reward and punishment, since these are often magnified in their impact when coming from others personally known. Third, trust, by which I mean the confidence that others will do the “right” thing despite a clear balance of incentives to the contrary, emerges, if it does, in the context of a social network. Economists have recently devoted considerable attention to the impact of social structure and networks on the economy; for example, see the economists’ chapters in Rauch and Casella (2001) (and the illuminating review essay of this volume by Zuckerman, 2003), as well as Dutta and Jackson (2003) and CalvoArmengol (2004). However, I focus here on sociologists’ contributions. Sociologists have developed core principles about the interactions of social structure, information, ability to punish or reward, and trust that frequently recur in their analyses of political, economic and other institutions. I begin by reviewing some of these principles. Building on these, I then discuss how social structures and social networks can affect economic outcomes like hiring, price, productivity and innovation.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Mark S. Granovetter
+

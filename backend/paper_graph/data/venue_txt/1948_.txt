@@ -1,0 +1,12 @@
+corpus id: 120166447, 
+
+Title: Alternative Ways of Assessing Model Fit
+
+Abstract: This article is concerned with measures of fit of a model. Two types of error involved in fitting a model are considered. The first is error of approximation which involves the fit of the model, with optimally chosen but unknown parameter values, to the population covariance matrix. The second is overall error which involves the fit of the model, with parameter values estimated from the sample, to the population covariance matrix. Measures of the two types of error are proposed and point and interval estimates of the measures are suggested. These measures take the number of parameters in the model into account in order to avoid penalizing parsimonious models. Practical difficulties associated with the usual tests of exact fit or a model are discussed and a test of “close fit” of a model is suggested.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: M. Browne, R. Cudeck
+

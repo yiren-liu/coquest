@@ -1,0 +1,12 @@
+corpus id: 206608942, 
+
+Title: BCI2000: a general-purpose brain-computer interface (BCI) system
+
+Abstract: Many laboratories have begun to develop brain-computer interface (BCI) systems that provide communication and control capabilities to people with severe motor disabilities. Further progress and realization of practical applications depends on systematic evaluations and comparisons of different brain signals, recording methods, processing algorithms, output formats, and operating protocols. However, the typical BCI system is designed specifically for one particular BCI method and is, therefore, not suited to the systematic studies that are essential for continued progress. In response to this problem, we have developed a documented general-purpose BCI research and development platform called BCI2000. BCI2000 can incorporate alone or in combination any brain signals, signal processing methods, output devices, and operating protocols. This report is intended to describe to investigators, biomedical engineers, and computer scientists the concepts that the BCI2000 system is based upon and gives examples of successful BCI implementations using this system. To date, we have used BCI2000 to create BCI systems for a variety of brain signals, processing methods, and applications. The data show that these systems function well in online operation and that BCI2000 satisfies the stringent real-time requirements of BCI systems. By substantially reducing labor and cost, BCI2000 facilitates the implementation of different BCI systems and other psychophysiological experiments. It is available with full documentation and free of charge for research or educational purposes and is currently being used in a variety of studies by many research groups.
+
+TLDR: This report is intended to describe to investigators, biomedical engineers, and computer scientists the concepts that the BCI2000 system is based upon and gives examples of successful BCI implementations using this system.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: G. Schalk, D. McFarland, T. Hinterberger, N. Birbaumer, J. Wolpaw
+

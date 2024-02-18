@@ -1,0 +1,12 @@
+corpus id: 8136203, 
+
+Title: The Online Disinhibition Effect
+
+Abstract: While online, some people self-disclose or act out more frequently or intensely than they would in person. This article explores six factors that interact with each other in creating this online disinhibition effect: dissociative anonymity, invisibility, asynchronicity, solipsistic introjection, dissociative imagination, and minimization of authority. Personality variables also will influence the extent of this disinhibition. Rather than thinking of disinhibition as the revealing of an underlying "true self," we can conceptualize it as a shift to a constellation within self-structure, involving clusters of affect and cognition that differ from the in-person constellation.
+
+TLDR: Six factors that interact with each other in creating this online disinhibition effect are explored: dissociative anonymity, invisibility, asynchronicity, solipsistic introjection, dissociable imagination, and minimization of authority.
+
+Fields of Study: ['Psychology', 'Medicine', 'Computer Science']
+
+Authors: J. Suler
+

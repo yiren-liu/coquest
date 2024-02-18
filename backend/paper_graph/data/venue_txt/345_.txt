@@ -1,0 +1,12 @@
+corpus id: 1211102, 
+
+Title: BRISK: Binary Robust invariant scalable keypoints
+
+Abstract: Effective and efficient generation of keypoints from an image is a well-studied problem in the literature and forms the basis of numerous Computer Vision applications. Established leaders in the field are the SIFT and SURF algorithms which exhibit great performance under a variety of image transformations, with SURF in particular considered as the most computationally efficient amongst the high-performance methods to date. In this paper we propose BRISK1, a novel method for keypoint detection, description and matching. A comprehensive evaluation on benchmark datasets reveals BRISK's adaptive, high quality performance as in state-of-the-art algorithms, albeit at a dramatically lower computational cost (an order of magnitude faster than SURF in cases). The key to speed lies in the application of a novel scale-space FAST-based detector in combination with the assembly of a bit-string descriptor from intensity comparisons retrieved by dedicated sampling of each keypoint neighborhood.
+
+TLDR: A comprehensive evaluation on benchmark datasets reveals BRISK's adaptive, high quality performance as in state-of-the-art algorithms, albeit at a dramatically lower computational cost (an order of magnitude faster than SURF in cases).
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Stefan Leutenegger, M. Chli, R. Siegwart
+

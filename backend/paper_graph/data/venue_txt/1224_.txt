@@ -1,0 +1,12 @@
+corpus id: 7062956, 
+
+Title: The task force.
+
+Abstract: 1. The Joint UNECE/Eurostat/OECD Working Group on Statistics for Sustainable Development (WGSSD) was commissioned by the CES in 2005 to develop a broad conceptual framework for measuring sustainable development based on the capital approach, and to identify a small set of indicators that could serve for international comparisons. As a result of its two years of work, the WGSSD prepared a Report on Measuring Sustainable Development. The WGSSD noted in the Report the need for further conceptual and methodological development to refine certain elements of the capital approach. The final version of the Report will be made available before the end of 2008. A print version is expected to be available by March 2009. With the finalization of this Report, the mandate of the WGSSD is fulfilled. 2. In February 2008, the CES Bureau reviewed the Report and recognized that many issues remain unresolved and can be further developed. The Bureau agreed on a proposal that a new Task Force be created. The proposal was presented to the plenary session of the CES in June 2008. The CES expressed general support for continuing the work in this area and recommended that the Bureau discuss how to proceed further at its October 2008 meeting. 3. In October 2008, the CES Bureau reviewed the first draft version of the Terms of Reference and provided a more detailed guidance on the work of a future Task Force. The Bureau made the following main recommendations: (a) The indicators should be useful for policy makers and should allow comparison across time; (b) The refinement of the small set of capital indicators should continue; (c) The areas of social and human capital should be further developed.
+
+TLDR: The Joint UNECE/Eurostat/OECD Working Group on Statistics for Sustainable Development (WGSSD) was commissioned by the CES in 2005 to develop a broad conceptual framework for measuring sustainable development based on the capital approach, and to identify a small set of indicators that could serve for international comparisons.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: S. Kamen
+

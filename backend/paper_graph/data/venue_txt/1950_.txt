@@ -1,0 +1,12 @@
+corpus id: 9760419, 
+
+Title: Speaker Verification Using Adapted Gaussian Mixture Models
+
+Abstract: Reynolds, Douglas A., Quatieri, Thomas F., and Dunn, Robert B., Speaker Verification Using Adapted Gaussian Mixture Models, Digital Signal Processing10(2000), 19Â?41.In this paper we describe the major elements of MIT Lincoln Laboratory's Gaussian mixture model (GMM)-based speaker verification system used successfully in several NIST Speaker Recognition Evaluations (SREs). The system is built around the likelihood ratio test for verification, using simple but effective GMMs for likelihood functions, a universal background model (UBM) for alternative speaker representation, and a form of Bayesian adaptation to derive speaker models from the UBM. The development and use of a handset detector and score normalization to greatly improve verification performance is also described and discussed. Finally, representative performance benchmarks and system behavior experiments on NIST SRE corpora are presented.
+
+TLDR: The major elements of MIT Lincoln Laboratory's Gaussian mixture model (GMM)-based speaker verification system used successfully in several NIST Speaker Recognition Evaluations (SREs) are described.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Reynolds, T. Quatieri, R. B. Dunn
+

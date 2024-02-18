@@ -1,0 +1,12 @@
+corpus id: 145102446, 
+
+Title: Situated Learning: Legitimate Peripheral Participation
+
+Abstract: Acknowledgements 1. Legitimate peripheral participation 2. Practice, person, social world 3. Midwives, tailors, quartermasters, butchers, non-drinking alcoholics 4. Legitimate peripheral participation in communities of practice 5. Conclusion References Index.
+
+TLDR: This work has shown that legitimate peripheral participation in communities of practice is not confined to midwives, tailors, quartermasters, butchers, non-drinking alcoholics and the like.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: J. Lave, E. Wenger
+

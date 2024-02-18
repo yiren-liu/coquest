@@ -1,0 +1,12 @@
+corpus id: 120919314, 
+
+Title: A Fuzzy Relative of the ISODATA Process and Its Use in Detecting Compact Well-Separated Clusters
+
+Abstract: Abstract Two fuzzy versions of the k-means optimal, least squared error partitioning problem are formulated for finite subsets X of a general inner product space. In both cases, the extremizing solutions are shown to be fixed points of a certain operator T on the class of fuzzy, k-partitions of X, and simple iteration of T provides an algorithm which has the descent property relative to the least squared error criterion function. In the first case, the range of T consists largely of ordinary (i.e. non-fuzzy) partitions of X and the associated iteration scheme is essentially the well known ISODATA process of Ball and Hall. However, in the second case, the range of T consists mainly of fuzzy partitions and the associated algorithm is new; when X consists of k compact well separated (CWS) clusters, Xi , this algorithm generates a limiting partition with membership functions which closely approximate the characteristic functions of the clusters Xi . However, when X is not the union of k CWS clusters, the limi...
+
+TLDR: Two fuzzy versions of the k-means optimal, least squared error partitioning problem are formulated for finite subsets X of a general inner product space; in both cases, the extremizing solutions are shown to be fixed points of a certain operator T on the class of fuzzy, k-partitions of X, and simple iteration of T provides an algorithm which has the descent property relative to the least squarederror criterion function.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: J. Dunn
+

@@ -1,0 +1,12 @@
+corpus id: 5769709, 
+
+Title: Integrating TTF and UTAUT to explain mobile banking user adoption
+
+Abstract: None
+
+TLDR: It is found that performance expectancy, task technology fit, social influence, and facilitating conditions have significant effects on user adoption and the unified theory of acceptance and usage of technology (UTAUT) model is integrated.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tao Zhou, Yao-bin Lu, Bin Wang
+

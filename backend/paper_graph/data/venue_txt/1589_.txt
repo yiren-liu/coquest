@@ -1,0 +1,12 @@
+corpus id: 15497198, 
+
+Title: A default mode of brain function.
+
+Abstract: A baseline or control state is fundamental to the understanding of most complex systems. Defining a baseline state in the human brain, arguably our most complex system, poses a particular challenge. Many suspect that left unconstrained, its activity will vary unpredictably. Despite this prediction we identify a baseline state of the normal adult human brain in terms of the brain oxygen extraction fraction or OEF. The OEF is defined as the ratio of oxygen used by the brain to oxygen delivered by flowing blood and is remarkably uniform in the awake but resting state (e.g., lying quietly with eyes closed). Local deviations in the OEF represent the physiological basis of signals of changes in neuronal activity obtained with functional MRI during a wide variety of human behaviors. We used quantitative metabolic and circulatory measurements from positron-emission tomography to obtain the OEF regionally throughout the brain. Areas of activation were conspicuous by their absence. All significant deviations from the mean hemisphere OEF were increases, signifying deactivations, and resided almost exclusively in the visual system. Defining the baseline state of an area in this manner attaches meaning to a group of areas that consistently exhibit decreases from this baseline, during a wide variety of goal-directed behaviors monitored with positron-emission tomography and functional MRI. These decreases suggest the existence of an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors.
+
+TLDR: A baseline state of the normal adult human brain in terms of the brain oxygen extraction fraction or OEF is identified, suggesting the existence of an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors.
+
+Fields of Study: ['Medicine', 'Computer Science']
+
+Authors: M. Raichle, A. Macleod, A. Snyder, W. Powers, D. Gusnard, G. Shulman
+

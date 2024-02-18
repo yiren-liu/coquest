@@ -1,0 +1,12 @@
+corpus id: 153879187, 
+
+Title: Demographics of Mechanical Turk
+
+Abstract: We present the results of a survey that collected information about the demographics of participants on Amazon Mechanical Turk, together with information about their level of activity and motivation for working on Amazon Mechanical Turk. We find that approximately 50% of the workers come from the United States and 40% come from India. Country of origin tends to change the motivating reasons for workers to participate in the marketplace. Significantly more workers from India participate on Mechanical Turk because the online marketplace is a primary source of income, while in the US most workers consider Mechanical Turk a secondary source of income. While money is a primary motivating reason for workers to participate in the marketplace, workers also cite a variety of other motivating reasons, including entertainment and education.
+
+TLDR: 
+
+Fields of Study: ['Political Science']
+
+Authors: Panagiotis G. Ipeirotis
+

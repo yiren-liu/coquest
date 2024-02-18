@@ -1,0 +1,12 @@
+corpus id: 57442523, 
+
+Title: Harrison's Principles of Internal Medicine
+
+Abstract: The 11th edition of Harrison's Principles of Internal Medicine welcomes Anthony Fauci to its editorial staff, in addition to more than 85 new contributors. While the organization of the book is similar to previous editions, major emphasis has been placed on disorders that affect multiple organ systems. Important advances in genetics, immunology, and oncology are emphasized. Many chapters of the book have been rewritten and describe major advances in internal medicine. Subjects that received only a paragraph or two of attention in previous editions are now covered in entire chapters. Among the chapters that have been extensively revised are the chapters on infections in the compromised host, on skin rashes in infections, on many of the viral infections, including cytomegalovirus and Epstein-Barr virus, on sexually transmitted diseases, on diabetes mellitus, on disorders of bone and mineral metabolism, and on lymphadenopathy and splenomegaly. The major revisions in these chapters and many
+
+TLDR: The 11th edition of Harrison's Principles of Internal Medicine welcomes Anthony Fauci to its editorial staff, in addition to more than 85 new contributors.
+
+Fields of Study: ['Medicine']
+
+Authors: J. Bigby
+

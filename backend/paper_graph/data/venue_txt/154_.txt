@@ -1,0 +1,12 @@
+corpus id: 11242510, 
+
+Title: Plans and situated actions - the problem of human-machine communication
+
+Abstract: Preface Acknowledgements 1. Introduction 2. Interactive artefacts 3. Plans 4. Situated actions 5. Communicative resources 6. Case and methods 7. Human-machine communication 8. Conclusion References Indices.
+
+TLDR: This paper presents a meta-modelling architecture for human-machine communication that automates the very labor-intensive and therefore time-heavy and therefore expensive and expensive process of designing and implementing communication systems.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: L. Suchman
+

@@ -1,0 +1,12 @@
+corpus id: 17393171, 
+
+Title: Factors predicting the use of technology: findings from the Center for Research and Education on Aging and Technology Enhancement (CREATE).
+
+Abstract: The successful adoption of technology is becoming increasingly important to functional independence. The present article reports findings from the Center for Research and Education on Aging and Technology Enhancement (CREATE) on the use of technology among community-dwelling adults. The sample included 1,204 individuals ranging in age from 18-91 years. All participants completed a battery that included measures of demographic characteristics, self-rated health, experience with technology, attitudes toward computers, and component cognitive abilities. Findings indicate that the older adults were less likely than younger adults to use technology in general, computers, and the World Wide Web. The results also indicate that computer anxiety, fluid intelligence, and crystallized intelligence were important predictors of the use of technology. The relationship between age and adoption of technology was mediated by cognitive abilities, computer self-efficacy, and computer anxiety. These findings are discussed in terms of training strategies to promote technology adoption.
+
+TLDR: Findings indicate that the older adults were less likely than younger adults to use technology in general, computers, and the World Wide Web and the relationship between age and adoption of technology was mediated by cognitive abilities, computer self-efficacy, and computer anxiety.
+
+Fields of Study: ['Medicine', 'Psychology', 'Engineering']
+
+Authors: S. Czaja, N. Charness, A. Fisk, C. Hertzog, S. Nair, W. Rogers, J. Sharit
+

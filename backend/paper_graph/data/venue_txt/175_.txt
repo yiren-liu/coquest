@@ -1,0 +1,12 @@
+corpus id: 2427083, 
+
+Title: Text Categorization with Support Vector Machines: Learning with Many Relevant Features
+
+Abstract: None
+
+TLDR: This paper explores the use of Support Vector Machines for learning text classifiers from examples and analyzes the particular properties of learning with text data and identifies why SVMs are appropriate for this task.
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Joachims
+

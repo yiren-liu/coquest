@@ -1,0 +1,12 @@
+corpus id: 1507815, 
+
+Title: MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems
+
+Abstract: MXNet is a multi-language machine learning (ML) library to ease the development of ML algorithms, especially for deep neural networks. Embedded in the host language, it blends declarative symbolic expression with imperative tensor computation. It offers auto differentiation to derive gradients. MXNet is computation and memory efficient and runs on various heterogeneous systems, ranging from mobile devices to distributed GPU clusters. This paper describes both the API design and the system implementation of MXNet, and explains how embedding of both symbolic expression and tensor operation is handled in a unified fashion. Our preliminary experiments reveal promising results on large scale deep neural network applications using multiple GPU machines.
+
+TLDR: The API design and the system implementation of MXNet are described, and it is explained how embedding of both symbolic expression and tensor operation is handled in a unified fashion.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tianqi Chen, Mu Li, Yutian Li, Min Lin, Naiyan Wang, Minjie Wang, Tianjun Xiao, Bing Xu, Chiyuan Zhang, Zheng Zhang
+

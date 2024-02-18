@@ -1,0 +1,12 @@
+corpus id: 901558, 
+
+Title: A new model of work role performance: Positive behavior in uncertain and interdependent contexts
+
+Abstract: We propose that interdependence in a work context determines to what extent work roles are embedded within a broader social system and, further, that uncertainty determines whether work roles can be formalized or whether they emerge through adaptive and proactive behavior. Cross-classification of task, team member, and organization member behaviors with proficiency, adaptivity, and proactivity produced nine subdimensions of work role performance. Ratings from 491 supervisors from 32 organizations and self-ratings from employees in two organizations (n's = 1,228 and 927) supported the proposed distinctions. Self-reports of proactivity were positively correlated with two external measures of proactivity.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: M. Griffin, A. Neal, S. Parker
+

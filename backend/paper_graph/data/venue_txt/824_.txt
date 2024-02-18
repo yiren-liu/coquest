@@ -1,0 +1,12 @@
+corpus id: 32243134, 
+
+Title: Multiple resources and performance prediction
+
+Abstract: This paper describes the origins and history of multiple resource theory in accounting for differences in dual task interference. One particular application of the theory, the 4-dimensional multiple resources model, is described in detail, positing that there will be greater interference between two tasks to the extent that they share stages (perceptual/cognitive vs response) sensory modalities (auditory vs visual), codes (visual vs spatial) and channels of visual information (focal vs ambient). A computational rendering of this model is then presented. Examples are given of how the model predicts interference differences in operational environments. Finally, three challenges to the model are outlined regarding task demand coding, task allocation and visual resource competition.
+
+TLDR: One particular application of the theory, the 4-dimensional multiple resources model, is described in detail, positing that there will be greater interference between two tasks to the extent that they share stages, sensory modalities, codes and channels of visual information.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Wickens
+

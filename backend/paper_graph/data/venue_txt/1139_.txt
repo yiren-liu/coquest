@@ -1,0 +1,12 @@
+corpus id: 70455704, 
+
+Title: Weight Gain During Pregnancy: Reexamining the Guidelines
+
+Abstract: As women of childbearing age have become heavier, the trade-off between maternal and child health created by variation in gestational weight gain has become more difficult to reconcile. Weight Gain During Pregnancy responds to the need for a reexamination of the 1990 Institute of Medicine guidelines for weight gain during pregnancy. It builds on the conceptual framework that underscored the 1990 weight gain guidelines and addresses the need to update them through a comprehensive review of the literature and independent analyses of existing databases. The book explores relationships between weight gain during pregnancy and a variety of factors (e.g., the mother's weight and height before pregnancy) and places this in the context of the health of the infant and the mother, presenting specific, updated target ranges for weight gain during pregnancy and guidelines for proper measurement. New features of this book include a specific range of recommended gain for obese women. Weight Gain During Pregnancy is intended to assist practitioners who care for women of childbearing age, policy makers, educators, researchers, and the pregnant women themselves to understand the role of gestational weight gain and to provide them with the tools needed to promote optimal pregnancy outcomes.
+
+TLDR: Weight Gain During Pregnancy responds to the need for a reexamination of the 1990 Institute of Medicine guidelines for weight gain during pregnancy, building on the conceptual framework that underscored the 1990 weight gain guidelines and addressing the need to update them through a comprehensive review of the literature and independent analyses of existing databases.
+
+Fields of Study: ['Medicine']
+
+Authors: K. Rasmussen, A. Yaktine
+

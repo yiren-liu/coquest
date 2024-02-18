@@ -1,0 +1,12 @@
+corpus id: 872471, 
+
+Title: The Design and Analysis of Experiments
+
+Abstract: THE DESIGN AND ANALYSIS OF EXPERIMENTS. By Oscar Kempthorne. New York, John Wiley and Sons, Inc., 1952. 631 pp. $8.50. This book by a teacher of statistics (as well as a consultant for "experimenters") is a comprehensive study of the philosophical background for the statistical design of experiment. It is necessary to have some facility with algebraic notation and manipulation to be able to use the volume intelligently. The problems are presented from the theoretical point of view, without such practical examples as would be helpful for those not acquainted with mathematics. The mathematical justification for the techniques is given. As a somewhat advanced treatment of the design and analysis of experiments, this volume will be interesting and helpful for many who approach statistics theoretically as well as practically. With emphasis on the "why," and with description given broadly, the author relates the subject matter to the general theory of statistics and to the general problem of experimental inference. MARGARET J. ROBERTSON
+
+TLDR: This book by a teacher of statistics (as well as a consultant for "experimenters") is a comprehensive study of the philosophical background for the statistical design of experiment.
+
+Fields of Study: ['Computer Science']
+
+Authors: Margaret J. Robertson
+

@@ -1,0 +1,12 @@
+corpus id: 235084, 
+
+Title: Robust Real-time Object Detection
+
+Abstract: This paper describes a visual object detection framework that is capable of processing images extremely rapidly while achieving high detection rates. There are three key contributions. The first is the introduction of a new image representation called the “Integral Image” which allows the features used by our detector to be computed very quickly. The second is a learning algorithm, based on AdaBoost, which selects a small number of critical visual features and yields extremely efficient classifiers [4]. The third contribution is a method for combining classifiers in a “cascade” which allows background regions of the image to be quickly discarded while spending more computation on promising object-like regions. A set of experiments in the domain of face detection are presented. The system yields face detection performance comparable to the best previous systems [16, 11, 14, 10, 1]. Implemented on a conventional desktop, face detection proceeds at 15 frames per second. Author email: fPaul.Viola,Mike.J.Jonesg@compaq.com c Compaq Computer Corporation, 2001 This work may not be copied or reproduced in whole or in part for any commercial purpose. Permission to copy in whole or in part without payment of fee is granted for nonprofit educational and research purposes provided that all such whole or partial copies include the following: a notice that such copying is by permission of the Cambridge Research Laboratory of Compaq Computer Corporation in Cambridge, Massachusetts; an acknowledgment of the authors and individual contributors to the work; and all applicable portions of the copyright notice. Copying, reproducing, or republishing for any other purpose shall require a license with payment of fee to the Cambridge Research Laboratory. All rights reserved. CRL Technical reports are available on the CRL’s web page at http://crl.research.compaq.com. Compaq Computer Corporation Cambridge Research Laboratory One Cambridge Center Cambridge, Massachusetts 02142 USA
+
+TLDR: A visual object detection framework that is capable of processing images extremely rapidly while achieving high detection rates is described, with the introduction of a new image representation called the “Integral Image” which allows the features used by the detector to be computed very quickly.
+
+Fields of Study: ['Computer Science']
+
+Authors: Paul A. Viola, Michael Jones
+

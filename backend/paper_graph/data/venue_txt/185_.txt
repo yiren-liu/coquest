@@ -1,0 +1,12 @@
+corpus id: 53624467, 
+
+Title: What is Web 2.0: Design Patterns and Business Models for the Next Generation of Software
+
+Abstract: This paper was the first initiative to try to define Web2.0 and understand its implications for the next generation of software, looking at both design patterns and business modes. Web 2.0 is the network as platform, spanning all connected devices; Web 2.0 applications are those that make the most of the intrinsic advantages of that platform: delivering software as a continually-updated service that gets better the more people use it, consuming and remixing data from multiple sources, including individual users, while providing their own data and services in a form that allows remixing by others, creating network effects through an "architecture of participation," and going beyond the page metaphor of Web 1.0 to deliver rich user experiences.
+
+TLDR: This paper was the first initiative to try to define Web2.0 and understand its implications for the next generation of software, looking at both design patterns and business modes.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tim O'Reilly
+

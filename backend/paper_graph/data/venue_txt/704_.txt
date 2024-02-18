@@ -1,0 +1,12 @@
+corpus id: 15270495, 
+
+Title: A Dynamic Systems Approach to the Development of Cognition and Action
+
+Abstract: Life, said the English novelist Samuel Butler, is like giving a concert on the violin while learning to play the instrument. Butler's insight-that there are no distinct training and performance modes in development succinctly captures the activity-dependent nature of the developmental process. For example, imagine a baby learning to walk. Although babies spend a great deal of time failing down, getting up, and falling down again, as far as some parents are concerned, their child's walking seems to magically appear de novo one day. Other parents, however, do appreciate the importance of their baby's ups and downs and believe the old saying that practice makes perfect" in the emergence of walking. Butler's insight, however, suggests a third perspective on the emergence of such novel behavior: namely, that there are no practice modes in development-all activity counts in selecting, constructing, and maintaining behavioral outcomes. This fundamental role that self-generated activity plays in the development of all behavioral functions, ranging from motor behavior to perception, cognition, and social behavior, is a central theme of the dynamic systems approach that is masterfully explicated in the recent book by Esther Thelen and Linda B. Smith. In this book the authors (both developmental psychologists) apply the principles of nonlinear dynamic systems to motor, perceptual, and cognitive development and the result is a remarkable synthesis and advancement of developmental science. Indeed, it would not be an exaggeration to say that this volume offers a revolutionary perspective on the development of cognition and action.
+
+TLDR: This volume offers a revolutionary perspective on the development of cognition and action and applies the principles of nonlinear dynamic systems to motor, perceptual, and cognitive development and the result is a remarkable synthesis and advancement of developmental science.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Lewkowicz, R. Lickliter
+

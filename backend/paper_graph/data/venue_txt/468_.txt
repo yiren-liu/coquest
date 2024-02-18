@@ -1,0 +1,12 @@
+corpus id: 2242825, 
+
+Title: Dynamic Programming
+
+Abstract: None
+
+TLDR: Dynamic programming has the advantage that it lets us focus on one period at a time, which can often be easier to think about than the whole sequence, and can be a much more efficient way to calculate solutions.
+
+Fields of Study: None
+
+Authors: Paul Schrimpf
+

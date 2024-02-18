@@ -1,0 +1,12 @@
+corpus id: 81981856, 
+
+Title: Semantic Image Synthesis With Spatially-Adaptive Normalization
+
+Abstract: We propose spatially-adaptive normalization, a simple but effective layer for synthesizing photorealistic images given an input semantic layout. Previous methods directly feed the semantic layout as input to the network, forcing the network to memorize the information throughout all the layers. Instead, we propose using the input layout for modulating the activations in normalization layers through a spatially-adaptive, learned affine transformation. Experiments on several challenging datasets demonstrate the superiority of our method compared to existing approaches, regarding both visual fidelity and alignment with input layouts. Finally, our model allows users to easily control the style and content of image synthesis results as well as create multi-modal results. Code is available upon publication.
+
+TLDR: S spatially-adaptive normalization is proposed, a simple but effective layer for synthesizing photorealistic images given an input semantic layout that allows users to easily control the style and content of image synthesis results as well as create multi-modal results.
+
+Fields of Study: ['Computer Science']
+
+Authors: Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu
+

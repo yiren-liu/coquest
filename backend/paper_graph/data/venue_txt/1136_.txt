@@ -1,0 +1,12 @@
+corpus id: 2104851, 
+
+Title: Robust wide-baseline stereo from maximally stable extremal regions
+
+Abstract: None
+
+TLDR: The wide-baseline stereo problem, i.e. the problem of establishing correspondences between a pair of images taken from different viewpoints, is studied and an efficient and practically fast detection algorithm is presented for an affinely-invariant stable subset of extremal regions, the maximally stable extremal region (MSER).
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Jiri Matas, Ondřej Chum, Martin Urban, T. Pajdla
+

@@ -1,0 +1,12 @@
+corpus id: 145740592, 
+
+Title: Self-Reports in Organizational Research: Problems and Prospects
+
+Abstract: Self-reports figure prominently in organizational and management research, but there are several problems associated with their use. This article identifies six categories of self-reports and discusses such problems as common method variance, the consistency motif, and social desirability. Statistical and post hoc remedies and some procedural methods for dealing with artifactual bias are presented and evaluated. Recommendations for future research are also offered.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: P. M. Podsakoff, D. Organ
+

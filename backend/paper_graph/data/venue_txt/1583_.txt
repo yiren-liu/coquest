@@ -1,0 +1,12 @@
+corpus id: 144065201, 
+
+Title: Getting a Job: A Study of Contacts and Careers
+
+Abstract: Preface to the Second Edition Preface Acknowledgments Introduction Pt. 1: Toward Causal Models Ch. 1: "Job Search" and Economic Theory Ch. 2: Contacts and Their Information Ch. 3: The Dynamics of Information Flow Ch. 4: The Dynamics of Vacancy Structure Ch. 5: Contacts: Acquisition and Maintenance Ch. 6: Career Structure Ch. 7: Some Theoretical Implications Pt. 2: Mobility and Society Ch. 8: Mobility and Organizations Ch. 9: Comparative Perspectives Ch. 10: Applications Afterword 1994: Reconsiderations and a New Agenda Appendix A: Design and Conduct of the Study Appendix B: Coding Rules and Problems Appendix C: Letters and Interview Schedules Appendix D: Economic Action and Social Structure: The Problem of Embeddedness References Index
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Mark S. Granovetter
+

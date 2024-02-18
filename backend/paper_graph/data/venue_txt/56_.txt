@@ -1,0 +1,12 @@
+corpus id: 1693513, 
+
+Title: Computational thinking
+
+Abstract: It represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use.
+
+TLDR: It represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Jeannette M. Wing
+

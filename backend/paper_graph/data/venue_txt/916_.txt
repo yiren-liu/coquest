@@ -1,0 +1,12 @@
+corpus id: 56692486, 
+
+Title: Fundamentals of Radar Signal Processing
+
+Abstract: This detailed guide clearly and concisely presents radar digital signal processing for both practicing engineers and engineering students. This revised edition of Fundamentals of Radar Signal Processing provides in-depth coverage of radar digital signal processing (DSP) fundamentals and applications. It has been updated to include coverage of measurement accuracy and target tracking. Additionally, to make it more useful as a teaching tool, it now includes end-of-chapter problems and a solutions manual. New to this Edition: New chapter on Measurement Accuracy and Target Tracking Two new appendices--Important Digital Signal Processing Facts; Important Probability Density Function and Their Relationships Addition of 20 to 30 problems to ends of chapters Solutions manual
+
+TLDR: This revised edition of Fundamentals of Radar Signal Processing provides in-depth coverage of radar digital signal processing fundamentals and applications and has been updated to include coverage of measurement accuracy and target tracking.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Richards
+

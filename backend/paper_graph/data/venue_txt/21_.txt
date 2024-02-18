@@ -1,0 +1,12 @@
+corpus id: 10458349, 
+
+Title: World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects.
+
+Abstract: 3. The Declaration of Geneva of the World Medical Association binds the physician with the words, "The health of my patient will be my first consideration," and the International Code of Medical Ethics declares that, "A physician shall act only in the patient's interest when providing medical care which might have the effect of weakening the physical and mental condition of the patient." WELTÄRZTEBUND DEKLARATION DES WELTÄRZTEBUNDES VON HELSINKI
+
+TLDR: The health of my patient will be my first consideration," and the International Code of Medical Ethics declares that, "A physician shall act only in the patient's interest when providing medical care which might have the effect of weakening the physical and mental condition of the patient.
+
+Fields of Study: ['Medicine']
+
+Authors: 
+

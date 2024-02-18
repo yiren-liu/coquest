@@ -1,0 +1,12 @@
+corpus id: 145302618, 
+
+Title: A Meta-Analysis of Response Rates in Web- or Internet-Based Surveys
+
+Abstract: Response representativeness is more important than response rate in survey research. However, response rate is important if it bears on representativeness. The present meta-analysis explores factors associated with higher response rates in electronic surveys reported in both published and unpublished research. The number of contacts, personalized contacts, and precontacts are the factors most associated with higher response rates in the Web studies that are analyzed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Colleen Cook, F. Heath, Russel L. Thompson
+

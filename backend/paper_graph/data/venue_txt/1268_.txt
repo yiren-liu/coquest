@@ -1,0 +1,12 @@
+corpus id: 19734446, 
+
+Title: Psychological empowerment: Issues and illustrations
+
+Abstract: None
+
+TLDR: The thesis of this paper is that the development of a universal and global measure of psychological empowerment may not be a feasible or appropriate goal.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: M. Zimmerman
+

@@ -1,0 +1,12 @@
+corpus id: 7233842, 
+
+Title: Readings in information visualization - using vision to think
+
+Abstract: 1. Information Visualization 2. Space 3. Interaction 4. Focus + Context 5. Data Mapping: Text 6. Higher-Level Visualization 7. Using Vision to Think 8. Applications and Innovations 9. Conclusion Bibliography Index
+
+TLDR: This paper presents a meta-anatomy of human interaction in the context of data mapping, which aims to provide a scaffolding for future generations to think and act in a more holistic way.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: S. Card, J. Mackinlay, B. Shneiderman
+

@@ -1,0 +1,12 @@
+corpus id: 353246, 
+
+Title: A feature-integration theory of attention
+
+Abstract: None
+
+TLDR: A new hypothesis about the role of focused attention is proposed, which offers a new set of criteria for distinguishing separable from integral features and a new rationale for predicting which tasks will show attention limits and which will not.
+
+Fields of Study: ['Medicine', 'Mathematics']
+
+Authors: A. Treisman, G. Gelade
+

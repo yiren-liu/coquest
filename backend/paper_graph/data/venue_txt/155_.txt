@@ -1,0 +1,12 @@
+corpus id: 11889525, 
+
+Title: A Meta-Analysis of Factors Affecting Trust in Human-Robot Interaction
+
+Abstract: Objective: We evaluate and quantify the effects of human, robot, and environmental factors on perceived trust in human-robot interaction (HRI). Background: To date, reviews of trust in HRI have been qualitative or descriptive. Our quantitative review provides a fundamental empirical foundation to advance both theory and practice. Method: Meta-analytic methods were applied to the available literature on trust and HRI. A total of 29 empirical studies were collected, of which 10 met the selection criteria for correlational analysis and 11 for experimental analysis. These studies provided 69 correlational and 47 experimental effect sizes. Results: The overall correlational effect size for trust was r̄ = +0.26, with an experimental effect size of d̄ = +0.71. The effects of human, robot, and environmental characteristics were examined with an especial evaluation of the robot dimensions of performance and attribute-based factors. The robot performance and attributes were the largest contributors to the development of trust in HRI. Environmental factors played only a moderate role. Conclusion: Factors related to the robot itself, specifically, its performance, had the greatest current association with trust, and environmental factors were moderately associated. There was little evidence for effects of human-related factors. Application: The findings provide quantitative estimates of human, robot, and environmental factors influencing HRI trust. Specifically, the current summary provides effect size estimates that are useful in establishing design and training guidelines with reference to robot-related factors of HRI trust. Furthermore, results indicate that improper trust calibration may be mitigated by the manipulation of robot design. However, many future research needs are identified.
+
+TLDR: Factors related to the robot itself, specifically, its performance, had the greatest current association with trust, and environmental factors were moderately associated; there was little evidence for effects of human-related factors.
+
+Fields of Study: ['Psychology', 'Medicine', 'Computer Science']
+
+Authors: P. Hancock, D. Billings, K. E. Schaefer, Jessie Y.C. Chen, E. D. Visser, R. Parasuraman
+

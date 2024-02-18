@@ -1,0 +1,12 @@
+corpus id: 145694528, 
+
+Title: Cognitive Psychology and Its Implications
+
+Abstract: A fully updated, systematic introduction to the theoretical and experimental foundations of higher mental processes. Avoiding technical jargon, John R. Anderson constructs a coherent picture of human cognition, relating neural functions to mental processes, perception to abstraction, representation to meaning, knowledge to skill, language to thought, and adult cognition to child development.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: John R. Anderson
+

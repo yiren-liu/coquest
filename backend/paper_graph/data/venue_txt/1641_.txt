@@ -1,0 +1,12 @@
+corpus id: 145740601, 
+
+Title: A classification of illocutionary acts
+
+Abstract: ABSTRACT There are at least a dozen linguistically significant dimensions of differences between illocutionary acts. Of these, the most important are illocutionary point, direction of fit, and expressed psychological state. These three form the basis of a taxonomy of the fundamental classes of illocutionary acts. The five basic kinds of illocutionary acts are: representatives (or assertives), directives, commissives, expressives, and declarations. Each of these notions is defined. An earlier attempt at constructing a taxonomy by Austin is defective for several reasons, especially in its lack of clear criteria for distinguishing one kind of illocutionary force from another. Paradigm performative verbs in each of the five categories exhibit different syntactical properties. These are explained. (Speech acts, Austin's taxonomy, functions of speech, implications for ethnography and ethnology; English.)
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Searle
+

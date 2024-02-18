@@ -1,0 +1,12 @@
+corpus id: 2628630, 
+
+Title: Cues to deception.
+
+Abstract: Do people behave differently when they are lying compared with when they are telling the truth? The combined results of 1,338 estimates of 158 cues to deception are reported. Results show that in some ways, liars are less forthcoming than truth tellers, and they tell less compelling tales. They also make a more negative impression and are more tense. Their stories include fewer ordinary imperfections and unusual contents. However, many behaviors showed no discernible links, or only weak links, to deceit. Cues to deception were more pronounced when people were motivated to succeed, especially when the motivations were identity relevant rather than monetary or material. Cues to deception were also stronger when lies were about transgressions.
+
+TLDR: Results show that in some ways, liars are less forthcoming than truth tellers, and they tell less compelling tales, and their stories include fewer ordinary imperfections and unusual contents.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: B. DePaulo, James J. Lindsay, Brian E Malone, L. Muhlenbruck, K. Charlton, H. Cooper
+

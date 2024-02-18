@@ -1,0 +1,12 @@
+corpus id: 151038946, 
+
+Title: The Development and Psychometric Properties of LIWC2015
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Pennebaker, Ryan L. Boyd, Kayla Jordan, Kate G. Blackburn
+

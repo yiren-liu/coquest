@@ -1,0 +1,12 @@
+corpus id: 62237589, 
+
+Title: How Many Interviews Are Enough?
+
+Abstract: Guidelines for determining nonprobabilistic sample sizes are virtually nonexistent. Purposive samples are the most commonly used form of nonprobabilistic sampling, and their size typically relies on the concept of “saturation,” or the point at which no new information or themes are observed in the data. Although the idea of saturation is helpful at the conceptual level, it provides little practical guidance for estimating sample sizes, prior to data collection, necessary for conducting quality research. Using data from a study involving sixty in-depth interviews with women in two West African countries, the authors systematically document the degree of data saturation and variability over the course of thematic analysis. They operationalize saturation and make evidence-based recommendations regarding nonprobabilistic sample sizes for interviews. Based on the data set, they found that saturation occurred within the first twelve interviews, although basic elements for metathemes were present as early as six interviews. Variability within the data followed similar patterns.
+
+TLDR: The authors operationalize saturation and make evidence-based recommendations regarding nonprobabilistic sample sizes for interviews and found that saturation occurred within the first twelve interviews, although basic elements for metathemes were present as early as six interviews.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Guest, A. Bunce, Laura Johnson
+

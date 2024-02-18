@@ -1,0 +1,12 @@
+corpus id: 12294277, 
+
+Title: Extensible Messaging and Presence Protocol (XMPP): Core
+
+Abstract: The Extensible Messaging and Presence Protocol (XMPP) is anapplication profile of the Extensible Markup Language (XML) thatenables the near-real-time exchange of structured yet extensible databetween any two or more network entities. This document definesXMPP's core protocol methods: setup and teardown of XML streams,channel encryption, authentication, error handling, and communicationprimitives for messaging, network availability ("presence"), andrequest-response interactions. This document obsoletes RFC 3920.[STANDARDS-TRACK]
+
+TLDR: This document defines XMPP's core protocol methods: setup and teardown of XML streams, channel encryption, authentication, error handling, and communication primitives for messaging, network availability ("presence"), and request-response interactions.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Saint-Andre
+

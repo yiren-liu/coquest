@@ -1,0 +1,12 @@
+corpus id: 45159559, 
+
+Title: Design and Analysis: A Researcher's Handbook
+
+Abstract: tical methods. The book does a good job explaining some fundamental computational methods in statistics and econometrics. I have no doubt that this book will serve students well as a reference book for upper-level undergraduate courses or graduate courses in computational statistics, time series analysis, or econometrics. Students will appreciate the material, and I will certainly list this book as a reference book for my first-year graduate computational statistics class.
+
+TLDR: The book does a good job explaining some fundamental computational methods in statistics and econometrics and will serve students well as a reference book for upper-level undergraduate courses or graduate courses in computational statistics, time series analysis, or econometric methods.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Morgan
+

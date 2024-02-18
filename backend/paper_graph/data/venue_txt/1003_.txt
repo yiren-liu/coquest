@@ -1,0 +1,12 @@
+corpus id: 16462094, 
+
+Title: On the Kolmogorov-Smirnov Test for Normality with Mean and Variance Unknown
+
+Abstract: Abstract The standard tables used for the Kolmogorov-Smirnov test are valid when testing whether a set of observations are from a completely-specified continuous distribution. If one or more parameters must be estimated from the sample then the tables are no longer valid. A table is given in this note for use with the Kolmogorov-Smirnov statistic for testing whether a set of observations is from a normal population when the mean and variance are not specified but must be estimated from the sample. The table is obtained from a Monte Carlo calculation. A brief Monte Carlo investigation is made of the power of the test.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: H. Lilliefors
+

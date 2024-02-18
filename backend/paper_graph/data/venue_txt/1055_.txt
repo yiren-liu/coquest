@@ -1,0 +1,12 @@
+corpus id: 60689888, 
+
+Title: Initial trends in enrolment and completion of massive open online courses
+
+Abstract: The past two years have seen rapid development of massive open online courses (MOOCs) with the rise of a number of MOOC platforms. The scale of enrolment and participation in the earliest mainstream MOOC courses has garnered a good deal of media attention. However, data about how the enrolment and completion figures have changed since the early courses is not consistently released. This paper seeks to draw together the data that has found its way into the public domain in order to explore factors affecting enrolment and completion. The average MOOC course is found to enroll around 43,000 students, 6.5% of whom complete the course. Enrolment numbers are decreasing over time and are positively correlated with course length. Completion rates are consistent across time, university rank, and total enrolment, but negatively correlated with course length. This study provides a more detailed view of trends in enrolment and completion than was available previously, and a more accurate view of how the MOOC field is developing.
+
+TLDR: A more detailed view of trends in enrolment and completion than was available previously is provided, and a more accurate view of how the MOOC field is developing is provided.
+
+Fields of Study: ['Computer Science']
+
+Authors: Katy Jordan
+

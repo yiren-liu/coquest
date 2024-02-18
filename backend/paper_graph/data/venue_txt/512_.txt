@@ -1,0 +1,12 @@
+corpus id: 52874011, 
+
+Title: Support-Vector Networks
+
+Abstract: None
+
+TLDR: High generalization ability of support-vector networks utilizing polynomial input transformations is demonstrated and the performance of the support- vector network is compared to various classical learning algorithms that all took part in a benchmark study of Optical Character Recognition.
+
+Fields of Study: ['Computer Science']
+
+Authors: Corinna Cortes, V. Vapnik
+

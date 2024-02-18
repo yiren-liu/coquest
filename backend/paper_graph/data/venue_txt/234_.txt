@@ -1,0 +1,12 @@
+corpus id: 121861644, 
+
+Title: Multimodel Inference
+
+Abstract: The model selection literature has been generally poor at reflecting the deep foundations of the Akaike information criterion (AIC) and at making appropriate comparisons to the Bayesian information criterion (BIC). There is a clear philosophy, a sound criterion based in information theory, and a rigorous statistical foundation for AIC. AIC can be justified as Bayesian using a “savvy” prior on models that is a function of sample size and the number of model parameters. Furthermore, BIC can be derived as a non-Bayesian result. Therefore, arguments about using AIC versus BIC for model selection cannot be from a Bayes versus frequentist perspective. The philosophical context of what is assumed about reality, approximating models, and the intent of model-based inference should determine whether AIC or BIC is used. Various facets of such multimodel inference are presented here, particularly methods of model averaging.
+
+TLDR: Various facets of such multimodel inference are presented here, particularly methods of model averaging, which can be derived as a non-Bayesian result.
+
+Fields of Study: ['Mathematics']
+
+Authors: K. Burnham, David R. Anderson
+

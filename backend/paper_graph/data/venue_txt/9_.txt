@@ -1,0 +1,12 @@
+corpus id: 96458970, 
+
+Title: The Psychology of Everyday Things
+
+Abstract: For whatever reason consciousness evolved, our awareness of ourselves in our ecological niche would be expected to be experienced as compatible. The industrial revolution challenged this compatibility because many individuals worked and lived in inhumane conditions. The technological revolution provides another (less compelling) challenge to this compatibility. Donald A. Norman's goal is to help relieve feelings of incompatibility by putting the blame on the poor design of everyday things in our environment rather than on ourselves. When we fail to deal appropriately with our environment of water faucets, doors, and VCRs, we usually blame ourselves. Norman demonstrates that much of the blame should be placed on the designer and, in so doing, illustrates once again that psychology is relevant to our everyday life. Theories developed and tested in the laboratory can be used to rationalize behavioral successes and failures in everyday life. Although the book seeks to show that the incompatibility is due to the environment and not the participant, it does not address the reason that we blame ourselves. Perhaps our psychology might also speak to this issue as well as the other.
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: E. Golub, S. Greenberg, U. Vincennes
+

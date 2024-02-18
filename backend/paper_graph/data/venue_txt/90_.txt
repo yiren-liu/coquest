@@ -1,0 +1,12 @@
+corpus id: 17881533, 
+
+Title: The PHQ-9: A new depression diagnostic and severity measure
+
+Abstract: and treatable mental disorders presenting in general medical as well as specialty settings. There are a number of case-finding instruments for detecting depression in primary care, ranging from 2 to 28 items.1,2 Typically these can be scored as continuous measures of depression severity and also have established cutpoints above which the probability of major depression is substantially increased. Scores on these various measures tend to be highly correlated3, with little evidence that one measure is superior to any other.1,2,4
+
+TLDR: A number of case-finding instruments for detecting depression in primary care, ranging from 2 to 28 items, tend to be highly correlated, with little evidence that one measure is superior to any other.
+
+Fields of Study: ['Medicine']
+
+Authors: K. Kroenke, R. Spitzer
+

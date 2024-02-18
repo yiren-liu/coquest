@@ -1,0 +1,12 @@
+corpus id: 4085795, 
+
+Title: Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach
+
+Abstract: We analyzed 700 million words, phrases, and topic instances collected from the Facebook messages of 75,000 volunteers, who also took standard personality tests, and found striking variations in language with personality, gender, and age. In our open-vocabulary technique, the data itself drives a comprehensive exploration of language that distinguishes people, finding connections that are not captured with traditional closed-vocabulary word-category analyses. Our analyses shed new light on psychosocial processes yielding results that are face valid (e.g., subjects living in high elevations talk about the mountains), tie in with other research (e.g., neurotic people disproportionately use the phrase ‘sick of’ and the word ‘depressed’), suggest new hypotheses (e.g., an active life implies emotional stability), and give detailed insights (males use the possessive ‘my’ when mentioning their ‘wife’ or ‘girlfriend’ more often than females use ‘my’ with ‘husband’ or 'boyfriend’). To date, this represents the largest study, by an order of magnitude, of language and personality.
+
+TLDR: This represents the largest study, by an order of magnitude, of language and personality, and found striking variations in language with personality, gender, and age.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: H. A. Schwartz, J. Eichstaedt, Margaret L. Kern, Lukasz Dziurzynski, Stephanie Ramones, Megha Agrawal, Achal Shah, M. Kosinski, D. Stillwell, M. Seligman, L. Ungar
+

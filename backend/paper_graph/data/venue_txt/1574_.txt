@@ -1,0 +1,12 @@
+corpus id: 9219592, 
+
+Title: Locally Weighted Learning
+
+Abstract: None
+
+TLDR: The survey discusses distance functions, smoothing parameters, weighting functions, local model structures, regularization of the estimates and bias, assessing predictions, handling noisy data and outliers, improving the quality of predictions by tuning fit parameters, and applications of locally weighted learning.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Atkeson, A. Moore, S. Schaal
+

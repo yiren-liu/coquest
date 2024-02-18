@@ -1,0 +1,12 @@
+corpus id: 22958289, 
+
+Title: Human Memory: A Proposed System and its Control Processes
+
+Abstract: None
+
+TLDR: This chapter presents a general theoretical framework of human memory and describes the results of a number of experiments designed to test specific models that can be derived from the overall theory.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Atkinson, R. Shiffrin
+

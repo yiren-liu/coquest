@@ -1,0 +1,12 @@
+corpus id: 211253616, 
+
+Title: An interactive web-based dashboard to track COVID-19 in real time
+
+Abstract: None
+
+TLDR: The outbreak of the 2019 novel coronavirus disease (COVID-19) has induced a considerable degree of fear, emotional stress and anxiety among individuals around the world.
+
+Fields of Study: ['Medicine']
+
+Authors: E. Dong, H. Du, L. Gardner
+

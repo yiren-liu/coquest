@@ -1,0 +1,12 @@
+corpus id: 109092138, 
+
+Title: Things That Make Us Smart: Defending Human Attributes In The Age Of The Machine
+
+Abstract: * A Human-Centered Technology * Experiencing the World * The Power of Representation * Fitting the Artifact to the Person * The Human Mind * Distributed Cognition * A Place for Everything, and Everything in Its Place * Predicting the Future * Soft and Hard Technology * Technology Is Not Neutral
+
+TLDR: This book discusses a Human-Centered Technology, Experiencing the World, and the Power of Representation, as well as Distributed Cognition and Soft and Hard Technology.
+
+Fields of Study: ['Engineering']
+
+Authors: D. Norman
+

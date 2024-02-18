@@ -1,0 +1,12 @@
+corpus id: 62634931, 
+
+Title: The co-ordination and regulation of movements
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: N. A. Bernshteĭn
+

@@ -1,0 +1,12 @@
+corpus id: 113339334, 
+
+Title: Privacy and Freedom
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Sociology', 'Computer Science', 'Engineering']
+
+Authors: Joseph Gray Jackson, A. Westin
+

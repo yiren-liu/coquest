@@ -1,0 +1,12 @@
+corpus id: 37542529, 
+
+Title: IBM computer usability satisfaction questionnaires: Psychometric evaluation and instructions for use
+
+Abstract: This article describes recent research in subjective usability measurement at IBM, focused on evaluating the psychometric properties of questionnaires designed for use in scenario‐based usability evaluation. The questionnaires address evaluation at both a global overall system level and at a more detailed scenario level. The primary goals of this article are to (a) discuss the psychometric characteristics of IBM questionnaires that measure user satisfaction with computer system usability, and (b) provide the questionnaires, with administration and scoring instructions. For scenario‐level measurement, the 3‐item After‐Scenario Questionnaire (ASQ) has excellent internal consistency, with coefficient alphas across a set of scenarios ranging from .90 to .96. For more global assessment, the Post‐Study System Usability Questionnaire (PSSUQ) also has excellent internal consistency, with an overall coefficient alpha of .97. Preliminary principal factor analysis of 48 PSSUQ questionnaires suggested the presence of...
+
+TLDR: The primary goals of this article are to discuss the psychometric characteristics of IBM questionnaires that measure user satisfaction with computer system usability, and provide the questionnaires, with administration and scoring instructions.
+
+Fields of Study: ['Computer Science']
+
+Authors: James R. Lewis
+

@@ -1,0 +1,12 @@
+corpus id: 145561221, 
+
+Title: Searching for Common Threads: Understanding the Multiple Effects of Diversity in Organizational Groups
+
+Abstract: In this article, we review and evaluate recent management research on the effects of different types of diversity in group composition at various organizational levels (i.e., boards of directors, top management groups, and organizational task groups) for evidence of common patterns. We argue that diversity in the composition of organizational groups affects outcomes such as turnover and performance through its impact on affective, cognitive, communication, and symbolic processes.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Frances J. Milliken, L. Martins
+

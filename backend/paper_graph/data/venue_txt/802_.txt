@@ -1,0 +1,12 @@
+corpus id: 21712887, 
+
+Title: Convolutional Social Pooling for Vehicle Trajectory Prediction
+
+Abstract: Forecasting the motion of surrounding vehicles is a critical ability for an autonomous vehicle deployed in complex traffic. Motion of all vehicles in a scene is governed by the traffic context, i.e., the motion and relative spatial configuration of neighboring vehicles. In this paper we propose an LSTM encoder-decoder model that uses convolutional social pooling as an improvement to social pooling layers for robustly learning interdependencies in vehicle motion. Additionally, our model outputs a multi-modal predictive distribution over future trajectories based on maneuver classes. We evaluate our model using the publicly available NGSIM US-101 and I-80 datasets. Our results show improvement over the state of the art in terms of RMS values of prediction error and negative log-likelihoods of true future trajectories under the model's predictive distribution. We also present a qualitative analysis of the model's predicted distributions for various traffic scenarios.
+
+TLDR: This paper proposes an LSTM encoder-decoder model that uses convolutional social pooling as an improvement to social Pooling layers for robustly learning interdependencies in vehicle motion and outputs a multi-modal predictive distribution over future trajectories based on maneuver classes.
+
+Fields of Study: ['Computer Science']
+
+Authors: Nachiket Deo, M. Trivedi
+

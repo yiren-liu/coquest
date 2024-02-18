@@ -1,0 +1,12 @@
+corpus id: 171251, 
+
+Title: Death and dying
+
+Abstract: Death is the new sex, last great taboo in Western society and Western medicine, as Richard Smith discusses in his editorial (p 129). In the trinity of births, marriages, and deaths, only death does not have glossy magazines devoted to stylish consumption at the attendant ceremonies. On the web, of course, …
+
+TLDR: In the trinity of births, marriages, and deaths, only death does not have glossy magazines devoted to stylish consumption at the attendant ceremonies.
+
+Fields of Study: ['Medicine']
+
+Authors: D. Carnall
+

@@ -1,0 +1,12 @@
+corpus id: 121953269, 
+
+Title: Applied multiple regression/correlation analysis for the behavioral sciences
+
+Abstract: Contents: Preface. Introduction. Bivariate Correlation and Regression. Multiple Regression/Correlation With Two or More Independent Variables. Data Visualization, Exploration, and Assumption Checking: Diagnosing and Solving Regression Problems I. Data-Analytic Strategies Using Multiple Regression/Correlation. Quantitative Scales, Curvilinear Relationships, and Transformations. Interactions Among Continuous Variables. Categorical or Nominal Independent Variables. Interactions With Categorical Variables. Outliers and Multicollinearity: Diagnosing and Solving Regression Problems II. Missing Data. Multiple Regression/Correlation and Causal Models. Alternative Regression Models: Logistic, Poisson Regression, and the Generalized Linear Model. Random Coefficient Regression and Multilevel Models. Longitudinal Regression Methods. Multiple Dependent Variables: Set Correlation. Appendices: The Mathematical Basis for Multiple Regression/Correlation and Identification of the Inverse Matrix Elements. Determination of the Inverse Matrix and Applications Thereof.
+
+TLDR: 
+
+Fields of Study: ['Mathematics', 'Psychology']
+
+Authors: Jacob Cohen, P. Cohen, S. West, L. Aiken
+

@@ -1,0 +1,12 @@
+corpus id: 2759924, 
+
+Title: Development and Validation of a Scale to Measure Optimal Experience: The Flow State Scale
+
+Abstract: The Flow State Scale (FSS) is a new measure of flow in sport and physical activity settings. The nine FSS scales of the 36-item instrument represent the dimensions of flow discussed by Csikszentmihalyi (1990, 1993), and each scale is measured by four items. Development of items was based on (a) past research with flow state both within and outside of sport settings, (b) qualitative analysis of interviews with elite athletes, and (c) quantitative analyses conducted in the present investigation. Internal consistency estimates for the nine FSS scales were reasonable (alpha M = 33) for administration of the scale to 394 athletes. Confirmatory factor analyses supported the nine scales. Consistent with the theoretical basis of the FSS, there was also support for a hierarchical model in which one global (higher order) flow factor explained correlations among the nine first-order FSS factors. Suggestions for use of the scale and for further research are discussed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: S. Jackson, H. Marsh
+

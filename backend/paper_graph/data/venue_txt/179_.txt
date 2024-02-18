@@ -1,0 +1,12 @@
+corpus id: 58861412, 
+
+Title: SHIFTING INTENTIONAL SET - EXPLORING THE DYNAMIC CONTROL OF TASKS
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Allport, E. Styles, S. Hsieh
+

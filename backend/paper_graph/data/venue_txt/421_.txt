@@ -1,0 +1,12 @@
+corpus id: 2796017, 
+
+Title: Robust Real-Time Face Detection
+
+Abstract: None
+
+TLDR: A new image representation called the “Integral Image” is introduced which allows the features used by the detector to be computed very quickly and a method for combining classifiers in a “cascade” which allows background regions of the image to be quickly discarded while spending more computation on promising face-like regions.
+
+Fields of Study: ['Computer Science']
+
+Authors: Paul A. Viola, Michael Jones
+

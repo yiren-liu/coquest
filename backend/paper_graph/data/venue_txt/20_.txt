@@ -1,0 +1,12 @@
+corpus id: 54007465, 
+
+Title: Design patterns: elements of reuseable object-oriented software
+
+Abstract: The book is an introduction to the idea of design patterns in software engineering, and a catalog of twenty-three common patterns. The nice thing is, most experienced OOP designers will find out they've known about patterns all along. It's just that they've never considered them as such, or tried to centralize the idea behind a given pattern so that it will be easily reusable.
+
+TLDR: The book is an introduction to the idea of design patterns in software engineering, and a catalog of twenty-three common patterns, which most experienced OOP designers will find out they've known about patterns all along.
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Gamma, Richard Helm, Ralph E. Johnson, J. Vlissides
+

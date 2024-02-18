@@ -1,0 +1,12 @@
+corpus id: 142817500, 
+
+Title: Understanding Motor Development : Infants, Children, Adolescents, Adults
+
+Abstract: Unit 1 Background 1 Understanding Motor Development: An Overview 2 Models of Human Development 3 Motor Development: A Theoretical Model 4 Selected Factors Affecting Motor Development Unit 2 Infancy 5 Prenatal Factors Affecting Development 6 Prenatal and Infant Growth 7 Infant Reflexes and Rhythmical Stereotypies 8 Rudimentary Movement Abilities 9 Infant Perception Unit 3 Childhood 10 Childhood Growth and Development 11 Fundamental Movement Abilities 12 Physical Development of Children 13 Childhood Perception and Perceptual-Motor Development 14 Childhood Self-Concept Development Unit 4 Adolescence 15 Adolescent Growth, Puberty, and Reproductive Maturity 16 Specialized Movement Abilities 17 Fitness Changes During Adolescence 18 Adolescent Socialization Unit 5 Adulthood 19 Physiological Changes in Adults 20 Motor Performance in Adults 21 Psychosocial Development in Adults Unit 6 Programming 22 Assessing Motor Behavior 23 Programming for Developmental Physical Activity
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. L. Gallahue, J. Ozmun
+

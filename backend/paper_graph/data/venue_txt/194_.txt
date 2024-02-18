@@ -1,0 +1,12 @@
+corpus id: 59702881, 
+
+Title: Dependency-Based Evaluation of Minipar
+
+Abstract: None
+
+TLDR: A dependency-based method for parser evaluation is presented and a broad-coverage parser, called MINIPAR, is evaluated with the SUSANNE corpus.
+
+Fields of Study: ['Computer Science']
+
+Authors: Dekang Lin
+

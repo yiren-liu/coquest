@@ -1,0 +1,12 @@
+corpus id: 215747292, 
+
+Title: A longitudinal study on the mental health of general population during the COVID-19 epidemic in China
+
+Abstract: None
+
+TLDR: Governments should focus on effective methods of disseminating unbiased COVID-19 knowledge, teaching correct containment methods, ensuring availability of essential services/commodities, and providing sufficient financial support.
+
+Fields of Study: ['Medicine']
+
+Authors: Cuiyan Wang, R. Pan, Xiaoyang Wan, Yilin Tan, Linkang Xu, R. McIntyre, Faith Choo, B. Tran, R. Ho, V. Sharma, C. Ho
+

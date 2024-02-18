@@ -1,0 +1,12 @@
+corpus id: 2057093, 
+
+Title: Explaining collaborative filtering recommendations
+
+Abstract: Automated collaborative filtering (ACF) systems predict a person's affinity for items or information by connecting that person's recorded interests with the recorded interests of a community of people and sharing ratings between like-minded persons. However, current recommender systems are black boxes, providing no transparency into the working of the recommendation. Explanations provide that transparency, exposing the reasoning and data behind a recommendation. In this paper, we address explanation interfaces for ACF systems - how they should be implemented and why they should be implemented. To explore how, we present a model for explanations based on the user's conceptual model of the recommendation process. We then present experimental results demonstrating what components of an explanation are the most compelling. To address why, we present experimental evidence that shows that providing explanations can improve the acceptance of ACF systems. We also describe some initial explorations into measuring how explanations can improve the filtering performance of users.
+
+TLDR: This paper presents experimental evidence that shows that providing explanations can improve the acceptance of ACF systems, and presents a model for explanations based on the user's conceptual model of the recommendation process.
+
+Fields of Study: ['Computer Science']
+
+Authors: Jonathan L. Herlocker, J. Konstan, J. Riedl
+

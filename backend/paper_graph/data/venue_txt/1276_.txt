@@ -1,0 +1,12 @@
+corpus id: 22220661, 
+
+Title: PROCESS : A Versatile Computational Tool for Observed Variable Mediation , Moderation , and Conditional Process Modeling 1
+
+Abstract: This course introduces the fundamentals of Structural Equation Modeling as a general analytical tool, including how to set up measurement and structural models, latent variables, path analysis, definitions and quantification of model fit, and the implementation of Structural Equation Modeling in statistical software
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Hayes
+

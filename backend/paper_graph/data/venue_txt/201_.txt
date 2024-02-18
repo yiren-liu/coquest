@@ -1,0 +1,12 @@
+corpus id: 56465560, 
+
+Title: Socioeconomic Status and College: How SES Affects College Experiences and Outcomes
+
+Abstract: This study investigated college experiences and outcomes for low and high SES students utilizing data from a longitudinal database. Low SES students engaged in fewer extracurricular activities, worked more, studied less, and reported lower GPAs than their high SES peers. Nine years after entering college, the low SES students had lower incomes, educational attainment, and graduate school attendance than high SES students. These experiential and outcome differences are tied to differences in cultural capital and habitus.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: MaryBeth Walpole
+

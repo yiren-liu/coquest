@@ -1,0 +1,12 @@
+corpus id: 10546302, 
+
+Title: SOAR: An Architecture for General Intelligence
+
+Abstract: None
+
+TLDR: SOAR, an implemented proposal for a foundation for a system capable of general intelligent behavior, is presented and its organizational principles, the system as currently implemented, and demonstrations of its capabilities are described.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Laird, A. Newell, P. Rosenbloom
+

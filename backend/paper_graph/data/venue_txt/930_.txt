@@ -1,0 +1,12 @@
+corpus id: 8823328, 
+
+Title: A Descriptive Framework of Workspace Awareness for Real-Time Groupware
+
+Abstract: None
+
+TLDR: A descriptive theory of awareness is developed for the purpose of aiding groupware design, focusing on one kind of group awareness called workspace awareness, which focuses on how small groups perform generation and execution tasks in medium-sized shared workspaces.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Gutwin, S. Greenberg
+

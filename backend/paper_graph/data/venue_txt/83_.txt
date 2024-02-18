@@ -1,0 +1,12 @@
+corpus id: 2680777, 
+
+Title: Web surveys: a review of issues and approaches.
+
+Abstract: As we enter the twenty-first century, the Internet is having a profound effect on the survey research industry, as it is on almost every area of human enterprise. The rapid development of surveys on the World Wide Web (WWW) is leading some to argue that soon Internet (and, in particular, Web) surveys will replace traditional methods of survey data collection. Others are urging caution or even voicing skepticism about the future role Web surveys will play. Clearly, we stand at the threshold of a new era for survey research, but how this will play out is not yet clear. Whatever one's views about the likely future for survey research, the current impact of the Web on survey data collection is worthy of serious research attention. Given the rapidly growing interest in Web surveys,' it is important to distinguish among different types of Web surveys. The rubric "Web survey" encompasses a wide variety of methods, with different purposes, populations, target audiences, etc. I present an overview of some of the key types of Web surveys currently being implemented and do so using the language of survey errors. In order to judge the quality of a particular survey (be it Web or any other type), one needs to do so within the context of its stated aims and the claims it makes. By offering a typology of Web survey designs, the intent of this article is to facilitate the task of evaluating and improving Web surveys. Web surveys represent a double-edged sword for the survey industry. On the one hand, the power of Web surveys is that they make survey data collection (as opposed to survey participation) available to the masses. Not only can researchers get access to undreamed of numbers of respondents at dramatically lower costs than traditional methods, but members of the general
+
+TLDR: By offering a typology of Web survey designs, the intent of this article is to facilitate the task of evaluating and improving Web surveys.
+
+Fields of Study: ['Sociology', 'Medicine']
+
+Authors: M. Couper
+

@@ -1,0 +1,12 @@
+corpus id: 8644448, 
+
+Title: The mini-IPIP scales: tiny-yet-effective measures of the Big Five factors of personality.
+
+Abstract: The Mini-IPIP, a 20-item short form of the 50-item International Personality Item Pool-Five-Factor Model measure (Goldberg, 1999), was developed and validated across five studies. The Mini-IPIP scales, with four items per Big Five trait, had consistent and acceptable internal consistencies across five studies (= at or well above .60), similar coverage of facets as other broad Big Five measures (Study 2), and test-retest correlations that were quite similar to the parent measure across intervals of a few weeks (Study 4) and several months (Study 5). Moreover, the Mini-IPIP scales showed a comparable pattern of convergent, discriminant, and criterion-related validity (Studies 2-5) with other Big Five measures. Collectively, these results indicate that the Mini-IPIP is a psychometrically acceptable and practically useful short measure of the Big Five factors of personality.
+
+TLDR: The Mini-IPIP scales showed a comparable pattern of convergent, discriminant, and criterion-related validity with other Big Five measures, indicating that it is a psychometrically acceptable and practically useful short measure of the Big Five factors of personality.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: B. Donnellan, F. Oswald, Brendan M. Baird, R. Lucas
+

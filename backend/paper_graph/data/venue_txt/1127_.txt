@@ -1,0 +1,12 @@
+corpus id: 145307496, 
+
+Title: Use of Exploratory Factor Analysis in Published Research
+
+Abstract: Given the proliferation of factor analysis applications in the literature, the present article examines the use of factor analysis in current published research across four psychological journals. Notwithstanding ease of analysis due to computers, the appropriate use of factor analysis requires a series of thoughtful researcher judgments. These judgments directly affect results and interpretations. The authors examine across studies (a) the decisions made while conducting exploratory factor analyses (N = 60) and (b) the information reported from the analyses. In doing so, they present a review of the current status of factor analytic practice, including comment on common errors in use and reporting. Recommendations are proffered for future practice as regards analytic decisions and reporting in empirical research.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Henson, J. K. Roberts
+

@@ -1,0 +1,12 @@
+corpus id: 18811142, 
+
+Title: Toward an integrative theory of training motivation: a meta-analytic path analysis of 20 years of research.
+
+Abstract: This article meta-analytically summarizes the literature on training motivation, its antecedents, and its relationships with training outcomes such as declarative knowledge, skill acquisition, and transfer. Significant predictors of training motivation and outcomes included individual characteristics (e.g., locus of control, conscientiousness, anxiety, age, cognitive ability, self-efficacy, valence, job involvement) and situational characteristics (e.g., climate). Moreover, training motivation explained incremental variance in training outcomes beyond the effects of cognitive ability. Meta-analytic path analyses further showed that the effects of personality, climate, and age on training outcomes were only partially mediated by self-efficacy, valence, and job involvement. These findings are discussed in terms of their practical significance and their implications for an integrative theory of training motivation.
+
+TLDR: Meta-analytically summarizes the literature on training motivation, its antecedents, and its relationships with training outcomes such as declarative knowledge, skill acquisition, and transfer and shows that training motivation explained incremental variance in training outcomes beyond the effects of cognitive ability.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Colquitt, J. LePine, R. Noe
+

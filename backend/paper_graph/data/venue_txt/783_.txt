@@ -1,0 +1,12 @@
+corpus id: 20301255, 
+
+Title: Adherence to Long-Term Therapies: Evidence for Action
+
+Abstract: None
+
+TLDR: This report highlights the need for a multi-disciplinary approach to adherence, emphasizes system factors that need to be addressed in successfully implementing adherence-enhancing strategies, and provides illustrative examples of the ways in which professionals have contributed in their own fields of expertise including cardiovascular care among other fields.
+
+Fields of Study: ['Medicine']
+
+Authors: S. D. De Geest, E. Sabaté
+

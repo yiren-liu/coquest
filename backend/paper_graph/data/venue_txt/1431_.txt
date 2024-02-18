@@ -1,0 +1,12 @@
+corpus id: 56563878, 
+
+Title: Probabilistic Outputs for Support vector Machines and Comparisons to Regularized Likelihood Methods
+
+Abstract: The output of a lassi(cid:12)er should be a alibrated posterior probability to enable post-pro essing. Standard SVMs do not provide su h probabilities. One method to reate probabilities is to di-re tly train a kernel lassi(cid:12)er with a logit link fun tion and a regularized maximum likelihood s ore. However, training with a maximum likelihood s ore will produ e non-sparse kernel ma-hines. Instead
+
+TLDR: The output of a lassi(cid:12)er should be a alibrated posterior probability to enable post-pro essing and a method to train a kernel lassi with a logit link and a regularized maximum likelihood is proposed.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Platt
+

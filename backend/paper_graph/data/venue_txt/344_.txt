@@ -1,0 +1,12 @@
+corpus id: 167747046, 
+
+Title: An Empirical Examination of the Structural Antecedents of Attitude toward the Ad in an Advertising Pretesting Context
+
+Abstract: Recent research has identified attitude toward the ad (AAd) as an important construct mediating the effects of advertising on brand attitude and purchase intention. To date, however, little attention has been directed toward explaining the origins of AAd. The authors present the latest version of a theory of AAd formation, report the results of an empirical test of a portion of that theory, and offer further refinements to the theory based on the observed results. Implications of the findings for advertising practice are discussed.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: S. B. MacKenzie, R. Lutz
+

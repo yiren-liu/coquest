@@ -1,0 +1,12 @@
+corpus id: 83721, 
+
+Title: Action MACH a spatio-temporal Maximum Average Correlation Height filter for action recognition
+
+Abstract: In this paper we introduce a template-based method for recognizing human actions called action MACH. Our approach is based on a maximum average correlation height (MACH) filter. A common limitation of template-based methods is their inability to generate a single template using a collection of examples. MACH is capable of capturing intra-class variability by synthesizing a single Action MACH filter for a given action class. We generalize the traditional MACH filter to video (3D spatiotemporal volume), and vector valued data. By analyzing the response of the filter in the frequency domain, we avoid the high computational cost commonly incurred in template-based approaches. Vector valued data is analyzed using the Clifford Fourier transform, a generalization of the Fourier transform intended for both scalar and vector-valued data. Finally, we perform an extensive set of experiments and compare our method with some of the most recent approaches in the field by using publicly available datasets, and two new annotated human action datasets which include actions performed in classic feature films and sports broadcast television.
+
+TLDR: This paper generalizes the traditional MACH filter to video (3D spatiotemporal volume), and vector valued data, and analyzes the response of the filter in the frequency domain to avoid the high computational cost commonly incurred in template-based approaches.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Mikel D. Rodriguez, J. Ahmed, M. Shah
+

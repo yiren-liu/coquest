@@ -1,0 +1,12 @@
+corpus id: 24801817, 
+
+Title: Adult age differences in memory performance: tests of an associative deficit hypothesis.
+
+Abstract: An associative hypothesis to explain and predict older adults' deficient explicit episodic memory performance was outlined and tested. The hypothesis attributes a substantial part of older adults' deficient memory performance to their difficulty in merging unrelated attributes-units of an episode into a cohesive unit. Although each of the components can be memorized to a reasonable degree, the associations that tie the attributes-units to each other grow weaker in old age. Four experiments are reported that provide (a) a converging validity to the hypothesis by demonstrating this associative deficit for both interitem relationships and intraitem relationships and (b) a discriminant validity to the hypothesis by contrasting and testing competing predictions made by the associative hypothesis and by alternative hypotheses. The implications of these results to older adults' episodic memory performance are discussed.
+
+TLDR: An associative hypothesis to explain and predict older adults' deficient explicit episodic memory performance was outlined and tested and four experiments are reported that provide a converging validity and a discriminant validity to the hypothesis.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: M. Naveh-Benjamin
+

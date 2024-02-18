@@ -1,0 +1,12 @@
+corpus id: 29458883, 
+
+Title: Classification and Regression Trees
+
+Abstract: Background. Introduction to Tree Classification. Right Sized Trees and Honest Estimates. Splitting Rules. Strengthening and Interpreting. Medical Diagnosis and Prognosis. Mass Spectra Classification. Regression Trees. Bayes Rules and Partitions. Optimal Pruning. Construction of Trees from a Learning Sample. Consistency. Bibliography. Notation Index. Subject Index.
+
+TLDR: This chapter discusses tree classification in the context of medicine, where right Sized Trees and Honest Estimates are considered and Bayes Rules and Partitions are used as guides to optimal pruning.
+
+Fields of Study: ['Computer Science', 'Medicine', 'Mathematics']
+
+Authors: L. Breiman, J. Friedman, R. Olshen, C. J. Stone
+

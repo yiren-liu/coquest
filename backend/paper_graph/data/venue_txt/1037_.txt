@@ -1,0 +1,12 @@
+corpus id: 53451796, 
+
+Title: The Effects of Cognitive and Noncognitive Abilities on Labor Market Outcomes and Social Behavior
+
+Abstract: This article establishes that a low‐dimensional vector of cognitive and noncognitive skills explains a variety of labor market and behavioral outcomes. Our analysis addresses the problems of measurement error, imperfect proxies, and reverse causality that plague conventional studies. Noncognitive skills strongly influence schooling decisions and also affect wages, given schooling decisions. Schooling, employment, work experience, and choice of occupation are affected by latent noncognitive and cognitive skills. We show that the same low‐dimensional vector of abilities that explains schooling choices, wages, employment, work experience, and choice of occupation explains a wide variety of risky behaviors.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: J. Heckman, Jora Stixrud, Sergio S. Urzúa
+

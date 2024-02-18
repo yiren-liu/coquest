@@ -1,0 +1,12 @@
+corpus id: 17180272, 
+
+Title: The GHTorent dataset and tool suite
+
+Abstract: During the last few years, GitHub has emerged as a popular project hosting, mirroring and collaboration platform. GitHub provides an extensive REST API, which enables researchers to retrieve high-quality, interconnected data. The GHTorent project has been collecting data for all public projects available on Github for more than a year. In this paper, we present the dataset details and construction process and outline the challenges and research opportunities emerging from it.
+
+TLDR: The GHTorent project has been collecting data for all public projects available on Github for more than a year, and the dataset details and construction process are presented.
+
+Fields of Study: ['Computer Science']
+
+Authors: Georgios Gousios
+

@@ -1,0 +1,12 @@
+corpus id: 2245438, 
+
+Title: Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images
+
+Abstract: In this paper we describe a new technique for general purpose interactive segmentation of N-dimensional images. The user marks certain pixels as "object" or "background" to provide hard constraints for segmentation. Additional soft constraints incorporate both boundary and region information. Graph cuts are used to find the globally optimal segmentation of the N-dimensional image. The obtained solution gives the best balance of boundary and region properties among all segmentations satisfying the constraints. The topology of our segmentation is unrestricted and both "object" and "background" segments may consist of several isolated parts. Some experimental results are presented in the context of photo/video editing and medical image segmentation. We also demonstrate an interesting Gestalt example. A fast implementation of our segmentation method is possible via a new max-flow algorithm.
+
+TLDR: A new technique for general purpose interactive segmentation of N-dimensional images where the user marks certain pixels as "object" or "background" to provide hard constraints for segmentation.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Yuri Boykov, M. Jolly
+

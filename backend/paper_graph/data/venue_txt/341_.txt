@@ -1,0 +1,12 @@
+corpus id: 5281538, 
+
+Title: Common method biases in behavioral research: a critical review of the literature and recommended remedies.
+
+Abstract: Interest in the problem of method biases has a long history in the behavioral sciences. Despite this, a comprehensive summary of the potential sources of method biases and how to control for them does not exist. Therefore, the purpose of this article is to examine the extent to which method biases influence behavioral research results, identify potential sources of method biases, discuss the cognitive processes through which method biases influence responses to measures, evaluate the many different procedural and statistical techniques that can be used to control method biases, and provide recommendations for how to select appropriate procedural and statistical remedies for different types of research settings.
+
+TLDR: The extent to which method biases influence behavioral research results is examined, potential sources of method biases are identified, the cognitive processes through which method bias influence responses to measures are discussed, the many different procedural and statistical techniques that can be used to control method biases is evaluated, and recommendations for how to select appropriate procedural and Statistical remedies are provided.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: P. M. Podsakoff, S. B. MacKenzie, Jeong-Yeon Lee, Nathan P. Podsakoff
+

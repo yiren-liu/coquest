@@ -1,0 +1,12 @@
+corpus id: 20158889, 
+
+Title: Efficient BackProp
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: Yann LeCun, L. Bottou, G. Orr, K. Müller
+

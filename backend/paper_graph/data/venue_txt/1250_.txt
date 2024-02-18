@@ -1,0 +1,12 @@
+corpus id: 9390203, 
+
+Title: Scratch: programming for all
+
+Abstract: "Digital fluency" should mean designing, creating, and remixing, not just browsing, chatting, and interacting.
+
+TLDR: "Digital fluency" should mean designing, creating, and remixing, not just browsing, chatting, and interacting.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Resnick, John H. Maloney, A. Monroy-Hernández, N. Rusk, Evelyn Eastmond, Karen Brennan, Amon Millner, E. Rosenbaum, Jay S. Silver, Brian Silverman, Y. Kafai
+

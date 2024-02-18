@@ -1,0 +1,12 @@
+corpus id: 207104425, 
+
+Title: Steven Bird, Ewan Klein and Edward Loper: Natural Language Processing with Python, Analyzing Text with the Natural Language Toolkit
+
+Abstract: None
+
+TLDR: The book is a practical guide to NLP achieving a balance between NLP theory and practical programming skills, and alternates between focusing on natural language, supported by pertinent programming examples, or focusing on the Python programming language while linguistic examples play a supporting role.
+
+Fields of Study: ['Computer Science']
+
+Authors: Wiebke Wagner
+

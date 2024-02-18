@@ -1,0 +1,12 @@
+corpus id: 17900407, 
+
+Title: Dynamic programming algorithm optimization for spoken word recognition
+
+Abstract: This paper reports on an optimum dynamic progxamming (DP) based time-normalization algorithm for spoken word recognition. First, a general principle of time-normalization is given using time-warping function. Then, two time-normalized distance definitions, called symmetric and asymmetric forms, are derived from the principle. These two forms are compared with each other through theoretical discussions and experimental studies. The symmetric form algorithm superiority is established. A new technique, called slope constraint, is successfully introduced, in which the warping function slope is restricted so as to improve discrimination between words in different categories. The effective slope constraint characteristic is qualitatively analyzed, and the optimum slope constraint condition is determined through experiments. The optimized algorithm is then extensively subjected to experimental comparison with various DP-algorithms, previously applied to spoken word recognition by different research groups. The experiment shows that the present algorithm gives no more than about two-thirds errors, even compared to the best conventional algorithm.
+
+TLDR: This paper reports on an optimum dynamic progxamming (DP) based time-normalization algorithm for spoken word recognition, in which the warping function slope is restricted so as to improve discrimination between words in different categories.
+
+Fields of Study: ['Computer Science']
+
+Authors: H. Sakoe, S. Chiba
+

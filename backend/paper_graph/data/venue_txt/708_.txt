@@ -1,0 +1,12 @@
+corpus id: 1919851, 
+
+Title: OpenFace: An open source facial behavior analysis toolkit
+
+Abstract: Over the past few years, there has been an increased interest in automatic facial behavior analysis and understanding. We present OpenFace - an open source tool intended for computer vision and machine learning researchers, affective computing community and people interested in building interactive applications based on facial behavior analysis. OpenFace is the first open source tool capable of facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. The computer vision algorithms which represent the core of OpenFace demonstrate state-of-the-art results in all of the above mentioned tasks. Furthermore, our tool is capable of real-time performance and is able to run from a simple webcam without any specialist hardware. Finally, OpenFace allows for easy integration with other applications and devices through a lightweight messaging system.
+
+TLDR: OpenFace is the first open source tool capable of facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation and allows for easy integration with other applications and devices through a lightweight messaging system.
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Baltrušaitis, P. Robinson, Louis-Philippe Morency
+

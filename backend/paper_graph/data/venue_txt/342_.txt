@@ -1,0 +1,12 @@
+corpus id: 550255, 
+
+Title: Improved seam carving for video retargeting
+
+Abstract: Video, like images, should support content aware resizing. We present video retargeting using an improved seam carving operator. Instead of removing 1D seams from 2D images we remove 2D seam manifolds from 3D space-time volumes. To achieve this we replace the dynamic programming method of seam carving with graph cuts that are suitable for 3D volumes. In the new formulation, a seam is given by a minimal cut in the graph and we show how to construct a graph such that the resulting cut is a valid seam. That is, the cut is monotonic and connected. In addition, we present a novel energy criterion that improves the visual quality of the retargeted images and videos. The original seam carving operator is focused on removing seams with the least amount of energy, ignoring energy that is introduced into the images and video by applying the operator. To counter this, the new criterion is looking forward in time - removing seams that introduce the least amount of energy into the retargeted result. We show how to encode the improved criterion into graph cuts (for images and video) as well as dynamic programming (for images). We apply our technique to images and videos and present results of various applications.
+
+TLDR: This work replaces the dynamic programming method of seam carving with graph cuts that are suitable for 3D volumes and presents a novel energy criterion that improves the visual quality of the retargeted images and videos.
+
+Fields of Study: ['Computer Science']
+
+Authors: Michael Rubinstein, Ariel Shamir, S. Avidan
+

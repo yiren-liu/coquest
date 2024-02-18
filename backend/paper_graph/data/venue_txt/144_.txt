@@ -1,0 +1,12 @@
+corpus id: 54152601, 
+
+Title: Automatic text processing
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Salton
+

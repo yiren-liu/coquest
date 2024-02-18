@@ -1,0 +1,12 @@
+corpus id: 109217282, 
+
+Title: Artificial neural networks (the multilayer perceptron)—a review of applications in the atmospheric sciences
+
+Abstract: None
+
+TLDR: This paper presents a general introduction and discussion of recent applications of the multilayer perceptron, one type of artificial neural network, in the atmospheric sciences.
+
+Fields of Study: ['Engineering']
+
+Authors: M. Gardner, S. Dorling
+

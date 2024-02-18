@@ -1,0 +1,12 @@
+corpus id: 7664224, 
+
+Title: Probability Estimates for Multi-class Classification by Pairwise Coupling
+
+Abstract: Pairwise coupling is a popular multi-class classification method that combines all comparisons for each pair of classes. This paper presents two approaches for obtaining class probabilities. Both methods can be reduced to linear systems and are easy to implement. We show conceptually and experimentally that the proposed approaches are more stable than the two existing popular methods: voting and the method by Hastie and Tibshirani (1998)
+
+TLDR: Two approaches for obtaining class probabilities can be reduced to linear systems and are easy to implement and shown conceptually and experimentally that the proposed approaches are more stable than the two existing popular methods.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Tingyao Wu, Chih-Jen Lin, R. C. Weng
+

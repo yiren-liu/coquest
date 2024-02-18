@@ -1,0 +1,12 @@
+corpus id: 15019293, 
+
+Title: Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization
+
+Abstract: None
+
+TLDR: This work proposes a technique for producing ‘visual explanations’ for decisions from a large class of Convolutional Neural Network (CNN)-based models, making them more transparent and explainable, and shows that even non-attention based models learn to localize discriminative regions of input image.
+
+Fields of Study: ['Computer Science']
+
+Authors: Ramprasaath R. Selvaraju, Abhishek Das, Ramakrishna Vedantam, Michael Cogswell, Devi Parikh, Dhruv Batra
+

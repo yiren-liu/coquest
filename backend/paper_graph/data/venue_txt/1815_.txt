@@ -1,0 +1,12 @@
+corpus id: 39875327, 
+
+Title: Pain: a review of three commonly used pain rating scales.
+
+Abstract: AIMS AND OBJECTIVESThis review aims to explore the research available relating to three commonly used pain rating scales, the Visual Analogue Scale, the Verbal Rating Scale and the Numerical Rating Scale. The review provides information needed to understand the main properties of the scales.BACKGROUNDData generated from pain-rating scales can be easily misunderstood. This review can help clinicians to understand the main features of these tools and thus use them effectively.METHODA MedLine review via PubMed was carried out with no restriction of age of papers retrieved. Papers were examined for methodological soundness before being included. The search terms initially included pain rating scales, pain measurement, Visual Analogue Scale, VAS, Verbal Rating Scale, VRS, Numerical/numeric Rating Scale, NRS. The reference lists of retrieved articles were used to generate more papers and search terms. Only English Language papers were examined.CONCLUSIONSAll three pain-rating scales are valid, reliable and appropriate for use in clinical practice, although the Visual Analogue Scale has more practical difficulties than the Verbal Rating Scale or the Numerical Rating Scale. For general purposes the Numerical Rating Scale has good sensitivity and generates data that can be statistically analysed for audit purposes. Patients who seek a sensitive pain-rating scale would probably choose this one. For simplicity patients prefer the Verbal Rating Scale, but it lacks sensitivity and the data it produces can be misunderstood.RELEVANCE TO CLINICAL PRACTICEIn order to use pain-rating scales well clinicians need to appreciate the potential for error within the tools, and the potential they have to provide the required information. Interpretation of the data from a pain-rating scale is not as straightforward as it might first appear.
+
+TLDR: All three pain-rating scales are valid, reliable and appropriate for use in clinical practice, although the Visual Analogue Scale has more practical difficulties than the Verbal Rating Scale or the Numerical Rating Scale.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: A. Williamson, B. Hoggart
+

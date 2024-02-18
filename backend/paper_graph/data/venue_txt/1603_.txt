@@ -1,0 +1,12 @@
+corpus id: 440212, 
+
+Title: Linear spatial pyramid matching using sparse coding for image classification
+
+Abstract: Recently SVMs using spatial pyramid matching (SPM) kernel have been highly successful in image classification. Despite its popularity, these nonlinear SVMs have a complexity O(n2 ~ n3) in training and O(n) in testing, where n is the training size, implying that it is nontrivial to scaleup the algorithms to handle more than thousands of training images. In this paper we develop an extension of the SPM method, by generalizing vector quantization to sparse coding followed by multi-scale spatial max pooling, and propose a linear SPM kernel based on SIFT sparse codes. This new approach remarkably reduces the complexity of SVMs to O(n) in training and a constant in testing. In a number of image categorization experiments, we find that, in terms of classification accuracy, the suggested linear SPM based on sparse coding of SIFT descriptors always significantly outperforms the linear SPM kernel on histograms, and is even better than the nonlinear SPM kernels, leading to state-of-the-art performance on several benchmarks by using a single type of descriptors.
+
+TLDR: An extension of the SPM method is developed, by generalizing vector quantization to sparse coding followed by multi-scale spatial max pooling, and a linear SPM kernel based on SIFT sparse codes is proposed, leading to state-of-the-art performance on several benchmarks by using a single type of descriptors.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Jianchao Yang, Kai Yu, Yihong Gong, Thomas Huang
+

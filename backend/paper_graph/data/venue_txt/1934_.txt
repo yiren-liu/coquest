@@ -1,0 +1,12 @@
+corpus id: 207579947, 
+
+Title: Least Squares Support Vector Machine Classifiers
+
+Abstract: None
+
+TLDR: A least squares version for support vector machine (SVM) classifiers that follows from solving a set of linear equations, instead of quadratic programming for classical SVM's.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: J. Suykens, J. Vandewalle
+

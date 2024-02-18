@@ -1,0 +1,12 @@
+corpus id: 1898149, 
+
+Title: Metaphors We Live by
+
+Abstract: People use metaphors every time they speak. Some of those metaphors are literary - devices for making thoughts more vivid or entertaining. But most are much more basic than that - they're "metaphors we live by", metaphors we use without even realizing we're using them. In this book, George Lakoff and Mark Johnson suggest that these basic metaphors not only affect the way we communicate ideas, but actually structure our perceptions and understandings from the beginning. Bringing together the perspectives of linguistics and philosophy, Lakoff and Johnson offer an intriguing and surprising guide to some of the most common metaphors and what they can tell us about the human mind. And for this new edition, they supply an afterword both extending their arguments and offering a fascinating overview of the current state of thinking on the subject of the metaphor.
+
+TLDR: 
+
+Fields of Study: ['History', 'Art', 'Psychology']
+
+Authors: J. Lawler, G. Lakoff, Mark Johnson
+

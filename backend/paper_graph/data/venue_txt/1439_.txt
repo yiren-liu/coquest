@@ -1,0 +1,12 @@
+corpus id: 59771305, 
+
+Title: The design of browsing and berrypicking techniques for the online search interface
+
+Abstract: First, a new model of searching in online and other information systems, called ‘berrypicking’, is discussed. This model, it is argued, is much closer to the real behavior of information searchers than the traditional model of information retrieval is, and, consequently, will guide our thinking better in the design of effective interfaces. Second, the research literature of manual information seeking behavior is drawn on for suggestions of capabilities that users might like to have in online systems. Third, based on the new model and the research on information seeking, suggestions are made for how new search capabilities could be incorporated into the design of search interfaces. Particular attention is given to the nature and types of browsing that can be facilitated.
+
+TLDR: A new model of searching in online and other information systems, called ‘berrypicking’, is discussed, which is much closer to the real behavior of information searchers than the traditional model of information retrieval is and will guide the thinking better in the design of effective interfaces.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Bates
+

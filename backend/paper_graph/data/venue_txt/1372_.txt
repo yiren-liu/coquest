@@ -1,0 +1,12 @@
+corpus id: 11959218, 
+
+Title: Independent component analysis: algorithms and applications
+
+Abstract: None
+
+TLDR: The basic theory and applications of ICA are presented, and the goal is to find a linear representation of non-Gaussian data so that the components are statistically independent, or as independent as possible.
+
+Fields of Study: ['Medicine', 'Mathematics', 'Computer Science']
+
+Authors: Aapo Hyvärinen, E. Oja
+

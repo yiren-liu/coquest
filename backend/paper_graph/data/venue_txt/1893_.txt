@@ -1,0 +1,12 @@
+corpus id: 167565639, 
+
+Title: The Commitment-Trust Theory of Relationship Marketing
+
+Abstract: Relationship marketing—establishing, developing, and maintaining successful relational exchanges—constitutes a major shift in marketing theory and practice. After conceptualizing relationship marketing and discussing its ten forms, the authors (1) theorize that successful relationship marketing requires relationship commitment and trust, (2) model relationship commitment and trust as key mediating variables, (3) test this key mediating variable model using data from automobile tire retailers, and (4) compare their model with a rival that does not allow relationship commitment and trust to function as mediating variables. Given the favorable test results for the key mediating variable model, suggestions for further explicating and testing it are offered.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: R. Morgan, S. Hunt
+

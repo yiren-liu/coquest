@@ -1,0 +1,12 @@
+corpus id: 229168408, 
+
+Title: Electrodermal activity
+
+Abstract: Electrodermal activity (EDA) was first observed in the 19th century although the term EDA was introduced as a common term for electrical phenomenon of the skin approximately 50 years ago (1). Since then, EDA has become a widely used scientific method in neuropsychiatry research. More recently, advances in amplifier instrumentation and a better understanding of the underlying principles of EDA have seen its use in clinical disciplines. However, by far, the greatest application of EDAhas been in the field of psychophysiology and the detection of deception (2–4). The majority of the work arising from psychophysiology studies have focused on EDA concomitants, which appear during stimulation and the processing of information by the brain. Of particular interest is the relationship between EDA and subtle physiological brain processes. Changes in EDA can occur as a result of a variety of sensory and psychological stimuli and typically are described in terms of an immediate phasic change often termed the skin conductance response (SCR).
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: J. Lagopoulos
+

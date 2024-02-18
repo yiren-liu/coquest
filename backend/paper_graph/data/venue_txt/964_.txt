@@ -1,0 +1,12 @@
+corpus id: 3564, 
+
+Title: A model of aesthetic appreciation and aesthetic judgments.
+
+Abstract: Although aesthetic experiences are frequent in modern life, there is as of yet no scientifically comprehensive theory that explains what psychologically constitutes such experiences. These experiences are particularly interesting because of their hedonic properties and the possibility to provide self-rewarding cognitive operations. We shall explain why modern art's large number of individualized styles, innovativeness and conceptuality offer positive aesthetic experiences. Moreover, the challenge of art is mainly driven by a need for understanding. Cognitive challenges of both abstract art and other conceptual, complex and multidimensional stimuli require an extension of previous approaches to empirical aesthetics. We present an information-processing stage model of aesthetic processing. According to the model, aesthetic experiences involve five stages: perception, explicit classification, implicit classification, cognitive mastering and evaluation. The model differentiates between aesthetic emotion and aesthetic judgments as two types of output.
+
+TLDR: It is explained why modern art's large number of individualized styles, innovativeness and conceptuality offer positive aesthetic experiences and why the challenge of art is mainly driven by a need for understanding.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: H. Leder, B. Belke, A. Oeberst, D. Augustin
+

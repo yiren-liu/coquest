@@ -1,0 +1,12 @@
+corpus id: 1851910, 
+
+Title: The memory function of sleep
+
+Abstract: None
+
+TLDR: Sleep has been identified as a state that optimizes the consolidation of newly acquired information in memory, depending on the specific conditions of learning and the timing of sleep, through specific patterns of neuromodulatory activity and electric field potential oscillations.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: S. Diekelmann, J. Born
+

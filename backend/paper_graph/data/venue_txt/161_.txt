@@ -1,0 +1,12 @@
+corpus id: 3678991, 
+
+Title: Self-management education: History, definition, outcomes, and mechanisms
+
+Abstract: Self-management has become a popular term for behavioral interventions as well as for healthful behaviors. This is especially true for the management of chronic conditions. This article offers a short history of self-management. It presents three self-management tasks—medical management, role management, and emotional management—and six self-management skills—problem solving, decision making, resource utilization, the formation of a patient-provider partnership, action planning, and self-tailoring. In addition, the article presents evidence of the effectiveness of self-management interventions and posits a possible mechanism, self-efficacy, through which these interventions work. In conclusion the article discusses problems and solutions for integrating self-management education into the mainstream health care systems.
+
+TLDR: Evidence of the effectiveness of self-management interventions is presented and a possible mechanism, self-efficacy, through which these interventions work are posited.
+
+Fields of Study: ['Medicine']
+
+Authors: K. Lorig, H. Holman
+

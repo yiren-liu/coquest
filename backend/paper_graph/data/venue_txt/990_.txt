@@ -1,0 +1,12 @@
+corpus id: 5981909, 
+
+Title: The Mythos of Model Interpretability
+
+Abstract: Supervised machine-learning models boast remarkable predictive capabilities. But can you trust your model? Will it work in deployment? What else can it tell you about the world?
+
+TLDR: This research presents a meta-modelling architecture that automates the very labor-intensive and therefore time-heavy and expensive and therefore expensive and expensive process of training and deploying supervised machine-learning models.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Zachary Chase Lipton
+

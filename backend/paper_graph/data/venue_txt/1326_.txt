@@ -1,0 +1,12 @@
+corpus id: 9556344, 
+
+Title: MCMC methods for multi-response generalized linear mixed models
+
+Abstract: Generalized linear mixed models provide a flexible framework for modeling a range of data, although with non-Gaussian response variables the likelihood cannot be obtained in closed form. Markov chain Monte Carlo methods solve this problem by sampling from a series of simpler conditional distributions that can be evaluated. The R package MCMCglmm implements such an algorithm for a range of model fitting problems. More than one response variable can be analyzed simultaneously, and these variables are allowed to follow Gaussian, Poisson, multi(bi)nominal, exponential, zero-inflated and censored distributions. A range of variance structures are permitted for the random effects, including interactions with categorical or continuous variables (i.e., random regression), and more complicated variance structures that arise through shared ancestry, either through a pedigree or through a phylogeny. Missing values are permitted in the response variable(s) and data can be known up to some level of measurement error as in meta-analysis. All simu- lation is done in C/ C++ using the CSparse library for sparse linear systems.
+
+TLDR: The R package MCMCglmm implements Markov chain Monte Carlo methods for generalized linear mixed models, which provide a flexible framework for modeling a range of data, although with non-Gaussian response variables the likelihood cannot be obtained in closed form.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: J. Hadfield
+

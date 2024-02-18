@@ -1,0 +1,12 @@
+corpus id: 16819328, 
+
+Title: Variational Mode Decomposition
+
+Abstract: During the late 1990s, Huang introduced the algorithm called Empirical Mode Decomposition, which is widely used today to recursively decompose a signal into different modes of unknown but separate spectral bands. EMD is known for limitations like sensitivity to noise and sampling. These limitations could only partially be addressed by more mathematical attempts to this decomposition problem, like synchrosqueezing, empirical wavelets or recursive variational decomposition. Here, we propose an entirely non-recursive variational mode decomposition model, where the modes are extracted concurrently. The model looks for an ensemble of modes and their respective center frequencies, such that the modes collectively reproduce the input signal, while each being smooth after demodulation into baseband. In Fourier domain, this corresponds to a narrow-band prior. We show important relations to Wiener filter denoising. Indeed, the proposed method is a generalization of the classic Wiener filter into multiple, adaptive bands. Our model provides a solution to the decomposition problem that is theoretically well founded and still easy to understand. The variational model is efficiently optimized using an alternating direction method of multipliers approach. Preliminary results show attractive performance with respect to existing mode decomposition models. In particular, our proposed model is much more robust to sampling and noise. Finally, we show promising practical decomposition results on a series of artificial and real data.
+
+TLDR: This work proposes an entirely non-recursive variational mode decomposition model, where the modes are extracted concurrently and is a generalization of the classic Wiener filter into multiple, adaptive bands.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Konstantin Dragomiretskiy, Dominique Zosso
+

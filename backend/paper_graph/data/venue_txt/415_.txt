@@ -1,0 +1,12 @@
+corpus id: 41336178, 
+
+Title: Optimum Settings for Automatic Controllers
+
+Abstract:  In this paper, the three principal control effects found in present controllers are examined and practical names and units of measurement are proposed for each effect. Corresponding units are proposed for a classification of industrial processes in terms of the two principal characteristics affecting their controllability. Formulas are given which enable the controller settings to be determined from the experimental or calculated values of the lag and unit reaction rate of the process to be controlled. These units form the basis of a quick method for adjusting a controller on the job. The effect of varying each controller setting is shown in a series of chart records. It is believed that the conceptions of control presented in this paper will be of assistance in the adjustment of existing controller applications and in the design of new installations.
+
+TLDR: In this paper, the three principal control effects found in present controllers are examined and practical names and units of measurement are proposed for each effect.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: J. G. Ziegler, N. Nichols
+

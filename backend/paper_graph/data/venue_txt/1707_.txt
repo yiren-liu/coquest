@@ -1,0 +1,12 @@
+corpus id: 59077223, 
+
+Title: SPSS for Windows
+
+Abstract: The objectives of this research aimed to construct using SPSS for Windows on Computer Network and compare the learning achievement Using SPSS for Windows on Computer Network of the student registered the research method in Rajamangala University of technology Rattanakosin Wang Kai Kangwon Campus, in the first semester year of 2007. The purposive Random Sampling consisted of 18 Bachelor Degree students registered the research method in the first semester year of 2007. Business administration faculty , Rajamangala University of technology Rattanakosin Wang Kai Kangwon Campus. The instrument consisted of SPSS for Windows on Computer Network to find the efficiency by using the criteria 80/80 (E1 / E2) Pre and Post achievement test the using SPSS for Windows on Computer Network. The value of difficult were between 0.58 – 0.63 and the value of discrimination were between 0.55 – 0.83 and compare learning achievement, the using of SPSS for Windows on Computer Network by using T Test statistics (T – Test). The research results were as follow Post – experiment achievement was higher than Pre experiment achievement at level .05 of Significance. The using SPSS for windows by networks had the efficiency of 93.60/90.00
+
+TLDR: The research results were as follow Post – experiment achievement was higher than Pre experiment achievement at level .05 of Significance and the using SPSS for windows by networks had the efficiency of 93.60/90.00.
+
+Fields of Study: ['Medicine']
+
+Authors: Hj Norussis
+

@@ -1,0 +1,12 @@
+corpus id: 642375, 
+
+Title: PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals.
+
+Abstract: The newly inaugurated Research Resource for Complex Physiologic Signals, which was created under the auspices of the National Center for Research Resources of the National Institutes of Health, is intended to stimulate current research and new investigations in the study of cardiovascular and other complex biomedical signals. The resource has 3 interdependent components. PhysioBank is a large and growing archive of well-characterized digital recordings of physiological signals and related data for use by the biomedical research community. It currently includes databases of multiparameter cardiopulmonary, neural, and other biomedical signals from healthy subjects and from patients with a variety of conditions with major public health implications, including life-threatening arrhythmias, congestive heart failure, sleep apnea, neurological disorders, and aging. PhysioToolkit is a library of open-source software for physiological signal processing and analysis, the detection of physiologically significant events using both classic techniques and novel methods based on statistical physics and nonlinear dynamics, the interactive display and characterization of signals, the creation of new databases, the simulation of physiological and other signals, the quantitative evaluation and comparison of analysis methods, and the analysis of nonstationary processes. PhysioNet is an on-line forum for the dissemination and exchange of recorded biomedical signals and open-source software for analyzing them. It provides facilities for the cooperative analysis of data and the evaluation of proposed new algorithms. In addition to providing free electronic access to PhysioBank data and PhysioToolkit software via the World Wide Web (http://www.physionet. org), PhysioNet offers services and training via on-line tutorials to assist users with varying levels of expertise.
+
+TLDR: The newly inaugurated Research Resource for Complex Physiologic Signals, which was created under the auspices of the National Center for Research Resources, is intended to stimulate current research and new investigations in the study of cardiovascular and other complex biomedical signals.
+
+Fields of Study: ['Computer Science', 'Medicine', 'Engineering']
+
+Authors: A. Goldberger, L. Amaral, L. Glass, Jeffrey M. Hausdorff, P. Ivanov, R. Mark, J. Mietus, G. Moody, Chung-Kang Peng, H. Stanley
+

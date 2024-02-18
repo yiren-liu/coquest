@@ -1,0 +1,12 @@
+corpus id: 67424455, 
+
+Title: Basics of Qualitative Research (3rd ed.): Techniques and Procedures for Developing Grounded Theory
+
+Abstract: Introduction -- Practical considerations -- Prelude to analysis -- Strategies for qualitative data analysis -- Introduction to context, process and theoretical integration -- Memos and diagrams -- Theoretical sampling -- Analyzing data for concepts -- Elaborating the analysis -- Analyzing data for context -- Bringing process into the analysis -- Integrating around a concept -- Writing theses, monographs, and giving talks -- Criterion for evaluation -- Student questions and answers to these.
+
+TLDR: This chapter discusses strategies for qualitative data analysis and the importance of context, process and theoretical integration in the development of quantitative data analysis techniques.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: J. Corbin, A. Strauss
+

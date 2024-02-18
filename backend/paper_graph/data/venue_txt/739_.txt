@@ -1,0 +1,12 @@
+corpus id: 60935820, 
+
+Title: Qualitative Data Analysis: An Expanded Sourcebook
+
+Abstract: None
+
+TLDR: This book presents a step-by-step guide to making the research results presented in reports, slideshows, posters, and data visualizations more interesting, and describes how coding initiates qualitative data analysis.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Miles, A. Huberman
+

@@ -1,0 +1,12 @@
+corpus id: 29119937, 
+
+Title: The CIEDE2000 color-difference formula: Implementation notes, supplementary test data, and mathematical observations
+
+Abstract: This article and the associated data and programs provided with it are intended to assist color engineers and scientists in correctly implementing the recently developed CIEDE2000 color-difference formula. We indicate several potential implementation errors that are not uncovered in tests performed using the original sample data published with the standard. A supplemental set of data is provided for comprehensive testing of implementations. The test data, Microsoft Excel spreadsheets, and MATLAB scripts for evaluating the CIEDE2000 color difference are made available at the first author's website. Finally, we also point out small mathematical discontinuities in the formula. © 2004 Wiley Periodicals, Inc. Col Res Appl, 30, 21–30, 2005; Published online in Wiley InterScience (www.interscience.wiley.com). DOI 10.1002/col.20070
+
+TLDR: This article indicates several potential implementation errors that are not uncovered in tests performed using the original sample data published with the recently developed CIEDE2000 color-difference formula.
+
+Fields of Study: ['Computer Science']
+
+Authors: Gaurav Sharma, Wencheng Wu, E. Dalal
+

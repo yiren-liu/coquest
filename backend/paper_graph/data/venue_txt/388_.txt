@@ -1,0 +1,12 @@
+corpus id: 211573608, 
+
+Title: World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19)
+
+Abstract: None
+
+TLDR: Despite rigorous global containment and quarantine efforts, the incidence of COVID-19 continues to rise, with 90,870 laboratory-confirmed cases and over 3,000 deaths worldwide.
+
+Fields of Study: ['Medicine']
+
+Authors: C. Sohrabi, Z. Alsafi, Niamh O’Neill, Mehdi Khan, Ahmed Kerwan, A. Al-Jabir, C. Iosifidis, R. Agha
+

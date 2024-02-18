@@ -1,0 +1,12 @@
+corpus id: 148637522, 
+
+Title: Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work
+
+Abstract: Contents: J. Rasmussen, Foreword. Preface. Part I: Introduction. What's in a Word? (Glossary). What's the Problem? Scope and Criteria for Success. Why Work Analysis? An Ecological Perspective. Part II: Three Approaches to Work Analysis. Normative Approaches to Work Analysis: "The One Best Way?" Descriptive Approaches to Work Analysis: "What Workers Really Do." Toward a Formative Approach to Work Analysis: "Workers Finish the Design." Part III: Cognitive Work Analysis in Action. Case Study: Process Control. Phase 1: Work Domain Analysis. Phase 2: Control Tasks Analysis. Phase 3: Strategies Analysis. Phase 4: Social Organization and Cooperation Analysis. Phase 5: Worker Competencies Analysis. Implications for Design and Research. Part IV: Final Words. Designing for Adaptation: Safety, Productivity, and Health and the Global Knowledge-Based Economy. Appendix: Historical Addendum.
+
+TLDR: 
+
+Fields of Study: ['Engineering', 'Psychology']
+
+Authors: K. J. Vicente
+

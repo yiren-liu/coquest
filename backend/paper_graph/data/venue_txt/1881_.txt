@@ -1,0 +1,12 @@
+corpus id: 10399663, 
+
+Title: Load theory of selective attention and cognitive control.
+
+Abstract: A load theory of attention in which distractor rejection depends on the level and type of load involved in current processing was tested. A series of experiments demonstrates that whereas high perceptual load reduces distractor interference, working memory load or dual-task coordination load increases distractor interference. These findings suggest 2 selective attention mechanisms: a perceptual selection mechanism serving to reduce distractor perception in situations of high perceptual load that exhaust perceptual capacity in processing relevant stimuli and a cognitive control mechanism that reduces interference from perceived distractors as long as cognitive control functions are available to maintain current priorities (low cognitive load). This theory resolves the long-standing early versus late selection debate and clarifies the role of cognitive control in selective attention.
+
+TLDR: 2 selective attention mechanisms are suggested: a perceptual selection mechanism serving to reduce distractor perception in situations of high perceptual load that exhaust perceptual capacity in processing relevant stimuli and a cognitive control mechanism that reduces interference from perceived distractors as long as cognitive control functions are available to maintain current priorities.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: N. Lavie, Aleksandra Hirst, J. D. de Fockert, E. Viding
+

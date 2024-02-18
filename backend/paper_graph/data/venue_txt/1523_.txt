@@ -1,0 +1,12 @@
+corpus id: 8529258, 
+
+Title: Fairness Constraints: Mechanisms for Fair Classification
+
+Abstract: Algorithmic decision making systems are ubiquitous across a wide variety of online as well as offline services. These systems rely on complex learning methods and vast amounts of data to optimize the service functionality, satisfaction of the end user and profitability. However, there is a growing concern that these automated decisions can lead, even in the absence of intent, to a lack of fairness, i.e., their outcomes can disproportionately hurt (or, benefit) particular groups of people sharing one or more sensitive attributes (e.g., race, sex). In this paper, we introduce a flexible mechanism to design fair classifiers by leveraging a novel intuitive measure of decision boundary (un)fairness. We instantiate this mechanism with two well-known classifiers, logistic regression and support vector machines, and show on real-world data that our mechanism allows for a fine-grained control on the degree of fairness, often at a small cost in terms of accuracy.
+
+TLDR: This paper introduces a flexible mechanism to design fair classifiers by leveraging a novel intuitive measure of decision boundary (un)fairness, and shows on real-world data that this mechanism allows for a fine-grained control on the degree of fairness, often at a small cost in terms of accuracy.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. B. Zafar, I. Valera, M. Gomez-Rodriguez, K. Gummadi
+

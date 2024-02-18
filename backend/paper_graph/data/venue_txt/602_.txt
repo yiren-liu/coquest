@@ -1,0 +1,12 @@
+corpus id: 10397537, 
+
+Title: Adult norms for the Box and Block Test of manual dexterity.
+
+Abstract: The Box and Block Test, a test of manual dexterity, has been used by occupational therapists and others to evaluate physically handicapped individuals. Because the test lacked normative data for adults, the results of the test have been interpreted subjectively. The purpose of this study was to develop normative data for adults. Test subjects were 628 Normal adults (310 males and 318 females) from the seven-county Milwaukee area. Data on males and females 20 to 94 years old were divided into 12 age groups. Means, standard deviations, standard error, and low and high scores are reported for each five-year age group. These data will enable clinicians to objectively compare a patient's score to a normal population parameter.
+
+TLDR: The purpose of this study was to develop normative data for adults to enable clinicians to objectively compare a patient's score to a normal population parameter.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: V. Mathiowetz, G. Volland, N. Kashman, K. Weber
+

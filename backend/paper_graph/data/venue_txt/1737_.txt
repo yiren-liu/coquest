@@ -1,0 +1,12 @@
+corpus id: 8884779, 
+
+Title: Information Technology Adoption Across Time: A Cross-Sectional Comparison of Pre-Adoption and Post-Adoption Beliefs
+
+Abstract: The process of information technology adoption and use is critical to deriving the benefits of information technology. Yet from a conceptual standpoint, few empirical studies have made a distinction between individuals' pre-adoption and post-adoption (continued use) beliefs and attitudes. This distinction is crucial in understanding and managing this process over time. The current study combines innovation diffusion and attitude theories in a theoretical framework to examine differences in pre-adoption and post-adoption beliefs and attitudes. The examination of Windows technology in a single organization indicates that users and potential adopters of information technology differ on their determinants of behavioral intention, attitude, and subjective norm. Potential adopter intention to adopt is solely determined by normative pressures, whereas user intention is solely determined by attitude. In addition, potential adopters base their attitude on a richer set of innovation characteristics than users. Whereas pre-adoption attitude is based on perceptions of usefulness, ease-of-use, result demonstrability, visibility, and trialability, post-adoption attitude is only based on instrumentality beliefs of usefulness and perceptions of image enhancements.
+
+TLDR: The examination of Windows technology in a single organization indicates that users and potential adopters of information technology differ on their determinants of behavioral intention, attitude, and subjective norm.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Elena Karahanna, D. Straub, N. Chervany
+

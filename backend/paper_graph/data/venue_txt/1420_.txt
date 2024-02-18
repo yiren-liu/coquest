@@ -1,0 +1,12 @@
+corpus id: 1242324, 
+
+Title: A new approach to linear filtering and prediction problems" transaction of the asme~journal of basic
+
+Abstract: A unitary, lightweight outer garment constructed of a thin polyethylene film includes front and rear panels which are joined together forming a medial body member, paired arms which extend outwardly and downwardly from the upper portion of the body member, and a head opening which is located in the upper margin of the body member. The arms and body member are arranged to have unjoined coplanar lower margins and the inner side margin of each arm and the adjacent side margin of the body member lie congruously along a common line. The garment is formed by placing two rectangular sheets of the film, having a width equal to the finished length of the garment, in overlying engagement with one another on a cutting surface, thermally die cutting the sheets into the appropriate shape, and thermally sealing the resulting cut margins to complete the garment.
+
+TLDR: A unitary, lightweight outer garment constructed of a thin polyethylene film includes front and rear panels which are joined together forming a medial body member, paired arms which extend outwardly and downwardly from the upper portion of the body member and a head opening which is located in the upper margin of theBody member.
+
+Fields of Study: ['Computer Science', 'Geology', 'Mathematics']
+
+Authors: R. Kálmán
+

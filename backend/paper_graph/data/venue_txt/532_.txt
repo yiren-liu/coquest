@@ -1,0 +1,12 @@
+corpus id: 17751759, 
+
+Title: The PANAS-X manual for the positive and negative affect schedule
+
+Abstract: A network is disclosed for automatically checking the skew and character spacing of digital tape drive systems to indicate out-of-tolerance conditions of those parameters. The network enables a tape drive to check its own recording accuracy as well as that of tapes recorded on other drives. In operation, the first detected pulse of each character triggers a monostable multi-vibrator which locks out further data pulses and initiates a window pulse equal in length to the maximum permissible skew. At the end of the window pulse data pulses may again be received. If a pulse is received after termination of the window pulse, the skew is determined to exceed specifications and a skew error indication is given by the illumination of a display light, for example. A similar circuit arrangement is provided for detecting character spacing which is less than the minimum required for unambiguous data reproduction.
+
+TLDR: A network is disclosed for automatically checking the skew and character spacing of digital tape drive systems to indicate out-of-tolerance conditions of those parameters.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: D. Watson, L. Clark
+

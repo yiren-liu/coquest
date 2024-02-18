@@ -1,0 +1,12 @@
+corpus id: 124165178, 
+
+Title: Nonparametric Statistics for the Behavioral Sciences.
+
+Abstract: This is the revision of the classic text in the field, adding two new chapters and thoroughly updating all others. The original structure is retained, and the book continues to serve as a combined text/reference.
+
+TLDR: 
+
+Fields of Study: ['Mathematics', 'Medicine', 'Psychology']
+
+Authors: F. David, S. Siegel
+

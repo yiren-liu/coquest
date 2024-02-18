@@ -1,0 +1,12 @@
+corpus id: 3793521, 
+
+Title: A theory of reading: from eye fixations to comprehension.
+
+Abstract: This article presents a model of reading comprehension that accounts for the allocation of eye fixations of college students reading scientific passages. The model deals with processing at the level of words, clauses, and text units. Readers make longer pauses at points where processing loads are greater. Greater loads occur while readers are accessing infrequent words, integrating information from important clauses, and making inferences at the ends of sentences. The model accounts forthe gaze duration on each word of text as a function of the involvement of the various levels of processing. The model is embedded in a theoretical framework capable of accommodating the flexibility of reading.
+
+TLDR: A model of reading comprehension that accounts for the allocation of eye fixations of college students reading scientific passages is presented, embedded in a theoretical framework capable of accommodating the flexibility of reading.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: M. Just, P. Carpenter
+

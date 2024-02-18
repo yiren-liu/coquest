@@ -1,0 +1,12 @@
+corpus id: 152352, 
+
+Title: The Stigma of Obesity: A Review and Update
+
+Abstract: None
+
+TLDR: This review expands upon previous findings of weight bias in major domains of living, documents new areas where weight bias has been studied, and highlights ongoing research questions that need to be addressed to advance this field of study.
+
+Fields of Study: ['Medicine']
+
+Authors: R. Puhl, Chelsea A. Heuer
+

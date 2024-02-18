@@ -1,0 +1,12 @@
+corpus id: 13116159, 
+
+Title: A Revision of Bloom's Taxonomy: An Overview
+
+Abstract: EĞITIM HEDEFLERI TAKSONOMISI (THE TAXONOMY OF EDUCATIONAL OBJECTIVES) egitim sonucunda ogrencilerden ogrenmeleri beklenen veya umulan seyleri siniflandirmak icin kullanilan bir taksonomidir (siniflandirma sistemi). Bu taksonomi, ayni egitim hedeflerinin her birini olcen soru bankalarini olusturmak icin, cesitli universitelerin fakulteleri arasinda test sorularinin degisimini kolaylastirmanin bir yolu olarak gelistirilmistir. Daha sonra, Chicago Universitesi Sinavlar Dairesi muduru olan Benjamin S. Bloom bu taksonominin yillik kapsamli sinavlari hazirlamada is yukunu azaltacagini ileri surmustur. Bloom kendisinin bu girisimine yardimci olmasi icin, birlesik devletlerin her yerinde defalarca ayni problemle karsilasan bircok olcme degerlendirme uzmaninin katildigi bir grup olusturdu. Bu grup yapilan calismalarla ilgili ilerlemeyi gozden gecirmek, duzeltme yapmak ve bir sonraki adimlari planlamak icin 1949 yilinin basinda iki kez toplandi. Onlarin sonuc taslagi 1956 yilinda “Taxonomy of Educational Objectives: The Classification of Educational Goals. Handbook I: Cognitive Domain” basligi adi altinda yayinlandi (Bloom, Engelhart, Furst, Hill, & Krathwohl, 1956). Bundan boyle, bu Orijinal Taksonomi olarak anilacaktir. Bu taksonominin revizyonu 45 yil sonra ayni tarzda gelistirilmistir (Anderson, Krathwohl, et al., 2001). Bundan boyle bu Revize Edilmis Taksonomi olarak anilacaktir. Bloom orijinal taksonomiye bir olcme aracindan daha fazlasi olarak bakiyordu. Bloom orijinal taksonominin asagidaki boyutlarda hizmet edebilecegine inaniyordu: • Insanlar, konular ve sinif seviyeleri arasindaki iletisimi kolaylastirmak icin ogrenme hedefleriyle ilgili ortak bir dil; • Belli bir ders veya mufredat programinin genis kapsamli egitimsel hedeflerinin (ornegin, bu hedefler ulusal, eyalet ve bolgesel standartlarin icinde bulunur) ozel amacini belirlemek icin bir temel; • Bir unite, ders veya mufredat programindaki egitimsel hedefler, aktiviteler ve degerlendirmelerinin uyumunu belirlemenin bir yolu ve • Belirli egitimsel ders veya mufredat programinin sinirlanmis boyutlarinin cesitlendirilebilmesine karsin bir dizi egitim imkânlariyla ilgili genis bir bakis acisi (panorama) olarak;
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Krathwohl
+

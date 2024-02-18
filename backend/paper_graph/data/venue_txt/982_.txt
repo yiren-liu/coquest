@@ -1,0 +1,12 @@
+corpus id: 556331, 
+
+Title: Online Learning for Matrix Factorization and Sparse Coding
+
+Abstract: Sparse coding--that is, modelling data vectors as sparse linear combinations of basis elements--is widely used in machine learning, neuroscience, signal processing, and statistics. This paper focuses on the large-scale matrix factorization problem that consists of learning the basis set in order to adapt it to specific data. Variations of this problem include dictionary learning in signal processing, non-negative matrix factorization and sparse principal component analysis. In this paper, we propose to address these tasks with a new online optimization algorithm, based on stochastic approximations, which scales up gracefully to large data sets with millions of training samples, and extends naturally to various matrix factorization formulations, making it suitable for a wide range of learning problems. A proof of convergence is presented, along with experiments with natural images and genomic data demonstrating that it leads to state-of-the-art performance in terms of speed and optimization for both small and large data sets.
+
+TLDR: A new online optimization algorithm is proposed, based on stochastic approximations, which scales up gracefully to large data sets with millions of training samples, and extends naturally to various matrix factorization formulations, making it suitable for a wide range of learning problems.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: J. Mairal, F. Bach, J. Ponce, G. Sapiro
+

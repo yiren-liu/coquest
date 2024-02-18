@@ -1,0 +1,12 @@
+corpus id: 60694536, 
+
+Title: Heuristic and systematic information processing within and beyond the persuasion context.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Chaiken, A. Liberman, A. Eagly
+

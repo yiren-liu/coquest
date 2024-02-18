@@ -1,0 +1,12 @@
+corpus id: 8577357, 
+
+Title: A theory of learning from different domains
+
+Abstract: None
+
+TLDR: A classifier-induced divergence measure that can be estimated from finite, unlabeled samples from the domains and shows how to choose the optimal combination of source and target error as a function of the divergence, the sample sizes of both domains, and the complexity of the hypothesis class.
+
+Fields of Study: ['Computer Science']
+
+Authors: Shai Ben-David, John Blitzer, K. Crammer, Alex Kulesza, Fernando C Pereira, Jennifer Wortman Vaughan
+

@@ -1,0 +1,12 @@
+corpus id: 28859853, 
+
+Title: Computer for the 21st Century
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Aylor
+

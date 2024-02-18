@@ -1,0 +1,12 @@
+corpus id: 30267660, 
+
+Title: Trust, control strategies and allocation of function in human-machine systems.
+
+Abstract: As automated controllers supplant human intervention in controlling complex systems, the operators' role often changes from that of an active controller to that of a supervisory controller. Acting as supervisors, operators can choose between automatic and manual control. Improperly allocating function between automatic and manual control can have negative consequences for the performance of a system. Previous research suggests that the decision to perform the job manually or automatically depends, in part, upon the trust the operators invest in the automatic controllers. This paper reports an experiment to characterize the changes in operators' trust during an interaction with a semi-automatic pasteurization plant, and investigates the relationship between changes in operators' control strategies and trust. A regression model identifies the causes of changes in trust, and a 'trust transfer function' is developed using time series analysis to describe the dynamics of trust. Based on a detailed analysis of operators' strategies in response to system faults we suggest a model for the choice between manual and automatic control, based on trust in automatic controllers and self-confidence in the ability to control the system manually.
+
+TLDR: An experiment is reported to characterize the changes in operators' trust during an interaction with a semi-automatic pasteurization plant, and a regression model identifies the causes of changes in trust and a 'trust transfer function' is developed using time series analysis to describe the dynamics of trust.
+
+Fields of Study: ['Engineering', 'Medicine']
+
+Authors: J. Lee, N. Moray
+

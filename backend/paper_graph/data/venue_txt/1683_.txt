@@ -1,0 +1,12 @@
+corpus id: 2669730, 
+
+Title: GameFlow: a model for evaluating player enjoyment in games
+
+Abstract: Although player enjoyment is central to computer games, there is currently no accepted model of player enjoyment in games. There are many heuristics in the literature, based on elements such as the game interface, mechanics, gameplay, and narrative. However, there is a need to integrate these heuristics into a validated model that can be used to design, evaluate, and understand enjoyment in games. We have drawn together the various heuristics into a concise model of enjoyment in games that is structured by flow. Flow, a widely accepted model of enjoyment, includes eight elements that, we found, encompass the various heuristics from the literature. Our new model, GameFlow, consists of eight elements -- concentration, challenge, skills, control, clear goals, feedback, immersion, and social interaction. Each element includes a set of criteria for achieving enjoyment in games. An initial investigation and validation of the GameFlow model was carried out by conducting expert reviews of two real-time strategy games, one high-rating and one low-rating, using the GameFlow criteria. The result was a deeper understanding of enjoyment in real-time strategy games and the identification of the strengths and weaknesses of the GameFlow model as an evaluation tool. The GameFlow criteria were able to successfully distinguish between the high-rated and low-rated games and identify why one succeeded and the other failed. We concluded that the GameFlow model can be used in its current form to review games; further work will provide tools for designing and evaluating enjoyment in games.
+
+TLDR: It is concluded that the GameFlow model can be used in its current form to review games; further work will provide tools for designing and evaluating enjoyment in games.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Sweetser, Peta Wyeth
+

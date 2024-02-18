@@ -1,0 +1,12 @@
+corpus id: 15269098, 
+
+Title: Uses and Gratifications Theory in the 21st Century
+
+Abstract: Some mass communications scholars have contended that uses and gratifications is not a rigorous social science theory. In this article, I argue just the opposite, and any attempt to speculate on the future direction of mass communication theory must seriously include the uses and gratifications approach. In this article, I assert that the emergence of computer-mediated communication has revived the significance of use and gratifications. In fact, uses and gratifications has always provided a cutting-edge theoretical approach in the initial stages of each new mass communications medium: newspapers, radio and television, and now the Internet. Although scientists are likely to continue using traditional tools and typologies to answer questions about media use, we must also be prepared to expand our current theoretical models of uses and gratifications. Contemporary and future models must include concepts such as interactivity, demassification, hypertextuality, and asynchroneity. Researchers must also be willing to explore interpersonal and qualitative aspects of mediated communication in a more holistic methodology.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Thomas E. Ruggiero
+

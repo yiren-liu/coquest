@@ -1,0 +1,12 @@
+corpus id: 2215809, 
+
+Title: Mood and memory.
+
+Abstract: This article describes experiments in which happy or sad moods were induced in subjects by hyp- notic suggestion to investigate the influence of emo- tions on memory and thinking. One result was that subjects exhibited mood-state-dependent memory in recall of word lists, personal experiences recorded in a daily diary, and childhood experiences; people recalled a greater percentage of those experiences that were affectively congruent with the mood they were in dur- ing recall. Second, emotion powerfully influenced such cognitive processes as free associations, imaginative fantasies, social perceptions, and snap judgments about others' personalities (e.g., angry subjects generated an- gry associates, told hostile stories, and were prone to find fault with others). Third, when the feeling-tone of a narrative agreed with the reader's emotion, the salience and memorability of events in that narrative were increased. Thus, sad readers attended more to sad material, identified with a sad character from a story, and recalled more about that character. An associative network theory is proposed to account for these several results. In this theory, an emotion serves as a memory unit that can enter into associations with coincident events. Activation of this emotion unit aids retrieval of events associated with it; it also primes emotional themata for use in free association, fantasies, and per- ceptual categorization.
+
+TLDR: Experiments in which happy or sad moods were induced in subjects by hyp- notic suggestion to investigate the influence of emo- tions on memory and thinking found that subjects exhibited mood-state-dependent memory in recall of word lists, personal experiences recorded in a daily diary, and childhood experiences.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: G. Bower
+

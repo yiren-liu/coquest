@@ -1,0 +1,12 @@
+corpus id: 6566608, 
+
+Title: Likert scales, levels of measurement and the “laws” of statistics
+
+Abstract: None
+
+TLDR: It is shown that many studies, dating back to the 1930s consistently show that parametric statistics are robust with respect to violations of these assumptions, and parametric methods can be utilized without concern for “getting the wrong answer”.
+
+Fields of Study: ['Mathematics', 'Medicine']
+
+Authors: G. Norman
+

@@ -1,0 +1,12 @@
+corpus id: 37580776, 
+
+Title: The aggression questionnaire.
+
+Abstract: A new questionnaire on aggression was constructed. Replicated factor analyses yielded 4 scales: Physical Aggression, Verbal Aggression, Anger, and Hostility. Correlational analysis revealed that anger is the bridge between both physical and verbal aggression and hostility. The scales showed internal consistency and stability over time. Men scored slightly higher on Verbal Aggression and Hostility and much higher on Physical Aggression. There was no sex difference for Anger. The various scales correlated differently with various personality traits. Scale scores correlated with peer nominations of the various kinds of aggression. These findings suggest the need to assess not only overall aggression but also its individual components.
+
+TLDR: Correlational analysis revealed that anger is the bridge between both physical and verbal aggression and hostility and the need to assess not only overall aggression but also its individual components.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: A. Buss, M. Perry
+

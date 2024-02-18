@@ -1,0 +1,12 @@
+corpus id: 8757756, 
+
+Title: The Tragedy of the Commons
+
+Abstract: The population problem has no technical solution; it requires a fundamental extension in morality.
+
+TLDR: The population problem has no technical solution; it requires a fundamental extension in morality.
+
+Fields of Study: ['Sociology', 'Political Science', 'Medicine']
+
+Authors: G. Hardin
+

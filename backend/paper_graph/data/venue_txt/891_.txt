@@ -1,0 +1,12 @@
+corpus id: 8810481, 
+
+Title: CNN architectures for large-scale audio classification
+
+Abstract: Convolutional Neural Networks (CNNs) have proven very effective in image classification and show promise for audio. We use various CNN architectures to classify the soundtracks of a dataset of 70M training videos (5.24 million hours) with 30,871 video-level labels. We examine fully connected Deep Neural Networks (DNNs), AlexNet [1], VGG [2], Inception [3], and ResNet [4]. We investigate varying the size of both training set and label vocabulary, finding that analogs of the CNNs used in image classification do well on our audio classification task, and larger training and label sets help up to a point. A model using embeddings from these classifiers does much better than raw features on the Audio Set [5] Acoustic Event Detection (AED) classification task.
+
+TLDR: This work uses various CNN architectures to classify the soundtracks of a dataset of 70M training videos with 30,871 video-level labels, and investigates varying the size of both training set and label vocabulary, finding that analogs of the CNNs used in image classification do well on the authors' audio classification task, and larger training and label sets help up to a point.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Shawn Hershey, S. Chaudhuri, D. Ellis, J. Gemmeke, A. Jansen, R. C. Moore, Manoj Plakal, D. Platt, R. Saurous, Bryan Seybold, M. Slaney, Ron J. Weiss, K. Wilson
+

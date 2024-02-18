@@ -1,0 +1,12 @@
+corpus id: 59819860, 
+
+Title: Social research methods
+
+Abstract: PART ONE: SOCIAL RESEARCH METHODS Introduction to Your Companion PART TWO: CORE AREAS OF THE CURRICULUM Theoretical Background Research Basics Research Strategies and Design The Nature of Data Defining the Research Problem Sampling Data Collection Methods Experimental Design Quantitative Data Analysis Qualitative Data Analysis Ethics PART THREE: STUDY AND REVISION SKILLS How To Get the Most Out of Your Lectures - (written in collaboration with David McIlroy) How To Make the Most of Seminars Revision Hints and Tips Exam Tips Tips on Interpreting Essay and Exam Questions Essay Writing Writing a Literature Review Writing a Research Proposal Writing Up a Dissertation or Research Project
+
+TLDR: This chapter discusses social research methods, research strategies and design, and how to get the most out of Lectures and revision skills.
+
+Fields of Study: ['Computer Science']
+
+Authors: N. Walliman
+

@@ -1,0 +1,12 @@
+corpus id: 142971264, 
+
+Title: Handbook of Theory and Research for the Sociology of Education
+
+Abstract: The first of its kind, this handbook synthesizes major advances in the sociology of education over the past several decades. It incorporates both a systematic review of significant theoretical and empirical work and challenging original contributions by distinguished American, English, and French sociologists. In his introduction, John G. Richardson traces the development of the sociology of education and reviews the important classical European works in which this discipline is grounded. Each chapter, devoted to a major topic in the field, provides both a review of the literature and an exposition of an original thesis. The inclusion of subjects outside traditional sociological concern--such as the historical foundations of education and the sociology of special education--gives an interdisciplinary scope that enhances the volume's usefulness.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: J. Richardson
+

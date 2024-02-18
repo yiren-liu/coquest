@@ -1,0 +1,12 @@
+corpus id: 11152085, 
+
+Title: Eta-Squared and Partial Eta-Squared in Fixed Factor Anova Designs
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: Jacob Cohen
+

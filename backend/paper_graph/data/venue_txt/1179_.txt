@@ -1,0 +1,12 @@
+corpus id: 64615798, 
+
+Title: Thematic Analysis
+
+Abstract: As qualitative research becomes increasingly recognized and valued, it is imperative that it is conducted in a rigorous and methodical manner to yield meaningful and useful results. To be accepted as trustworthy, qualitative researchers must demonstrate that data analysis has been conducted in a precise, consistent, and exhaustive manner through recording, systematizing, and disclosing the methods of analysis with enough detail to enable the reader to determine whether the process is credible. Although there are numerous examples of how to conduct qualitative research, few sophisticated tools are available to researchers for conducting a rigorous and relevant thematic analysis. The purpose of this article is to guide researchers using thematic analysis as a research method. We offer personal insights and practical examples, while exploring issues of rigor and trustworthiness. The process of conducting a thematic analysis is illustrated through the presentation of an auditable decision trail, guiding interpreting and representing textual data. We detail our step-by-step approach to exploring the effectiveness of strategic clinical networks in Alberta, Canada, in our mixed methods case study. This article contributes a purposeful approach to thematic analysis in order to systematize and increase the traceability and verification of the analysis.
+
+TLDR: The process of conducting a thematic analysis is illustrated through the presentation of an auditable decision trail, guiding interpreting and representing textual data and exploring issues of rigor and trustworthiness.
+
+Fields of Study: ['Computer Science']
+
+Authors: L. Nowell, J. Norris, D. White, N. Moules
+

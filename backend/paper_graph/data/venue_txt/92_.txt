@@ -1,0 +1,12 @@
+corpus id: 4837807, 
+
+Title: Affect grid : A single-item scale of pleasure and arousal
+
+Abstract: This article introduces a single-item scale, the Affect Grid, designed as a quick means of assessing affect along the dimensions of pleasure-displeasure and arousal-sleepiness. The Affect Grid is potentially suitable for any study that requires judgments about affect of either a descriptive or a subjective kind. The scale was shown to have adequate reliability, convergent validity, and discriminant validity in 4 studies in which college students used the Affect Grid to describe (a) their current mood, (b) the meaning of emotion-related words, and (c) the feelings conveyed by facial expressions. Other studies are cited to illustrate the potential uses of the Affect Grid as a measure of mood. In this article, we introduce the Affect Grid, a scale designed as a quick means of assessing affect along the dimensions of pleasure-displeasure and arousal-sleepiness. The Affect Grid is potentially suitable for any study that requires judgments about affect of either a descriptive or a subjective kind. The Affect Grid is a single-item scale. Our aim was for an instrument that would be short and easy to fill out and that could, therefore, be used rapidly and repeatedly. Currently available scales of affect are multiple-item checklists or questionnaires that are too time-consuming or too distracting for some purposes. In particular, they do not lend themselves to continuous or quickly repeated observation. They are awkward in dealing with the rapid fluctuations of affect that occur, for example, in response to music, or for all we know, to many everyday emotion-laden events. In repeated-meas ures designs, subjects tiring of the same checklist may eventually become less conscientious or, in longitudinal studies, drop out of the study. Researchers who have wanted something quick and simple have sometimes resorted to homespun measures—with resulting uncertainty as to precisely what is being measured and how well. The Affect Grid is shown in Figure 1. The subject is asked to take several minutes beforehand to learn precisely how to use it. General instructions for this purpose are given in the Appendix.1 Once the subject understands these general instructions, he or she can then be given the Affect Grid together with whatever specific instructions are appropriate, such as "Please rate
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Russell, A. Weiss, G. A. Mendelsohn
+

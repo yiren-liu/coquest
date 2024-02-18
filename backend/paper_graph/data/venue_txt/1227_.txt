@@ -1,0 +1,12 @@
+corpus id: 218472006, 
+
+Title: Organizational Behavior and Human Decision Processes.
+
+Abstract: Results of this experiment demonstrate that individualists and collectivists react differently to minority influence. Based on the distinction between objectivity and preference norms in the minority influence literature, we hypothesize that individualism and collectivism influence (A) responses to minority influence (focusing on the target of influence) and (B) effectiveness of minority influence (focusing on the influence agent). Our results replicate past research and demonstrate improved decision quality for individuals exposed to a minority perspective. Moreover, minority influence targets with high horizontal individualism and low horizontal collectivism made higher quality decisions. Influence targets with high vertical collectivism demonstrated higher quality decisions when the influence agent held a high status position in the group. Results also demonstrate that influence agents with high vertical individualism experienced less role stress than those with low vertical individualism. Finally, influence agents with low role stress were more effective in influencing the decision making of others. We discuss our findings in terms of boundary conditions to the minority influence process. q 2000 Academic Press
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: K. Ng, L. V. Dyne
+

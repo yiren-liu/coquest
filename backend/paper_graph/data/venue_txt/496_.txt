@@ -1,0 +1,12 @@
+corpus id: 7725217, 
+
+Title: Term-Weighting Approaches in Automatic Text Retrieval
+
+Abstract: None
+
+TLDR: This paper summarizes the insights gained in automatic term weighting, and provides baseline single term indexing models with which other more elaborate content analysis procedures can be compared.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Salton, C. Buckley
+

@@ -1,0 +1,12 @@
+corpus id: 1774023, 
+
+Title: The Kaldi Speech Recognition Toolkit
+
+Abstract: We describe the design of Kaldi, a free, open-source toolkit for speech recognition research. Kaldi provides a speech recognition system based on finite-state automata (using the freely available OpenFst), together with detailed documentation and a comprehensive set of scripts for building complete recognition systems. Kaldi is written is C++, and the core library supports modeling of arbitrary phonetic-context sizes, acoustic modeling with subspace Gaussian mixture models (SGMM) as well as standard Gaussian mixture models, together with all commonly used linear and affine transforms. Kaldi is released under the Apache License v2.0, which is highly nonrestrictive, making it suitable for a wide community of users.
+
+TLDR: The design of Kaldi is described, a free, open-source toolkit for speech recognition research that provides a speech recognition system based on finite-state automata together with detailed documentation and a comprehensive set of scripts for building complete recognition systems.
+
+Fields of Study: ['Computer Science']
+
+Authors: Daniel Povey, Arnab Ghoshal, Gilles Boulianne, L. Burget, O. Glembek, N. Goel, M. Hannemann, P. Motlícek, Y. Qian, Petr Schwarz, J. Silovský, G. Stemmer, Karel Veselý
+

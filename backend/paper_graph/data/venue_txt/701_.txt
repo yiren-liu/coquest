@@ -1,0 +1,12 @@
+corpus id: 174065, 
+
+Title: Distinctive Image Features from Scale-Invariant Keypoints
+
+Abstract: None
+
+TLDR: This paper presents a method for extracting distinctive invariant features from images that can be used to perform reliable matching between different views of an object or scene and can robustly identify objects among clutter and occlusion while achieving near real-time performance.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Lowe
+

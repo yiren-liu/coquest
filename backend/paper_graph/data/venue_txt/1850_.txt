@@ -1,0 +1,12 @@
+corpus id: 144373724, 
+
+Title: Digital Na(t)ives? Variation in Internet Skills and Uses among Members of the “Net Generation”*
+
+Abstract: People who have grown up with digital media are often assumed to be universally savvy with information and communication technologies. Such assumptions are rarely grounded in empirical evidence, however. This article draws on unique data with information about a diverse group of young adults’ Internet uses and skills to suggest that even when controlling for Internet access and experiences, people differ in their online abilities and activities. Additionally, findings suggest that Internet know-how is not randomly distributed among the population, rather, higher levels of parental education, being a male, and being white or Asian American are associated with higher levels of Web-use skill. These user characteristics are also related to the extent to which young adults engage in diverse types of online activities. Moreover, skill itself is positively associated with types of uses. Overall, these findings suggest that even when controlling for basic Internet access, among a group of young adults, socioeconomic status is an important predictor of how people are incorporating the Web into their everyday lives with those from more privileged backgrounds using it in more informed ways for a larger number of activities.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: E. Hargittai
+

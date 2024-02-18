@@ -1,0 +1,12 @@
+corpus id: 16313675, 
+
+Title: Why Differences Make a Difference: A Field Study of Diversity, Conflict and Performance in Workgroups
+
+Abstract: A multimethod field study of 92 workgroups explored the influence of three types of workgroup diversity (social category diversity, value diversity, and informational diversity) and two moderators (task type and task interdependence) on workgroup outcomes. Informational diversity positively influenced group performance, mediated by task conflict. Value and social category diversity, task complexity, and task interdependence all moderated this effect. Social category diversity positively influenced group member morale. Value diversity decreased satisfaction, intent to remain, and commitment to the group; relationship conflict mediated the effects of value diversity. We discuss the implications of these results for group leaders, managers, and organizations wishing to create and manage a diverse workforce successfully.
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Business']
+
+Authors: K. Jehn, G. Northcraft, M. Neale
+

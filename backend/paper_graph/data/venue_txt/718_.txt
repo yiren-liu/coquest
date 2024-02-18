@@ -1,0 +1,12 @@
+corpus id: 14426590, 
+
+Title: Self-perception: An alternative interpretation of cognitive dissonance phenomena.
+
+Abstract: A theory of self-percepti on is proposed to provide an alternative interpretation for several of the major phenomena embraced by Festinger's theory of cognitive dissonance and to explicate some of the secondary patterns of data that have appeared in dissonance experiments. It is suggested that the attitude statements which comprise the major dependent variables in dissonance experiments may be regarded as interpersonal judgments in which the observer and the observed happen to be the same individual and that it is unnecessary to postulate an aversive motivational drive toward consistency to account for the attitude change phenomena observed. Supporting experiments are presented, and metatheoretical contrasts between the "radical" behavioral approach utilized and the phenomenological approach typified by dissonance theory are discussed.
+
+TLDR: A theory of self-percepti on is proposed to provide an alternative interpretation for several of the major phenomena embraced by Festinger's theory of cognitive dissonance and to explicate some of the secondary patterns of data that have appeared in dissonance experiments.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Bem
+

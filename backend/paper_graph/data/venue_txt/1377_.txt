@@ -1,0 +1,12 @@
+corpus id: 141120597, 
+
+Title: Human behavior and the principle of least effort
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: G. Zipf
+

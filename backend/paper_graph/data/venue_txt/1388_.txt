@@ -1,0 +1,12 @@
+corpus id: 39503397, 
+
+Title: Evaluating Online Labor Markets for Experimental Research: Amazon.com's Mechanical Turk
+
+Abstract: We examine the trade-offs associated with using Amazon.com's Mechanical Turk (MTurk) interface for subject recruitment. We first describe MTurk and its promise as a vehicle for performing low-cost and easy-to-field experiments. We then assess the internal and external validity of experiments performed using MTurk, employing a framework that can be used to evaluate other subject pools. We first investigate the characteristics of samples drawn from the MTurk population. We show that respondents recruited in this manner are often more representative of the U.S. population than in-person convenience samples—the modal sample in published experimental political science—but less representative than subjects in Internet-based panels or national probability samples. Finally, we replicate important published experimental work using MTurk samples.
+
+TLDR: It is shown that respondents recruited in this manner are often more representative of the U.S. population than in-person convenience samples but less representative than subjects in Internet-based panels or national probability samples.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Berinsky, G. Huber, Gabriel S. Lenz
+

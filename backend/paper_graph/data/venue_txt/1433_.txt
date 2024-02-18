@@ -1,0 +1,12 @@
+corpus id: 53883782, 
+
+Title: Assessing IT usage: the role of prior experience
+
+Abstract: A variety of models that incorporate attitudinal, social, and control factor have been advanced to explain IT usage, of which the Technology Acceptance Model (TAM) is the most well know. One goal of such models is to develop diagnostic tools to predict information systems acceptance and facilitate design changes before users have experience with a system. However, empirical tests of these models have generally focused on either systems that were already in use by the study participants, or systems that the participants were familiar with, such as word processing packages and spreadsheets. Given this, it is unclear (1) whether models such as TAM are predictive of behavior for inexperienced users and, more importantly, (2) whether the determinants of IT usage are the same for experienced and inexperiened users of a system.
+
+TLDR: A variety of models that incorporate attitudinal, social, and control factor have been advanced to explain IT usage, but it is unclear whether models such as TAM are predictive of behavior for inexperienced users and whether the determinants of IT usage are the same for experienced and inexperienced users of a system.
+
+Fields of Study: ['Computer Science']
+
+Authors: Shirley Taylor, P. Todd
+

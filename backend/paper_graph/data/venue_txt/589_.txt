@@ -1,0 +1,12 @@
+corpus id: 37366437, 
+
+Title: Acting with technology: Activity theory and interaction design
+
+Abstract: Activity theory holds that the human mind is the product of our interaction with people and artifacts in the context of everyday activity. Acting with Technology makes the case for activity theory as a basis for understanding our relationship with technology. Victor Kaptelinin and Bonnie Nardi describe activity theory's principles, history, relationship to other theoretical approaches, and application to the analysis and design of technologies. The book provides the first systematic entry-level introduction to the major principles of activity theory. It describes the accumulating body of work in interaction design informed by activity theory, drawing on work from an international community of scholars and designers. Kaptelinin and Nardi examine the notion of the object of activity, describe its use in an empirical study, and discuss key debates in the development of activity theory. Finally, they outline current and future issues in activity theory, providing a comparative analysis of the theory and its leading theoretical competitors within interaction design: distributed cognition, actor-network theory, and phenomenologically inspired approaches. Acting with Technology series
+
+TLDR: The first systematic entry-level introduction to the major principles of activity theory is provided, providing a comparative analysis of the theory and its leading theoretical competitors within interaction design: distributed cognition, actor-network theory, and phenomenologically inspired approaches.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: V. Kaptelinin, B. Nardi
+

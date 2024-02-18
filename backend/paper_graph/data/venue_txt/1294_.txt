@@ -1,0 +1,12 @@
+corpus id: 1841742, 
+
+Title: What is user engagement? A conceptual framework for defining user engagement with technology
+
+Abstract: The purpose of this article is to critically deconstruct the term engagement as it applies to peoples' experiences with technology. Through an extensive, critical multidisciplinary literature review and exploratory study of users of Web searching, online shopping, Webcasting, and gaming applications, we conceptually and operationally defined engagement. Building on past research, we conducted semistructured interviews with the users of four applications to explore their perception of being engaged with the technology. Results indicate that engagement is a process comprised of four distinct stages: point of engagement, period of sustained engagement, disengagement, and reengagement. Furthermore, the process is characterized by attributes of engagement that pertain to the user, the system, and user-system interaction. We also found evidence of the factors that contribute to nonengagement. Emerging from this research is a definition of engagement—a term not defined consistently in past work—as a quality of user experience characterized by attributes of challenge, positive affect, endurability, aesthetic and sensory appeal, attention, feedback, variety-novelty, interactivity, and perceived user control. This exploratory work provides the foundation for future work to test the conceptual model in various application areas, and to develop methods to measure engaging user experiences. © 2008 Wiley Periodicals, Inc.
+
+TLDR: An extensive, critical multidisciplinary literature review and exploratory study of users of Web searching, online shopping, Webcasting, and gaming applications indicates that engagement is a process comprised of four distinct stages: point of engagement, period of sustained engagement, disengagement, and reengagement.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: H. O'Brien, E. Toms
+

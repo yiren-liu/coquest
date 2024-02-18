@@ -1,0 +1,12 @@
+corpus id: 110788499, 
+
+Title: Designing Web Usability: The Practice of Simplicity
+
+Abstract: From the Publisher: Can you afford to be less knowledgable than your competitors? Over 100,000 Internet professionals around the world have already bought this book. Users experience the usability of a site before they have committed to using it and before they have spent any money on potential purchases. The web is the ultimate environment for empowerment, and he or she who clicks the mouse decides everything. Jakob Nielson, shares with you the full weight of his wisdom and experience. From content and page design to designing for ease of navigation and users with disabilities, Nielsen delivers complete direction on how to connect with any web user, in any situation. Nielsen has arrived at a series of principles that work in support of his findings: 1. that web users want to find what they're after quickly, and 2. if they don't know what they're after, they nevertheless want to browse quickly and access information they come across in a logical manner.
+
+TLDR: Jakob Nielson delivers complete direction on how to connect with any web user, in any situation, with a series of principles that work in support of his findings.
+
+Fields of Study: ['Engineering']
+
+Authors: J. Nielsen
+

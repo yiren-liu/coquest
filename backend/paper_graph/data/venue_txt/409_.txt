@@ -1,0 +1,12 @@
+corpus id: 30140639, 
+
+Title: Modeling By Shortest Data Description*
+
+Abstract: None
+
+TLDR: The number of digits it takes to write down an observed sequence x1,...,xN of a time series depends on the model with its parameters that one assumes to have generated the observed data.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Rissanen
+

@@ -1,0 +1,12 @@
+corpus id: 1063007, 
+
+Title: Applying 'design by contract'
+
+Abstract: Methodological guidelines for object-oriented software construction that improve the reliability of the resulting software systems are presented. It is shown that the object-oriented techniques rely on the theory of design by contract, which underlies the design of the Eiffel analysis, design, and programming language and of the supporting libraries, from which a number of examples are drawn. The theory of contract design and the role of assertions in that theory are discussed.<<ETX>>
+
+TLDR: Methodological guidelines for object-oriented software construction that improve the reliability of the resulting software systems are presented and the theory of contract design and the role of assertions in that theory are discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Meyer
+

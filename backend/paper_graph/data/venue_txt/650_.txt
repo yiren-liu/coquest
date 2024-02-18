@@ -1,0 +1,12 @@
+corpus id: 28635993, 
+
+Title: The development of spatial representations of large-scale environments.
+
+Abstract: None
+
+TLDR: The development of the sequence of spatial representations in children conforms to the “main sequence” identified in the construction of spatial representation in adults, as a potential explanation for the extensive parallelisms identified among ontogenesis, microgenesis, the course of pathology, and the recovery of function following pathological insult.
+
+Fields of Study: ['Sociology', 'Medicine']
+
+Authors: A. Siegel, S. White
+

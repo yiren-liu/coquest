@@ -1,0 +1,12 @@
+corpus id: 12091208, 
+
+Title: The efficient assessment of need for cognition.
+
+Abstract: A short form for assessing individual differences in need for cognition is described.
+
+TLDR: A short form for assessing individual differences in need for cognition is described and its application in medicine is described.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. Cacioppo, R. Petty, C. F. Kao
+

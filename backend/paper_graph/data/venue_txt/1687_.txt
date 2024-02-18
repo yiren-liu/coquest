@@ -1,0 +1,12 @@
+corpus id: 17599168, 
+
+Title: Some antecedents and effects of trust in virtual communities
+
+Abstract: None
+
+TLDR: Trust was increased through perceived responsive relationships in the virtual community, by a general disposition to trust, and by the belief that others confide personal information.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Catherine M. Ridings, D. Gefen, B. Arinze
+

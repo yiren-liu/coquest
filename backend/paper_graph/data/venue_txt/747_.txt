@@ -1,0 +1,12 @@
+corpus id: 118002311, 
+
+Title: A technology acceptance model for empirically testing new end-user information systems : theory and results
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: Fred D. Davis
+

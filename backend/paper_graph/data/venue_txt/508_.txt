@@ -1,0 +1,12 @@
+corpus id: 60154586, 
+
+Title: The essential guide to effect sizes : statistical power, meta-analysis, and the interpretation of research results
+
+Abstract: List of figures List of tables List of boxes Introduction Part I. Effect Sizes and the Interpretation of Results: 1. Introduction to effect sizes 2. Interpreting effects Part II. The Analysis of Statistical Power: 3. Power analysis and the detection of effects 4. The painful lessons of power research Part III. Meta-Analysis: 5. Drawing conclusions using meta-analysis 6. Minimizing bias in meta-analysis Last word: thirty recommendations for researchers Appendices: 1. Minimum sample sizes 2. Alternative methods for meta-analysis Bibliography Index.
+
+TLDR: This book discusses effect sizes, meta-Analysis, and the interpretation of results in the context of meta-analysis, which addresses the role of sample sizes in the analysis of power research.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Ellis
+

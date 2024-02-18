@@ -1,0 +1,12 @@
+corpus id: 33030727, 
+
+Title: A practical guide to multilevel modeling.
+
+Abstract: None
+
+TLDR: The purpose of this article is to clarify the seven major steps involved in a multilevel analysis: clarifying the research question, choosing the appropriate parameter estimator, assessing the need for MLM, building the level-1 model, building a level-2 model, and likelihood ratio model testing.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. Peugh
+

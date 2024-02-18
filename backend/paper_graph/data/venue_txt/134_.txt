@@ -1,0 +1,12 @@
+corpus id: 1732632, 
+
+Title: Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group
+
+Abstract: Recently introduced cost-effective depth sensors coupled with the real-time skeleton estimation algorithm of Shotton et al. [16] have generated a renewed interest in skeleton-based human action recognition. Most of the existing skeleton-based approaches use either the joint locations or the joint angles to represent a human skeleton. In this paper, we propose a new skeletal representation that explicitly models the 3D geometric relationships between various body parts using rotations and translations in 3D space. Since 3D rigid body motions are members of the special Euclidean group SE(3), the proposed skeletal representation lies in the Lie group SE(3)×.. .×SE(3), which is a curved manifold. Using the proposed representation, human actions can be modeled as curves in this Lie group. Since classification of curves in this Lie group is not an easy task, we map the action curves from the Lie group to its Lie algebra, which is a vector space. We then perform classification using a combination of dynamic time warping, Fourier temporal pyramid representation and linear SVM. Experimental results on three action datasets show that the proposed representation performs better than many existing skeletal representations. The proposed approach also outperforms various state-of-the-art skeleton-based human action recognition approaches.
+
+TLDR: A new skeletal representation that explicitly models the 3D geometric relationships between various body parts using rotations and translations in 3D space is proposed and outperforms various state-of-the-art skeleton-based human action recognition approaches.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Raviteja Vemulapalli, F. Arrate, R. Chellappa
+

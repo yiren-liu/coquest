@@ -1,0 +1,12 @@
+corpus id: 1694378, 
+
+Title: A Combined Corner and Edge Detector
+
+Abstract: The problem we are addressing in Alvey Project MMI149 is that of using computer vision to understand the unconstrained 3D world, in which the viewed scenes will in general contain too wide a diversity of objects for topdown recognition techniques to work. For example, we desire to obtain an understanding of natural scenes, containing roads, buildings, trees, bushes, etc., as typified by the two frames from a sequence illustrated in Figure 1. The solution to this problem that we are pursuing is to use a computer vision system based upon motion analysis of a monocular image sequence from a mobile camera. By extraction and tracking of image features, representations of the 3D analogues of these features can be constructed.
+
+TLDR: The problem the authors are addressing in Alvey Project MMI149 is that of using computer vision to understand the unconstrained 3D world, in which the viewed scenes will in general contain too wide a diversity of objects for topdown recognition techniques to work.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. G. Harris, M. Stephens
+

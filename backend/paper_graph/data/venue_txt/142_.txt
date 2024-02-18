@@ -1,0 +1,12 @@
+corpus id: 1607901, 
+
+Title: ggplot2 - Elegant Graphics for Data Analysis
+
+Abstract: This book describes ggplot2, a new data visualization package for R that uses the insights from Leland Wilkisons Grammar of Graphics to create a powerful and flexible system for creating data graphics. With ggplot2, its easy to: produce handsome, publication-quality plots, with automatic legends created from the plot specification superpose multiple layers (points, lines, maps, tiles, box plots to name a few) from different data sources, with automatically adjusted common scales add customisable smoothers that use the powerful modelling capabilities of R, such as loess, linear models, generalised additive models and robust regression save any ggplot2 plot (or part thereof) for later modification or reuse create custom themes that capture in-house or journal style requirements, and that can easily be applied to multiple plots approach your graph from a visual perspective, thinking about how each component of the data is represented on the final plot. This book will be useful to everyone who has struggled with displaying their data in an informative and attractive way. You will need some basic knowledge of R (i.e. you should be able to get your data into R), but ggplot2 is a mini-language specifically tailored for producing graphics, and youll learn everything you need in the book. After reading this book youll be able to produce graphics customized precisely for your problems,and youll find it easy to get graphics out of your head and on to the screen or page.
+
+TLDR: This book describes ggplot2, a new data visualization package for R that uses the insights from Leland Wilkisons Grammar of Graphics to create a powerful and flexible system for creating data graphics.
+
+Fields of Study: ['Computer Science']
+
+Authors: H. Wickham
+

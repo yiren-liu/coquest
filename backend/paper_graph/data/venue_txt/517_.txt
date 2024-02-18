@@ -1,0 +1,12 @@
+corpus id: 144515154, 
+
+Title: Intrinsic Motivation and Self-Determination in Human Behavior
+
+Abstract: None
+
+TLDR: This chapter discusses the development of Causality Orientations Theory, a theory of personality Influences on Motivation, and its application in information-Processing Theories.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: E. Deci, R. Ryan
+

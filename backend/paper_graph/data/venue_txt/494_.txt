@@ -1,0 +1,12 @@
+corpus id: 145661843, 
+
+Title: A General Theory of Marketing Ethics
+
+Abstract: Almost all the theoretical efforts in the area of marketing ethics have been normative, not positive. Th1at is, almost all theoretical works have focused on developing guidelines or rules to assist marketers in their efforts to behave in an ethical fashion. In contrast, the model developed in this article is descriptive, not prescriptive. It attempts to explain the decision-making process for problem situations having ethical con-tent. The article begins with a discussion and evaluation of the two major normative ethical theories in moral philosophy. deontological theories and teleological theories. Although these theories are normative, to the extent that people actually follow their prescriptions, any positive theory of marketing ethics must incorporate them. The article then develops a positive theory of marketing ethics and uses that theory to help explain some of the empirical research that has been conducted in the area of marketing ethics
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: S. Hunt, Scott J. Vitell
+

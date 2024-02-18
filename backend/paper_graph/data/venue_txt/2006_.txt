@@ -1,0 +1,12 @@
+corpus id: 31855942, 
+
+Title: Visual word recognition of single-syllable words.
+
+Abstract: Speeded visual word naming and lexical decision performance are reported for 2428 words for young adults and healthy older adults. Hierarchical regression techniques were used to investigate the unique predictive variance of phonological features in the onsets, lexical variables (e.g., measures of consistency, frequency, familiarity, neighborhood size, and length), and semantic variables (e.g. imageahility and semantic connectivity). The influence of most variables was highly task dependent, with the results shedding light on recent empirical controversies in the available word recognition literature. Semantic-level variables accounted for unique variance in both speeded naming and lexical decision performance, level with the latter task producing the largest semantic-level effects. Discussion focuses on the utility of large-scale regression studies in providing a complementary approach to the standard factorial designs to investigate visual word recognition.
+
+TLDR: Large-scale regression studies were used to investigate the unique predictive variance of phonological features in the onsets, lexical variables, and semantic variables to investigate visual word recognition, shedding light on recent empirical controversies in the available word recognition literature.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Balota, Michael J Cortese, S. Sergent-Marshall, D. Spieler, M. Yap
+

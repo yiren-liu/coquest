@@ -1,0 +1,12 @@
+corpus id: 19228797, 
+
+Title: Knowledge tracing: Modeling the acquisition of procedural knowledge
+
+Abstract: None
+
+TLDR: An effort to model students' changing knowledge state during skill acquisition and a series of studies is reviewed that examine the empirical validity of knowledge tracing and has led to modifications in the process.
+
+Fields of Study: ['Computer Science']
+
+Authors: Albert T. Corbett, John R. Anderson
+

@@ -1,0 +1,12 @@
+corpus id: 38035138, 
+
+Title: Attention regulation and monitoring in meditation
+
+Abstract: None
+
+TLDR: Meditation can be conceptualized as a family of complex emotional and attentional regulatory training regimes developed for various ends, including the cultivation of well-being and emotional balance, which could have a long-term impact on the brain and behavior.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: A. Lutz, H. Slagter, J. Dunne, R. Davidson
+

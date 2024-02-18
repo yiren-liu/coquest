@@ -1,0 +1,12 @@
+corpus id: 53394736, 
+
+Title: Constructive Consumer Choice Processes
+
+Abstract: Consumer decision making has been a focal interest in consumer research, and consideration of current marketplace trends ( e.g., technological change, an information explosion) indicates that this topic will continue to be critically important. We argue that consumer choice is inherently constructive. Due to limited processing capacity, consumers often do not have well-defined existing preferences, but construct them using a variety of strategies contingent on task demands. After describing constructive choice, consumer decision tasks, and decision strategies, we provide an integrative framework for understanding constructive choice, review evidence for constructive consumer choice in light of that framework, and identify knowledge gaps that suggest opportunities for additional research. Copyright 1998 by the University of Chicago.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: J. Bettman, M. Luce, J. Payne
+

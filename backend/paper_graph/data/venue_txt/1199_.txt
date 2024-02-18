@@ -1,0 +1,12 @@
+corpus id: 60837336, 
+
+Title: Illuminating the Path: The Research and Development Agenda for Visual Analytics
+
+Abstract: This is the book form of the Research and Development Agenda for Visual Analytics to be published by IEEE in 2005.
+
+TLDR: This is the book form of the Research and Development Agenda for Visual Analytics to be published by IEEE in 2005.
+
+Fields of Study: ['Computer Science']
+
+Authors: James J. Thomas, Kristin A. Cook
+

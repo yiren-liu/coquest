@@ -1,0 +1,12 @@
+corpus id: 204982032, 
+
+Title: Internet of Things (IoT): A vision, architectural elements, and future directions
+
+Abstract: None
+
+TLDR: This paper presents a Cloud centric vision for worldwide implementation of Internet of Things, and expands on the need for convergence of WSN, the Internet and distributed computing directed at technological research community.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Gubbi, R. Buyya, S. Marusic, M. Palaniswami
+

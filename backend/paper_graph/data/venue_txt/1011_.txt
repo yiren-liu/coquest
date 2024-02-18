@@ -1,0 +1,12 @@
+corpus id: 20914681, 
+
+Title: Personal Computing: Toward a Conceptual Model of Utilization
+
+Abstract: Organizations continue to invest heavily in personal computers for their knowledge workers. When use is optional, however, having access to the technology by no means ensures it will be used or used effectively. To help us gain a better understanding of factors that influence the use of personal computers, researchers have recently adopted the theory of reasoned action proposed by Fishbein and Azjen (1975). This study uses a competing theory of behavior proposed by Triandis (1980). Responses were collected from 212 knowledge workers in nine divisions of a multi-national firm, and the measures and research hypotheses were analyzed using partial least squares (PLS). The results show that social norms and three components of expected consequences (complexity of use, fit between the job and PC capabilities, and long-term consequences) have a strong influence on utilization. These findings confirm the importance of the expected consequences of using PC technology, suggesting that training programs and organizational policies could be instituted to enhance or modify these expectations.
+
+TLDR: The results show that social norms and three components of expected consequences have a strong influence on utilization, confirming the importance of the expected consequences of using PC technology and suggesting that training programs and organizational policies could be instituted to enhance or modify these expectations.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Thompson, C. Higgins, Jane M. Howell
+

@@ -1,0 +1,12 @@
+corpus id: 116926536, 
+
+Title: Data structures and network algorithms
+
+Abstract: Foundations Disjoint Sets Heaps Search Trees Linking and Cutting Trees Minimum Spanning Trees Shortest Paths Network Flows Matchings.
+
+TLDR: This paper presents a meta-trees tree model that automates the very labor-intensive and therefore time-heavy and therefore expensive process of manually selecting trees to grow in a graph.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: R. Tarjan
+

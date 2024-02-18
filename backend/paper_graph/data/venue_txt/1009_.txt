@@ -1,0 +1,12 @@
+corpus id: 3177797, 
+
+Title: Latent Dirichlet Allocation
+
+Abstract: None
+
+TLDR: This work proposes a generative model for text and other collections of discrete data that generalizes or improves on several previous models including naive Bayes/unigram, mixture of unigrams, and Hofmann's aspect model.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Blei, A. Ng, Michael I. Jordan
+

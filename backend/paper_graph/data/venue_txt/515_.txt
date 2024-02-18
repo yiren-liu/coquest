@@ -1,0 +1,12 @@
+corpus id: 220641393, 
+
+Title: Evaluating Structural Equation Models with Unobservable Variables and Measurement Error
+
+Abstract: The statistical tests used in the analysis of structural equation models with unobservable variables and measurement error are examined. A drawback of the commonly applied chi square test, in addition to the known problems related to sample size and power, is that it may indicate an increasing correspondence between the hypothesized model and the observed data as both the measurement properties and the relationship between constructs decline. Further, and contrary to common assertion, the risk of making a Type II error can be substantial even when the sample size is large. Moreover, the present testing methods are unable to assess a model's explanatory power. To overcome these problems, the authors develop and apply a testing system based on measures of shared variance within the structural model, measurement model, and overall model.
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: C. Fornell, D. Larcker
+

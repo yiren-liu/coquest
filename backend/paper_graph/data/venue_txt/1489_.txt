@@ -1,0 +1,12 @@
+corpus id: 14580473, 
+
+Title: User Acceptance of Computer Technology: A Comparison of Two Theoretical Models
+
+Abstract: Computer systems cannot improve organizational performance if they aren't used. Unfortunately, resistance to end-user systems by managers and professionals is a widespread problem. To better predict, explain, and increase user acceptance, we need to better understand why people accept or reject computers. This research addresses the ability to predict peoples' computer acceptance from a measure of their intentions, and the ability to explain their intentions in terms of their attitudes, subjective norms, perceived usefulness, perceived ease of use, and related variables. In a longitudinal study of 107 users, intentions to use a specific system, measured after a one-hour introduction to the system, were correlated 0.35 with system use 14 weeks later. The intention-usage correlation was 0.63 at the end of this time period. Perceived usefulness strongly influenced peoples' intentions, explaining more than half of the variance in intentions at the end of 14 weeks. Perceived ease of use had a small but significant effect on intentions as well, although this effect subsided over time. Attitudes only partially mediated the effects of these beliefs on intentions. Subjective norms had no effect on intentions. These results suggest the possibility of simple but powerful models of the determinants of user acceptance, with practical value for evaluating systems and guiding managerial interventions aimed at reducing the problem of underutilized computer technology.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Fred D. Davis, R. Bagozzi, P. R. Warshaw
+

@@ -1,0 +1,12 @@
+corpus id: 144244174, 
+
+Title: Exchange and Power in Social Life
+
+Abstract: In his landmark study of exchange and power in social life, Peter M. Blau contributes to an understanding of social structure by analyzing the social processes that govern the relations between individuals and groups. The basic question that Blau considers is: How does social life become organized into increasingly complex structures of associations among humans. This analysis, first published in 1964, represents a pioneering contribution to the sociological literature. Blau uses concepts of exchange, reciprocity, imbalance, and power to examine social life and to derive the more complex processes in social structure from the simpler ones. The principles of reciprocity and imbalance are used to derive such processes as power, changes in group structure; and the two major forces that govern the dynamics of complex social structures: the legitimization of organizing authority of increasing scope and the emergence of oppositions along different lines producing conflict and change.
+
+TLDR: 
+
+Fields of Study: ['Sociology', 'Psychology']
+
+Authors: P. Blau
+

@@ -1,0 +1,12 @@
+corpus id: 40691045, 
+
+Title: Pandora's Hope: Essays on the Reality of Science Studies
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: F. Stalder
+

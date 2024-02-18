@@ -1,0 +1,12 @@
+corpus id: 10243026, 
+
+Title: Anticipatory Biasing of Visuospatial Attention Indexed by Retinotopically Specific α-Bank Electroencephalography Increases over Occipital Cortex
+
+Abstract: Alpha-band (8-14 Hz) oscillatory EEG activity was examined with high-density scalp electrical recording during the cue-stimulus interval of an endogenous spatial cueing paradigm. In different blocks, cued spatial locations (left or right) were in either the upper or lower visual field, and attended stimuli were either oriented Ts or moving dots. Distractor stimuli were equally likely in the uncued hemifield. Sustained focal increases of alpha-band activity were seen over occipital cortex contralateral to the direction of the to-be-ignored location (ipsilateral to the cued direction of attention) before onset of the to-be-attended stimulus. The focus of alpha-band activity also moved depending on whether cued locations were in the upper or lower field. Results are consistent with active gating of uncued spatial locations.
+
+TLDR: Alpha-band (8-14 Hz) oscillatory EEG activity was examined with high-density scalp electrical recording during the cue-stimulus interval of an endogenous spatial cueing paradigm and results are consistent with active gating of uncued spatial locations.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: M. Worden, John J. Foxe, Norman Wang, G. Simpson
+

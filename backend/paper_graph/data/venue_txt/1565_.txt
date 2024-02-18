@@ -1,0 +1,12 @@
+corpus id: 122415379, 
+
+Title: A Simple Sequentially Rejective Multiple Test Procedure
+
+Abstract: This paper presents a simple and widely ap- plicable multiple test procedure of the sequentially rejective type, i.e. hypotheses are rejected one at a tine until no further rejections can be done. It is shown that the test has a prescribed level of significance protection against error of the first kind for any combination of true hypotheses. The power properties of the test and a number of possible applications are also discussed.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: S. Holm
+

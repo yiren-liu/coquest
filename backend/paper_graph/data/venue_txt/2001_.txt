@@ -1,0 +1,12 @@
+corpus id: 207761262, 
+
+Title: Image quality assessment: from error visibility to structural similarity
+
+Abstract: Objective methods for assessing perceptual image quality traditionally attempted to quantify the visibility of errors (differences) between a distorted image and a reference image using a variety of known properties of the human visual system. Under the assumption that human visual perception is highly adapted for extracting structural information from a scene, we introduce an alternative complementary framework for quality assessment based on the degradation of structural information. As a specific example of this concept, we develop a structural similarity index and demonstrate its promise through a set of intuitive examples, as well as comparison to both subjective ratings and state-of-the-art objective methods on a database of images compressed with JPEG and JPEG2000. A MATLAB implementation of the proposed algorithm is available online at http://www.cns.nyu.edu//spl sim/lcv/ssim/.
+
+TLDR: A structural similarity index is developed and its promise is demonstrated through a set of intuitive examples, as well as comparison to both subjective ratings and state-of-the-art objective methods on a database of images compressed with JPEG and JPEG2000.
+
+Fields of Study: ['Computer Science', 'Mathematics', 'Medicine']
+
+Authors: Zhou Wang, A. Bovik, H. Sheikh, Eero P. Simoncelli
+

@@ -1,0 +1,12 @@
+corpus id: 12453047, 
+
+Title: Deep CORAL: Correlation Alignment for Deep Domain Adaptation
+
+Abstract: None
+
+TLDR: This paper extends CORAL to learn a nonlinear transformation that aligns correlations of layer activations in deep neural networks (Deep CORAL), and shows state-of-the-art performance on standard benchmark datasets.
+
+Fields of Study: ['Computer Science']
+
+Authors: Baochen Sun, Kate Saenko
+

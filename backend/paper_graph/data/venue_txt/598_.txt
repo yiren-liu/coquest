@@ -1,0 +1,12 @@
+corpus id: 14113767, 
+
+Title: Microsoft COCO: Common Objects in Context
+
+Abstract: None
+
+TLDR: A new dataset with the goal of advancing the state-of-the-art in object recognition by placing the question of object recognition in the context of the broader question of scene understanding by gathering images of complex everyday scenes containing common objects in their natural context.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tsung-Yi Lin, M. Maire, Serge J. Belongie, James Hays, P. Perona, D. Ramanan, Piotr Dollár, C. L. Zitnick
+

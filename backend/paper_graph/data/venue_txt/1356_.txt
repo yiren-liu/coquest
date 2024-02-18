@@ -1,0 +1,12 @@
+corpus id: 64903870, 
+
+Title: Information Theory and an Extension of the Maximum Likelihood Principle
+
+Abstract: None
+
+TLDR: The classical maximum likelihood principle can be considered to be a method of asymptotic realization of an optimum estimate with respect to a very general information theoretic criterion to provide answers to many practical problems of statistical model fitting.
+
+Fields of Study: ['Computer Science']
+
+Authors: H. Akaike
+

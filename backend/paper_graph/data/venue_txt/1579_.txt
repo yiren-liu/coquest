@@ -1,0 +1,12 @@
+corpus id: 143123803, 
+
+Title: Perception and communication
+
+Abstract: First published in 1958, this book has become recognized as a classic in its field. It marked a transition between behaviourist learning theory and the modern 'information processing' or 'cognitive' approach to perception and communication skills. It continues to provide a principal starting point for theoretical and experimental work on selective attention. As Professor Posner writes in his Foreword to the reissue: 'it remains of great interest to view the work in its original form and to ponder those creative moments when the mind first grasps a new insight and then struggles to work out its consequences.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Broadbent
+

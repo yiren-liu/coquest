@@ -1,0 +1,12 @@
+corpus id: 15901026, 
+
+Title: Animation: can it facilitate?
+
+Abstract: Graphics have been used since ancient times to portray things that are inherently spatiovisual, like maps and building plans. More recently, graphics have been used to portray things that are metaphorically spatiovisual, like graphs and organizational charts. The assumption is that graphics can facilitate comprehension, learning, memory, communication and inference. Assumptions aside, research on static graphics has shown that only carefully designed and appropriate graphics prove to be beneficial for conveying complex systems. Effective graphics conform to the Congruence Principle according to which the content and format of the graphic should correspond to the content and format of the concepts to be conveyed. From this, it follows that animated graphics should be effective in portraying change over time. Yet the research on the efficacy of animated over static graphics is not encouraging. In cases where animated graphics seem superior to static ones, scrutiny reveals lack of equivalence between animated and static graphics in content or procedures; the animated graphics convey more information or involve interactivity. Animations of events may be ineffective because animations violate the second principle of good graphics, the Apprehension Principle, according to which graphics should be accurately perceived and appropriately conceived. Animations are often too complex or too fast to be accurately perceived. Moreover, many continuous events are conceived of as sequences of discrete steps. Judicious use of interactivity may overcome both these disadvantages. Animations may be more effective than comparable static graphics in situations other than conveying complex systems, for example, for real time reorientations in time and space.
+
+TLDR: In cases where animated graphics seem superior to static ones, scrutiny reveals lack of equivalence between animated and static graphics in content or procedures; the animated graphics convey more information or involve interactivity.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Tversky, J. Morrison, Mireille Bétrancourt
+

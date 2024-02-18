@@ -1,0 +1,12 @@
+corpus id: 59578641, 
+
+Title: The Strength of Weak Ties
+
+Abstract: Analysis of social networks is suggested as a tool for linking micro and macro levels of sociological theory. The procedure is illustrated by elaboration of the macro implications of one aspect of small-scale interaction: the strength of dyadic ties. It is argued that the degree of overlap of two individuals' friendship networks varies directly with the strength of their tie to one another. The impact of this principle on diffusion of influence and information, mobility opportunity, and community organization is explored. Stress is laid on the cohesive power of weak ties. Most network models deal, implicitly, with strong ties, thus confining their applicability to small, well-defined groups. Emphasis on weak ties lends itself to discussion of relations between groups and to analysis of segments of social structure not easily defined in terms of primary groups.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Mark S. Granovetter
+

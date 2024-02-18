@@ -1,0 +1,12 @@
+corpus id: 2329233, 
+
+Title: Computational modelling of visual attention
+
+Abstract: None
+
+TLDR: Five important trends have emerged from recent work on computational models of focal visual attention that emphasize the bottom-up, image-based control of attentional deployment, providing a framework for a computational and neurobiological understanding of visual attention.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: L. Itti, C. Koch
+

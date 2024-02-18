@@ -1,0 +1,12 @@
+corpus id: 859256, 
+
+Title: The Semantic Web
+
+Abstract: None
+
+TLDR: An algorithmic approach for consistently generating URIs from textual data is presented, the algorithmic matching of author names is discussed and how RDF generated from MARC records may be linked to other data sources on the Web is suggested.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Goos, J. Hartmanis, J. Leeuwen, David Hutchison, Jeff Z. Pan, Huajun Chen, H. Kim, Juan-Zi Li, Zhe Wu, Ian Horrocks, R. Mizoguchi, Zhaohui Wu
+

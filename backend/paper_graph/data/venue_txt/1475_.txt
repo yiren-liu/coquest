@@ -1,0 +1,12 @@
+corpus id: 12258773, 
+
+Title: An updated and expanded assessment of PLS-SEM in information systems research
+
+Abstract: Following the call for awareness of accepted reporting practices by Ringle, Sarstedt, and Straub in 2012, the purpose of this paper is to review and analyze the use of partial least squares structural equation modeling (PLS-SEM) in Industrial Management & Data Systems (IMDS) and extend MIS Quarterly (MISQ) applications to include the period 2012-2014.,Review of PLS-SEM applications in information systems (IS) studies published in IMDS and MISQ for the period 2010-2014 identifying a total of 57 articles reporting the use of or commenting on PLS-SEM.,The results indicate an increased maturity of the IS field in using PLS-SEM for model complexity and formative measures and not just small sample sizes and non-normal data.,Findings demonstrate the continued use and acceptance of PLS-SEM as an accepted research method within IS. PLS-SEM is discussed as the preferred SEM method when the research objective is prediction.,This update on PLS-SEM use and recent developments will help authors to better understand and apply the method. Researchers are encouraged to engage in complete reporting procedures.,Applications of PLS-SEM for exploratory research and theory development are increasing. IS scholars should continue to exercise sound practice by reporting reasons for using PLS-SEM and recognizing its wider applicability for research. Recommended reporting guidelines following Ringle et al. (2012) and Gefen et al. (2011) are included. Several important methodological updates are included as well.
+
+TLDR: The results indicate an increased maturity of the IS field in using PLS-SEM for model complexity and formative measures and not just small sample sizes and non-normal data and demonstrate the continued use and acceptance of PLS -SEM as an accepted research method within IS.
+
+Fields of Study: ['Computer Science']
+
+Authors: Joseph F. Hair, Carole L. Hollingsworth, Adriane B. Randolph, A. Chong
+

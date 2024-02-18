@@ -1,0 +1,12 @@
+corpus id: 5378777, 
+
+Title: Pain mechanisms: a new theory.
+
+Abstract: 'f.he nature of pa.in has been the bject of bitter controversy since the turn of the century (J). There are currently two opposing theories of pain: (i) specificity theory, which holds that pain is a specific modality · e vision or hearing, "with its own central and peripheral apparatus" (2), tnd (ii) pattern theory, which main'ns that the nerve impulse pattern for pain is produced by intense stimulation of nonspecific receptors since "there are no specific fibers and no apecific endings" (3). Both theories derive from earlier concepts proposed by ~on Frey (4) and Goldscheider (5) Ill 1894, and historically they are held to be mutually exclusive. Since it is our purpose here to propose a new theory of pain mechanisms, we shall Slate explicitly at the outset where we agree and disagree with specificity and pattern theories.
+
+TLDR: A new theory of pain mechanisms is proposed, which holds that the nerve impulse pattern for pain is produced by intense stimulation of nonspecific receptors since "there are no specific fibers and no apecific endings".
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: R. Melzack, P. Wall
+

@@ -1,0 +1,12 @@
+corpus id: 60893603, 
+
+Title: The Small World Problem
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Milgram
+

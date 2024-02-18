@@ -1,0 +1,12 @@
+corpus id: 141329507, 
+
+Title: International Affective Picture System (IAPS) : Technical Manual and Affective Ratings
+
+Abstract: The International Affective Picture System (IAPS) is being developed to provide a set of normative emotional stimuli for experimental investigations of emotion and attention. The goal is to develop a large set of standardized, emotionally-evocative, internationally accessible, color photographs that includes contents across a wide range of semantic categories. The IAPS (pronounced EYE-APS), along with the International Affective Digitized Sound system (IADS), the Affective Lexicon of English Words (ANEW), as well as other collections of affective stimuli, are being developed and distributed by the NIMH Center for Emotion and Attention (CSEA) at the University of Florida in order to provide standardized materials that are available to researchers in the study of emotion and attention. The existence of these collections of normatively rated affective stimuli should: 1) allow better experimental control in the selection of emotional stimuli, 2) facilitate the comparison of results across different studies conducted in the same or different laboratory, and 3) encourage and allow exact replications within and across research labs who are assessing basic and applied problems in psychological science.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: P. Lang
+

@@ -1,0 +1,12 @@
+corpus id: 61113802, 
+
+Title: The SMART Retrieval System—Experiments in Automatic Document Processing
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Salton
+

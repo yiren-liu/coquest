@@ -1,0 +1,12 @@
+corpus id: 12812014, 
+
+Title: The Thing and I: Understanding the Relationship Between User and Product
+
+Abstract: None
+
+TLDR: Even though the HCI community seems to embrace the notion that functionality and usability is just not enough, the authors are far from having a coherent understanding of what user experience actually is.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Marc Hassenzahl
+

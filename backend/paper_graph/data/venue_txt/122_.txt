@@ -1,0 +1,12 @@
+corpus id: 61950873, 
+
+Title: A statistical method for evaluating systematic relationships
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Sokal, C. Michener
+

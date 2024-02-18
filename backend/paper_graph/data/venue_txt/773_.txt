@@ -1,0 +1,12 @@
+corpus id: 2255187, 
+
+Title: Understanding computers and cognition - a new foundation for design
+
+Abstract: Winograd and Flores' `Understanding Computers and Cognition' proposes that the rationalist tradition in AI must be replaced by a hermeneutic approach. Associating the rationalist tradition with the goal of building a human mind, the authors propose that a hermeneutic approach must adopt the goal of constructing prostheses which magnify the human mind. This paper argues that what AI needs is not so much a hermeneutic approach as a better appreciation of biology and psychology. Understanding Computers and Cognition is a groundbreaking book that presents an important new approach to understanding what computers do and how their functioning is related to human language, thought and action.
+
+TLDR: It is argued that what AI needs is not so much a hermeneutic approach as a better appreciation of biology and psychology.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: T. Winograd, F. Flores
+

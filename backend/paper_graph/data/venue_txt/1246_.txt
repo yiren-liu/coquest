@@ -1,0 +1,12 @@
+corpus id: 18593743, 
+
+Title: Software Framework for Topic Modelling with Large Corpora
+
+Abstract: Large corpora are ubiquitous in today's world and memoryquickly becomes the limiting factor in practical applicationsof the Vector Space Model (VSM). We identify gap in existingVSM implementations, which is their scalability and ease ofuse. We describe a Natural Language Processing softwareframework which is based on the idea of document streaming,i.e. processing corpora document after document, in a memoryindependent fashion. In this framework, we implement severalpopular algorithms for topical inference, including LatentSemantic Analysis and Latent Dirichlet Allocation, in a waythat makes them completely independent of the training corpussize. Particular emphasis is placed on straightforward andintuitive framework design, so that modifications andextensions of the methods and/or their application byinterested practitioners are effortless. We demonstrate theusefulness of our approach on a real-world scenario ofcomputing document similarities within an existing digitallibrary DML-CZ.
+
+TLDR: This work describes a Natural Language Processing software framework which is based on the idea of document streaming, i.e. processing corpora document after document, in a memory independent fashion, and implements several popular algorithms for topical inference, including Latent Semantic Analysis and Latent Dirichlet Allocation in a way that makes them completely independent of the training corpus size.
+
+Fields of Study: ['Computer Science']
+
+Authors: Radim Rehurek, Petr Sojka
+

@@ -1,0 +1,12 @@
+corpus id: 2565493, 
+
+Title: Differential Privacy
+
+Abstract: None
+
+TLDR: A general impossibility result is given showing that a formalization of Dalenius' goal along the lines of semantic security cannot be achieved, which suggests a new measure, differential privacy, which, intuitively, captures the increased risk to one's privacy incurred by participating in a database.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Dwork
+

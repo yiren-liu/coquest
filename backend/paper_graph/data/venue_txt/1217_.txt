@@ -1,0 +1,12 @@
+corpus id: 75488, 
+
+Title: Consumer trust in an Internet store
+
+Abstract: None
+
+TLDR: In this study, consumers recognized differences in size and reputation among Internet stores, and those differences influenced their assessments of store trustworthiness and their perception of risk, as well as their willingness to patronize the store.
+
+Fields of Study: ['Computer Science', 'Engineering', 'Business', 'Psychology']
+
+Authors: S. Jarvenpaa, N. Tractinsky, M. Vitale
+

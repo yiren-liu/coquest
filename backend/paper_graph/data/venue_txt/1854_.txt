@@ -1,0 +1,12 @@
+corpus id: 144264373, 
+
+Title: Organizational Citizenship Behavior: It's Construct Clean-Up Time
+
+Abstract: Accumulated empirical evidence, some telling criticisms, and even the most cursory glance at the business press compel us to rethink the defining character of organizational citizenship behavior (OCB). It no longer seems fruitful to regard OCB as extra-role, beyond the job, or unrewarded by the formal system. A more tenable position is one that defines OCB much along the lines of what Borman and Motowidlo (1993) called contextual performance. Some preliminary suggestions are offered for the repositioning and articulation of the OCB construct as redefined; due attention is given to the problems that nonetheless remain, and will occupy us for some time to come as we reckon with root changes in the very character of organizations.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Organ
+

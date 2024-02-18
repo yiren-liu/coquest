@@ -1,0 +1,12 @@
+corpus id: 145288653, 
+
+Title: Hand and Mind: What Gestures Reveal about Thought
+
+Abstract: What is the relation between gestures and speech? In terms of symbolic forms, of course, the spontaneous and unwitting gestures we make while talking differ sharply from spoken language itself. Whereas spoken language is linear, segmented, standardized, and arbitrary, gestures are global, synthetic, idiosyncratic, and imagistic. In Hand and Mind, David McNeill presents a bold theory of the essential unity of speech and the gestures that accompany it. This long-awaited, provocative study argues that the unity of gestures and language far exceeds the surface level of speech noted by previous researchers and in fact also includes the semantic and pragmatic levels of language. In effect, the whole concept of language must be altered to take into account the nonsegmented, instantaneous, and holistic images conveyed by gestures. McNeill and his colleagues carefully devised a standard methodology for examining the speech and gesture behavior of individuals engaged in narrative discourse. A research subject is shown a cartoon like the 1950 Canary Row--a classic Sylvester and Tweedy Bird caper that features Sylvester climbing up a downspout, swallowing a bowling ball and slamming into a brick wall. After watching the cartoon, the subject is videotaped recounting the story from memory to a listener who has not seen the cartoon. Painstaking analysis of the videotapes revealed that although the research subjects--children as well as adults, some neurologically impaired--represented a wide variety of linguistic groupings, the gestures of people speaking English and a half dozen other languages manifest the same principles. Relying on data from more than ten years of research, McNeill shows thatgestures do not simply form a part of what is said and meant but have an impact on thought itself. He persuasively argues that because gestures directly transfer mental images to visible forms, conveying ideas that language cannot always express, we must examine language and gesture
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. McNeill
+

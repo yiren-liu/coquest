@@ -1,0 +1,12 @@
+corpus id: 6636029, 
+
+Title: Jena: implementing the semantic web recommendations
+
+Abstract: The new Semantic Web recommendations for RDF, RDFS and OWL have, at their heart, the RDF graph. Jena2, a second-generation RDF toolkit, is similarly centered on the RDF graph. RDFS and OWL reasoning are seen as graph-to-graph transforms, producing graphs of virtual triples. Rich APIs are provided. The Model API includes support for other aspects of the RDF recommendations, such as containers and reification. The Ontology API includes support for RDFS and OWL, including advanced OWL Full support. Jena includes the de facto reference RDF/XML parser, and provides RDF/XML output using the full range of the rich RDF/XML grammar. N3 I/O is supported. RDF graphs can be stored in-memory or in databases. Jena's query language, RDQL, and the Web API are both offered for the next round of standardization.
+
+TLDR: The new Semantic Web recommendations for RDF, RDFS and OWL have, at their heart, the RDF graph, and Jena2, a second-generation RDF toolkit, is similarly centered on the R DF graph.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Carroll, Ian Dickinson, C. Dollin, D. Reynolds, A. Seaborne, K. Wilkinson
+

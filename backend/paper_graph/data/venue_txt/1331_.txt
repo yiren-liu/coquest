@@ -1,0 +1,12 @@
+corpus id: 1896290, 
+
+Title: ELIZA—a computer program for the study of natural language communication between man and machine
+
+Abstract: Commungicatins
+
+TLDR: A discussion of some psychological issues relevant to the ELIZA approach as well as of future developments concludes the paper.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Weizenbaum
+

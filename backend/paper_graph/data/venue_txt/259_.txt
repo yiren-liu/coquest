@@ -1,0 +1,12 @@
+corpus id: 22986722, 
+
+Title: Predicting User Intentions: Comparing the Technology Acceptance Model with the Theory of Planned Behavior
+
+Abstract: Information systems IS cannot be effective unless they are used. However, people sometimes do not use systems that could potentially increase their performance. This study compares two models that predict an individual's intention to use an IS: the technology acceptance model TAM and the theory of planned behavior TPB. The comparison was designed to be as fair as possible, not favoring one model over the other. Both TAM and TPB predicted intention to use an IS quite well, with TAM having a slight empirical advantage. TAM is easier to apply, but only supplies very general information on users' opinions about a system. TPB provides more specific information that can better guide development.
+
+TLDR: This study compares two models that predict an individual's intention to use an IS: the technology acceptance model TAM and the theory of planned behavior TPB.
+
+Fields of Study: ['Computer Science']
+
+Authors: Kieran Mathieson
+

@@ -1,0 +1,12 @@
+corpus id: 1074342, 
+
+Title: Working for free? Motivations of participating in open source projects
+
+Abstract: The success of the Linux operating system has demonstrated the viability of an alternative form of software development: open source software, which challenges traditional assumptions about software markets. Understanding what drives open source developers to participate in open source projects is crucial for assessing the impact of open source software. The article identifies two broad types of motivations that account for their participation in open source projects. The first category includes internal factors such as intrinsic motivation and altruism, and the second category focuses on external rewards such as expected future returns and personal needs. The article also reports the results of a survey administered to open source programmers.
+
+TLDR: Two broad types of motivations that account for open source developers' participation in open source projects are identified, which includes internal factors such as intrinsic motivation and altruism and external rewards such as expected future returns and personal needs.
+
+Fields of Study: ['Computer Science', 'Economics']
+
+Authors: A. Hars, Shaosong Ou
+

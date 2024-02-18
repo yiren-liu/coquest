@@ -1,0 +1,12 @@
+corpus id: 3162200, 
+
+Title: Estimating Nonresponse Bias in Mail Surveys
+
+Abstract: Valid predictions for the direction of nonresponse bias were obtained from subjective estimates and extrapolations in an analysis of mail survey data from published studies. For estimates of the magnitude of bias, the use of extrapolations led to substantial improvements over a strategy of not using extrapolations.
+
+TLDR: Valid predictions for the direction of nonresponse bias were obtained from subjective estimates and extrapolations in an analysis of mail survey data from published studies and the use of extrapolation led to substantial improvements over a strategy of not using extrapolation.
+
+Fields of Study: ['Computer Science', 'Political Science', 'Business']
+
+Authors: J. Scott Armstrong, Terry S. Overton
+

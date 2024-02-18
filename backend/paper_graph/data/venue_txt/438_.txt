@@ -1,0 +1,12 @@
+corpus id: 119693509, 
+
+Title: Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods
+
+Abstract: Abstract The subject of graphical methods for data analysis and for data presentation needs a scientific foundation. In this article we take a few steps in the direction of establishing such a foundation. Our approach is based on graphical perception—the visual decoding of information encoded on graphs—and it includes both theory and experimentation to test the theory. The theory deals with a small but important piece of the whole process of graphical perception. The first part is an identification of a set of elementary perceptual tasks that are carried out when people extract quantitative information from graphs. The second part is an ordering of the tasks on the basis of how accurately people perform them. Elements of the theory are tested by experimentation in which subjects record their judgments of the quantitative information on graphs. The experiments validate these elements but also suggest that the set of elementary tasks should be expanded. The theory provides a guideline for graph construction...
+
+TLDR: The approach is based on graphical perception—the visual decoding of information encoded on graphs—and it includes both theory and experimentation to test the theory, providing a guideline for graph construction.
+
+Fields of Study: ['Mathematics']
+
+Authors: W. Cleveland, R. McGill
+

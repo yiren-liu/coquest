@@ -1,0 +1,12 @@
+corpus id: 16643156, 
+
+Title: Remarks on Some Nonparametric Estimates of a Density Function
+
+Abstract: 1. Summary. This note discusses some aspects of the estimation of the density function of a univariate probability distribution. All estimates of the density function satisfying relatively mild conditions are shown to be biased. The asymp­ totic mean square error of a particular class of estimates is evaluated.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: M. Rosenblatt
+

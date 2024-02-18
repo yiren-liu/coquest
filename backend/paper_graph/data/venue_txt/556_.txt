@@ -1,0 +1,12 @@
+corpus id: 13035531, 
+
+Title: The Pittsburgh sleep quality index: A new instrument for psychiatric practice and research
+
+Abstract: None
+
+TLDR: The clinimetric and clinical properties of the PSQI suggest its utility both in psychiatric clinical practice and research activities.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: Daniel J Buysse, C. Reynolds, T. Monk, S. Berman, D. Kupfer
+

@@ -1,0 +1,12 @@
+corpus id: 153811205, 
+
+Title: Grounding in communication
+
+Abstract: GROUNDING It takes two people working together to play a duet, shake hands, play chess, waltz, teach, or make love. To succeed, the two of them have to coordinate both the content and process of what they are doing. Alan and Barbara, on the piano, must come to play the same Mozart duet. This is coordination of content. They must also synchronize their entrances and exits, coordinate how loudly to play forte and pianissimo, and otherwise adjust to each other's tempo and dynamics. This is coordination of process. They cannot even begin to coordinate on content without assuming a vast amount of shared information or common ground-that is, mutual knowledge, mutual beliefs, and mutual assumptions And to coordinate on process, they need to update their common ground moment by moment. All collective actions are built on common ground and its accumulation. We thank many colleagues for discussion of the issues we take up here.
+
+TLDR: The issues taken up here are: coordination of content, coordination of process, and how to update their common ground moment by moment.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: H. H. Clark, S. Brennan
+

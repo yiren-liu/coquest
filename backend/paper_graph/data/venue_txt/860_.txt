@@ -1,0 +1,12 @@
+corpus id: 120456150, 
+
+Title: Measures of multivariate skewness and kurtosis with applications
+
+Abstract: SUMMARY Measures of multivariate skewness and kurtosis are developed by extending certain studies on robustness of the t statistic. These measures are shown to possess desirable properties. The asymptotic distributions of the measures for samples from a multivariate normal population are derived and a test of multivariate normality is proposed. The effect of nonnormality on the size of the one-sample Hotelling's T2 test is studied empirically with the help of these measures, and it is found that Hotelling's T2 test is more sensitive to the measure of skewness than to the measure of kurtosis. measures have proved useful (i) in selecting a member of a family such as from the Karl Pearson family, (ii) in developing a test of normality, and (iii) in investigating the robustness of the standard normal theory procedures. The role of the tests of normality in modern statistics has recently been summarized by Shapiro & Wilk (1965). With these applications in mind for the multivariate situations, we propose measures of multivariate skewness and kurtosis. These measures of skewness and kurtosis are developed naturally by extending certain aspects of some robustness studies for the t statistic which involve I1 and 32. It should be noted that measures of multivariate dispersion have been available for quite some time (Wilks, 1932, 1960; Hotelling, 1951). We deal with the measure of skewness in ? 2 and with the measure of kurtosis in ? 3. In ? 4 we give two important applications of these measures, namely, a test of multivariate normality and a study of the effect of nonnormality on the size of the one-sample Hotelling's T2 test. Both of these problems have attracted attention recently. The first problem has been treated by Wagle (1968) and Day (1969) and the second by Arnold (1964), but our approach differs from theirs.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: K. Mardia
+

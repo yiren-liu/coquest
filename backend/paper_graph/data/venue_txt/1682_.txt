@@ -1,0 +1,12 @@
+corpus id: 16929436, 
+
+Title: Interactive evolutionary computation: fusion of the capabilities of EC optimization and human evaluation
+
+Abstract: We survey the research on interactive evolutionary computation (IEC). The IEC is an EC that optimizes systems based on subjective human evaluation. The definition and features of the IEC are first described and then followed by an overview of the IEC research. The overview primarily consists of application research and interface research. In this survey the IEC application fields include graphic arts and animation, 3D computer graphics lighting, music, editorial design, industrial design, facial image generation, speed processing and synthesis, hearing aid fitting, virtual reality, media database retrieval, data mining, image processing, control and robotics, food industry, geophysics, education, entertainment, social system, and so on. The interface research to reduce human fatigue is also included. Finally, we discuss the IEC from the point of the future research direction of computational intelligence. This paper features a survey of about 250 IEC research papers.
+
+TLDR: This paper features a survey of about 250 IEC research papers and discusses the IEC from the point of the future research direction of computational intelligence.
+
+Fields of Study: ['Computer Science']
+
+Authors: H. Takagi
+

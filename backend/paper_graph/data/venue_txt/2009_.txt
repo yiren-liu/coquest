@@ -1,0 +1,12 @@
+corpus id: 7994142, 
+
+Title: Tweet, Tweet, Retweet: Conversational Aspects of Retweeting on Twitter
+
+Abstract: Twitter - a microblogging service that enables users to post messages ("tweets") of up to 140 characters - supports a variety of communicative practices; participants use Twitter to converse with individuals, groups, and the public at large, so when conversations emerge, they are often experienced by broader audiences than just the interlocutors. This paper examines the practice of retweeting as a way by which participants can be "in a conversation." While retweeting has become a convention inside Twitter, participants retweet using different styles and for diverse reasons. We highlight how authorship, attribution, and communicative fidelity are negotiated in diverse ways. Using a series of case studies and empirical data, this paper maps out retweeting as a conversational practice.
+
+TLDR: This paper examines the practice of retweeting as a way by which participants can be "in a conversation" and highlights how authorship, attribution, and communicative fidelity are negotiated in diverse ways.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Boyd, Scott A. Golder, Gilad Lotan
+

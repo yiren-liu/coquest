@@ -1,0 +1,12 @@
+corpus id: 324600, 
+
+Title: Active Learning Literature Survey
+
+Abstract: The key idea behind active learning is that a machine learning algorithm can achieve greater accuracy with fewer labeled training instances if it is allowed to choose the data from which is learns. An active learner may ask queries in the form of unlabeled instances to be labeled by an oracle (e.g., a human annotator). Active learning is well-motivated in many modern machine learning problems, where unlabeled data may be abundant but labels are difﬁcult, time-consuming, or expensive to obtain. This report provides a general introduction to active learning and a survey of the literature. This includes a discussion of the scenarios in which queries can be formulated, and an overview of the query strategy frameworks proposed in the literature to date. An analysis of the empirical and theoretical evidence for active learning, a summary of several problem setting variants, and a discussion of related topics in machine learning research are also presented.
+
+TLDR: This report provides a general introduction to active learning and a survey of the literature, including a discussion of the scenarios in which queries can be formulated, and an overview of the query strategy frameworks proposed in the literature to date.
+
+Fields of Study: ['Computer Science']
+
+Authors: Burr Settles
+

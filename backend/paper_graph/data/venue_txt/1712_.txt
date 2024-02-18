@@ -1,0 +1,12 @@
+corpus id: 2443126, 
+
+Title: A Practical Guide to Support Vector Classication
+
+Abstract: Support vector machine (SVM) is a popular technique for classication. However, beginners who are not familiar with SVM often get unsatisfactory results since they miss some easy but signicant steps. In this guide, we propose a simple procedure, which usually gives reasonable results.
+
+TLDR: A simple procedure is proposed, which usually gives reasonable results and is suitable for beginners who are not familiar with SVM.
+
+Fields of Study: ['Computer Science']
+
+Authors: Chih-Wei Hsu, Chih-Chung Chang, Chih-Jen Lin
+

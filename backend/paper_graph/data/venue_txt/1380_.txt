@@ -1,0 +1,12 @@
+corpus id: 109624914, 
+
+Title: Shigley's Mechanical Engineering Design
+
+Abstract: Part 1: Basics Chapter 1: Introduction to Mechanical Engineering Design Chapter 2: Materials Chapter 3: Load and Stress Analysis Chapter 4: Deflection and Stiffness Part II: Failure Prevention Chapter 5: Failures Resulting from Static Loading Chapter 6: Fatigue Failure Resulting from Variable Loading Part III: Design of Mechanical Elements Chapter 7: Shafts and Shaft Components Chapter 8: Screws, Fasteners, and the Design of Nonpermanent Joints Chapter 9: Welding, Bonding, and the Design of Permanent Joints Chapter 10: Mechanical Springs Chapter 11: Rolling-Contact Bearings Chapter 12: Lubrication and Journal Bearings Chapter 13: Gears - General Chapter 14: Spur and Helical Gears Chapter 15: Bevel and Worm Gears Chapter 16: Clutches, Brakes, Couplings and Flywheels Chapter 17: Flexible Mechanical Elements Chapter 18: Power Transmission Case Study Part IV: Analysis Tools Chapter 19: Finite Element Analysis Chapter 20: Statistical Considerations Appendices A: Useful Tables B: Answers to Selected Problems
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: R. Budynas, J. Nisbett
+

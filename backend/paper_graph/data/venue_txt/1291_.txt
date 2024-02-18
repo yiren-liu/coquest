@@ -1,0 +1,12 @@
+corpus id: 61730407, 
+
+Title: The computer for the 21st Century
+
+Abstract: [This article is unavailable due to copyright restrictions.] Specialized elements of hardware and software, connected by wires, radio waves and infrared, will soon be so ubiquitous that no-one will notice their presence.
+
+TLDR: Consider writing, perhaps the first information technology: The ability to capture a symbolic representation of spoken language for long-term storage freed information from the limits of individual memory.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Weiser
+

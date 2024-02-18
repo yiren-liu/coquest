@@ -1,0 +1,12 @@
+corpus id: 13110305, 
+
+Title: Violent video game effects on aggression, empathy, and prosocial behavior in eastern and western countries: a meta-analytic review.
+
+Abstract: Meta-analytic procedures were used to test the effects of violent video games on aggressive behavior, aggressive cognition, aggressive affect, physiological arousal, empathy/desensitization, and prosocial behavior. Unique features of this meta-analytic review include (a) more restrictive methodological quality inclusion criteria than in past meta-analyses; (b) cross-cultural comparisons; (c) longitudinal studies for all outcomes except physiological arousal; (d) conservative statistical controls; (e) multiple moderator analyses; and (f) sensitivity analyses. Social-cognitive models and cultural differences between Japan and Western countries were used to generate theory-based predictions. Meta-analyses yielded significant effects for all 6 outcome variables. The pattern of results for different outcomes and research designs (experimental, cross-sectional, longitudinal) fit theoretical predictions well. The evidence strongly suggests that exposure to violent video games is a causal risk factor for increased aggressive behavior, aggressive cognition, and aggressive affect and for decreased empathy and prosocial behavior. Moderator analyses revealed significant research design effects, weak evidence of cultural differences in susceptibility and type of measurement effects, and no evidence of sex differences in susceptibility. Results of various sensitivity analyses revealed these effects to be robust, with little evidence of selection (publication) bias.
+
+TLDR: The evidence strongly suggests that exposure to violent video games is a causal risk factor for increased aggressive behavior, aggressive cognition, and aggressive affect and for decreased empathy and prosocial behavior.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: C. Anderson, Akiko Shibuya, Nobuko Ihori, Edward Swing, B. Bushman, A. Sakamoto, H. Rothstein, M. Saleem
+

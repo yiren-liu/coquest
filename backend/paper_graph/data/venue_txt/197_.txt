@@ -1,0 +1,12 @@
+corpus id: 69619395, 
+
+Title: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: D. García-Pérez, Juan Angel Lorenzo del Castillo, Yahya Al-Hazmi, Josep Martrat, K. Kavoussanakis, Alastair C. Hume, Celia Velayos López, G. Landi, T. Wauters, M. Gienger, D. Margery
+

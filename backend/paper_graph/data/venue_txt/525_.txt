@@ -1,0 +1,12 @@
+corpus id: 143826417, 
+
+Title: Social Desirability Bias and the Validity of Indirect Questioning
+
+Abstract: Indirect (i.e., structured projective) questioning has been employed frequently in marketing and other social sciences to reduce social desirability bias, that is, systematic error in self-report measures resulting from the desire of respondents to avoid embarrassment and project a favorable image to others. Yet little is known about the validity of indirect questioning in reducing social desirability bias. This article reports on three studies that examine indirect questioning as a technique to reduce social desirability bias on self-report measures. The effects of asking indirect (i.e., structured, projective) questions were compared with direct (i.e., structured, personal) questions The pattern of results indicates that indirect questioning reduces social desirability bias on variables subject to social influence and has no significant effect on socially neutral variables. The social nature of the differences between direct and indirect questioning groups, and the attribution of an undesirable trait to an out-group but not an in-group target, supports the view that subjects projected their beliefs and evaluations in the indirect response situation. These results are consistent across several product categories and indirect question wordings.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Fisher
+

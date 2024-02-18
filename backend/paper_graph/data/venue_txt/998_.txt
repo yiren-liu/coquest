@@ -1,0 +1,12 @@
+corpus id: 39912697, 
+
+Title: Refactoring - Improving the Design of Existing Code
+
+Abstract: None
+
+TLDR: Almost every expert in Object-Oriented Development stresses the importance of iterative development, but how do you add function to the existing code base while still preserving its design integrity?
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Fowler
+

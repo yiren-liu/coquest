@@ -1,0 +1,12 @@
+corpus id: 1866174, 
+
+Title: MeshLab: an Open-Source Mesh Processing Tool
+
+Abstract: The paper presents MeshLab, an open source, extensible, mesh processing system that has been developed at the Visual Computing Lab of the ISTI-CNR with the helps of tens of students. We will describe the MeshLab architecture, its main features and design objectives discussing what strategies have been used to support its development. Various examples of the practical uses of MeshLab in research and professional frameworks are reported to show the various capabilities of the presented system
+
+TLDR: The architecture of MeshLab, an open source, extensible, mesh processing system that has been developed at the Visual Computing Lab of the ISTI-CNR with the helps of tens of students is described.
+
+Fields of Study: ['Computer Science']
+
+Authors: Paolo Cignoni, M. Callieri, M. Corsini, M. Dellepiane, F. Ganovelli, G. Ranzuglia
+

@@ -1,0 +1,12 @@
+corpus id: 16424758, 
+
+Title: Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter
+
+Abstract: L anguage has been granted too much power. The linguistic turn, the semiotic turn, the interpretative turn, the cultural turn: it seems that at every turn lately every “thing”—even materiality—is turned into a matter of language or some other form of cultural representation. The ubiquitous puns on “matter” do not, alas, mark a rethinking of the key concepts (materiality and signification) and the relationship between them. Rather, it seems to be symptomatic of the extent to which matters of “fact” (so to speak) have been replaced with matters of signification (no scare quotes here). Language matters. Discourse matters. Culture matters. There is an important sense in which the only thing that does not seem to matter anymore is matter. What compels the belief that we have a direct access to cultural representations and their content that we lack toward the things represented? How did language come to be more trustworthy than matter? Why are language and culture granted their own agency and historicity while matter is figured as passive and immutable, or at best inherits a potential for change derivatively from language and culture? How does one even go about inquiring after the material conditions that have led us to such a brute reversal of naturalist beliefs when materiality itself is always already figured within a linguistic domain as its condition of possibility?
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Karen Barad
+

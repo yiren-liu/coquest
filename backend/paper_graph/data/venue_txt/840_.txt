@@ -1,0 +1,12 @@
+corpus id: 34210666, 
+
+Title: Toward a More Robust Theory and Measure of Social Presence: Review and Suggested Criteria
+
+Abstract: At a time of increased social usage of net and collaborative applications, a robust and detailed theory of social presence could contribute to our understanding of social behavior in mediated environments, allow researchers to predict and measure differences among media interfaces, and guide the design of new social environments and interfaces. A broader theory of social presence can guide more valid and reliable measures. The article reviews, classifies, and critiques existing theories and measures of social presence. A set of criteria and scope conditions is proposed to help remedy limitations in past theories and measures and to provide a contribution to a more robust theory and measure of social presence.
+
+TLDR: A set of criteria and scope conditions are proposed to help remedy limitations in past theories and measures and to provide a contribution to a more robust theory and measure of social presence.
+
+Fields of Study: ['Computer Science']
+
+Authors: F. Biocca, Chad Harms, J. Burgoon
+

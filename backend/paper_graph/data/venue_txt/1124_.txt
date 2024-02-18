@@ -1,0 +1,12 @@
+corpus id: 150206326, 
+
+Title: Diagnostic and Statistical Manual of Mental Disorders, 5th ed.
+
+Abstract: 1. Directly experiencing the traumatic event(s). 2. Witnessing, in person, the event(s) as it occurred to others. 3. Learning that the traumatic event(s) occurred to a close family member or close friend. In cases of actual or threatened death of a family member or friend, the event(s) must have been violent or accidental. 4. Experiencing repeated or extreme exposure to aversive details of the traumatic event(s) (e.g., first responders collecting human remains; police officers repeatedly exposed to details of child abuse).
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: M. Carter
+

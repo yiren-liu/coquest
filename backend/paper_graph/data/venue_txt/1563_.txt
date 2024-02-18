@@ -1,0 +1,12 @@
+corpus id: 8217357, 
+
+Title: Organizational commitment and psychological attachment: The effects of compliance, identification, and internalization on prosocial behavior.
+
+Abstract: Previous research on organizational commitment has typically not focused on the underlying dimensions of psychological attachment to the organization. Results of two studies using university employees (N = 82) and students (N = 162) suggest that psychological attachment may be predicated on compliance, identification, and internalization (e.g., Kelman, 19S8). Identification and internalization are positively related to prosocial behaviors and negatively related to turnover. Internalization is predictive of financial donations to a fund-raising campaign. Overall, the results suggest the importance of clearly specifying the underlying dimensions of commitment using notions of psychological attachment and the various forms such attachment can take. In the past decade, the construct of organizational commitment has occupied a prominent place in organizational behavior research (Mowday, Porter, & Steers, 1982; Salancik, 1977; Staw & Ross, 1978). Unfortunately, as Morrow (1983, p. 486) has pointed out, "the growth in commitment related concepts has not been accompanied by a careful segmentation of commitment's theoretical domain in terms of intended meaning of each concept or the concepts' relationships among each other." By her count, there are over 25 commitment-related concepts and measures. Staw (1977), for instance, has noted that the value of commitment as a separate construct distinct from other psychological concepts such as motivation, involvement, or behavioral intention remains to be demonstrated. What is needed are theoretical and operational definitions that clearly differentiate commitment and its components from other re
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: C. O'Reilly, Jennifer A. Chatman
+

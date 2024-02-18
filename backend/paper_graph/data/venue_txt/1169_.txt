@@ -1,0 +1,12 @@
+corpus id: 10596836, 
+
+Title: An introduction to the five-factor model and its applications.
+
+Abstract: The five-factor model of personality is a hierarchical organization of personality traits in terms of five basic dimensions: Extraversion, Agreeableness, Conscientiousness, Neuroticism, and Openness to Experience. Research using both natural language adjectives and theoretically based personality questionnaires supports the comprehensiveness of the model and its applicability across observers and cultures. This article summarizes the history of the model and its supporting evidence; discusses conceptions of the nature of the factors; and outlines an agenda for theorizing about the origins and operation of the factors. We argue that the model should prove useful both for individual assessment and for the elucidation of a number of topics of interest to personality psychologists.
+
+TLDR: It is argued that the five-factor model of personality should prove useful both for individual assessment and for the elucidation of a number of topics of interest to personality psychologists.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: R. McCrae, O. John
+

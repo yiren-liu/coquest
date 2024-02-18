@@ -1,0 +1,12 @@
+corpus id: 794019, 
+
+Title: Moses: Open Source Toolkit for Statistical Machine Translation
+
+Abstract: We describe an open-source toolkit for statistical machine translation whose novel contributions are (a) support for linguistically motivated factors, (b) confusion network decoding, and (c) efficient data formats for translation models and language models. In addition to the SMT decoder, the toolkit also includes a wide variety of tools for training, tuning and applying the system to many translation tasks.
+
+TLDR: An open-source toolkit for statistical machine translation whose novel contributions are support for linguistically motivated factors, confusion network decoding, and efficient data formats for translation models and language models.
+
+Fields of Study: ['Computer Science']
+
+Authors: Philipp Koehn, Hieu T. Hoang, Alexandra Birch, Chris Callison-Burch, Marcello Federico, N. Bertoldi, Brooke Cowan, Wade Shen, C. Moran, R. Zens, Chris Dyer, Ondrej Bojar, Alexandra Constantin, Evan Herbst
+

@@ -1,0 +1,12 @@
+corpus id: 208618902, 
+
+Title: Smoothing and Differentiation of Data by Simplified Least Squares Procedures.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Chemistry']
+
+Authors: A. Savitzky, M. Golay
+

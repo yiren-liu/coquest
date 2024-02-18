@@ -1,0 +1,12 @@
+corpus id: 4650265, 
+
+Title: XGBoost: A Scalable Tree Boosting System
+
+Abstract: Tree boosting is a highly effective and widely used machine learning method. In this paper, we describe a scalable end-to-end tree boosting system called XGBoost, which is used widely by data scientists to achieve state-of-the-art results on many machine learning challenges. We propose a novel sparsity-aware algorithm for sparse data and weighted quantile sketch for approximate tree learning. More importantly, we provide insights on cache access patterns, data compression and sharding to build a scalable tree boosting system. By combining these insights, XGBoost scales beyond billions of examples using far fewer resources than existing systems.
+
+TLDR: This paper proposes a novel sparsity-aware algorithm for sparse data and weighted quantile sketch for approximate tree learning and provides insights on cache access patterns, data compression and sharding to build a scalable tree boosting system called XGBoost.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tianqi Chen, Carlos Guestrin
+

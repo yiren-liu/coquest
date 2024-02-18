@@ -1,0 +1,12 @@
+corpus id: 46171833, 
+
+Title: An ultra-brief screening scale for anxiety and depression: the PHQ-4.
+
+Abstract: BACKGROUNDThe most common mental disorders in both outpatient settings and the general population are depression and anxiety, which frequently coexist. Both of these disorders are associated with considerable disability.OBJECTIVEWhen the disorders co-occur, the disability is even greater. Authors sought to test an ultra-brief screening tool for both.METHODValidated two-item ultra-brief screeners for depression and anxiety were combined to constitute the Patient Health Questionnaire for Depression and Anxiety (the PHQ-4). Data were analyzed from 2,149 patients drawn from 15 primary-care clinics in the United States.RESULTSFactor analysis confirmed two discrete factors (Depression and Anxiety) that explained 84% of the total variance. Increasing PHQ-4 scores were strongly associated with functional impairment, disability days, and healthcare use. Anxiety had a substantial effect on functional status that was independent of depression.CONCLUSIONThe PHQ-4 is a valid ultra-brief tool for detecting both anxiety and depressive disorders.
+
+TLDR: The PHQ-4 is a valid ultra-brief tool for detecting both anxiety and depressive disorders and has a substantial effect on functional status that was independent of depression.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: K. Kroenke, R. Spitzer, Janet B W Williams, B. Löwe
+

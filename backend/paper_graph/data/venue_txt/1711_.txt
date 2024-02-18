@@ -1,0 +1,12 @@
+corpus id: 144514545, 
+
+Title: Effects of Externally Mediated Rewards on Intrinsic Motivation.
+
+Abstract: Two laboratory experiments and one field experiment were conducted to investigate the effects of external rewards on intrinsic motivation to perform an activity. In each experiment, subjects were performing an activity during three different periods, and observations relevant to their motivation were made. External rewards were given to the experimental subjects during the second period only, while the control subjects received no rewards. Of interest was the difference in the experimental group's motivation between Period 1 and Period 3, relative to the difference in the control's. The results indicate that (a) when money was used as an external reward, intrinsic motivation tended to decrease, whereas (b) when verbal reinforcement and positive feedback were used, intrinsic motivation tended to increase. Discrepant findings in the literature were reconciled using a new theoretical framework which employs a cognitive approach and concentrates on the nature of the external reward. If a boy who enjoys mowing lawns begins to receive payment for the task, what will happen to his intrinsic motivation for performing this activity? Or, if he enjoys gardening and his parents seek to encourage this by providing verbal reinforcement and affection when he gardens, what will happen to his intrinsic motivation for gardening? These are examples of the classical problem concerning the effects of external rewards on intrinsic motivation. One is said to be intrinsically motivated to perform an activity when he receives no apparent rewards except the activity itself. This intrinsic motivation might be either innate or learned (White, 1959). It is not the purpose of this study to deal with the specific nature of, or development of, intrinsic motivation, but rather, it assumes that at a given time a person can be intrinsically motivated to do an activity, and it then asks: What are the effects of external rewards on this motivation ? In the two examples of the boy, he is performing the activity for no apparent rewards 1 These studies were conducted at Carnegie-Mell on University. The author wishes to thank Victor H. Vroom and Daryl J. Bern for helpful suggestions about the research and about earlier drafts of the manuscript.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. Deci
+

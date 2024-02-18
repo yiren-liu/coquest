@@ -1,0 +1,12 @@
+corpus id: 205265682, 
+
+Title: Assessing dimensions of perceived visual aesthetics of web sites
+
+Abstract: None
+
+TLDR: Using exploratory and confirmatory factor analyses, it is found that users' perceptions consist of two main dimensions, which are termed "classical aesthetics" and "expressive aesthetics", which are closely related to many of the design rules advocated by usability experts.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: Talia Lavie, N. Tractinsky
+

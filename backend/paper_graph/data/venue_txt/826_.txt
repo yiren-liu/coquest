@@ -1,0 +1,12 @@
+corpus id: 111148589, 
+
+Title: Co-creation and the new landscapes of design
+
+Abstract: Designers have been moving increasingly closer to the future users of what they design and the next new thing in the changing landscape of design research has become co-designing with your users. But co-designing is actually not new at all, having taken distinctly different paths in the US and in Europe.  The evolution in design research from a user-centred approach to co-designing is changing the roles of the designer, the researcher and the person formerly known as the ‘user’. The implications of this shift for the education of designers and researchers are enormous. The evolution in design research from a user-centred approach to co-designing is changing the landscape of design practice as well, creating new domains of collective creativity. It is hoped that this evolution will support a transformation toward more sustainable ways of living in the future.
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: E. Sanders, P. Stappers
+

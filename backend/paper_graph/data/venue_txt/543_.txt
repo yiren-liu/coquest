@@ -1,0 +1,12 @@
+corpus id: 59624076, 
+
+Title: Multimedia in Learning
+
+Abstract: None
+
+TLDR: A wide variety of media can be used in learning, including distance learning, such as print, lectures, conference sections, tutors, pictures, video, sound, and computers.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Bork, S. Gunnarsdottir
+

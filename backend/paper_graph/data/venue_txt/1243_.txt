@@ -1,0 +1,12 @@
+corpus id: 52048008, 
+
+Title: AMC: AutoML for Model Compression and Acceleration on Mobile Devices
+
+Abstract: None
+
+TLDR: This paper proposes AutoML for Model Compression (AMC) which leverages reinforcement learning to efficiently sample the design space and can improve the model compression quality and achieves state-of-the-art model compression results in a fully automated way without any human efforts.
+
+Fields of Study: ['Computer Science']
+
+Authors: Yihui He, Ji Lin, Zhijian Liu, Hanrui Wang, Li-Jia Li, Song Han
+

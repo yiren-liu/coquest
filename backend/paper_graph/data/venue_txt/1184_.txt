@@ -1,0 +1,12 @@
+corpus id: 28329744, 
+
+Title: INFORMATION CAPACITY OF DISCRETE MOTOR RESPONSES.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: P. Fitts, J. R. Peterson
+

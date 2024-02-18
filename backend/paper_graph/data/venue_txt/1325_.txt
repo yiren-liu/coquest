@@ -1,0 +1,12 @@
+corpus id: 53575280, 
+
+Title: Two Structural Equation Models: LISREL and PLS Applied to Consumer Exit-Voice Theory
+
+Abstract: In marketing applications of structural equation models with unobservable variables, researchers have relied almost exclusively on LISREL for parameter estimation. Apparently they have been little concerned about the frequent inability of marketing data to meet the requirements for maximum likelihood estimation or the common occurrence of improper solutions in LISREL modeling. The authors demonstrate that partial least squares (PLS) can be used to overcome these two problems. PLS is somewhat less well-grounded than LISREL in traditional statistical and psychometric theory. The authors show, however, that under certain model specifications the two methods produce the same results. In more general cases, the methods provide results which diverge in certain systematic ways. These differences are analyzed and explained in terms of the underlying objectives of each method.
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: C. Fornell, F. Bookstein
+

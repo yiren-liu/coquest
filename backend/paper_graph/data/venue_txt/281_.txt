@@ -1,0 +1,12 @@
+corpus id: 15027176, 
+
+Title: An Integrative Model Of Organizational Trust
+
+Abstract: Scholars in various disciplines have considered the causes, nature, and effects of trust. Prior approaches to studying trust are considered, including characteristics of the trustor, the trustee, and the role of risk. A definition of trust and a model of its antecedents and outcomes are presented, which integrate research from multiple disciplines and differentiate trust from similar constructs. Several research propositions based on the model are presented.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: R. Mayer, J. H. Davis, David Schoorman
+

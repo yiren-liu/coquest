@@ -1,0 +1,12 @@
+corpus id: 120596720, 
+
+Title: Structural equation modeling with EQS : basic concepts, applications, and programming
+
+Abstract: Contents: Part I: Introduction. Structural Equation Models: The Basics. Using the EQS Program. Part II: Single-Group Analyses. Application 1: Testing for the Factorial Validity of a Theoretical Construct (First-Order CFA Model). Application 2: Testing for the Factorial Validity of Scores From a Measuring Instrument (First-Order CFA Model). Application 3: Testing for the Factorial Validity of Scores from a Measuring Instrument (Second-Order CFA Model). Application 4: Testing for the Validity of a Causal Structure. Part III: Multiple-Group Analyses. Application 5: Testing for the Factorial Invariance of a Measuring Instrument. Application 6: Testing for the Invariance of a Causal Structure. Application 7: Testing for Latent Mean Differences (First-Order CFA Model). Application 8: Testing for Latent Mean Differences (Second-Order CFA Model). Part IV: Other Important Topics. Application 9: Testing for Construct Validity: The Multitrait-Multimethod Model. Application 10: Testing for Change Over Time: The Latent Growth Curve Model. Application 11: Testing for Within- and Between-Level Variance: The Multilevel Model.
+
+TLDR: Structural Equation Models: The Basics using the EQS Program and testing for Construct Validity: The Multitrait-Multimethod Model and Change Over Time: The Latent Growth Curve Model.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: B. Byrne
+

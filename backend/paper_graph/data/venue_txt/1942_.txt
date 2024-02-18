@@ -1,0 +1,12 @@
+corpus id: 63317738, 
+
+Title: Pattern Recognition and Machine Learning
+
+Abstract: Probability Distributions.- Linear Models for Regression.- Linear Models for Classification.- Neural Networks.- Kernel Methods.- Sparse Kernel Machines.- Graphical Models.- Mixture Models and EM.- Approximate Inference.- Sampling Methods.- Continuous Latent Variables.- Sequential Data.- Combining Models.
+
+TLDR: Probability Distributions, linear models for Regression, Linear Models for Classification, Neural Networks, Graphical Models, Mixture Models and EM, Sampling Methods, Continuous Latent Variables, Sequential Data are studied.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Bishop, N. Nasrabadi
+

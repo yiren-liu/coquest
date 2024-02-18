@@ -1,0 +1,12 @@
+corpus id: 108664185, 
+
+Title: Bioimpedance and Bioelectricity Basics
+
+Abstract: None
+
+TLDR: This completely updated new edition remains the most comprehensive reference tool for this intricate, interdisciplinary field and remains the only such work that discusses in detail dielectric and electrochemical aspects, as well as electrical engineering concepts of network theory.
+
+Fields of Study: ['Engineering']
+
+Authors: Ø. Martinsen, S. Grimnes
+

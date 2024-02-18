@@ -1,0 +1,12 @@
+corpus id: 36719453, 
+
+Title: Assessing the Validity of IS Success Models: An Empirical Test and Theoretical Analysis
+
+Abstract: The purpose of the present study is to empirically and theoretically assess DeLone and McLean's (1992) and Seddon's (1997) models of information systems (IS) success in a quasi-voluntary IS use context. Structural modeling techniques were applied to data collected by questionnaire from 274 system users of an integrated student information system at a midwestern university. The Seddon structural model and the DeLone and McLean structural model each contained five variables (system quality, information quality, perceived usefulness, user satisfaction, and IS use). Both models exhibit reasonable fit with the collected data. The empirical findings are assessed in the broader theoretical context of the IS success literature, including the Technology Acceptance Model and the Theory of Planned Behavior. Our results support DeLone and McLean's focus on integrated IS success models and their observation that IS success models need to be carefully specified in a given context. The Seddon model conceptually elaborates and clarifies aspects of the DeLone and McLean model, thereby effectively integrating core theoretical relationships espoused in the IS success literature. Our study also supports Seddon's three construct categories (system and information quality, general perceptual measures aboutnetbene fts about IS use, and IS behavior), as defining IS success and its impact on nature of IS use.
+
+TLDR: The Seddon model conceptually elaborates and clarifies aspects of the DeLone and McLean model, thereby effectively integrating core theoretical relationships espoused in the IS success literature and supports Sedd on's three construct categories, as defining IS success and its impact on nature of IS use.
+
+Fields of Study: ['Computer Science', 'Economics']
+
+Authors: Arun Rai, Sandra S. Lang, Robert B. Welker
+

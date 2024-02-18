@@ -1,0 +1,12 @@
+corpus id: 14449355, 
+
+Title: Communication and Trust in Global Virtual Teams
+
+Abstract: This paper explores the challenges of creating and maintaining trust in a global virtual team whose members transcend time, space, and culture. The challenges are highlighted by integrating recent literature on work teams, computer-mediated communication groups, cross-cultural communication, and interpersonal and organizational trust. To explore these challenges empirically, we report on a series of descriptive case studies on global virtual teams whose members were separated by location and culture, were challenged by a common collaborative project, and for whom the only economically and practically viable communication medium was asynchronous and synchronous computer-mediated communication. The results suggest that global virtual teams may experience a form of ‘swift’ trust but such trust appears to be very fragile and temporal. The study raises a number of issues to be explored and debated by future research. Pragmatically, the study describes communication behaviors that might facilitate trust in global virtual teams.
+
+TLDR: The results suggest that global virtual teams may experience a form of ‘swift’ trust but such trust appears to be very fragile and temporal.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: S. Jarvenpaa, D. Leidner
+

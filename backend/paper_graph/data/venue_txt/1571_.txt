@@ -1,0 +1,12 @@
+corpus id: 6020981, 
+
+Title: Some computer science issues in ubiquitous computing
+
+Abstract: Ubiquitous computing is the method of enhancing computer use by making many computers available throughout the physical environment, but making them effectively invisible to the user. Since we started this work at Xerox PARC in 1988, a number of researchers around the world have begun to work in the ubiquitous computing framework. This paper explains what is new and different about the computer science in ubiquitous computing. It starts with a brief overview of ubiquitous computing, and then elaborates through a series of examples drawn from various subdisciplines of computer science: hardware components (e.g. chips), network protocols, interaction substrates (e.g. software for screens and pens), applications, privacy, and computational methods. Ubiquitous computing offers a framework for new and exciting research across the spectrum of computer science.
+
+TLDR: What is new and different about the computer science in ubiquitous computing is explained, and a series of examples drawn from various subdisciplines of computer science are outlined.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Weiser
+

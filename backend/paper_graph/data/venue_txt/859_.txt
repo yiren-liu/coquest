@@ -1,0 +1,12 @@
+corpus id: 9778741, 
+
+Title: Personality and motivations associated with Facebook use
+
+Abstract: None
+
+TLDR: Investigation of how the Five-Factor Model of personality relates to Facebook use indicated that personality factors were not as influential as previous literature would suggest, but a motivation to communicate was influential in terms of Facebook use.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: C. Ross, Emily S. Orr, M. Sisic, Jaime M. Arseneault, Mary G. Simmering, R. R. Orr
+

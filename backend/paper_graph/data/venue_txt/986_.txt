@@ -1,0 +1,12 @@
+corpus id: 60162696, 
+
+Title: The World Atlas of Language Structures Online
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: Robert Forkel
+

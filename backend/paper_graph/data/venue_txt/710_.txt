@@ -1,0 +1,12 @@
+corpus id: 15277800, 
+
+Title: Fab: content-based, collaborative recommendation
+
+Abstract: The problem of recommending items from some fixed database has been studied extensively, and two main paradigms have emerged. In content-based recommendation one tries to recommend items similar to those a given user has liked in the past, whereas in collaborative recommendation one identifies users whose tastes are similar to those of the given user and recommends items they have liked. Our approach in Fab has been to combine these two methods. Here, we explain how a hybrid system can incorporate the advantages of both methods while inheriting the disadvantages of neither. In addition to what one might call the “generic advantages” inherent in any hybrid system, the particular design of the Fab architecture brings two additional benefits. First, two scaling problems common to all Web services are addressed—an increasing number of users and an increasing number of documents. Second, the system automatically identifies emergent communities of interest in the user population, enabling enhanced group awareness and communications. Here we describe the two approaches for contentbased and collaborative recommendation, explain how a hybrid system can be created, and then describe Fab, an implementation of such a system. For more details on both the implemented architecture and the experimental design the reader is referred to [1]. The content-based approach to recommendation has its roots in the information retrieval (IR) community, and employs many of the same techniques. Text documents are recommended based on a comparison between their content and a user profile. Data
+
+TLDR: It is explained how a hybrid system can incorporate the advantages of both methods while inheriting the disadvantages of neither, and how the particular design of the Fab architecture brings two additional benefits.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Balabanovic, Y. Shoham
+

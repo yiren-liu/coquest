@@ -1,0 +1,12 @@
+corpus id: 53306243, 
+
+Title: A performance evaluation of local descriptors
+
+Abstract: In this paper we compare the performance of interest point descriptors. Many different descriptors have been proposed in the literature. However, it is unclear which descriptors are more appropriate and how their performance depends on the interest point detector. The descriptors should be distinctive and at the same time robust to changes in viewing conditions as well as to errors of the point detector. Our evaluation uses as criterion detection rate with respect to false positive rate and is carried out for different image transformations. We compare SIFT descriptors (Lowe, 1999), steerable filters (Freeman and Adelson, 1991), differential invariants (Koenderink ad van Doorn, 1987), complex filters (Schaffalitzky and Zisserman, 2002), moment invariants (Van Gool et al., 1996) and cross-correlation for different types of interest points. In this evaluation, we observe that the ranking of the descriptors does not depend on the point detector and that SIFT descriptors perform best. Steerable filters come second ; they can be considered a good choice given the low dimensionality.
+
+TLDR: It is observed that the ranking of the descriptors does not depend on the point detector and that SIFT descriptors perform best and steerable filters can be considered a good choice given the low dimensionality.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: K. Mikolajczyk, C. Schmid
+

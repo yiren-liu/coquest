@@ -1,0 +1,12 @@
+corpus id: 8186207, 
+
+Title: Global physical activity levels: surveillance progress, pitfalls, and prospects
+
+Abstract: None
+
+TLDR: Physical activity levels worldwide with data for adults (15 years or older) from 122 countries and for adolescents (13-15-years-old) from 105 countries are described, with boys are more active than are girls and women are higher in women than in men.
+
+Fields of Study: ['Medicine', 'Geography']
+
+Authors: P. Hallal, L. Andersen, F. Bull, R. Guthold, W. Haskell, U. Ekelund
+

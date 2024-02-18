@@ -1,0 +1,12 @@
+corpus id: 5134387, 
+
+Title: Usability engineering
+
+Abstract: None
+
+TLDR: This guide to the methods of usability engineering provides cost-effective methods that will help developers improve their user interfaces immediately and shows you how to avoid the four most frequently listed reasons for delay in software projects.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Nielsen
+

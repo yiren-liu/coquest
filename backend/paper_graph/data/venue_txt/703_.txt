@@ -1,0 +1,12 @@
+corpus id: 30035071, 
+
+Title: The Concept of Flow
+
+Abstract: None
+
+TLDR: The flow model of optimal experience and optimal development is described, how flow and related constructs have been measured are explained, recent work in this area is discussed, and some promising directions for future research are identified.
+
+Fields of Study: ['Psychology']
+
+Authors: J. Nakamura, M. Csíkszentmihályi
+

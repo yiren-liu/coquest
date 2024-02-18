@@ -1,0 +1,12 @@
+corpus id: 7051992, 
+
+Title: The JPEG still picture compression standard
+
+Abstract: For the past few years, a joint ISO/CCITT committee known as JPEG (Joint Photographic Experts Group) has been working to establish the first international compression standard for continuous-tone still images, both grayscale and color. JPEG’s proposed standard aims to be generic, to support a wide variety of applications for continuous-tone images. To meet the differing needs of many applications, the JPEG standard includes two basic compression methods, each with various modes of operation. A DCT-based method is specified for “lossy’’ compression, and a predictive method for “lossless’’ compression. JPEG features a simple lossy technique known as the Baseline method, a subset of the other DCT-based modes of operation. The Baseline method has been by far the most widely implemented JPEG method to date, and is sufficient in its own right for a large number of applications. This article provides an overview of the JPEG standard, and focuses in detail on the Baseline method.
+
+TLDR: The Baseline method has been by far the most widely implemented JPEG method to date, and is sufficient in its own right for a large number of applications.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Wallace
+

@@ -1,0 +1,12 @@
+corpus id: 32297766, 
+
+Title: Psychological needs and the facilitation of integrative processes.
+
+Abstract: The assumption that there are innate integrative or actualizing tendencies underlying personality and social development is reexamined. Rather than viewing such processes as either nonexistent or as automatic, I argue that they are dynamic and dependent upon social-contextual supports pertaining to basic human psychological needs. To develop this viewpoint, I conceptually link the notion of integrative tendencies to specific developmental processes, namely intrinsic motivation; internalization; and emotional integration. These processes are then shown to be facilitated by conditions that fulfill psychological needs for autonomy, competence, and relatedness, and forestalled within contexts that frustrate these needs. Interactions between psychological needs and contextual supports account, in part, for the domain and situational specificity of motivation, experience, and relative integration. The meaning of psychological needs (vs. wants) is directly considered, as are the relations between concepts of integration and autonomy and those of independence, individualism, efficacy, and cognitive models of "multiple selves."
+
+TLDR: This work conceptually link the notion of integrative tendencies to specific developmental processes, namely intrinsic motivation; internalization; and emotional integration, which are shown to be facilitated by conditions that fulfill psychological needs for autonomy, competence, and relatedness, and forestalled within contexts that frustrate these needs.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: R. Ryan
+

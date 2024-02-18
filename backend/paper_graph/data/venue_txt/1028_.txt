@@ -1,0 +1,12 @@
+corpus id: 18751698, 
+
+Title: What Are the Odds? A Practical Guide to Computing and Reporting Bayes Factors
+
+Abstract: The purpose of this paper is to provide an easy template for the inclusion of the Bayes factor in reporting experimental results, particularly as a recommendation for articles in the Journal of Problem Solving. The Bayes factor provides information with a similar purpose to the p-value – to allow the researcher to make statistical inferences from data provided by experiments. While the p-value is widely used, the Bayes factor provides several advantages, particularly in that it allows the researcher to make a statement about the alternative hypothesis, rather than just the null hypothesis. In addition, it provides a clearer estimate of the amount of evidence present in the data. Building on previous work by authors such as Wagenmakers (2007), Rouder et al. (2009), and Masson (2011), this article provides a short introduction to Bayes factors, before providing a practical guide to their computation using examples from published work on problem solving.
+
+TLDR: This paper is to provide an easy template for the inclusion of the Bayes factor in reporting experimental results, particularly as a recommendation for articles in the Journal of Problem Solving.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Jarosz, J. Wiley
+

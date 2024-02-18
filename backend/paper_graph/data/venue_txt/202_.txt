@@ -1,0 +1,12 @@
+corpus id: 1073781, 
+
+Title: Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events
+
+Abstract: With each eye fixation, we experience a richly detailed visual world. Yet recent work on visual integration and change direction reveals that we are surprisingly unaware of the details of our environment from one view to the next: we often do not detect large changes to objects and scenes (‘change blindness’). Furthermore, without attention, we may not even perceive objects (‘inattentional blindness’). Taken together, these findings suggest that we perceive and remember only those objects and details that receive focused attention. In this paper, we briefly review and discuss evidence for these cognitive forms of ‘blindness’. We then present a new study that builds on classic studies of divided visual attention to examine inattentional blindness for complex objects and events in dynamic scenes. Our results suggest that the likelihood of noticing an unexpected object depends on the similarity of that object to other objects in the display and on how difficult the priming monitoring task is. Interestingly, spatial proximity of the critical unattended object to attended locations does not appear to affect detection, suggesting that observers attend to objects and events, not spatial positions. We discuss the implications of these results for visual representations and awareness of our visual environment.
+
+TLDR: A new study builds on classic studies of divided visual attention to examine inattentional blindness for complex objects and events in dynamic scenes and suggests that the likelihood of noticing an unexpected object depends on the similarity of that object to other objects in the display and on how difficult the priming monitoring task is.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: D. Simons, C. Chabris
+

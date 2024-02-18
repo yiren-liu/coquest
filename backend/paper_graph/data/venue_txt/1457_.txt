@@ -1,0 +1,12 @@
+corpus id: 50988461, 
+
+Title: Single-loop and double-loop models in research on decision making.
+
+Abstract: September 1 976, volu me 21 Some current research and theory on organizational decision making from the political science literature is examined, in which the potential role of learning and feedback in the decision-making process is largely ignored. An espoused theory of action based on single-loop learning is found to be the most general model of action. A double-loop model is proposed as providing feedback and more effective decision making.
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: C. Argyris
+

@@ -1,0 +1,12 @@
+corpus id: 205751936, 
+
+Title: Measuring e-Commerce Success: Applying the DeLone & McLean Information Systems Success Model
+
+Abstract: Information technology and the Internet have had a dramatic effect on business operations. Companies are making large investments in e-commerce applications but are hard pressed to evaluate the success of their e-commerce systems. The DeLone & McLean Information Systems Success Model can be adapted to the measurement challenges of the new e-commerce world. The six dimensions of the updated model are a parsimonious framework for organizing the e-commerce success metrics identified in the literature. Two case examples demonstrate how the model can be used to guide the identification and specification of e-commerce success metrics.
+
+TLDR: The DeLone & McLean Information Systems Success Model can be adapted to the measurement challenges of the new e-commerce world and the six dimensions of the updated model are a parsimonious framework for organizing the e- commerce success metrics identified in the literature.
+
+Fields of Study: ['Computer Science']
+
+Authors: William H. DeLone, E. McLean
+

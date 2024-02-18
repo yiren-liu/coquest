@@ -1,0 +1,12 @@
+corpus id: 2887752, 
+
+Title: Differential Privacy: A Survey of Results
+
+Abstract: None
+
+TLDR: This survey recalls the definition of differential privacy and two basic techniques for achieving it, and shows some interesting applications of these techniques, presenting algorithms for three specific tasks and three general results on differentially private learning.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Dwork
+

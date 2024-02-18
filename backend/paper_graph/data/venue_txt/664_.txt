@@ -1,0 +1,12 @@
+corpus id: 206784218, 
+
+Title: SLIM: Sparse Linear Methods for Top-N Recommender Systems
+
+Abstract: This paper focuses on developing effective and efficient algorithms for top-N recommender systems. A novel Sparse Linear Method (SLIM) is proposed, which generates top-N recommendations by aggregating from user purchase/rating profiles. A sparse aggregation coefficient matrix W is learned from SLIM by solving an `1-norm and `2-norm regularized optimization problem. W is demonstrated to produce high quality recommendations and its sparsity allows SLIM to generate recommendations very fast. A comprehensive set of experiments is conducted by comparing the SLIM method and other state-of-the-art top-N recommendation methods. The experiments show that SLIM achieves significant improvements both in run time performance and recommendation quality over the best existing methods.
+
+TLDR: A novel Sparse Linear Method (SLIM) is proposed, which generates top-N recommendations by aggregating from user purchase/rating profiles and a sparse aggregation coefficient matrix W is learned from SLIM by solving an `1-norm and `2-norm regularized optimization problem.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Xia Ning, G. Karypis
+

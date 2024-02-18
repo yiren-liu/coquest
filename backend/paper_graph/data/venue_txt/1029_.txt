@@ -1,0 +1,12 @@
+corpus id: 56113709, 
+
+Title: The Constitution of Society. Outline of the Theory of Structuration
+
+Abstract: Anthony Giddens has been in the forefront of developments in social theory for the past decade. In "The Constitution of Society" he outlines the distinctive position he has evolved during that period and offers a full statement of a major new perspective in social thought, a synthesis and elaboration of ideas touched on in previous works but described here for the first time in an integrated and comprehensive form. A particular feature is Giddens' concern to connect abstract problems of theory to an interpretation of the nature of empirical method in the social sciences. In presenting his own ideas, Giddens mounts a critical attack on some of the more orthodox sociological views. "The Constitution of Society" is an invaluable reference book for all those concerned with the basic issues in contemporary social theory.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: A. Giddens
+

@@ -1,0 +1,12 @@
+corpus id: 32800624, 
+
+Title: Naive (Bayes) at Forty: The Independence Assumption in Information Retrieval
+
+Abstract: None
+
+TLDR: The naive Bayes classifier, currently experiencing a renaissance in machine learning, has long been a core technique in information retrieval, and some of the variations used for text retrieval and classification are reviewed.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Lewis
+

@@ -1,0 +1,12 @@
+corpus id: 28450296, 
+
+Title: The concept of information overload: a review of literature from organization science, accounting, marketing, MIS, and related disciplines
+
+Abstract: This publication contains reprint articles for which IEEE does not hold copyright. Full text is not available on IEEE Xplore for these articles.
+
+TLDR: This publication contains reprint articles for which IEEE does not hold copyright and which are likely to be copyrighted.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: Martin J. Eppler, J. Mengis
+

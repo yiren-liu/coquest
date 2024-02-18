@@ -1,0 +1,12 @@
+corpus id: 44431950, 
+
+Title: On and Off the 'Net: Scales for Social Capital in an Online Era
+
+Abstract: Scholars investigating the relationship between the Internet and social capital have beenstymied by a series of obstacles, some due to theoretical frameworks handed downunchanged from television research, and some due to the lack of an appropriate yard-stick. For example, the social interactions that occur through television are prima faciedifferent from those that occur online. Given this basic functional difference, we cannotapproach social capital research in an online era with the same set of assumptions andmeasures. To address this gap in the literature and in our measurement toolkits, thisarticle reports on the development and validation of the Internet Social Capital Scales,or ISCS. These scales are intended to measure two different types of social capital—known as ‘‘bridging’’ and ‘‘bonding’’—for both online and offline contexts. Questionitems are developed and tested and found to be valid and psychometrically sound.Potential uses of the scales are then discussed.doi:10.1111/j.1083-6101.2006.00029.x
+
+TLDR: The development and validation of the Internet Social Capital Scales, or ISCS, are reported on, intended to measure two different types of social capital—known as ‘‘bridging’’ and ‘"bonding”’—for both online and offline contexts.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: Dmitri Williams
+

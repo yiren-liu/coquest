@@ -1,0 +1,12 @@
+corpus id: 3329018, 
+
+Title: Educational Data Mining: A Review of the State of the Art
+
+Abstract: Educational data mining (EDM) is an emerging interdisciplinary research area that deals with the development of methods to explore data originating in an educational context. EDM uses computational approaches to analyze educational data in order to study educational questions. This paper surveys the most relevant studies carried out in this field to date. First, it introduces EDM and describes the different groups of user, types of educational environments, and the data they provide. It then goes on to list the most typical/common tasks in the educational environment that have been resolved through data-mining techniques, and finally, some of the most promising future lines of research are discussed.
+
+TLDR: The most relevant studies carried out in educational data mining to date are surveyed and the different groups of user, types of educational environments, and the data they provide are described.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Romero, Sebastián Ventura
+

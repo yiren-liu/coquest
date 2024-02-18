@@ -1,0 +1,12 @@
+corpus id: 8394695, 
+
+Title: Parietal lobe contributions to episodic memory retrieval
+
+Abstract: None
+
+TLDR: This article surveys the fMRI literature on PPC activation during remembering, a literature that complements earlier electroencephalography data and proposes three hypotheses concerning how parietal cortex might contribute to memory.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: A. Wagner, B. J. Shannon, Itamar Kahn, R. Buckner
+

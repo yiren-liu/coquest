@@ -1,0 +1,12 @@
+corpus id: 8272506, 
+
+Title: Bayesian surprise attracts human attention
+
+Abstract: None
+
+TLDR: A formal Bayesian definition of surprise is proposed to capture subjective aspects of sensory information and it is shown that Bayesian surprise is a strong attractor of human attention, with 72% of all gaze shifts directed towards locations more surprising than the average.
+
+Fields of Study: ['Computer Science', 'Psychology', 'Medicine']
+
+Authors: L. Itti, P. Baldi
+

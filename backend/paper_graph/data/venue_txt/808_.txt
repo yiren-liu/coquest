@@ -1,0 +1,12 @@
+corpus id: 14606416, 
+
+Title: High-resolution EEG mapping of cortical activation related to working memory: effects of task difficulty, type of processing, and practice.
+
+Abstract: Changes in cortical activity during working memory tasks were examined with electroencephalograms (EEGs) sampled from 115 channels and spatially sharpened with magnetic resonance imaging (MRI)-based finite element deblurring. Eight subjects performed tasks requiring comparison of each stimulus to a preceding one on verbal or spatial attributes. A frontal midline theta rhythm increased in magnitude with increased memory load. Dipole models localized this signal to the region of the anterior cingulate cortex. A slow (low-frequency), parietocentral, alpha signal decreased with increased working memory load. These signals were insensitive to the type of stimulus attribute being processed. A faster (higher-frequency), occipitoparietal, alpha signal was relatively attenuated in the spatial version of the task, especially over the posterior right hemisphere. Theta and alpha signals increased, and overt performance improved, after practice on the tasks. Increases in theta with both increased task difficulty and with practice suggests that focusing attention required more effort after an extended test session. Decreased alpha in the difficult tasks indicates that this signal is inversely related to the amount of cortical resources allocated to task performance. Practice-related increases in alpha suggest that fewer cortical resources are required after skill development. These results serve: (i) to dissociate the effects of task difficulty and practice; (ii) to differentiate the involvement of posterior cortex in spatial versus verbal tasks; (iii) to localize frontal midline theta to the anteromedial cortex; and (iv) to demonstrate the feasibility of using anatomical MRIs to remove the blurring effect of the skull and scalp from the ongoing EEG. The results are discussed with respect to those obtained in a prior study of transient evoked potentials during working memory.
+
+TLDR: The results serve to dissociate the effects of task difficulty and practice, to differentiate the involvement of posterior cortex in spatial versus verbal tasks, to localize frontal midline theta to the anteromedial cortex, and to demonstrate the feasibility of using anatomical MRIs to remove the blurring effect of the skull and scalp from the ongoing EEG.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: A. Gevins, M. Smith, L. McEvoy, D. Yu
+

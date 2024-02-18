@@ -1,0 +1,12 @@
+corpus id: 5726030, 
+
+Title: THE UNBEARABLE AUTOMATICITY OF BEING
+
+Abstract: What was noted by E. J. hanger (1978) remains true today: that much of contemporary psychological research is based on the assumption that people are consciously and systematically processing incoming information in order to construe and interpret their world and to plan and engage in courses of action. As did E. J. hanger, the authors question this assumption. First, they review evidence that the ability to exercise such conscious, intentional control is actually quite limited, so that most of moment-to-mom ent psychological life must occur through nonconscious means if it is to occur at all. The authors then describe the different possible mechanisms that produce automatic, environmental control over these various phenomena and review evidence establishing both the existence of these mechanisms as well as their consequences for judgments, emotions, and behavior. Three major forms of automatic self-regulation are identified: an automatic effect of perception on action, automatic goal pursuit, and a continual automatic evaluation of one's experience. From the accumulating evidence, the authors conclude that these various nonconscious mental systems perform the lion's share of the self-regulatory burden, beneficently keeping the individual grounded in his or her current environment. The strongest knowledge—that of the total unfreedom of the human will—is nonetheless the poorest in successes, for it always has the strongest opponent: human vanity. —Nietzsche, Human, All Too Human
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Bargh, T. Chartrand
+

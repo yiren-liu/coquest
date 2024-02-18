@@ -1,0 +1,12 @@
+corpus id: 1409560, 
+
+Title: Detecting stress during real-world driving tasks using physiological sensors
+
+Abstract: This paper presents methods for collecting and analyzing physiological data during real-world driving tasks to determine a driver's relative stress level. Electrocardiogram, electromyogram, skin conductance, and respiration were recorded continuously while drivers followed a set route through open roads in the greater Boston area. Data from 24 drives of at least 50-min duration were collected for analysis. The data were analyzed in two ways. Analysis I used features from 5-min intervals of data during the rest, highway, and city driving conditions to distinguish three levels of driver stress with an accuracy of over 97% across multiple drivers and driving days. Analysis II compared continuous features, calculated at 1-s intervals throughout the entire drive, with a metric of observable stressors created by independent coders from videotapes. The results show that for most drivers studied, skin conductivity and heart rate metrics are most closely correlated with driver stress level. These findings indicate that physiological signals can provide a metric of driver stress in future cars capable of physiological monitoring. Such a metric could be used to help manage noncritical in-vehicle information systems and could also provide a continuous measure of how different road and traffic conditions affect drivers.
+
+TLDR: The results show that for most drivers studied, skin conductivity and heart rate metrics are most closely correlated with driver stress level, indicating that physiological signals can provide a metric of driver stress in future cars capable of physiological monitoring.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: Jennifer Healey, Rosalind W. Picard
+

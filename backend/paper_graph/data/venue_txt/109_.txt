@@ -1,0 +1,12 @@
+corpus id: 145428141, 
+
+Title: Culture′s Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations
+
+Abstract: Values and Culture Data Collection, Treatment and Validation Power Distance Uncertainty Avoidance Individualism and Collectivism Masculinity and Femininity Long versus Short-Term Orientation Cultures in Organizations Intercultural Encounters Using Culture Dimension Scores in Theory and Research
+
+TLDR: 
+
+Fields of Study: ['Political Science']
+
+Authors: G. Hofstede
+

@@ -1,0 +1,12 @@
+corpus id: 40411052, 
+
+Title: [What is a survey].
+
+Abstract: The problems related to renorming of Banach spaces are in the heart of the theory of Banach spaces. These are more than fifty years old and play a key role in the development of the Banach space theory. We present a history of this subject and recent results showing the connection between renorming, reflexivity, separability and differentiability in Banach spaces. We also survey a brief account of geometrical open problems inside the area of renormings of Banach spaces. AMS Subject Classification(2000): 46B20
+
+TLDR: A history of this subject and recent results showing the connection between renorming, reflexivity, separability and differentiability in Banach spaces are presented.
+
+Fields of Study: ['Medicine']
+
+Authors: A. Adams
+

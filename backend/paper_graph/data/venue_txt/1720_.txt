@@ -1,0 +1,12 @@
+corpus id: 61973115, 
+
+Title: Data mining: practical machine learning tools and techniques with Java implementations
+
+Abstract: 1. What's It All About? 2. Input: Concepts, Instances, Attributes 3. Output: Knowledge Representation 4. Algorithms: The Basic Methods 5. Credibility: Evaluating What's Been Learned 6. Implementations: Real Machine Learning Schemes 7. Moving On: Engineering The Input And Output 8. Nuts And Bolts: Machine Learning Algorithms In Java 9. Looking Forward
+
+TLDR: This presentation discusses the design and implementation of machine learning algorithms in Java, as well as some of the techniques used to develop and implement these algorithms.
+
+Fields of Study: ['Computer Science']
+
+Authors: I. Witten, E. Frank
+

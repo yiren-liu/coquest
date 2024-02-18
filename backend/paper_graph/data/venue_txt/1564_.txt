@@ -1,0 +1,12 @@
+corpus id: 11608263, 
+
+Title: Multi-Label Classification: An Overview
+
+Abstract: Multi-label classification methods are increasingly required by modern applications, such as protein function classification, music categorization, and semantic scene classification. This article introduces the task of multi-label classification, organizes the sparse related literature into a structured presentation and performs comparative experimental results of certain multilabel classification methods. It also contributes the definition of concepts for the quantification of the multi-label nature of a data set.
+
+TLDR: The task of multi-label classification is introduced, the sparse related literature is organizes into a structured presentation and comparative experimental results of certain multilabel classification methods are performed.
+
+Fields of Study: ['Computer Science']
+
+Authors: Grigorios Tsoumakas, I. Katakis
+

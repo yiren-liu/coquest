@@ -1,0 +1,12 @@
+corpus id: 10574344, 
+
+Title: VISUAL SEARCH.
+
+Abstract: In a standard visual search paradigm, participants look for a target item among a number of distractor items. The total number of item in the display is known as the set size. Typically, the target is present 50 % of the time. On the other trials, only distractors are presented. The dependent measures that are used are reaction time (RT) and accuracy. Reaction time is analyzed as a function of set size.
+
+TLDR: In a standard visual search paradigm, participants look for a target item among a number of distractor items and reaction time is analyzed as a function of set size.
+
+Fields of Study: ['Medicine']
+
+Authors: U. Neisser
+

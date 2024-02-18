@@ -1,0 +1,12 @@
+corpus id: 117946893, 
+
+Title: An Empirical Comparison of the Efficacy of Covariance-Based and Variance-Based SEM
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: W. Reinartz, M. Haenlein, J. Henseler
+

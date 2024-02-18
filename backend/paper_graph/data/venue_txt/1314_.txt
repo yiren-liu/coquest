@@ -1,0 +1,12 @@
+corpus id: 60827152, 
+
+Title: Binary codes capable of correcting deletions, insertions, and reversals
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Biology', 'Computer Science']
+
+Authors: V. Levenshtein
+

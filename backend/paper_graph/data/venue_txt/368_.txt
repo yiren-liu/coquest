@@ -1,0 +1,12 @@
+corpus id: 144942525, 
+
+Title: An attitudinal model of technology-based self-service: Moderating effects of consumer traits and situational factors
+
+Abstract: The accelerating growth in technology-based self-service today is giving rise to questions about the acceptance of such forms of service delivery by all kinds of consumers and under different situational contexts. This study investigates the moderating effects of consumer traits and situational factors on the relationships within a core attitudinal model for technology-based self-service. An experimental design is used with perceived waiting time and social anxiety (through perceived crowding) as the situational treatments. Relevant consumer traits for technology-based self-service are examined and include inherent novelty seeking, self-efficacy with respect to technology self-consciousness, and the need for interaction with an employee. The results lend support to the hypothesized moderating effects. Implications for service practitioners as well as directions for future research are discussed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: P. A. Dabholkar, R. Bagozzi
+

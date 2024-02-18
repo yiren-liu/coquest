@@ -1,0 +1,12 @@
+corpus id: 15943670, 
+
+Title: Wrappers for Feature Subset Selection
+
+Abstract: None
+
+TLDR: The wrapper method searches for an optimal feature subset tailored to a particular algorithm and a domain and compares the wrapper approach to induction without feature subset selection and to Relief, a filter approach tofeature subset selection.
+
+Fields of Study: ['Computer Science']
+
+Authors: Ron Kohavi, George H. John
+

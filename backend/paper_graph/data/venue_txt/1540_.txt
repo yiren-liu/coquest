@@ -1,0 +1,12 @@
+corpus id: 60090930, 
+
+Title: Qualitative Data Analysis: A Methods Sourcebook
+
+Abstract: Contents List of Displays Preface to the Third Edition by Johnny Saldana Acknowledgements from the Second Edition by Matthew B. Miles and A. Michael Huberman About the Authors PART I. THE SUBSTANTIVE START 1. Introduction 2. Research Design and Management 3. Ethical Issues in Analysis 4. Fundamentals of Qualitative Data Analysis PART II. DISPLAYING THE DATA 5. Designing Matrix and Network Displays 6. Methods of Exploring 7. Methods of Describing 8. Methods of Ordering 9. Methods of Explaining 10. Methods of Predicting PART III: MAKING GOOD SENSE 11. Drawing and Verifying Conclusions 12. Writing About Qualitative Research 13. Closure Appendix - An Annotated Bibliography of Qualitative Research Resources References Index
+
+TLDR: This chapter discusses the foundations of Qualitative Data Analysis, as well as some of the techniques used in designing and implementing the display systems used in this book.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Miles, A. Huberman, J. Saldaña
+

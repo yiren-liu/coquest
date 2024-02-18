@@ -1,0 +1,12 @@
+corpus id: 1101322, 
+
+Title: EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis
+
+Abstract: None
+
+TLDR: None
+
+Fields of Study: ['Medicine', 'Computer Science', 'Materials Science']
+
+Authors: A. Delorme, S. Makeig
+

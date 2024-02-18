@@ -1,0 +1,12 @@
+corpus id: 61629172, 
+
+Title: Numerical Recipes: The Art of Scientific Computing
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science', 'Chemistry', 'Physics', 'Biology', 'Mathematics']
+
+Authors: W. Press, B. Flannery, S. Teukolsky, W. Vetterling, P. B. Kramer
+

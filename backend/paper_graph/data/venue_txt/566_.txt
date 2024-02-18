@@ -1,0 +1,12 @@
+corpus id: 14356403, 
+
+Title: Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator
+
+Abstract: None
+
+TLDR: The problem of triangulating a planar straight line graph (PSLG) without introducing new small angles is shown to be impossible for some PSLGs, contradicting the claim that a variant of the Delaunay refinement algorithm solves this problem.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Shewchuk
+

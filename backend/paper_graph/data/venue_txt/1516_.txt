@@ -1,0 +1,12 @@
+corpus id: 155016492, 
+
+Title: Organizational information requirements, media richness and structural design
+
+Abstract: This paper answers the question, "Why do organizations process information?" Uncertainty and equivocality are defined as two forces that influence information processing in organizations. Organization structure and internal systems determine both the amount and richness of information provided to managers. Models are proposed that show how organizations can be designed to meet the information needs of technology, interdepartmental relations, and the environment. One implication for managers is that a major problem is lack of clarity, not lack of data. The models indicate how organizations can be designed to provide information mechanisms to both reduce uncertainty and resolve equivocality.
+
+TLDR: Models are proposed that show how organizations can be designed to meet the information needs of technology, interdepartmental relations, and the environment to both reduce uncertainty and resolve equivocality.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Daft, R. Lengel
+

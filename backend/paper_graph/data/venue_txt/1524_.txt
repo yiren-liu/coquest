@@ -1,0 +1,12 @@
+corpus id: 18718011, 
+
+Title: Multi-Interval Discretization of Continuous-Valued Attributes for Classification Learning
+
+Abstract: Since most real-world applications of classification learning involve continuous-valued attributes, properly addressing the discretization process is an important problem. This paper addresses the use of the entropy minimization heuristic for discretizing the range of a continuous-valued attribute into multiple intervals.
+
+TLDR: This paper addresses the use of the entropy minimization heuristic for discretizing the range of a continuous-valued attribute into multiple intervals.
+
+Fields of Study: ['Computer Science']
+
+Authors: U. Fayyad, K. Irani
+

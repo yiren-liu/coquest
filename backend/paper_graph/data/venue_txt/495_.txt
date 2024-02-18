@@ -1,0 +1,12 @@
+corpus id: 18463145, 
+
+Title: Sleep patterns and predictors of disturbed sleep in a large population of college students.
+
+Abstract: None
+
+TLDR: It is demonstrated that insufficient sleep and irregular sleep-wake patterns, which have been extensively documented in younger adolescents, are also present at alarming levels in the college student population.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: H. G. Lund, Brian D Reider, Annie B Whiting, J. Prichard
+

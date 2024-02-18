@@ -1,0 +1,12 @@
+corpus id: 962616, 
+
+Title: The Expected Value of Control: An Integrative Theory of Anterior Cingulate Cortex Function
+
+Abstract: None
+
+TLDR: This work presents a normative model of EVC that integrates three critical factors: the expected payoff from a controlled process, the amount of control that must be invested to achieve that payoff, and the cost in terms of cognitive effort.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: A. Shenhav, M. Botvinick, J. Cohen
+

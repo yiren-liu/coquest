@@ -1,0 +1,12 @@
+corpus id: 18838893, 
+
+Title: Habit and intention in everyday life: The multiple processes by which past behavior predicts future behavior.
+
+Abstract: Past behavior guides future responses through 2 processes. Well-practiced behaviors in constant contexts recur because the processing that initiates and controls their performance becomes automatic. Frequency of past behavior then reflects habit strength and has a direct effect on future performance. Alternately, when behaviors are not well learned or when they are performed in unstable or difficult contexts, conscious decision making is likely to be necessary to initiate and carry out the behavior. Under these conditions, past behavior (along with attitudes and subjective norms) may contribute to intentions, and behavior is guided by intentions. These relations between past behavior and future behavior are substantiated in a meta-analytic synthesis of prior research on behavior prediction and in a primary research investigation. In everyday explanations of behavior, habits denote one's customary ways of behaving. Claiming that one performed a behavior because of habit provides an understandable explanation for an act that otherwise might seem irrational or even harmful. Habits also are featured in the popular psychology literature in the form of self-help books designed to identify readers' existing habits, evaluate habits' effectiveness in meeting goals, and establish more desirable habits. Habits are not, however, important constructs in most contemporary social psychological models of human behavior. Early in their careers, most psychology graduate students learn that frequency of past behavior, a standard indicator of habit strength (Triandis, 1977, 1980), is the best predictor of
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Ouellette, Wendy Wood
+

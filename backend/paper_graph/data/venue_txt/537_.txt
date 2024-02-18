@@ -1,0 +1,12 @@
+corpus id: 46753301, 
+
+Title: The Theory of Planned Behavior: A Review of its Applications to Health-Related Behaviors
+
+Abstract: Purpose. To review applications of Ajzen's theory of planned behavior in the domain of health and to verify the efficiency of the theory to explain and predict health-related behaviors. Methods. Most material has been drawn from Current Contents (Social and Behavioral Sciences and Clinical Medicine) from 1985 to date, together with all peer-reviewed articles cited in the publications thus identified. Findings. The results indicated that the theory performs very well for the explanation of intention; an averaged R2 of .41 was observed. Attitude toward the action and perceived behavioral control were most often the significant variables responsible for this explained variation in intention. The prediction of behavior yielded an averaged R2 of .34. Intention remained the most important predictor, but in half of the studies reviewed perceived behavioral control significantly added to the prediction. Conclusions. The efficiency of the model seems to be quite good for explaining intention, perceived behavioral control being as important as attitude across health-related behavior categories. The efficiency of the theory, however, varies between health-related behavior categories.
+
+TLDR: The results indicated that Ajzen's theory of planned behavior in the domain of health performs very well for the explanation of intention and the efficiency of the theory varies between health-related behavior categories.
+
+Fields of Study: ['Medicine']
+
+Authors: G. Godin, G. Kok
+

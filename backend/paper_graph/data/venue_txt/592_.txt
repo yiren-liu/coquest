@@ -1,0 +1,12 @@
+corpus id: 1309931, 
+
+Title: SUN database: Large-scale scene recognition from abbey to zoo
+
+Abstract: Scene categorization is a fundamental problem in computer vision. However, scene understanding research has been constrained by the limited scope of currently-used databases which do not capture the full variety of scene categories. Whereas standard databases for object categorization contain hundreds of different classes of objects, the largest available dataset of scene categories contains only 15 classes. In this paper we propose the extensive Scene UNderstanding (SUN) database that contains 899 categories and 130,519 images. We use 397 well-sampled categories to evaluate numerous state-of-the-art algorithms for scene recognition and establish new bounds of performance. We measure human scene classification performance on the SUN database and compare this with computational methods. Additionally, we study a finer-grained scene representation to detect scenes embedded inside of larger scenes.
+
+TLDR: This paper proposes the extensive Scene UNderstanding (SUN) database that contains 899 categories and 130,519 images and uses 397 well-sampled categories to evaluate numerous state-of-the-art algorithms for scene recognition and establish new bounds of performance.
+
+Fields of Study: ['Computer Science']
+
+Authors: Jianxiong Xiao, James Hays, Krista A. Ehinger, A. Oliva, A. Torralba
+

@@ -1,0 +1,12 @@
+corpus id: 142033566, 
+
+Title: Research methods in education and psychology : integratingdiversity with quantitative & qualitative approaches
+
+Abstract: Focused on providing as full a picture as possible of what is considered to be 'good' research, this book explains quantitative and qualitative methods, and incorporates the viewpoints of various research paradigms into the descriptions of these methods. Donna M Mertens not only covers two standard paradigms (postpositivist and interpretive//constructivist) but also explores a relative newcomer, the emancipatory paradigm, that is inclusive of the perspectives of feminists, ethnic//racial minorities and persons with disabilities. In each chapter, Donna M Mertens carefully explains a step of the research process through the literature review, research method and analysis to reporting the research. Each chapter: opens with examples and lists of topics to consider; contains sample studies to illustrate key ideas; has sequence steps to guide one through the research process; and has a question and answer section to elicit further reflection on the material covered.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Mertens
+

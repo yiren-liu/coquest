@@ -1,0 +1,12 @@
+corpus id: 6888534, 
+
+Title: Image Denoising Via Sparse and Redundant Representations Over Learned Dictionaries
+
+Abstract: We address the image denoising problem, where zero-mean white and homogeneous Gaussian additive noise is to be removed from a given image. The approach taken is based on sparse and redundant representations over trained dictionaries. Using the K-SVD algorithm, we obtain a dictionary that describes the image content effectively. Two training options are considered: using the corrupted image itself, or training on a corpus of high-quality image database. Since the K-SVD is limited in handling small image patches, we extend its deployment to arbitrary image sizes by defining a global image prior that forces sparsity over patches in every location in the image. We show how such Bayesian treatment leads to a simple and effective denoising algorithm. This leads to a state-of-the-art denoising performance, equivalent and sometimes surpassing recently published leading alternative denoising methods
+
+TLDR: This work addresses the image denoising problem, where zero-mean white and homogeneous Gaussian additive noise is to be removed from a given image, and uses the K-SVD algorithm to obtain a dictionary that describes the image content effectively.
+
+Fields of Study: ['Mathematics', 'Computer Science', 'Medicine']
+
+Authors: Michael Elad, M. Aharon
+

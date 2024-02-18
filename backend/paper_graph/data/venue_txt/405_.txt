@@ -1,0 +1,12 @@
+corpus id: 15046500, 
+
+Title: Support Vector Regression
+
+Abstract: Instead of minimizing the observed training error, Support Vector Regression (SVR) attempts to minimize the generalization error bound so as to achieve generalized performance. The idea of SVR is based on the computation of a linear regression function in a high dimensional feature space where the input data are mapped via a nonlinear function. SVR has been applied in various fields - time series and financial (noisy and risky) prediction, approximation of complex engineering analyses, convex quadratic programming and choices of loss functions, etc. In this paper, an attempt has been made to review the existing theory, methods, recent developments and scopes of SVR.
+
+TLDR: An attempt has been made to review the existing theory, methods, recent developments and scopes of Support Vector Regression.
+
+Fields of Study: ['Mathematics']
+
+Authors: Debasish Basak, S. Pal, D. Patranabis
+

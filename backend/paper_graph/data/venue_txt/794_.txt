@@ -1,0 +1,12 @@
+corpus id: 513632, 
+
+Title: Internet paradox. A social technology that reduces social involvement and psychological well-being?
+
+Abstract: The Internet could change the lives of average citizens as much as did the telephone in the early part of the 20th century and television in the 1950s and 1960s. Researchers and social critics are debating whether the Internet is improving or harming participation in community life and social relationships. This research examined the social and psychological impact of the Internet on 169 people in 73 households during their first 1 to 2 years on-line. We used longitudinal data to examine the effects of the Internet on social involvement and psychological well-being. In this sample, the Internet was used extensively for communication. Nonetheless, greater use of the Internet was associated with declines in participants' communication with family members in the household, declines in the size of their social circle, and increases in their depression and loneliness. These findings have implications for research, for public policy and for the design of technology.
+
+TLDR: Greater use of the Internet was associated with declines in participants' communication with family members in the household, declines in the size of their social circle, and increases in their depression and loneliness.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: R. Kraut, M. Patterson, V. Lundmark, S. Kiesler, T. Mukopadhyay, W. Scherlis
+

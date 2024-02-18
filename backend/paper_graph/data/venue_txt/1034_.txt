@@ -1,0 +1,12 @@
+corpus id: 929893, 
+
+Title: Using Dynamic Time Warping to Find Patterns in Time Series
+
+Abstract: Knowledge discovery in databases presents many interesting challenges within the context of providing computer tools for exploring large data archives. Electronic data repositories are growing quickly and contain data from commercial, scientific, and other domains. Much of this data is inherently temporal, such as stock prices or NASA telemetry data. Detecting patterns in such data streams or time series is an important knowledge discovery task. This paper describes some preliminary experiments with a dynamic programming approach to the problem. The pattern detection algorithm is based on the dynamic time warping technique used in the speech recognition field.
+
+TLDR: Preliminary experiments with a dynamic programming approach to pattern detection in databases, based on the dynamic time warping technique used in the speech recognition field, are described.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Berndt, J. Clifford
+

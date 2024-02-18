@@ -1,0 +1,12 @@
+corpus id: 61583422, 
+
+Title: Politeness: some universals in language usage
+
+Abstract: Symbols and abbreviations Foreword John J. Gumperz Introduction to the reissue Notes 1. Introduction 2. Summarized argument 3. The argument: intuitive bases and derivative definitions 4. On the nature of the model 5. Realizations of politeness strategies in language 6. Derivative hypotheses 7. Sociological implications 8. Implications for language studies 9. Conclusions Notes References Author index Subject index.
+
+TLDR: This paper presents an argument about the nature of the model and its implications for language studies and Sociological implications and discusses the role of politeness strategies in language.
+
+Fields of Study: ['Computer Science', 'Psychology', 'Sociology']
+
+Authors: P. Brown, S. Levinson
+

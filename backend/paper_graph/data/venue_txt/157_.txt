@@ -1,0 +1,12 @@
+corpus id: 21357701, 
+
+Title: A global measure of perceived stress.
+
+Abstract: This paper presents evidence from three samples, two of college students and one of participants in a community smoking-cessation program, for the reliability and validity of a 14-item instrument, the Perceived Stress Scale (PSS), designed to measure the degree to which situations in one's life are appraised as stressful. The PSS showed adequate reliability and, as predicted, was correlated with life-event scores, depressive and physical symptomatology, utilization of health services, social anxiety, and smoking-reduction maintenance. In all comparisons, the PSS was a better predictor of the outcome in question than were life-event scores. When compared to a depressive symptomatology scale, the PSS was found to measure a different and independently predictive construct. Additional data indicate adequate reliability and validity of a four-item version of the PSS for telephone interviews. The PSS is suggested for examining the role of nonspecific appraised stress in the etiology of disease and behavioral disorders and as an outcome measure of experienced levels of stress. (Abstract Adapted from Source: Journal of Health and Social Behavior, 1983. Copyright © 1983 by the American Sociological Association) For more information on the PSS, see VioEval record number 216. Survey Instrument Adult Stress Life Stress Adult Perceptions Self Perceptions Instrument Validity Instrument Reliability College Student Research Adult Substance Use Tobacco Use 01-01
+
+TLDR: The Perceived Stress Scale showed adequate reliability and, as predicted, was correlated with life-event scores, depressive and physical symptomatology, utilization of health services, social anxiety, and smoking-reduction maintenance and was a better predictor of the outcome in question than were life- event scores.
+
+Fields of Study: ['Medicine']
+
+Authors: Sheldon Cohen, T. Kamarck, R. Mermelstein
+

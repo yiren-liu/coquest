@@ -1,0 +1,12 @@
+corpus id: 215842252, 
+
+Title: An empirical study of smoothing techniques for language modeling
+
+Abstract: We survey the most widely-used algorithms for smoothing models for language n -gram modeling. We then present an extensive empirical comparison of several of these smoothing techniques, including t...
+
+TLDR: A survey of the most widely-used algorithms for smoothing models for language n -gram modeling and an extensive empirical comparison of several of these smoothing techniques are presented.
+
+Fields of Study: ['Computer Science']
+
+Authors: Stanley F. Chen, Joshua Goodman
+

@@ -1,0 +1,12 @@
+corpus id: 2179391, 
+
+Title: Participatory action research
+
+Abstract: This glossary aims to clarify some of the key concepts associated with participatory action research.
+
+TLDR: This glossary aims to clarify some of the key concepts associated with participatory action research.
+
+Fields of Study: ['Medicine']
+
+Authors: F. Baum, C. MacDougall, Danielle Smith
+

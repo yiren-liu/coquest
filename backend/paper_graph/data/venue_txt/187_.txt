@@ -1,0 +1,12 @@
+corpus id: 54576697, 
+
+Title: Content Analysis in Mass Communication: Assessment and Reporting of Intercoder Reliability
+
+Abstract: As a method specifically intended for the study of messages, content analysis is fundamental to mass communication research. Intercoder reliability, more specifically termed intercoder agreement, is a measure of the extent to which independent judges make the same coding decisions in evaluating the characteristics of messages, and is at the heart of this method. Yet there are few standard and accessible guidelines available regarding the appropriate procedures to use to assess and report intercoder reliability, or software tools to calculate it. As a result, it seems likely that there is little consistency in how this critical element of content analysis is assessed and reported in published mass communication studies. Following a review of relevant concepts, indices, and tools, a content analysis of 200 studies utilizing content analysis published in the communication literature between 1994 and 1998 is used to characterize practices in the field. The results demonstrate that mass communication researchers often fail to assess (or at least report) intercoder reliability and often rely on percent agreement, an overly liberal index. Based on the review and these results, concrete guidelines are offered regarding procedures for assessment and reporting of this important aspect of content analysis.
+
+TLDR: A content analysis of 200 studies utilizing content analysis published in the communication literature between 1994 and 1998 is used to characterize practices in the field and demonstrate that mass communication researchers often fail to assess (or at least report) intercoder reliability and often rely on percent agreement, an overly liberal index.
+
+Fields of Study: ['Psychology']
+
+Authors: M. Lombard, Jennifer Snyder-Duch, C. Bracken
+

@@ -1,0 +1,12 @@
+corpus id: 7398727, 
+
+Title: Solving the Multiple Instance Problem with Axis-Parallel Rectangles
+
+Abstract: None
+
+TLDR: Three kinds of algorithms that learn axis-parallel rectangles to solve the multiple instance problem are described and compared, giving 89% correct predictions on a musk odor prediction task.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Thomas G. Dietterich, R. Lathrop, Tomas Lozano-Perez
+

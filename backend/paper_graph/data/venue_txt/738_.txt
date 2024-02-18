@@ -1,0 +1,12 @@
+corpus id: 215790297, 
+
+Title: The socio-economic implications of the coronavirus pandemic (COVID-19): A review
+
+Abstract: None
+
+TLDR: The socio-economic effects of COVID-19 on individual aspects of the world economy are summarised to show the need for medical supplies has significantly increased and the food sector has seen a great demand due to panic-buying and stockpiling of food products.
+
+Fields of Study: ['Medicine']
+
+Authors: Maria Nicola, Z. Alsafi, C. Sohrabi, Ahmed Kerwan, A. Al-Jabir, C. Iosifidis, M. Agha, R. Agha
+

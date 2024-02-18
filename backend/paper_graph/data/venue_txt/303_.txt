@@ -1,0 +1,12 @@
+corpus id: 11591286, 
+
+Title: Electronic markets and electronic hierarchies
+
+Abstract: By reducing the costs of coordination, information technology will lead to an overall shift toward proportionately more use of markets—rather than hierarchies—to coordinate economic activity.
+
+TLDR: By reducing the costs of coordination, information technology will lead to an overall shift toward proportionately more use of markets—rather than hierarchies—to coordinate economic activity.
+
+Fields of Study: ['Business', 'Computer Science']
+
+Authors: T. Malone, J. Yates, R. Benjamin
+

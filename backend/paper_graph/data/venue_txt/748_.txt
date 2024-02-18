@@ -1,0 +1,12 @@
+corpus id: 28778523, 
+
+Title: A Caution Regarding Rules of Thumb for Variance Inflation Factors
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: Robert M. O’Brien
+

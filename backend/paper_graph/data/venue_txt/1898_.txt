@@ -1,0 +1,12 @@
+corpus id: 44138353, 
+
+Title: BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling
+
+Abstract: Datasets drive vision progress and autonomous driving is a critical vision application, yet existing driving datasets are impoverished in terms of visual content. Driving imagery is becoming plentiful, but annotation is slow and expensive, as annotation tools have not kept pace with the flood of data. Our first contribution is the design and implementation of a scalable annotation system that can provide a comprehensive set of image labels for large-scale driving datasets. Our second contribution is a new driving dataset, facilitated by our tooling, which is an order of magnitude larger than previous efforts, and is comprised of over 100K videos with diverse kinds of annotations including image level tagging, object bounding boxes, drivable areas, lane markings, and full-frame instance segmentation. The dataset possesses geographic, environmental, and weather diversity, which is useful for training models so that they are less likely to be surprised by new conditions. The dataset can be requested at this http URL
+
+TLDR: The design and implementation of a scalable annotation system that can provide a comprehensive set of image labels for large-scale driving datasets, and a new driving dataset, which is an order of magnitude larger than previous efforts.
+
+Fields of Study: ['Computer Science']
+
+Authors: F. Yu, Wenqi Xian, Yingying Chen, Fangchen Liu, M. Liao, Vashisht Madhavan, Trevor Darrell
+

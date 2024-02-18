@@ -1,0 +1,12 @@
+corpus id: 140867416, 
+
+Title: The Logic of Collective Action
+
+Abstract: A bow string release device for use by archers to effect controlled consistent release of a bow string and discharge of an arrow. The release device includes a pair of movably connected jaw members each having a forwardly extended lip. The lips are movable with the jaw members toward each other to provide a bow string retaining eye, and away from each other to provide an open throat for release of the bow string. Digital pressure on finger-engaging arms located on each jaw member governs opening and closure of the lips. The jaw members are substantially coplanar in their entirety. The device has finger release portions that are positioned between the pin pivotally connecting jaw members and a bow string being operated upon. The jaw members may be connected by a flexible beam that is flexed in order to have the jaw members move relative to one another.
+
+TLDR: 
+
+Fields of Study: ['Physics']
+
+Authors: T. L. Schwartz
+

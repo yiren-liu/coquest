@@ -1,0 +1,12 @@
+corpus id: 471218, 
+
+Title: Teddy: a sketching interface for 3D freeform design
+
+Abstract: We present a sketching interface for quickly and easily designing freeform models such as stuffed animals and other rotund objects. The user draws several 2D freeform strokes interactively on the screen and the system automatically constructs plausible 3D polygonal surfaces. Our system supports several modeling operations, including the operation to construct a 3D polygonal surface from a 2D silhouette drawn by the user: it inflates the region surrounded by the silhouette making wide areas fat, and narrow areas thin. Teddy, our prototype system, is implemented as a JavaTM program, and the mesh construction is done in real-time on a standard PC. Our informal user study showed that a first-time user typically masters the operations within 10 minutes, and can construct interesting 3D models within minutes.
+
+TLDR: This work presents a sketching interface for quickly and easily designing freeform models such as stuffed animals and other rotund objects and shows that a first-time user typically masters the operations within 10 minutes, and can construct interesting 3D models within minutes.
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Igarashi, S. Matsuoka, Hidehiko Tanaka
+

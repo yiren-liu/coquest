@@ -1,0 +1,12 @@
+corpus id: 19615721, 
+
+Title: The PHQ-9: validity of a brief depression severity measure.
+
+Abstract: OBJECTIVEWhile considerable attention has focused on improving the detection of depression, assessment of severity is also important in guiding treatment decisions. Therefore, we examined the validity of a brief, new measure of depression severity.MEASUREMENTSThe Patient Health Questionnaire (PHQ) is a self-administered version of the PRIME-MD diagnostic instrument for common mental disorders. The PHQ-9 is the depression module, which scores each of the 9 DSM-IV criteria as "0" (not at all) to "3" (nearly every day). The PHQ-9 was completed by 6,000 patients in 8 primary care clinics and 7 obstetrics-gynecology clinics. Construct validity was assessed using the 20-item Short-Form General Health Survey, self-reported sick days and clinic visits, and symptom-related difficulty. Criterion validity was assessed against an independent structured mental health professional (MHP) interview in a sample of 580 patients.RESULTSAs PHQ-9 depression severity increased, there was a substantial decrease in functional status on all 6 SF-20 subscales. Also, symptom-related difficulty, sick days, and health care utilization increased. Using the MHP reinterview as the criterion standard, a PHQ-9 score > or =10 had a sensitivity of 88% and a specificity of 88% for major depression. PHQ-9 scores of 5, 10, 15, and 20 represented mild, moderate, moderately severe, and severe depression, respectively. Results were similar in the primary care and obstetrics-gynecology samples.CONCLUSIONIn addition to making criteria-based diagnoses of depressive disorders, the PHQ-9 is also a reliable and valid measure of depression severity. These characteristics plus its brevity make the PHQ-9 a useful clinical and research tool.
+
+TLDR: In addition to making criteria-based diagnoses of depressive disorders, the PHQ-9 is also a reliable and valid measure of depression severity, which makes it a useful clinical and research tool.
+
+Fields of Study: ['Medicine']
+
+Authors: K. Kroenke, R. Spitzer, Janet B. W. Williams
+

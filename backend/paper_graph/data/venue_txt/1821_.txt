@@ -1,0 +1,12 @@
+corpus id: 9923609, 
+
+Title: Information revelation and privacy in online social networks
+
+Abstract: Participation in social networking sites has dramatically increased in recent years. Services such as Friendster, Tribe, or the Facebook allow millions of individuals to create online profiles and share personal information with vast networks of friends - and, often, unknown numbers of strangers. In this paper we study patterns of information revelation in online social networks and their privacy implications. We analyze the online behavior of more than 4,000 Carnegie Mellon University students who have joined a popular social networking site catered to colleges. We evaluate the amount of information they disclose and study their usage of the site's privacy settings. We highlight potential attacks on various aspects of their privacy, and we show that only a minimal percentage of users changes the highly permeable privacy preferences.
+
+TLDR: This paper analyzes the online behavior of more than 4,000 Carnegie Mellon University students who have joined a popular social networking site catered to colleges and evaluates the amount of information they disclose and study their usage of the site's privacy settings.
+
+Fields of Study: ['Computer Science', 'Political Science']
+
+Authors: R. Gross, A. Acquisti
+

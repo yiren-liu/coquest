@@ -1,0 +1,12 @@
+corpus id: 7679194, 
+
+Title: Development and validation of brief measures of positive and negative affect: the PANAS scales.
+
+Abstract: In recent studies of the structure of affect, positive and negative affect have consistently emerged as two dominant and relatively independent dimensions. A number of mood scales have been created to measure these factors; however, many existing measures are inadequate, showing low reliability or poor convergent or discriminant validity. To fill the need for reliable and valid Positive Affect and Negative Affect scales that are also brief and easy to administer, we developed two 10-item mood scales that comprise the Positive and Negative Affect Schedule (PANAS). The scales are shown to be highly internally consistent, largely uncorrelated, and stable at appropriate levels over a 2-month time period. Normative data and factorial and external evidence of convergent and discriminant validity for the scales are also presented.
+
+TLDR: Two 10-item mood scales that comprise the Positive and Negative Affect Schedule (PANAS) are developed and are shown to be highly internally consistent, largely uncorrelated, and stable at appropriate levels over a 2-month time period.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Watson, L. Clark, A. Tellegen
+

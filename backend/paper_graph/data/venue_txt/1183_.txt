@@ -1,0 +1,12 @@
+corpus id: 20325580, 
+
+Title: The Sickness Impact Profile: Development and Final Revision of a Health Status Measure
+
+Abstract: The final development of the Sickness Impact Profile (SIP), a behaviorally based measure of health status, is presented. A large field trial on a random sample of prepaid group practice enrollees and smaller trials on samples of patients with hyperthyroidism, rheumatoid arthritis and hip replacements were undertaken to assess reliability and validity of the SIP and provide data for category and item analyses. Test-retest reliability (r = 0.92) and internal consistency (r = 0.94) were high. Convergent and discriminant validity was evaluated using the multitrait–multimethod technique. Clinical validity was assessed by determining the relationship between clinical measures of disease and the SIP scores. The relationship between the SIP and criterion measures were moderate to high and in the direction hypotheszed. A technique for describing and assessing similarities and differences among groups was developed using profile and pattern analysis. The final SIP contains 136 items in 12 categories. Overall, category, and dimension scores may be calculated.
+
+TLDR: The final development of the Sickness Impact Profile (SIP), a behaviorally based measure of health status, is presented and a technique for describing and assessing similarities and differences among groups was developed using profile and pattern analysis.
+
+Fields of Study: ['Medicine']
+
+Authors: M. Bergner, R. A. Bobbitt, W. Carter, B. Gilson
+

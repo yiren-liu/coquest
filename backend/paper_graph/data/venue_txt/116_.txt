@@ -1,0 +1,12 @@
+corpus id: 43902914, 
+
+Title: Opinion mining and sentiment analysis
+
+Abstract: In the recent years, micro blogging platforms like Twitter have become instrumental in gauging public mood. So it makes it a feasible predictive strategy to speculate the rise and fall of stock prices. This paper aims to undertake a stepwise methodology to determine the effects of an average person's tweets over fluctuation of stock prices of a multinational firm called Samsung Electronics Ltd. It involves extracting tweets from twitter, data cleansing and application of a suitable algorithm in order to get the adequate sentiment analysis. The vast impact created by twitter data feed has been greatly studied in this paper. Attempts have been made to design an algorithm which works well analysing the positive, negative and neutral tweets.
+
+TLDR: This paper aims to undertake a stepwise methodology to determine the effects of an average person's tweets over fluctuation of stock prices of a multinational firm called Samsung Electronics Ltd.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. K. Bakshi, N. Kaur, R. Kaur, Gurpreet Kaur
+

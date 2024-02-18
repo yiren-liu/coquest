@@ -1,0 +1,12 @@
+corpus id: 16362395, 
+
+Title: A review of classification algorithms for EEG-based brain–computer interfaces
+
+Abstract: In this paper we review classification algorithms used to design brain–computer interface (BCI) systems based on electroencephalography (EEG). We briefly present the commonly employed algorithms and describe their critical properties. Based on the literature, we compare them in terms of performance and provide guidelines to choose the suitable classification algorithm(s) for a specific BCI.
+
+TLDR: This paper compares classification algorithms used to design brain–computer interface (BCI) systems based on electroencephalography (EEG) in terms of performance and provides guidelines to choose the suitable classification algorithm(s) for a specific BCI.
+
+Fields of Study: ['Computer Science', 'Medicine', 'Physics']
+
+Authors: F. Lotte, M. Congedo, A. Lécuyer, F. Lamarche, B. Arnaldi
+

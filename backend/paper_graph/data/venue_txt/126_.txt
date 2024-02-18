@@ -1,0 +1,12 @@
+corpus id: 15979291, 
+
+Title: The relationship between frequency of Facebook use, participation in Facebook activities, and student engagement
+
+Abstract: None
+
+TLDR: Results indicate that Facebook use was significantly negatively predictive of engagement scale score and positively predictive of time spent in co-curricular activities, and some Facebook activities were positively predicting of the dependent variables, while others were negatively predictive.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Reynol Junco
+

@@ -1,0 +1,12 @@
+corpus id: 57678736, 
+
+Title: Qualitative Analysis For Social Scientists
+
+Abstract: Preface 1. Introduction 2. Two illustrations 3. Codes and coding 4. Seminar on open coding 5. Memos and memo writing 6. Team meetings and graphic representations as memos 7. Excerpts that illustrate common problems 8. Integrative diagrams and integrative sessions 9. Integrative mechanisms: diagrams, memo sequences, writing 10. Presenting case materials: data and interpretations 11. Grounded formal theory: awareness contexts 12. Reading and writing research publications 13. Questions and answers 14. Research consultations and teaching: guidelines, strategies, and style Epilogue Appendix References Author index Subject index.
+
+TLDR: This book presents a meta-coding pedagogical architecture grounded in awareness contexts that helps practitioners and students understand one another better and take responsibility for one another's learning.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Strauss
+

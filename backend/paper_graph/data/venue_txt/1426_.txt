@@ -1,0 +1,12 @@
+corpus id: 14200717, 
+
+Title: The Digital Divide as a Complex and Dynamic Phenomenon
+
+Abstract: The purpose of this article is to propose a fruitful analytical framework for data supposedly related to the concept of the so-called "digital divide." The extent and the nature of this divide depend on the kind of access defined. Considering the possession of hardware, growing divides among different categories of income, employment, education, age, and ethnicity can be proved to have existed in the 1980s and 1990s according to official American and Dutch statistics. If only by effects of saturation, these gaps will more or less close. However, it is shown that differential access of skills and usage is likely to increase. The growth of a usage gap is projected. Multivariate analyses of Dutch official statistics reveal the striking effect of age and gender as compared to education. The usage gap is related to the evolution of the information and network society. Finally, policy perspectives are discussed.
+
+TLDR: A fruitful analytical framework for data supposedly related to the concept of the so-called "digital divide" is proposed and it is shown that differential access of skills and usage is likely to increase.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: J. V. Dijk, K. Hacker
+

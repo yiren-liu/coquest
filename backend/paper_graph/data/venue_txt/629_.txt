@@ -1,0 +1,12 @@
+corpus id: 15330263, 
+
+Title: NTRU: A Ring-Based Public Key Cryptosystem
+
+Abstract: None
+
+TLDR: NTRU encryption and decryption use a mixing system suggested by polynomial algebra combined with a clustering principle based on elementary probability theory to create a new public key cryptosystem.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Hoffstein, J. Pipher, J. Silverman
+

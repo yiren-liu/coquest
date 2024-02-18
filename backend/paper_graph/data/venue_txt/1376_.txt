@@ -1,0 +1,12 @@
+corpus id: 17227930, 
+
+Title: Embeddedness in the making of financial capital : How social relations and networks benefit firms seeking financing
+
+Abstract: I investigate how social embeddedness affects an organization’s acquisition and cost of financial capital in middle-market banking—a lucrative but understudied financial sector. Using existing theory and original fieldwork, I develop a framework to explain how embeddedness can influence which firms get capital and at what cost. I then statistically examine my claims using national data on small-business lending. At the level of dyadic ties, I find that firms that embed their commercial transactions with their lender in social attachments receive lower interest rates on loans. At the network level, firms are more likely to get loans and to receive lower interest rates on loans if their network of bank ties has a mix of embedded ties and arm’s-length ties. These network effects arise because embedded ties motivate network partners to share private resources, while arm’s-length ties facilitate access to public information on market prices and loan opportunities so that the benefits of different types of ties are optimized within one network. I conclude with a discussion of how the value produced by a network is at a premium when it creates a bridge that links the public information of markets with the private resources of relationships.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: B. Uzzi
+

@@ -1,0 +1,12 @@
+corpus id: 1856462, 
+
+Title: Framewise phoneme classification with bidirectional LSTM and other neural network architectures
+
+Abstract: None
+
+TLDR: The main findings are that bidirectional networks outperform unidirectional ones, and Long Short Term Memory (LSTM) is much faster and also more accurate than both standard Recurrent Neural Nets (RNNs) and time-windowed Multilayer Perceptrons (MLPs).
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: A. Graves, J. Schmidhuber
+

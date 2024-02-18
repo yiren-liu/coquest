@@ -1,0 +1,12 @@
+corpus id: 56972603, 
+
+Title: Pattern Classification (2nd ed.)
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Duda, P. Hart, D. Stork
+

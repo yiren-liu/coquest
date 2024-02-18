@@ -1,0 +1,12 @@
+corpus id: 5607933, 
+
+Title: A meta-analysis of the technology acceptance model
+
+Abstract: None
+
+TLDR: The study confirmed the value of using students as surrogates for professionals in some TAM studies, and revealed the power of meta-analysis as a rigorous alternative to qualitative and narrative literature review methods.
+
+Fields of Study: ['Computer Science']
+
+Authors: W. R. King, Jun He
+

@@ -1,0 +1,12 @@
+corpus id: 6259888, 
+
+Title: Type 2 diabetes as an inflammatory disease
+
+Abstract: None
+
+TLDR: Preliminary results from clinical trials with salicylates and interleukin-1 antagonists support the notion that inflammation participates in the pathogenesis of type 2 diabetes and have opened the door for immunomodulatory strategies for the treatment of T2D that simultaneously lower blood glucose levels and potentially reduce the severity and prevalence of the associated complications of this disease.
+
+Fields of Study: ['Medicine']
+
+Authors: M. Donath, S. Shoelson
+

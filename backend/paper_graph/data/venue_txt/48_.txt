@@ -1,0 +1,12 @@
+corpus id: 7385450, 
+
+Title: Eulerian video magnification for revealing subtle changes in the world
+
+Abstract: Our goal is to reveal temporal variations in videos that are difficult or impossible to see with the naked eye and display them in an indicative manner. Our method, which we call Eulerian Video Magnification, takes a standard video sequence as input, and applies spatial decomposition, followed by temporal filtering to the frames. The resulting signal is then amplified to reveal hidden information. Using our method, we are able to visualize the flow of blood as it fills the face and also to amplify and reveal small motions. Our technique can run in real time to show phenomena occurring at the temporal frequencies selected by the user.
+
+TLDR: Using the Eulerian Video Magnification method, the flow of blood as it fills the face is able to be visualize and the resulting signal is amplified to reveal hidden information.
+
+Fields of Study: ['Computer Science']
+
+Authors: Hao-Yu Wu, Michael Rubinstein, Eugene Shih, J. Guttag, F. Durand, W. Freeman
+

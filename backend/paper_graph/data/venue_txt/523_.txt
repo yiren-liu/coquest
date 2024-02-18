@@ -1,0 +1,12 @@
+corpus id: 6292200, 
+
+Title: Nasa-Task Load Index (NASA-TLX); 20 Years Later
+
+Abstract: NASA-TLX is a multi-dimensional scale designed to obtain workload estimates from one or more operators while they are performing a task or immediately afterwards. The years of research that preceded subscale selection and the weighted averaging approach resulted in a tool that has proven to be reasonably easy to use and reliably sensitive to experimentally important manipulations over the past 20 years. Its use has spread far beyond its original application (aviation), focus (crew complement), and language (English). This survey of 550 studies in which NASA-TLX was used or reviewed was undertaken to provide a resource for a new generation of users. The goal was to summarize the environments in which it has been applied, the types of activities the raters performed, other variables that were measured that did (or did not) covary, methodological issues, and lessons learned
+
+TLDR: The goal was to summarize the environments in which NASA-TLX has been applied, the types of activities the raters performed, other variables that were measured that did (or did not) covary, methodological issues, and lessons learned.
+
+Fields of Study: ['Engineering']
+
+Authors: S. Hart
+

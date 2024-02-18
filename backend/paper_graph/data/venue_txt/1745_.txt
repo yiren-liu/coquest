@@ -1,0 +1,12 @@
+corpus id: 14850227, 
+
+Title: Active-Constructive-Interactive: A Conceptual Framework for Differentiating Learning Activities
+
+Abstract: Active, constructive, and interactive are terms that are commonly used in the cognitive and learning sciences. They describe activities that can be undertaken by learners. However, the literature is actually not explicit about how these terms can be defined; whether they are distinct; and whether they refer to overt manifestations, learning processes, or learning outcomes. Thus, a framework is provided here that offers a way to differentiate active, constructive, and interactive in terms of observable overt activities and underlying learning processes. The framework generates a testable hypothesis for learning: that interactive activities are most likely to be better than constructive activities, which in turn might be better than active activities, which are better than being passive. Studies from the literature are cited to provide evidence in support of this hypothesis. Moreover, postulating underlying learning processes allows us to interpret evidence in the literature more accurately. Specifying distinct overt activities for active, constructive, and interactive also offers suggestions for how learning activities can be coded and how each kind of activity might be elicited.
+
+TLDR: A framework is provided here that offers a way to differentiate active, constructive, and interactive in terms of observable overt activities and underlying learning processes and generates a testable hypothesis for learning.
+
+Fields of Study: ['Psychology', 'Computer Science', 'Medicine']
+
+Authors: M. Chi
+

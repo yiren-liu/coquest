@@ -1,0 +1,12 @@
+corpus id: 206593578, 
+
+Title: Monocular 3D Object Detection for Autonomous Driving
+
+Abstract: The goal of this paper is to perform 3D object detection from a single monocular image in the domain of autonomous driving. Our method first aims to generate a set of candidate class-specific object proposals, which are then run through a standard CNN pipeline to obtain high-quality object detections. The focus of this paper is on proposal generation. In particular, we propose an energy minimization approach that places object candidates in 3D using the fact that objects should be on the ground-plane. We then score each candidate box projected to the image plane via several intuitive potentials encoding semantic segmentation, contextual information, size and location priors and typical object shape. Our experimental evaluation demonstrates that our object proposal generation approach significantly outperforms all monocular approaches, and achieves the best detection performance on the challenging KITTI benchmark, among published monocular competitors.
+
+TLDR: This work proposes an energy minimization approach that places object candidates in 3D using the fact that objects should be on the ground-plane, and achieves the best detection performance on the challenging KITTI benchmark, among published monocular competitors.
+
+Fields of Study: ['Computer Science']
+
+Authors: Xiaozhi Chen, Kaustav Kundu, Ziyu Zhang, Huimin Ma, S. Fidler, R. Urtasun
+

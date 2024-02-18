@@ -1,0 +1,12 @@
+corpus id: 11759366, 
+
+Title: Et al
+
+Abstract: disasters. Plenum, 2001. 11. Haley R, Thomas L, Hom J. Is there a Gulf War Syndrome? Searching for syndromes by factor analysis of symptoms. JAMA 1997;277:215–22. 12. Fukuda K, Nisenbaum R, Stewart G, et al. Chronic multi-symptom illness affecting Air Force veterans of the Gulf War. JAMA 1998;280:981–8. 13. Ismail K, Everitt B, Blatchley N, et al. Is there a Gulf War Syndrome? Lancet 1999;353:179–82. 14. Shapiro S, Lasarev M, McCauley L. Factor analysis of Gulf War illness: what does it add to our understanding of possible health effects of deployment. Am J Epidemiol 2002;156:578–85. 15. Doebbeling B, Clarke W, Watson D, et al. Is there a Persian Gulf War Syndrome? Evidence from a large population-based survey of veterans and nondeployed controls. Am J Med 2000;108:695–704. 16. Knoke J, Smith T, Gray G, et al. Factor analysis of self reported symptoms: Does it identify a Gulf War Syndrome? Am J Epidemiol 2000;152:379–88. 17. Kang H, Mahan C, Lee K, et al. Evidence for a deployment-related Gulf War syndrome by factor analysis. Arch Environ Health 2002;57:61–8.
+
+TLDR: A large population-based survey of veterans and nondeployed controls found evidence of a deployment-related Gulf War syndrome by factor analysis in Air Force veterans and controls.
+
+Fields of Study: ['Medicine']
+
+Authors: P. Cochat, L. Vaucoret, J. Sarles
+

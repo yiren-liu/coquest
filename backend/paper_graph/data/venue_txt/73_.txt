@@ -1,0 +1,12 @@
+corpus id: 1999764, 
+
+Title: Why do people use information technology? A critical review of the technology acceptance model
+
+Abstract: None
+
+TLDR: It is concluded that TAM is a useful model, but has to be integrated into a broader one which would include variables related to both human and social change processes, and to the adoption of the innovation model.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: Paul Legris, John Ingham, P. Collerette
+

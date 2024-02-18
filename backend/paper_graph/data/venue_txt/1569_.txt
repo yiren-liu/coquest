@@ -1,0 +1,12 @@
+corpus id: 154889372, 
+
+Title: Experimental Tests of the Endowment Effect and the Coase Theorem
+
+Abstract: Contrary to theoretical expectations, measures of willingness to accept greatly exceed measures of willingness to pay. This paper reports several experiments that demonstrate that this "endowment effect" persists even in market settings with opportunities to learn. Consumption objects (e.g., coffee mugs) are randomly given to half the subjects in an experiment. Markets for the mugs are then conducted. The Coase theorem predicts that about half the mugs will trade, but observed volume is always significantly less. When markets for "induced-value" tokens are conducted, the predicted volume is observed, suggesting that transactions costs cannot explain the undertrading for consumption goods.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: D. Kahneman, J. Knetsch, R. Thaler
+

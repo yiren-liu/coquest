@@ -1,0 +1,12 @@
+corpus id: 32735751, 
+
+Title: The psychology of human-computer interaction
+
+Abstract: Contents: Preface. An Applied Information-Processing Psychology. Part I: Science Base. The Human Information-Processor. Part II: Text-Editing. System and User Variability. An Exercise in Task Analysis. The GOMS Model of Manuscript Editing. Extensions of the GOMS Analysis. Models of Devices for Text Selection. Part III: Engineering Models. The Keystroke-Level Model. The Unit-Task Level of Analysis. Part IV: Extensions and Generalizations. An Exploration into Circuit Design. Cognitive Skill. Applying Psychology to Design Reprise.
+
+TLDR: This work focuses on applying Psychology to Design Reprise, and the GOMS Model of Manuscript Editing, as an application to Information-Processing Psychology.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: S. Card, T. Moran, A. Newell
+

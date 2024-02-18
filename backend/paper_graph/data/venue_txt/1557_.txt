@@ -1,0 +1,12 @@
+corpus id: 17449788, 
+
+Title: Understanding Information Systems Continuance: An Expectation-Confirmation Model
+
+Abstract: This paper examines cognitive beliefs and affect influencing one's intention to continue using (continuance) information systems (IS). Expectation-confirmation theory is adapted from the consumer behavior literature and integrated with theoretical and empirical findings from prior IS usage research to theorize a model of IS continuance. Five research hypotheses derived from this model are empirically validated using a field survey of online banking users. The results suggest that users' continuance intention is determined by their satisfaction with IS use and perceived usefulness of continued IS use. User satisfaction, in turn, is influenced by their confirmation of expectation from prior IS use and perceived usefulness. Post-acceptance perceived usefulness is influenced by users' confirmation level. This study draws attention to the substantive differences between acceptance and continuance behaviors, theorizes and validates one of the earliest theoretical models of IS continuance, integrates confirmation and user satisfaction constructs within our current understanding of IS use, conceptualizes and creates an initial scale for measuring IS continuance, and offers an initial explanation for the acceptance-discontinuance anomaly.
+
+TLDR: The results suggest that users' continuance intention is determined by their satisfaction with IS use and perceived usefulness of continued IS use, and that post-acceptance perceived usefulness is influenced by users' confirmation level.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Anol Bhattacherjee
+

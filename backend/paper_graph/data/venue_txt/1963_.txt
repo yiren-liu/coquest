@@ -1,0 +1,12 @@
+corpus id: 5421278, 
+
+Title: Interrater reliability: the kappa statistic
+
+Abstract: The kappa statistic is frequently used to test interrater reliability. The importance of rater reliability lies in the fact that it represents the extent to which the data collected in the study are correct representations of the variables measured. Measurement of the extent to which data collectors (raters) assign the same score to the same variable is called interrater reliability. While there have been a variety of methods to measure interrater reliability, traditionally it was measured as percent agreement, calculated as the number of agreement scores divided by the total number of scores. In 1960, Jacob Cohen critiqued use of percent agreement due to its inability to account for chance agreement. He introduced the Cohen’s kappa, developed to account for the possibility that raters actually guess on at least some variables due to uncertainty. Like most correlation statistics, the kappa can range from −1 to +1. While the kappa is one of the most commonly used statistics to test interrater reliability, it has limitations. Judgments about what level of kappa should be acceptable for health research are questioned. Cohen’s suggested interpretation may be too lenient for health related studies because it implies that a score as low as 0.41 might be acceptable. Kappa and percent agreement are compared, and levels for both kappa and percent agreement that should be demanded in healthcare studies are suggested.
+
+TLDR: While the kappa is one of the most commonly used statistics to test interrater reliability, it has limitations and levels for both kappa and percent agreement that should be demanded in healthcare studies are suggested.
+
+Fields of Study: ['Medicine']
+
+Authors: M. McHugh
+

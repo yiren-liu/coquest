@@ -1,0 +1,12 @@
+corpus id: 1591394, 
+
+Title: Using collaborative filtering to weave an information tapestry
+
+Abstract: The Tapestry experimental mail system developed at the Xerox Palo Alto Research Center is predicated on the belief that information filtering can be more effective when humans are involved in the filtering process. Tapestry was designed to support both content-based filtering and collaborative filtering, which entails people collaborating to help each other perform filtering by recording their reactions to documents they read. The reactions are called annotations; they can be accessed by other people’s filters. Tapestry is intended to handle any incoming stream of electronic documents and serves both as a mail filter and repository; its components are the indexer, document store, annotation store, filterer, little box, remailer, appraiser and reader/browser. Tapestry’s client/server architecture, its various components, and the Tapestry query language are described.
+
+TLDR: Tapestry is intended to handle any incoming stream of electronic documents and serves both as a mail filter and repository; its components are the indexer, document store, annotation store, filterer, little box, remailer, appraiser and reader/browser.
+
+Fields of Study: ['Computer Science']
+
+Authors: David Goldberg, D. Nichols, B. Oki, D. Terry
+

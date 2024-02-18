@@ -1,0 +1,12 @@
+corpus id: 7039587, 
+
+Title: Interval Estimation for a Binomial Proportion
+
+Abstract: We revisit the problem of interval estimation of a binomial proportion. The erratic behavior of the coverage probability of the stan- d ardWaldconfid ence interval has previously been remarkedon in the literature (Blyth andStill, Agresti andCoull, Santner andothers). We begin by showing that the chaotic coverage properties of the Waldinter- val are far more persistent than is appreciated. Furthermore, common textbook prescriptions regarding its safety are misleading and defective in several respects andcannot be trusted . This leads us to consideration of alternative intervals. A number of natural alternatives are presented, each with its motivation and con- text. Each interval is examinedfor its coverage probability andits length. Basedon this analysis, we recommendthe Wilson interval or the equal- tailedJeffreys prior interval for small n andthe interval suggestedin Agresti andCoull for larger n. We also provide an additional frequentist justification for use of the Jeffreys interval.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: L. Brown, T. T. Cai, A. Dasgupta
+

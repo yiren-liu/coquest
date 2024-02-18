@@ -1,0 +1,12 @@
+corpus id: 2559675, 
+
+Title: A few useful things to know about machine learning
+
+Abstract: Tapping into the "folk knowledge" needed to advance machine learning applications.
+
+TLDR: Tapping into the "folk knowledge" needed to advance machine learning applications is a natural next step in the development of artificial intelligence systems.
+
+Fields of Study: ['Computer Science']
+
+Authors: Pedro M. Domingos
+

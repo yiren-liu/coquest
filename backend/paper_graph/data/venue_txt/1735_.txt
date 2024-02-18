@@ -1,0 +1,12 @@
+corpus id: 62769362, 
+
+Title: Interaction Analysis: Foundations and Practice
+
+Abstract: Interaction Analysis as we describe it here is an interdisciplinary method for the empirical investigation of the interaction of human beings with each other and with objects in their environment. It investigates human activities, such as talk, nonverbal interaction, and the use of artifacts and technologies, identifying routine practices and problems and the resources for their solution. Its roots lie in ethnography (especially participant observation), sociolinguistics, ethnomethodology, conversation analysis, kinesics, proxemics, and ethology. Video technology has been vital in establishing Interaction Analysis, which depends on the technology of audiovisual recording for its primary records and on playback capability for their analysis.2 Only electronic recording produces the kind of data corpus that allows the close interrogation required for Interaction Analysis. In particular, it provides the crucial ability to replay a sequence of interaction repeatedly for multiple viewers-and on multiple occasions.
+
+TLDR: Video technology has been vital in establishing Interaction Analysis, which depends on the technology of audiovisual recording for its primary records and on playback capability for their analysis.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Jordan, A. Henderson
+

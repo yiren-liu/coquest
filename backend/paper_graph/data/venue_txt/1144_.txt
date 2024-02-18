@@ -1,0 +1,12 @@
+corpus id: 1078542, 
+
+Title: Energy-efficient computing for wildlife tracking: design tradeoffs and early experiences with ZebraNet
+
+Abstract: Over the past decade, mobile computing and wireless communication have become increasingly important drivers of many new computing applications. The field of wireless sensor networks particularly focuses on applications involving autonomous use of compute, sensing, and wireless communication devices for both scientific and commercial purposes. This paper examines the research decisions and design tradeoffs that arise when applying wireless peer-to-peer networking techniques in a mobile sensor network designed to support wildlife tracking for biology research.The ZebraNet system includes custom tracking collars (nodes) carried by animals under study across a large, wild area; the collars operate as a peer-to-peer network to deliver logged data back to researchers. The collars include global positioning system (GPS), Flash memory, wireless transceivers, and a small CPU; essentially each node is a small, wireless computing device. Since there is no cellular service or broadcast communication covering the region where animals are studied, ad hoc, peer-to-peer routing is needed. Although numerous ad hoc protocols exist, additional challenges arise because the researchers themselves are mobile and thus there is no fixed base station towards which to aim data. Overall, our goal is to use the least energy, storage, and other resources necessary to maintain a reliable system with a very high `data homing' success rate. We plan to deploy a 30-node ZebraNet system at the Mpala Research Centre in central Kenya. More broadly, we believe that the domain-centric protocols and energy tradeoffs presented here for ZebraNet will have general applicability in other wireless and sensor applications.
+
+TLDR: The goal is to use the least energy, storage, and other resources necessary to maintain a reliable system with a very high `data homing' success rate and it is believed that the domain-centric protocols and energy tradeoffs presented here for ZebraNet will have general applicability in other wireless and sensor applications.
+
+Fields of Study: ['Computer Science']
+
+Authors: Philo Juang, Hidekazu Oki, Yong Wang, M. Martonosi, L. Peh, D. Rubenstein
+

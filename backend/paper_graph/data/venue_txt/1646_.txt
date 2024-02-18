@@ -1,0 +1,12 @@
+corpus id: 142537569, 
+
+Title: Gaze and Mutual Gaze
+
+Abstract: One of the first psychologists to investigate experimentally the role of gaze in human behaviour was Michael Argyle. In 1963 he set up a research group at Oxford with Ted Crossman and Adam Kendon, to study non-verbal communication in human social interaction, which included gaze as an important aspect of this behaviour. Shortly afterwards, Mark Cook joined this group which was funded until 1975, during which time considerable research on gaze had been carried out both at Oxford and elsewhere. This book summarises much of the work done in this field up until that time.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: M. Argyle, M. Cook, Duncan Cramer
+

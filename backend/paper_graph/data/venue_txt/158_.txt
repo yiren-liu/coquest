@@ -1,0 +1,12 @@
+corpus id: 577580, 
+
+Title: Sequential Minimal Optimization : A Fast Algorithm for Training Support Vector Machines
+
+Abstract: This paper proposes a new algorithm for training support vector machines: Sequential Minimal Optimization, or SMO. Training a support vector machine requires the solution of a very large quadratic programming (QP) optimization problem. SMO breaks this large QP problem into a series of smallest possible QP problems. These small QP problems are solved analytically, which avoids using a time-consuming numerical QP optimization as an inner loop. The amount of memory required for SMO is linear in the training set size, which allows SMO to handle very large training sets. Because matrix computation is avoided, SMO scales somewhere between linear and quadratic in the training set size for various test problems, while the standard chunking SVM algorithm scales somewhere between linear and cubic in the training set size. SMO’s computation time is dominated by SVM evaluation, hence SMO is fastest for linear SVMs and sparse data sets. On realworld sparse data sets, SMO can be more than 1000 times faster than the chunking algorithm.
+
+TLDR: None
+
+Fields of Study: ['Mathematics']
+
+Authors: J. Platt
+

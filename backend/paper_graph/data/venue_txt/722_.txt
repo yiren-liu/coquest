@@ -1,0 +1,12 @@
+corpus id: 53667439, 
+
+Title: Free Competition and the Optimal Amount of Fraud
+
+Abstract: THIS paper explores the reasons for and determinants of the provision by a firm of false information to a consumer so as to induce purchases which would not be made if the consumer possessed full information about the qualities of his purchase. Market responses to potential for fraud are analyzed in detail. It is shown that fraud and related practices follow from significant costs both in the determination of quality of a particular good or service and in the effective vertical integration of seller and buyer through some exchange of property rights. Much of our discussion focuses on the key problem of the joint provision of diagnosis and services-such as the choice and execution of an automobile repair or taxicab route--but the model developed will be seen to have general applicability whenever the seller provides information which influences purchases, as through advertising or salesmen's promises. In the context of the repair problem, we explore the reasons for and the determinants of the provision of repair services in amounts greater than would be economically efficient, given the price of the services and their marginal product in terms of the service flow from the repaired commodity.' The possibility of this situation is suggested by the observation that in a considerable number of cases involving medical, automotive, and other repair services, contrary to the basic assumption of conventional demand theory, the consumer is unaware of the ability of the repair service to satisfy a given want.2
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: M. Darby, E. Karni
+

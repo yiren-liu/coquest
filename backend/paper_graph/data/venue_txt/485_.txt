@@ -1,0 +1,12 @@
+corpus id: 7055940, 
+
+Title: Selection of Relevant Features and Examples in Machine Learning
+
+Abstract: None
+
+TLDR: This survey reviews work in machine learning on methods for handling data sets containing large amounts of irrelevant information and describes the advances that have been made in both empirical and theoretical work in this area.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Blum, P. Langley
+

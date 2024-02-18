@@ -1,0 +1,12 @@
+corpus id: 46415055, 
+
+Title: Cognitive systems engineering
+
+Abstract: Work Domain Analysis. Activity Analysis. Analysis of Work Organization and System Users. User-Work Coupling. At the Periphery of Effective Coupling: Human Error. The Design Process and Its Guidance. Evaluation of Design Concepts and Products. Design of a Library System. BookHouse Design: Data Base and User Dialogue. BookHouse Design: Interface Displays. BookHouse Evaluation. Catalog of Annotated Displays. References. Index.
+
+TLDR: This work presents a meta-analysis of the design process and its Guidance of BookHouse, a Library System, and its users, that aims at determining the principles of effective Coupling and its application in that system.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: J. Rasmussen, A. M. Pejtersen, L. Goodstein
+

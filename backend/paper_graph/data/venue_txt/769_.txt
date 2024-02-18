@@ -1,0 +1,12 @@
+corpus id: 3207591, 
+
+Title: Connection strategies: Social capital implications of Facebook-enabled communication practices
+
+Abstract: This study assesses whether Facebook users have different ‘connection strategies,’ a term which describes a suite of Facebook-related relational communication activities, and explores the relationship between these connection strategies and social capital. Survey data (N = 450) from a random sample of undergraduate students reveal that only social information-seeking behaviors contribute to perceptions of social capital; connection strategies that focus on strangers or close friends do not. We also find that reporting more ‘actual’ friends on the site is predictive of social capital, but only to a point. We believe the explanation for these findings may be that the identity information in Facebook serves as a social lubricant, encouraging individuals to convert latent to weak ties and enabling them to broadcast requests for support or information.
+
+TLDR: It is found that reporting more ‘actual’ friends on the site is predictive of social capital, but only to a point, and the explanation for these findings may be that the identity information in Facebook serves as a social lubricant, encouraging individuals to convert latent to weak ties and enabling them to broadcast requests for support or information.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: N. Ellison, C. Steinfield, Cliff Lampe
+

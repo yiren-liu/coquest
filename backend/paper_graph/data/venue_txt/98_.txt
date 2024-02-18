@@ -1,0 +1,12 @@
+corpus id: 16587887, 
+
+Title: Cognitive Load Measurement as a Means to Advance Cognitive Load Theory
+
+Abstract: In this article, we discuss cognitive load measurement techniques with regard to their contribution to cognitive load theory (CLT). CLT is concerned with the design of instructional methods that efficiently use people's limited cognitive processing capacity to apply acquired knowledge and skills to new situations (i.e., transfer). CLT is based on a cognitive architecture that consists of a limited working memory with partly independent processing units for visual and auditory information, which interacts with an unlimited long-term memory. These structures and functions of human cognitive architecture have been used to design a variety of novel efficient instructional methods. The associated research has shown that measures of cognitive load can reveal important information for CLT that is not necessarily reflected by traditional performance-based measures. Particularly, the combination of performance and cognitive load measures has been identified to constitute a reliable estimate of the mental efficiency of instructional methods. The discussion of previously used cognitive load measurement techniques and their role in the advancement of CLT is followed by a discussion of aspects of CLT that may benefit by measurement of cognitive load. Within the cognitive load framework, we also discuss some promising new techniques.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: F. Paas, J. Tuovinen, H. Tabbers, Pascal W. M. Van Gerven
+

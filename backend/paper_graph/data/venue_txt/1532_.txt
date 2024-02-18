@@ -1,0 +1,12 @@
+corpus id: 14254317, 
+
+Title: Marketing in hypermedia computer-mediated environment: Conceptual foundations
+
+Abstract: The authors address the role of marketing in hypermedia computer-mediated environments (CMEs). Their approach considers hypermedia CMEs to be large-scale (i.e., national or global) networked enviro...
+
+TLDR: The authors address the role of marketing in hypermedia computer-mediated environments by considering hypermedia CMEs to be large-scale (i.e., national or global) networked enviro...
+
+Fields of Study: ['Computer Science']
+
+Authors: Dennis L. Hoffman, T. Novak
+

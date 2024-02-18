@@ -1,0 +1,12 @@
+corpus id: 1887672, 
+
+Title: Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.
+
+Abstract: Human beings can be proactive and engaged or, alternatively, passive and alienated, largely as a function of the social conditions in which they develop and function. Accordingly, research guided by self-determination theory has focused on the social-contextual conditions that facilitate versus forestall the natural processes of self-motivation and healthy psychological development. Specifically, factors have been examined that enhance versus undermine intrinsic motivation, self-regulation, and well-being. The findings have led to the postulate of three innate psychological needs--competence, autonomy, and relatedness--which when satisfied yield enhanced self-motivation and mental health and when thwarted lead to diminished motivation and well-being. Also considered is the significance of these psychological needs and processes within domains such as health care, education, work, sport, religion, and psychotherapy.
+
+TLDR: Research guided by self-determination theory has focused on the social-contextual conditions that facilitate versus forestall the natural processes of self-motivation and healthy psychological development, leading to the postulate of three innate psychological needs--competence, autonomy, and relatedness.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: R. Ryan, E. Deci
+

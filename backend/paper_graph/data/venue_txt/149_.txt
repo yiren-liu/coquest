@@ -1,0 +1,12 @@
+corpus id: 56842851, 
+
+Title: The cambridge dictionary of statistics
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Medicine']
+
+Authors: D. Goodin
+

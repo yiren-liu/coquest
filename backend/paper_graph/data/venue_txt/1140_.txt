@@ -1,0 +1,12 @@
+corpus id: 70400377, 
+
+Title: Review of Medical Physiology
+
+Abstract: Review of medical physiology , Review of medical physiology , کتابخانه الکترونیک و دیجیتال - آذرسا
+
+TLDR: This book presents a systematic review of medical physiology using a probabilistic method, aiming at determining the basic principles of physiology and its applications in medicine.
+
+Fields of Study: ['Medicine']
+
+Authors: W. Ganong
+

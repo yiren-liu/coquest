@@ -1,0 +1,12 @@
+corpus id: 10881485, 
+
+Title: Content analysis and thematic analysis: Implications for conducting a qualitative descriptive study.
+
+Abstract: Qualitative content analysis and thematic analysis are two commonly used approaches in data analysis of nursing research, but boundaries between the two have not been clearly specified. In other words, they are being used interchangeably and it seems difficult for the researcher to choose between them. In this respect, this paper describes and discusses the boundaries between qualitative content analysis and thematic analysis and presents implications to improve the consistency between the purpose of related studies and the method of data analyses. This is a discussion paper, comprising an analytical overview and discussion of the definitions, aims, philosophical background, data gathering, and analysis of content analysis and thematic analysis, and addressing their methodological subtleties. It is concluded that in spite of many similarities between the approaches, including cutting across data and searching for patterns and themes, their main difference lies in the opportunity for quantification of data. It means that measuring the frequency of different categories and themes is possible in content analysis with caution as a proxy for significance.
+
+TLDR: It is concluded that in spite of many similarities between the approaches, including cutting across data and searching for patterns and themes, their main difference lies in the opportunity for quantification of data.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: M. Vaismoradi, H. Turunen, T. Bondas
+

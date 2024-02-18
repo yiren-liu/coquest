@@ -1,0 +1,12 @@
+corpus id: 62698647, 
+
+Title: Cross‐Validatory Choice and Assessment of Statistical Predictions
+
+Abstract: SUMMARY A generalized form of the cross-validation criterion is applied to the choice and assessment of prediction using the data-analytic concept of a prescription. The examples used to illustrate the application are drawn from the problem areas of univariate estimation, linear regression and analysis of variance.
+
+TLDR: 
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: M. Stone
+

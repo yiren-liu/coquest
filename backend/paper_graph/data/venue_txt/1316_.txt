@@ -1,0 +1,12 @@
+corpus id: 38675566, 
+
+Title: Food Web Complexity and Species Diversity
+
+Abstract: It is suggested that local animal species diversity is related to the number of predators in the system and their efficiency in preventing single species from monopolizing some important, limiting, requisite. In the marine rocky intertidal this requisite usually is space. Where predators capable of preventing monopolies are missing, or are experimentally removed, the systems become less diverse. On a local scale, no relationship between latitude (10⚬ to 49⚬ N.) and diversity was found. On a geographic scale, an increased stability of annual production may lead to an increased capacity for systems to support higher-level carnivores. Hence tropical, or other, ecosystems are more diverse, and are characterized by disproportionately more carnivores.
+
+TLDR: It is suggested that local animal species diversity is related to the number of predators in the system and their efficiency in preventing single species from monopolizing some important, limiting, requisite in the marine rocky intertidal.
+
+Fields of Study: ['Biology']
+
+Authors: R. Paine
+

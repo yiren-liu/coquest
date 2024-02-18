@@ -1,0 +1,12 @@
+corpus id: 15513907, 
+
+Title: Social Learning Theory and the Health Belief Model
+
+Abstract: The Health Belief Model, social learning theory (recently relabelled social cognitive theory), self-efficacy, and locus of control have all been applied with varying success to problems of explaining, predicting, and influencing behavior. Yet, there is con ceptual confusion among researchers and practitioners about the interrelationships of these theories and variables. This article attempts to show how these explanatory fac tors may be related, and in so doing, posits a revised explanatory model which incor porates self-efficacy into the Health Belief Model. Specifically, self-efficacy is pro posed as a separate independent variable along with the traditional health belief var iables of perceived susceptibility, severity, benefits, and barriers. Incentive to behave (health motivation) is also a component of the model. Locus of control is not included explicitly because it is believed to be incorporated within other elements of the model. It is predicted that the new formulation will more fully account for health-related behavior than did earlier formulations, and will suggest more effective behavioral interventions than have hitherto been available to health educators.
+
+TLDR: This article posits a revised explanatory model which incorporates self-efficacy into the Health Belief Model, and predicts that the new formulation will more fully account for health-related behavior than did earlier formulations, and will suggest more effective behavioral interventions than have hitherto been available to health educators.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: I. Rosenstock, V. Strecher, M. Becker
+

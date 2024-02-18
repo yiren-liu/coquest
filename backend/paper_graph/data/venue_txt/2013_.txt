@@ -1,0 +1,12 @@
+corpus id: 143934380, 
+
+Title: Abusive Supervision in Work Organizations: Review, Synthesis, and Research Agenda
+
+Abstract: A growing literature explores abusive supervision, nonphysical forms of hostility perpetrated by managers against their direct reports. However, researchers have used different terminology to explore phenomena that overlap with abusive supervision, and extant research does not devolve from a unifying theoretical framework. These problems have the potential to undermine the development of knowledge in this important research domain. The author therefore provides a review of the literature that summarizes what is known about the antecedents and consequences of abusive supervision, provides the basis for an emergent model that integrates extant empirical work, and suggests directions for future research.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: B. Tepper
+

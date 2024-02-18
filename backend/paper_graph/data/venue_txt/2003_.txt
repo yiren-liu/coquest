@@ -1,0 +1,12 @@
+corpus id: 146219486, 
+
+Title: Interviews : an introduction to qualitative research interviewing
+
+Abstract: PART ONE: INTRODUCTION Interviewing as Research PART TWO: CONCEPTUALIZING THE RESEARCH INTERVIEW The Interview as a Conversation Postmodern Thought, Hermeneutics, Phenomenology, and Dialectics Qualitative Research in Science and in Practice PART THREE: THE SEVEN STAGES OF AN INTERVIEW INVESTIGATION Thematizing and Designing an Interview Study Ethical Issues in Interview Inquiries The Interview Situation The Quality of the Interview From Speech to Text The 1,000-Page Question Methods of Analysis The Plurality of Interpretations The Social Construction of Validity Improving Interview Reports PART FOUR: CONCLUSION Conversations about Interviews
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: S. Kvale
+

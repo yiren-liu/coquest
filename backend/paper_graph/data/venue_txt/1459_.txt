@@ -1,0 +1,12 @@
+corpus id: 53903849, 
+
+Title: ACSM's Guidelines for Exercise Testing and Prescription
+
+Abstract: SECTION I: HEALTH APPRAISAL AND RISK ASSESSMENT 1 Benefits and Risks Associated with Physical Activity 2 Preparticipation Health Screening SECTION II: EXERCISE TESTING 3 Preexercise Evaluation 4 Health-Related Physical Fitness Testing and Interpretation 5 Clinical Exercise Testing 6 Interpretation of Clinical Exercise Test Results SECTION III: EXERCISE PRESCRIPTION 7 General Principles of Exercise Prescription 8 Exercise Prescription for Healthy Populations With Special Considerations and Environmental Considerations 9 Exercise Prescription For Patients With Cardiovascular and Cerebrovascular Disease 10 Exercise Prescription for Populations With Other Chronic Diseases and Health Conditions 11 Behavioral Theories and Strategies for Promoting Exercise SECTION IV: APPENDICES Appendix A Common Medications Appendix B Medical Emergency Management Appendix C Electrocardiogram Interpretation Appendix D American College of Sports Medicine Certifications Appendix E Contributing Authors to the Previous Two Editions
+
+TLDR: This book discusses the benefits and risks associated with physical activity, and the proposed exercise prescription for patients with Cardiovascular and Cerebrovascular Disease and other chronic diseases and health conditions.
+
+Fields of Study: ['Medicine']
+
+Authors: L. Pescatello, R. Arena, D. Riebe, P. Thompson
+

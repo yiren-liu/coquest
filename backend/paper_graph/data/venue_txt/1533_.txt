@@ -1,0 +1,12 @@
+corpus id: 2076514, 
+
+Title: Digital Signal Processing
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Dyer, B. Harms
+

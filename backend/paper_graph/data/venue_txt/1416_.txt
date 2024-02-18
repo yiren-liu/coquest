@@ -1,0 +1,12 @@
+corpus id: 86695352, 
+
+Title: Mail and internet surveys: The tailored design method, 2nd ed.
+
+Abstract: Preface to the 2007 Update.Preface to the Second Edition.Acknowledgments.Part One: ELEMENTS OF THE TAILORED DESIGN METHOD.1 Introduction to Tailored Design.2 Writing Questions.3 Constructing the Questionnaire.4 Survey Implementation.5 Reduction of Coverage and Sampling Errors.Part Two: TAILORING TO THE SURVEY SITUATION.6 Mixed-Mode Surveys.7 Alternative Questionnaire Delivery: In Person, to Groups, and through Publications.8 When Timing Is Critical: Diary, Customer Satisfaction, and Election Forecast Surveys.9 Household and Individual Person Surveys by Government.10 Surveys of Businesses and Other Organizations.11 Internet and Interactive Voice Response Surveys.12 Optical Scanning and Imaging, and the Future of Self-Administered Surveys.References.2007 Appendix: Recent Developments in the Design of Web, Mail, and Mixed-Mode Surveys.Appendix References.Index.
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Sociology']
+
+Authors: D. Dillman
+

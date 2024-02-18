@@ -1,0 +1,12 @@
+corpus id: 14208692, 
+
+Title: Sparse coding with an overcomplete basis set: A strategy employed by V1?
+
+Abstract: None
+
+TLDR: These deviations from linearity provide a potential explanation for the weak forms of non-linearity observed in the response properties of cortical simple cells, and they further make predictions about the expected interactions among units in response to naturalistic stimuli.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: B. Olshausen, D. Field
+

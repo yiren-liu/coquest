@@ -1,0 +1,12 @@
+corpus id: 35194306, 
+
+Title: Internet Users' Information Privacy Concerns (IUIPC): The Construct, the Scale, and a Causal Model
+
+Abstract: The lack of consumer confidence in information privacy has been identified as a major problem hampering the growth of e-commerce. Despite the importance of understanding the nature of online consumers' concerns for information privacy, this topic has received little attention in the information systems community. To fill the gap in the literature, this article focuses on three distinct, yet closely related, issues. First, drawing on social contract theory, we offer a theoretical framework on the dimensionality of Internet users' information privacy concerns (IUIPC). Second, we attempt to operationalize the multidimensional notion of IUIPC using a second-order construct, and we develop a scale for it. Third, we propose and test a causal model on the relationship between IUIPC and behavioral intention toward releasing personal information at the request of a marketer. We conducted two separate field surveys and collected data from 742 household respondents in one-on-one, face-to-face interviews. The results of this study indicate that the second-order IUIPC factor, which consists of three first-order dimensions--namely, collection, control, and awareness--exhibited desirable psychometric properties in the context of online privacy. In addition, we found that the causal model centering on IUIPC fits the data satisfactorily and explains a large amount of variance in behavioral intention, suggesting that the proposed model will serve as a useful tool for analyzing online consumers' reactions to various privacy threats on the Internet.
+
+TLDR: The results of this study indicate that the second-order IUIPC factor, which consists of three first-order dimensions--namely, collection, control, and awareness--exhibited desirable psychometric properties in the context of online privacy.
+
+Fields of Study: ['Computer Science']
+
+Authors: N. Malhotra, Sung S. Kim, James Agarwal
+

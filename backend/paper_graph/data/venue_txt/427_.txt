@@ -1,0 +1,12 @@
+corpus id: 501599, 
+
+Title: The information capacity of the human motor system in controlling the amplitude of movement.
+
+Abstract: Information theory has recently been employed to specify more precisely than has hitherto been possible man's capacity in certain sensory, perceptual, and perceptual-motor functions (5, 10, 13, 15, 17, 18). The experiments reported in the present paper extend the theory to the human motor system. The applicability of only the basic concepts, amount of information, noise, channel capacity, and rate of information transmission, will be examined at this time. General familiarity with these concepts as formulated by recent writers (4, 11,20, 22) is assumed. Strictly speaking, we cannot study man's motor system at the behavioral level in isolation from its associated sensory mechanisms. We can only analyze the behavior of the entire receptor-neural-effector system. However, by asking 51 to make rapid and uniform responses that have been highly overlearned, and by holding all relevant stimulus conditions constant with the exception of those resulting from 5"s own movements, we can create an experimental situation in which it is reasonable to assume that performance is limited primarily by the capacity of the motor system. The motor system in the present case is defined as including the visual and proprioceptive feedback loops that permit S to monitor his own activity. The information capacity of the motor system is specified by its ability to produce consistently one class of movement from among several alternative movement classes. The greater the number of alternative classes, the greater is the information capacity of a particular type of response. Since measurable aspects of motor responses, such as their force, direction, and amplitude, are continuous variables, their information capacity is limited only by the amount of statistical variability, or noise, that is characteristic of repeated efforts to produce the same response. The information capacity of the motor Editor's Note. This article is a reprint of an original work published in 1954 in the Journal of Experimental Psychology, 47, 381391.
+
+TLDR: The motor system in the present case is defined as including the visual and proprioceptive feedback loops that permit S to monitor his own activity, and the information capacity of the motor system is specified by its ability to produce consistently one class of movement from among several alternative movement classes.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: P. Fitts
+

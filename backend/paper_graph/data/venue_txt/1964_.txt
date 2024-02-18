@@ -1,0 +1,12 @@
+corpus id: 7160451, 
+
+Title: Sensitive questions in surveys.
+
+Abstract: Psychologists have worried about the distortions introduced into standardized personality measures by social desirability bias. Survey researchers have had similar concerns about the accuracy of survey reports about such topics as illicit drug use, abortion, and sexual behavior. The article reviews the research done by survey methodologists on reporting errors in surveys on sensitive topics, noting parallels and differences from the psychological literature on social desirability. The findings from the survey studies suggest that misreporting about sensitive topics is quite common and that it is largely situational. The extent of misreporting depends on whether the respondent has anything embarrassing to report and on design features of the survey. The survey evidence also indicates that misreporting on sensitive topics is a more or less motivated process in which respondents edit the information they report to avoid embarrassing themselves in the presence of an interviewer or to avoid repercussions from third parties.
+
+TLDR: The article reviews the research done by survey methodologists on reporting errors in surveys on sensitive topics, noting parallels and differences from the psychological literature on social desirability.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: R. Tourangeau, Ting Yan
+

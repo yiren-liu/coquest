@@ -1,0 +1,12 @@
+corpus id: 62633084, 
+
+Title: Speaking: From Intention to Articulation
+
+Abstract: In Speaking, Willem "Pim" Levelt, Director of the Max-Planck-Institut fur Psycholinguistik, accomplishes the formidable task of covering the entire process of speech production, from constraints on conversational appropriateness to articulation and self-monitoring of speech. Speaking is unique in its balanced coverage of all major aspects of the production of speech, in the completeness of its treatment of the entire speech process, and in its strategy of exemplifying rather than formalizing theoretical issues.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: W. Levelt
+

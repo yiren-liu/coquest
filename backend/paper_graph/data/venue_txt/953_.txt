@@ -1,0 +1,12 @@
+corpus id: 10282844, 
+
+Title: Virtual Network Computing
+
+Abstract: VNC is an ultra thin client system based on a simple display protocol that is platform independent. It achieves mobile computing without requiring the user to carry any hardware. VNC provides access to home computing environments from anywhere in the world, on whatever computing infrastructure happens to be available-including, for example, public Web browsing terminals in airports. In addition, VNC allows a single desktop to be accessed from several places simultaneously, thus supporting application sharing in the style of computer supported cooperative work (CSCW). The technology underlying VNC is a simple remote display protocol. It is the simplicity of this protocol that makes VNC so powerful. Unlike other remote display protocols such as the X Window System and Citrix's ICA, the VNC protocol is totally independent of operating system, windowing system, and applications. The VNC system is freely available for download from the ORL Web site at http://www.orl.co.uk/vnc/. We begin the article by summarizing the evolution of VNC from our work on thin client architectures. We then describe the structure of the VNC protocol, and conclude by discussing the ways we use VNC technology now and how it may evolve further as new clients and servers are developed.
+
+TLDR: The structure of the VNC protocol is described, and the ways the authors use VNC technology now and how it may evolve further as new clients and servers are developed are discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Richardson, Q. Stafford-Fraser, Kenneth R. Wood, A. Hopper
+

@@ -1,0 +1,12 @@
+corpus id: 62973643, 
+
+Title: An Introduction to Statistical Learning
+
+Abstract: None
+
+TLDR: An introduction to statistical learning provides an accessible overview of the essential toolset for making sense of the vast and complex data sets that have emerged in science, industry, and other sectors in the past twenty years.
+
+Fields of Study: ['Computer Science']
+
+Authors: Gareth M. James, D. Witten, T. Hastie, R. Tibshirani
+

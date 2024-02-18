@@ -1,0 +1,12 @@
+corpus id: 4303570, 
+
+Title: Speed of processing in the human visual system
+
+Abstract: None
+
+TLDR: The visual processing needed to perform this highly demanding task can be achieved in under 150 ms, and ERP analysis revealed a frontal negativity specific to no-go trials that develops roughly 150 ms after stimulus onset.
+
+Fields of Study: ['Medicine', 'Computer Science']
+
+Authors: S. Thorpe, D. Fize, Catherine Marlot
+

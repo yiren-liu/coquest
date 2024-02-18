@@ -1,0 +1,12 @@
+corpus id: 5070516, 
+
+Title: Interactional coherence in CMC
+
+Abstract: Text-only CMC has been claimed to be interactionally incoherent due to limitations imposed by messaging systems on turn-taking and reference, yet its popularity continues to grow. In an attempt to resolve this apparent paradox, this study evaluates the coherence of computer-mediated interaction by surveying research on cross-turn coherence. The results reveal a high degree of disrupted adjacency, overlapping exchanges, and topic decay. Two explanations are proposed to account for the popularity of CMC despite its relative incoherence: the ability of users to adapt to the medium, and the advantages of loosened coherence for heightened interactivity and language play.
+
+TLDR: Evaluating the coherence of computer-mediated interaction by surveying research on cross-turn coherence reveals a high degree of disrupted adjacency, overlapping exchanges, and topic decay.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: S. Herring
+

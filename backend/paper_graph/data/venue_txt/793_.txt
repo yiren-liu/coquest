@@ -1,0 +1,12 @@
+corpus id: 6724907, 
+
+Title: Are we ready for autonomous driving? The KITTI vision benchmark suite
+
+Abstract: Today, visual recognition systems are still rarely employed in robotics applications. Perhaps one of the main reasons for this is the lack of demanding benchmarks that mimic such scenarios. In this paper, we take advantage of our autonomous driving platform to develop novel challenging benchmarks for the tasks of stereo, optical flow, visual odometry/SLAM and 3D object detection. Our recording platform is equipped with four high resolution video cameras, a Velodyne laser scanner and a state-of-the-art localization system. Our benchmarks comprise 389 stereo and optical flow image pairs, stereo visual odometry sequences of 39.2 km length, and more than 200k 3D object annotations captured in cluttered scenarios (up to 15 cars and 30 pedestrians are visible per image). Results from state-of-the-art algorithms reveal that methods ranking high on established datasets such as Middlebury perform below average when being moved outside the laboratory to the real world. Our goal is to reduce this bias by providing challenging benchmarks with novel difficulties to the computer vision community. Our benchmarks are available online at: www.cvlibs.net/datasets/kitti.
+
+TLDR: The autonomous driving platform is used to develop novel challenging benchmarks for the tasks of stereo, optical flow, visual odometry/SLAM and 3D object detection, revealing that methods ranking high on established datasets such as Middlebury perform below average when being moved outside the laboratory to the real world.
+
+Fields of Study: ['Computer Science']
+
+Authors: Andreas Geiger, Philip Lenz, R. Urtasun
+

@@ -1,0 +1,12 @@
+corpus id: 17630161, 
+
+Title: Measuring emotion: the Self-Assessment Manikin and the Semantic Differential.
+
+Abstract: None
+
+TLDR: Reports of affective experience obtained using SAM are compared to the Semantic Differential scale devised by Mehrabian and Russell (An approach to environmental psychology, 1974), which requires 18 different ratings.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: M. Bradley, P. Lang
+

@@ -1,0 +1,12 @@
+corpus id: 15851410, 
+
+Title: Machines and Mindlessness: Social Responses to Computers
+
+Abstract: Following Langer (1992), this article reviews a series of experimental studiesthat demonstrate that individuals mindlessly apply social rules and expecta-tions to computers. The first set of studies illustrates how individuals overusehuman social categories, applying gender stereotypes to computers and ethnicallyidentifying with computer agents. The second set demonstrates that people exhibitoverlearned social behaviors such as politeness and reciprocity toward comput-ers.Inthethirdsetofstudies,prematurecognitivecommitmentsaredemonstrated:Aspecialisttelevisionsetisperceivedasprovidingbettercontentthanageneralisttelevision set. A final series of studies demonstrates the depth of social responseswith respect to computer “personality.” Alternative explanations for these find -ings, such as anthropomorphism and intentional social responses, cannot explainthe results. We conclude with an agenda for future research.Computer users approach the personal computer in many different ways.Experienced word processors move smoothly from keyboard to mouse to menu,mixing prose and commands to the computer automatically; the distinctionbetween the hand and the tool blurs (Heidegger, 1977; Winograd & Flores, 1987).Novices cautiously strike each key, fearing that one false move will initiate anuncontrollable series of unwanted events. Game players view computers as
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: C. Nass, Youngme Moon
+

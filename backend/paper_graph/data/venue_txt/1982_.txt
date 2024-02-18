@@ -1,0 +1,12 @@
+corpus id: 19710211, 
+
+Title: The Great Eight competencies: a criterion-centric approach to validation.
+
+Abstract: The author presents results of a meta-analysis of 29 validation studies (N=4,861) that uses the Great Eight competency factors (Kurz & Bartram, 2002) as the criterion measurement framework. Predictors of the Great Eight competencies based only on personality scales show moderate to good correlations with line-manager ratings for all 8 of the competencies. On their own, ability tests correlate with 4 of the 8 competencies, and together ability and personality data yield operational validities ranging from 0.20 to 0.44 for the 8 competencies. Operational validities for aggregated predictors with aggregated criteria were estimated to be 0.53. The value of differentiating the criterion space and of relating predictor variables to criterion variables in a one-to-one fashion is discussed.
+
+TLDR: A meta-analysis of 29 validation studies that uses the Great Eight competency factors (Kurz & Bartram, 2002) as the criterion measurement framework shows moderate to good correlations with line-manager ratings for all 8 of the competencies.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Bartram
+

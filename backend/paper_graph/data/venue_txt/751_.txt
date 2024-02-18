@@ -1,0 +1,12 @@
+corpus id: 12495425, 
+
+Title: Statistical methods for speech recognition
+
+Abstract: The speech recognition problem hidden Markov models the acoustic model basic language modelling the Viterbi search hypothesis search on a tree and the fast match elements of information theory the complexity of tasks - the quality of language models the expectation - maximization algorithm and its consequences decision trees and tree language models phonetics from orthography - spelling-to-base from mappings triphones and allophones maximum entropy probability estimation and language models three applications of maximum entropy estimation to language modelling estimation of probabilities from counts and the Back-Off method.
+
+TLDR: The speech recognition problem hidden Markov models the acoustic model basic language modelling the Viterbi search hypothesis search on a tree and the fast match elements of information theory.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: F. Jelinek
+

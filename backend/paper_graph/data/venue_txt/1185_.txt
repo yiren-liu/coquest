@@ -1,0 +1,12 @@
+corpus id: 4507193, 
+
+Title: Who uses Facebook? An investigation into the relationship between the Big Five, shyness, narcissism, loneliness, and Facebook usage
+
+Abstract: None
+
+TLDR: Investigation of how personality influences usage or non-usage of Facebook showed that Facebook users tend to be more extraverted and narcissistic, but less conscientious and socially lonely, than nonusers.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Tracii Ryan, Sophia Xenos
+

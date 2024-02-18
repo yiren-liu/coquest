@@ -1,0 +1,12 @@
+corpus id: 11678342, 
+
+Title: Cognitive Reflection and Decision Making
+
+Abstract: This paper introduces a three-item "Cognitive Reflection Test" (CRT) as a simple measure of one type of cognitive ability—the ability or disposition to reflect on a question and resist reporting the first response that comes to mind. The author will show that CRT scores are predictive of the types of choices that feature prominently in tests of decision-making theories, like expected utility theory and prospect theory. Indeed, the relation is sometimes so strong that the preferences themselves effectively function as expressions of cognitive ability—an empirical fact begging for a theoretical explanation. The author examines the relation between CRT scores and two important decision-making characteristics: time preference and risk preference. The CRT scores are then compared with other measures of cognitive ability or cognitive "style." The CRT scores exhibit considerable difference between men and women and the article explores how this relates to sex differences in time and risk preferences. The final section addresses the interpretation of correlations between cognitive abilities and decision-making characteristics.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: S. Frederick
+

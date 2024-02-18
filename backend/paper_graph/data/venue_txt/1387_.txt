@@ -1,0 +1,12 @@
+corpus id: 11952928, 
+
+Title: A measure of betweenness centrality based on random walks
+
+Abstract: None
+
+TLDR: A betweenness measure is proposed that relaxes this assumption that information spreads only along those shortest paths, including contributions from essentially all paths between nodes, not just the shortest, although it still gives more weight to short paths.
+
+Fields of Study: ['Physics', 'Computer Science', 'Mathematics']
+
+Authors: M. Newman
+

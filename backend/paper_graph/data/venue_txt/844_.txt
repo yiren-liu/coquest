@@ -1,0 +1,12 @@
+corpus id: 12470487, 
+
+Title: Pedagogy of the Oppressed
+
+Abstract: The disclosure relates to can end seamers and similar apparatus, in which end closures are secured on top of successive containers by securing tools, these tools and the support means which carry the containers being rotated simultaneously by a drive common to all the working parts of the machine and derived from a level above the securing tools. A single, unpressurized, gravity/centrifugal, entirely internal lubricating system is described.
+
+TLDR: A single, unpressurized, gravity/centrifugal, entirely internal lubricating system is described for can end seamers and similar apparatus.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: P. Freire
+

@@ -1,0 +1,12 @@
+corpus id: 62392461, 
+
+Title: Content Analysis: An Introduction to Its Methodology
+
+Abstract: History Conceptual Foundations Uses and Kinds of Inference The Logic of Content Analysis Designs Unitizing Sampling Recording Data Languages Constructs for Inference Analytical Techniques The Use of Computers Reliability Validity A Practical Guide
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: K. Krippendorff
+

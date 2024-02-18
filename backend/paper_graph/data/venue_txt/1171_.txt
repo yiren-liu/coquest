@@ -1,0 +1,12 @@
+corpus id: 9743349, 
+
+Title: Geology of mankind
+
+Abstract: None
+
+TLDR: It seems appropriate to assign the term ‘Anthropocene’ to the present, in many ways human-dominated, geological epoch, supplementing the Holocene—the warm period of the past 10–12 millennia.
+
+Fields of Study: ['Environmental Science', 'Geology', 'Medicine']
+
+Authors: P. Crutzen
+

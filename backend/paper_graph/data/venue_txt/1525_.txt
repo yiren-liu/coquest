@@ -1,0 +1,12 @@
+corpus id: 2027090, 
+
+Title: An introduction to ROC analysis
+
+Abstract: None
+
+TLDR: The purpose of this article is to serve as an introduction to ROC graphs and as a guide for using them in research.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tom Fawcett
+

@@ -1,0 +1,12 @@
+corpus id: 16062059, 
+
+Title: Mind the Gap: Why do people act environmentally and what are the barriers to pro-environmental behavior?
+
+Abstract: Numerous theoretical frameworks have been developed to explain the gap between the possession of environmental knowledge and environmental awareness, and displaying pro-environmental behavior. Although many hundreds of studies have been undertaken, no definitive explanation has yet been found. Our article describes a few of the most influential and commonly used analytical frameworks: early US linear progression models; altruism, empathy and prosocial behavior models; and finally, sociological models. All of the models we discuss (and many of the ones we do not such as economic models, psychological models that look at behavior in general, social marketing models and that have become known as deliberative and inclusionary processes or procedures (DIPS)) have some validity in certain circumstances. This indicates that the question of what shapes pro-environmental behavior is such a complex one that it cannot be visualized through one single framework or diagram. We then analyze the factors that have been found to have some influence, positive or negative, on pro-environmental behavior such as demographic factors, external factors (e.g. institutional, economic, social and cultural) and internal factors (e.g. motivation, pro-environmental knowledge, awareness, values, attitudes, emotion, locus of control, responsibilities and priorities). Although we point out that developing a model that tries to incorporate all factors might neither be feasible nor useful, we feel that it can help illuminate this complex field. Accordingly, we propose our own model based on the work of Fliegenschnee and Schelakovsky (1998) who were influenced by Fietkau and Kessel (1981).
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Kollmuss, J. Agyeman
+

@@ -1,0 +1,12 @@
+corpus id: 691081, 
+
+Title: Mean Shift: A Robust Approach Toward Feature Space Analysis
+
+Abstract: A general non-parametric technique is proposed for the analysis of a complex multimodal feature space and to delineate arbitrarily shaped clusters in it. The basic computational module of the technique is an old pattern recognition procedure: the mean shift. For discrete data, we prove the convergence of a recursive mean shift procedure to the nearest stationary point of the underlying density function and, thus, its utility in detecting the modes of the density. The relation of the mean shift procedure to the Nadaraya-Watson estimator from kernel regression and the robust M-estimators; of location is also established. Algorithms for two low-level vision tasks discontinuity-preserving smoothing and image segmentation - are described as applications. In these algorithms, the only user-set parameter is the resolution of the analysis, and either gray-level or color images are accepted as input. Extensive experimental results illustrate their excellent performance.
+
+TLDR: It is proved the convergence of a recursive mean shift procedure to the nearest stationary point of the underlying density function and, thus, its utility in detecting the modes of the density.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: D. Comaniciu, P. Meer
+

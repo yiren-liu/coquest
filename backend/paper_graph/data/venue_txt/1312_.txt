@@ -1,0 +1,12 @@
+corpus id: 1412125, 
+
+Title: Learning from Notes: organizational issues in groupware implementation
+
+Abstract: This paper explores the introduction of a groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people's mental models and organizations' structure and culture significantly influence how groupware is implemented and used. Specifically, in the absence of mental models that stressed its collaborative nature, groupware was interpreted in terms of familiar personal, stand-alone technologies such as spreadsheets. Further, the culture and structure proved few incentives or norms for cooperating or sharing expertise, hence the groupware on its own was unlikely to engender collaboration. Recognizing the central influence of these cognitive and organizational elements is critical to developers, researchers, and practitioners of groupware.
+
+TLDR: It is suggested that people's mental models and organizations' structure and culture significantly influence how groupware is implemented and used, and groupware was interpreted in terms of familiar personal, stand-alone technologies such as spreadsheets.
+
+Fields of Study: ['Computer Science', 'Sociology', 'Psychology']
+
+Authors: W. Orlikowski
+

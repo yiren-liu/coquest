@@ -1,0 +1,12 @@
+corpus id: 31348367, 
+
+Title: Refactoring improving the design of existing code
+
+Abstract: The present document contains the most relevant results obtained in the study of refactoring. Mainly it addresses the general aspects of refactoring and the basic concepts that make it up, then it details the how, why and when to apply refactoring in computer systems that have been poorly designed, this in order to a better performance and maintenance of the constituent components. Finally, it is emphasized the importance of the refactoring process as such in software development.
+
+TLDR: The present document details the how, why and when to apply refactoring in computer systems that have been poorly designed, this in order to a better performance and maintenance of the constituent components.
+
+Fields of Study: ['Computer Science']
+
+Authors: Mauricio A. Saca
+

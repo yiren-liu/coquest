@@ -1,0 +1,12 @@
+corpus id: 142973927, 
+
+Title: Active learning : creating excitement in the classroom
+
+Abstract: "College teaching and lecturing have been so long associated that when one pictures a college professor in a classroom, he almost inevitably pictures him as lecturing." Few would argue with the statement that the vast majority of today's professoriate were primarily lectured to as both undergraduates and as graduate school students. It is not surprising, therefore, that lecturing continues to be our most prevalent mode of instruction. A host of national reports in the 1980's, however, challenged college and university faculty to develop instructional approaches that transform students from passive listeners to active learners. On first glance, like many of the recommendations provided by "blue ribbon panels," this would seem "easier said than done." The incorporation of active learning strategies into the daily routine of classroom instruction can, and should, be done. To help in this pursuit, this workshop will engage participants in specific, practical teaching strategies designed to model the use of active learning in the classroom. The handout summarizes the workshop's content and identifies resources for further study.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: C. Bonwell, J. Eison
+

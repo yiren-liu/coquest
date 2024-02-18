@@ -1,0 +1,12 @@
+corpus id: 15996572, 
+
+Title: Algorithms for the Assignment and Transportation Problems
+
+Abstract: In this paper we presen algorithms for the solution of the general assignment and transportation problems. In Section 1, a statement of the algorithm for the assignment problem appears, along with a proof for the correctness of the algorithm. The remarks which constitute the proof are incorporated parenthetically into the statement of the algorithm. Following this appears a discussion of certain theoretical aspects of the problem. In Section 2, the algorithm is generalized to one for the transportation problem. The algorithm of that section is stated as concisely as possible, with theoretical remarks omitted.
+
+TLDR: In this paper, algorithms for the solution of the general assignment and transportation problems are presen, and the algorithm is generalized to one for the transportation problem.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Munkres
+

@@ -1,0 +1,12 @@
+corpus id: 42246712, 
+
+Title: Comparative fit indexes in structural models.
+
+Abstract: Normed and nonnormed fit indexes are frequently used as adjuncts to chi-square statistics for evaluating the fit of a structural model. A drawback of existing indexes is that they estimate no known population parameters. A new coefficient is proposed to summarize the relative reduction in the noncentrality parameters of two nested models. Two estimators of the coefficient yield new normed (CFI) and nonnormed (FI) fit indexes. CFI avoids the underestimation of fit often noted in small samples for Bentler and Bonett's (1980) normed fit index (NFI). FI is a linear function of Bentler and Bonett's non-normed fit index (NNFI) that avoids the extreme underestimation and overestimation often found in NNFI. Asymptotically, CFI, FI, NFI, and a new index developed by Bollen are equivalent measures of comparative fit, whereas NNFI measures relative fit by comparing noncentrality per degree of freedom. All of the indexes are generalized to permit use of Wald and Lagrange multiplier statistics. An example illustrates the behavior of these indexes under conditions of correct specification and misspecification. The new fit indexes perform very well at all sample sizes.
+
+TLDR: A new coefficient is proposed to summarize the relative reduction in the noncentrality parameters of two nested models and two estimators of the coefficient yield new normed (CFI) and nonnormed (FI) fit indexes.
+
+Fields of Study: ['Mathematics', 'Medicine']
+
+Authors: P. Bentler
+

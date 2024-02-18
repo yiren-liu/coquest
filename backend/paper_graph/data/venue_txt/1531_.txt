@@ -1,0 +1,12 @@
+corpus id: 145327068, 
+
+Title: Organizational Learning: A Theory Of Action Perspective
+
+Abstract: «... Intervenir es entrar en un conjunto de relaciones en desarrollo con el proposito de ser util. El tipo de ayuda en el que nos vamos a centrar consiste en aumentar la capacidad para una buena dialectica organizativa —es decir, la capacidad de indagacion organizativa para encajar errores, incongruencias e incompatibilidades en una teoria organizativa de la accion la cual necesariamente emerge a medida que el sistema organizativo/ambiental cambia» (p. 158). «... Nuestra actividad en la intervencion debe por tanto ocuparse de tres propositos. Estos son: 1) ayudar al cliente a ser consciente y a descongelar sus teorias al uso del Modelo I y sistemas de aprendizaje O-I, y 2) educar al cliente a usar el Modelo II y a crear sistemas de aprendizaje O-II, para 3) usar este nuevo conocimiento con el fin de lograr una buena dialectica organizativa. Llamamos a la actividad de intervencion que incluye las tres intenciones una intervencion extensa» (p. 166).
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: C. Argyris, Donald A. Schön
+

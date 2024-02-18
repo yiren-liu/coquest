@@ -1,0 +1,12 @@
+corpus id: 2842391, 
+
+Title: Orienting of Attention*
+
+Abstract: Bartlett viewed thinking as a high level skill exhibiting ballistic properties that he called its “point of no return”. This paper explores one aspect of cognition through the use of a simple model task in which human subjects are asked to commit attention to a position in visual space other than fixation. This instruction is executed by orienting a covert (attentional) mechanism that seems sufficiently time locked to external events that its trajectory can be traced across the visual field in terms of momentary changes in the efficiency of detecting stimuli. A comparison of results obtained with alert monkeys, brain injured and normal human subjects shows the relationship of this covert system to saccadic eye movements and to various brain systems controlling perception and motion. In accordance with Bartlett's insight, the possibility is explored that similar principles apply to orienting of attention toward sensory input and orienting to the semantic structures used in thinking.
+
+TLDR: This paper explores one aspect of cognition through the use of a simple model task in which human subjects are asked to commit attention to a position in visual space other than fixation by orienting a covert mechanism that seems sufficiently time locked to external events that its trajectory can be traced across the visual field in terms of momentary changes in the efficiency of detecting stimuli.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: M. Posner
+

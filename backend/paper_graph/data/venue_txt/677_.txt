@@ -1,0 +1,12 @@
+corpus id: 27343964, 
+
+Title: Psychological testing.
+
+Abstract: Neuropsychological assessments use clinical psychology methods to analyze cognitive and behavioral disturbances resulting from injury, disease, or abnormal brain development. These procedures can refine and extend aspects of the neurological examination. The same behavioral and mental capacities (e.g., memory, language functions, orientation) that are evaluated in neurological examinations can be evaluated more precisely and objectively through neuropsychological assessment. Neuropsychological tests are standardized tests that can yield quantifiable, reproducible results using scores that can be compared to those of normal persons of simillar age and demographic background as the person being tested.
+
+TLDR: Standardized tests are standardized tests that can yield quantifiable, reproducible results using scores that can be compared to those of normal persons of simillar age and demographic background as the person being tested.
+
+Fields of Study: ['Medicine']
+
+Authors: N. Tallent
+

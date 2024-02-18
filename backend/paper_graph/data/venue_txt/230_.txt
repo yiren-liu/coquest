@@ -1,0 +1,12 @@
+corpus id: 13354506, 
+
+Title: Correlation Coefficients: Appropriate Use and Interpretation
+
+Abstract: Correlation in the broadest sense is a measure of an association between variables. In correlated data, the change in the magnitude of 1 variable is associated with a change in the magnitude of another variable, either in the same (positive correlation) or in the opposite (negative correlation) direction. Most often, the term correlation is used in the context of a linear relationship between 2 continuous variables and expressed as Pearson product-moment correlation. The Pearson correlation coefficient is typically used for jointly normally distributed data (data that follow a bivariate normal distribution). For nonnormally distributed continuous data, for ordinal data, or for data with relevant outliers, a Spearman rank correlation can be used as a measure of a monotonic association. Both correlation coefficients are scaled such that they range from –1 to +1, where 0 indicates that there is no linear or monotonic association, and the relationship gets stronger and ultimately approaches a straight line (Pearson correlation) or a constantly increasing or decreasing curve (Spearman correlation) as the coefficient approaches an absolute value of 1. Hypothesis tests and confidence intervals can be used to address the statistical significance of the results and to estimate the strength of the relationship in the population from which the data were sampled. The aim of this tutorial is to guide researchers and clinicians in the appropriate use and interpretation of correlation coefficients.
+
+TLDR: The aim of this tutorial is to guide researchers and clinicians in the appropriate use and interpretation of correlation coefficients.
+
+Fields of Study: ['Medicine']
+
+Authors: P. Schober, C. Boer, L. Schwarte
+

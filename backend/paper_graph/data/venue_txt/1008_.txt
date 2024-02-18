@@ -1,0 +1,12 @@
+corpus id: 4276515, 
+
+Title: Differential Geometry of Curves and Surfaces
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Physics']
+
+Authors: H. Piaggio
+

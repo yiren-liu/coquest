@@ -1,0 +1,12 @@
+corpus id: 152119884, 
+
+Title: Computer-Mediated Communication
+
+Abstract: While computer-mediated communication use and research are proliferating rapidly, findings offer contrasting images regarding the interpersonal character of this technology. Research trends over the history of these media are reviewed with observations across trends suggested so as to provide integrative principles with which to apply media to different circumstances. First, the notion that the media reduce personal influences—their impersonal effects—is reviewed. Newer theories and research are noted explaining normative “interpersonal” uses of the media. From this vantage point, recognizing that impersonal communication is sometimes advantageous, strategies for the intentional depersonalization of media use are inferred, with implications for Group Decision Support Systems effects. Additionally, recognizing that media sometimes facilitate communication that surpasses normal interpersonal levels, a new perspective on “hyperpersonal” communication is introduced. Subprocesses are discussed pertaining to receivers, senders, channels, and feedback elements in computer-mediated communication that may enhance impressions and interpersonal relations.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Walther
+

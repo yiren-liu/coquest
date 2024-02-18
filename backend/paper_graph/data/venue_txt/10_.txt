@@ -1,0 +1,12 @@
+corpus id: 145665613, 
+
+Title: The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods
+
+Abstract: We are in the midst of a technological revolution whereby, for the first time, researchers can link daily word use to a broad array of real-world behaviors. This article reviews several computerized text analysis methods and describes how Linguistic Inquiry and Word Count (LIWC) was created and validated. LIWC is a transparent text analysis program that counts words in psychologically meaningful categories. Empirical results using LIWC demonstrate its ability to detect meaning in a wide variety of experimental settings, including to show attentional focus, emotionality, social relationships, thinking styles, and individual differences.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Y. Tausczik, J. Pennebaker
+

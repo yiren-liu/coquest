@@ -1,0 +1,12 @@
+corpus id: 42095678, 
+
+Title: The cBio cancer genomics portal: an open platform for exploring multidimensional cancer genomics data.
+
+Abstract: The cBio Cancer Genomics Portal (http://cbioportal.org) is an open-access resource for interactive exploration of multidimensional cancer genomics data sets, currently providing access to data from more than 5,000 tumor samples from 20 cancer studies. The cBio Cancer Genomics Portal significantly lowers the barriers between complex genomic data and cancer researchers who want rapid, intuitive, and high-quality access to molecular profiles and clinical attributes from large-scale cancer genomics projects and empowers researchers to translate these rich data sets into biologic insights and clinical applications.
+
+TLDR: The cBio Cancer Genomics Portal significantly lowers the barriers between complex genomic data and cancer researchers who want rapid, intuitive, and high-quality access to molecular profiles and clinical attributes from large-scale cancer genomics projects and empowers researchers to translate these rich data sets into biologic insights and clinical applications.
+
+Fields of Study: ['Biology', 'Medicine']
+
+Authors: E. Cerami, Jianjiong Gao, U. Dogrusoz, Benjamin E. Gross, S. O. Sumer, B. A. Aksoy, A. Jacobsen, Caitlin J. Byrne, M. Heuer, E. Larsson, Yevgeniy Antipin, B. Reva, A. P. Goldberg, C. Sander, N. Schultz
+

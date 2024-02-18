@@ -1,0 +1,12 @@
+corpus id: 4853851, 
+
+Title: Learning without Forgetting
+
+Abstract: None
+
+TLDR: This work proposes the Learning without Forgetting method, which uses only new task data to train the network while preserving the original capabilities, and performs favorably compared to commonly used feature extraction and fine-tuning adaption techniques.
+
+Fields of Study: ['Medicine', 'Computer Science', 'Mathematics']
+
+Authors: Zhizhong Li, Derek Hoiem
+

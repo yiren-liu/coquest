@@ -1,0 +1,12 @@
+corpus id: 5959482, 
+
+Title: Efficient Estimation of Word Representations in Vector Space
+
+Abstract: We propose two novel model architectures for computing continuous vectorrepresentations of words from very large data sets. The quality of theserepresentations is measured in a word similarity task, and the results arecompared to the previously best performing techniques based on different typesof neural networks. We observe large improvements in accuracy at much lowercomputational cost, i.e. it takes less than a day to learn high quality wordvectors from a 1.6 billion words data set. Furthermore, we show that thesevectors provide state-of-the-art performance on our test set for measuringsyntactic and semantic word similarities.
+
+TLDR: Two novel model architectures for computing continuous vector representations of words from very large data sets are proposed and it is shown that these vectors provide state-of-the-art performance on the authors' test set for measuring syntactic and semantic word similarities.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tomas Mikolov, Kai Chen, G. Corrado, J. Dean
+

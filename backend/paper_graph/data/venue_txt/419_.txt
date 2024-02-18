@@ -1,0 +1,12 @@
+corpus id: 4601272, 
+
+Title: Psychological Well-Being Revisited: Advances in the Science and Practice of Eudaimonia
+
+Abstract: This article reviews research and interventions that have grown up around a model of psychological well-being generated more than two decades ago to address neglected aspects of positive functioning such as purposeful engagement in life, realization of personal talents and capacities, and enlightened self-knowledge. The conceptual origins of this formulation are revisited and scientific products emerging from 6 thematic areas are examined: (1) how well-being changes across adult development and later life; (2) what are the personality correlates of well-being; (3) how well-being is linked with experiences in family life; (4) how well-being relates to work and other community activities; (5) what are the connections between well-being and health, including biological risk factors, and (6) via clinical and intervention studies, how psychological well-being can be promoted for ever-greater segments of society. Together, these topics illustrate flourishing interest across diverse scientific disciplines in understanding adults as striving, meaning-making, proactive organisms who are actively negotiating the challenges of life. A take-home message is that increasing evidence supports the health protective features of psychological well-being in reducing risk for disease and promoting length of life. A recurrent and increasingly important theme is resilience - the capacity to maintain or regain well-being in the face of adversity. Implications for future research and practice are considered.
+
+TLDR: Research and interventions that have grown up around a model of psychological well-being generated more than two decades ago to address neglected aspects of positive functioning such as purposeful engagement in life, realization of personal talents and capacities, and enlightened self-knowledge are reviewed.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: C. Ryff
+

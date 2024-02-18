@@ -1,0 +1,12 @@
+corpus id: 21076492, 
+
+Title: Not So Different After All: A Cross-Discipline View Of Trust
+
+Abstract: Our task is to adopt a multidisciplinary view of trust within and between firms, in an effort to synthesize and give insight into a fundamental construct of organizational science. We seek to identify the shared understandings of trust across disciplines, while recognizing that the divergent meanings scholars bring to the study of trust also can add value.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: D. Rousseau, S. Sitkin, R. Burt, Colin Camerer
+

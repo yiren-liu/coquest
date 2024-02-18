@@ -1,0 +1,12 @@
+corpus id: 14013552, 
+
+Title: Constants across cultures in the face and emotion.
+
+Abstract: This study addresses the question of whether any facial expressions of emotion are universal. Recent studies showing that members of literate cultures associated the same emotion concepts with the same facial behaviors could not demonstrate that at least some facial expressions of emotion are universal; the cultures compared had all been exposed to some of the same mass media presentations of facial expression, and these may have taught the people in each culture to recognize the unique facial expressions of other cultures. To show that members of a preliterate culture who had minimal exposure to literate cultures would associate the same emotion concepts with the same facial behaviors as do members of Western and Eastern literate cultures, data were gathered in New Guinea by telling subjects a story, showing them a set of three faces, and asking them to select the face which showed the emotion appropriate to the story. The results provide evidence in support of the hypothesis that the association between particular facial muscular patterns and discrete emotions is universal.
+
+TLDR: Evidence is provided that members of a preliterate culture who had minimal exposure to literate cultures would associate the same emotion concepts with the same facial behaviors as do members of Western and Eastern literates.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: P. Ekman, W. Friesen
+

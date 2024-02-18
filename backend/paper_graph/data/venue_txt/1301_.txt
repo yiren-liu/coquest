@@ -1,0 +1,12 @@
+corpus id: 3138489, 
+
+Title: The DeLone and McLean Model of Information Systems Success: A Ten-Year Update
+
+Abstract: Ten years ago, we presented the DeLone and McLean Information Systems (IS) Success Model as a framework and model for measuring the complex-dependent variable in IS research. In this paper, we discuss many of the important IS success research contributions of the last decade, focusing especially on research efforts that apply, validate, challenge, and propose enhancements to our original model. Based on our evaluation of those contributions, we propose minor refinements to the model and propose an updated DeLone and McLean IS Success Model. We discuss the utility of the updated model for measuring e-commerce system success. Finally, we make a series of recommendations regarding current and future measurement of IS success.
+
+TLDR: This paper discusses many of the important IS success research contributions of the last decade, focusing especially on research efforts that apply, validate, challenge, and propose enhancements to the original model.
+
+Fields of Study: ['Computer Science']
+
+Authors: William H. DeLone, E. McLean
+

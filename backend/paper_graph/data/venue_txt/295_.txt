@@ -1,0 +1,12 @@
+corpus id: 13091446, 
+
+Title: Multidimensional binary search trees used for associative searching
+
+Abstract: This paper develops the multidimensional binary search tree (or <italic>k</italic>-d tree, where <italic>k</italic> is the dimensionality of the search space) as a data structure for storage of information to be retrieved by associative searches. The <italic>k</italic>-d tree is defined and examples are given. It is shown to be quite efficient in its storage requirements. A significant advantage of this structure is that a single data structure can handle many types of queries very efficiently. Various utility algorithms are developed; their proven average running times in an <italic>n</italic> record file are: insertion, <italic>O</italic>(log <italic>n</italic>); deletion of the root, <italic>O</italic>(<italic>n</italic><supscrpt>(<italic>k</italic>-1)/<italic>k</italic></supscrpt>); deletion of a random node, <italic>O</italic>(log <italic>n</italic>); and optimization (guarantees logarithmic performance of searches), <italic>O</italic>(<italic>n</italic> log <italic>n</italic>). Search algorithms are given for partial match queries with <italic>t</italic> keys specified [proven maximum running time of <italic>O</italic>(<italic>n</italic><supscrpt>(<italic>k</italic>-<italic>t</italic>)/<italic>k</italic></supscrpt>)] and for nearest neighbor queries [empirically observed average running time of <italic>O</italic>(log <italic>n</italic>).] These performances far surpass the best currently known algorithms for these tasks. An algorithm is presented to handle any general intersection query. The main focus of this paper is theoretical. It is felt, however, that <italic>k</italic>-d trees could be quite useful in many applications, and examples of potential uses are given.
+
+TLDR: The multidimensional binary search tree (or <italic>k-d tree) as a data structure for storage of information to be retrieved by associative searches is developed and it is shown to be quite efficient in its storage requirements.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: J. Bentley
+

@@ -1,0 +1,12 @@
+corpus id: 36822830, 
+
+Title: Qualitative data analysis
+
+Abstract: Good qualitative research uses a systematic and rigorous approach that aims to answer questions concerned with what something is like (such as a patient experience), what people think or feel about something that has happened, and it may address why something has happened as it has. Qualitative data often takes the form of words or text and can include images.Qualitative research covers a very broad range of philosophical underpinnings and methodological approaches. Each has its own particular way of approaching all stages of the research process, including analysis, and has its own terms and techniques, but there are some common threads that run across most of these approaches. This Research Made Simple piece will focus on some of these common threads in the analysis of qualitative research.So you have collected all your qualitative data – you may have a pile of interview transcripts, field-notes, documents and …
+
+TLDR: There are some common threads that run across most of these common threads in the analysis of qualitative research, and this Research Made Simple piece will focus on some of them.
+
+Fields of Study: ['Medicine']
+
+Authors: K. Seers
+

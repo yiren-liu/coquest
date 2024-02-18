@@ -1,0 +1,12 @@
+corpus id: 62586095, 
+
+Title: The Sciences of the Artificial
+
+Abstract: Continuing his exploration of the organization of complexity and the science of design, this new edition of Herbert Simon's classic work on artificial intelligence adds a chapter that sorts out the current themes and tools -- chaos, adaptive systems, genetic algorithms -- for analyzing complexity and complex systems. There are updates throughout the book as well. These take into account important advances in cognitive psychology and the science of design while confirming and extending the book's basic thesis: that a physical symbol system has the necessary and sufficient means for intelligent action. The chapter "Economic Reality" has also been revised to reflect a change in emphasis in Simon's thinking about the respective roles of organizations and markets in economic systems.
+
+TLDR: 
+
+Fields of Study: ['Engineering', 'Computer Science', 'Psychology']
+
+Authors: H. Simon
+

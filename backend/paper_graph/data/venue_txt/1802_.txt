@@ -1,0 +1,12 @@
+corpus id: 511441, 
+
+Title: World Health Organization
+
+Abstract: The tenth Assembly of the World Health Organization (WHO), held in Geneva from May 7 to 24, 1957, was attended by the delegates of 79 member and associate member states. After unanimously electing Dr. S. Al-Wahbi (Iraq) president, the Assembly adopted the report of the Committee on Credentials by 58 votes to o with 5 abstentions.
+
+TLDR: The data and methods used to produce the Version 2 estimates of burden of hypertensive disorders of pregnancy for the year 2000 are summarized and the long-term sequelae of both preeclampsia or eClampsia are not well evaluated.
+
+Fields of Study: ['Medicine']
+
+Authors: C. Dolea, C. AbouZahr
+

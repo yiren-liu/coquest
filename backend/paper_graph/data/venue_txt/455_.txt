@@ -1,0 +1,12 @@
+corpus id: 42979791, 
+
+Title: Bayesian Networks and Decision Graphs
+
+Abstract: None
+
+TLDR: The book introduces probabilistic graphical models and decision graphs, including Bayesian networks and influence diagrams, and presents a thorough introduction to state-of-the-art solution and analysis algorithms.
+
+Fields of Study: ['Computer Science']
+
+Authors: F. V. Jensen
+

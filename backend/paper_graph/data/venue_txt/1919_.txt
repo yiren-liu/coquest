@@ -1,0 +1,12 @@
+corpus id: 144898351, 
+
+Title: Assessing the unidimensionality of measurement : a paradigm and illustration within the context of information systems research
+
+Abstract: None
+
+TLDR: A paradigm for developing unidimensional scales is offered as a means of formally defining unidimensionality, distinguishing the concept from traditional reliability-based metrics, and describing a structured technique for empirically testing its existence.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. H. Segars
+

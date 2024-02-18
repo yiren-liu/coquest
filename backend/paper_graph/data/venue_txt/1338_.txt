@@ -1,0 +1,12 @@
+corpus id: 15512284, 
+
+Title: An Introduction to Latent Semantic Analysis
+
+Abstract: The Latent Semantic Analysis model (Landauer & Dumais, 1997) is a theory for how meaning representations might be learned from encountering large samples of language without explicit directions as to how it is structured. To do this, LSA makes two assumptions about how the meaning of linguistic expressions is present in the distributional patterns of simple expressions (e.g words) within more complex expressions (e.g. sentences and paragraphs) viewed across many samples of language.
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: Patrick F. Reidy
+

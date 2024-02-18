@@ -1,0 +1,12 @@
+corpus id: 18043691, 
+
+Title: Optimization of perturb and observe maximum power point tracking method
+
+Abstract: Maximum power point tracking (MPPT) techniques are used in photovoltaic (PV) systems to maximize the PV array output power by tracking continuously the maximum power point (MPP) which depends on panels temperature and on irradiance conditions. The issue of MPPT has been addressed in different ways in the literature but, especially for low-cost implementations, the perturb and observe (P&O) maximum power point tracking algorithm is the most commonly used method due to its ease of implementation. A drawback of P&O is that, at steady state, the operating point oscillates around the MPP giving rise to the waste of some amount of available energy; moreover, it is well known that the P&O algorithm can be confused during those time intervals characterized by rapidly changing atmospheric conditions. In this paper it is shown that, in order to limit the negative effects associated to the above drawbacks, the P&O MPPT parameters must be customized to the dynamic behavior of the specific converter adopted. A theoretical analysis allowing the optimal choice of such parameters is also carried out. Results of experimental measurements are in agreement with the predictions of theoretical analysis.
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: N. Femia, G. Petrone, G. Spagnuolo, M. Vitelli
+

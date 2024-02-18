@@ -1,0 +1,12 @@
+corpus id: 1236081, 
+
+Title: Building Natural-Language Generation Systems
+
+Abstract: Figures Preface 1. Introduction 2. National Language Generation in practice 3. The architecture of a Natural Language Generation system 4. Document planning 5. Microplanning 6. Surface realisation 7. Beyond text generation Appendix References Index.
+
+TLDR: The architecture of a Natural Language Generation system and its implications for national language generation in practice are described.
+
+Fields of Study: ['Computer Science']
+
+Authors: Ehud Reiter
+

@@ -1,0 +1,12 @@
+corpus id: 10908715, 
+
+Title: Optimizing Spatial filters for Robust EEG Single-Trial Analysis
+
+Abstract: Due to the volume conduction multichannel electroencephalogram (EEG) recordings give a rather blurred image of brain activity. Therefore spatial filters are extremely useful in single-trial analysis in order to improve the signal-to-noise ratio. There are powerful methods from machine learning and signal processing that permit the optimization of spatio-temporal filters for each subject in a data dependent fashion beyond the fixed filters based on the sensor geometry, e.g., Laplacians. Here we elucidate the theoretical background of the common spatial pattern (CSP) algorithm, a popular method in brain-computer interface (BCD research. Apart from reviewing several variants of the basic algorithm, we reveal tricks of the trade for achieving a powerful CSP performance, briefly elaborate on theoretical aspects of CSP, and demonstrate the application of CSP-type preprocessing in our studies of the Berlin BCI (BBCI) project.
+
+TLDR: The theoretical background of the common spatial pattern (CSP) algorithm, a popular method in brain-computer interface (BCD research), is elucidated and tricks of the trade for achieving a powerful CSP performance are revealed.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Blankertz, Ryota Tomioka, S. Lemm, M. Kawanabe, K.-R. Muller
+

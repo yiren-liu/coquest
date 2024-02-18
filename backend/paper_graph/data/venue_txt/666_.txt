@@ -1,0 +1,12 @@
+corpus id: 3015502, 
+
+Title: Eye movements in reading and information processing: 20 years of research.
+
+Abstract: Recent studies of eye movements in reading and other information processing tasks, such as music reading, typing, visual search, and scene perception, are reviewed. The major emphasis of the review is on reading as a specific example of cognitive processing. Basic topics discussed with respect to reading are (a) the characteristics of eye movements, (b) the perceptual span, (c) integration of information across saccades, (d) eye movement control, and (e) individual differences (including dyslexia). Similar topics are discussed with respect to the other tasks examined. The basic theme of the review is that eye movement data reflect moment-to-moment cognitive processes in the various tasks examined. Theoretical and practical considerations concerning the use of eye movement data are also discussed.
+
+TLDR: The basic theme of the review is that eye movement data reflect moment-to-moment cognitive processes in the various tasks examined.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: K. Rayner
+

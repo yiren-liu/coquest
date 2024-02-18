@@ -1,0 +1,12 @@
+corpus id: 5674100, 
+
+Title: A General Inductive Approach for Analyzing Qualitative Evaluation Data
+
+Abstract: A general inductive approach for analysis of qualitative evaluation data is described. The purposes for using an inductive approach are to (a) condense raw textual data into a brief, summary format; (b) establish clear links between the evaluation or research objectives and the summary findings derived from the raw data; and (c) develop a framework of the underlying structure of experiences or processes that are evident in the raw data. The general inductive approach provides an easily used and systematic set of procedures for analyzing qualitative data that can produce reliable and valid findings. Although the general inductive approach is not as strong as some other analytic strategies for theory or model development, it does provide a simple, straightforward approach for deriving findings in the context of focused evaluation questions. Many evaluators are likely to find using a general inductive approach less complicated than using other approaches to qualitative data analysis.
+
+TLDR: Although the general inductive approach is not as strong as some other analytic strategies for theory or model development, it does provide a simple, straightforward approach for deriving findings in the context of focused evaluation questions.
+
+Fields of Study: ['Computer Science']
+
+Authors: David R. Thomas
+

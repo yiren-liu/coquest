@@ -1,0 +1,12 @@
+corpus id: 3970, 
+
+Title: Hybrid Recommender Systems: Survey and Experiments
+
+Abstract: None
+
+TLDR: This paper surveys the landscape of actual and possible hybrid recommenders, and introduces a novel hybrid, EntreeC, a system that combines knowledge-based recommendation and collaborative filtering to recommend restaurants, and shows that semantic ratings obtained from the knowledge- based part of the system enhance the effectiveness of collaborative filtering.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Burke
+

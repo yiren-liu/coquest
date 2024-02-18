@@ -1,0 +1,12 @@
+corpus id: 141667614, 
+
+Title: Nudge: Improving Decisions About Health, Wealth, and Happiness
+
+Abstract: A groundbreaking discussion of how we can apply the new science of choice architecture to nudge people toward decisions that will improve their lives by making them healthier, wealthier, and more free Every day, we make decisions on topics ranging from personal investments to schools for our children to the meals we eat to the causes we champion. Unfortunately, we often choose poorly. Nobel laureate Richard Thaler and legal scholar and bestselling author Cass Sunstein explain in this important exploration of choice architecture that, being human, we all are susceptible to various biases that can lead us to blunder. Our mistakes make us poorer and less healthy; we often make bad decisions involving education, personal finance, health care, mortgages and credit cards, the family, and even the planet itself. In Nudge, Thaler and Sunstein invite us to enter an alternative world, one that takes our humanness as a given. They show that by knowing how people think, we can design choice environments that make it easier for people to choose what is best for themselves, their families, and their society. Using colorful examples from the most important aspects of life, Thaler and Sunstein demonstrate how thoughtful "choice architecture" can be established to nudge us in beneficial directions without restricting freedom of choice. Nudge offers a unique new take-from neither the left nor the right-on many hot-button issues, for individuals and governments alike. This is one of the most engaging and provocative books to come along in many years.
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Economics']
+
+Authors: R. Thaler, C. Sunstein
+

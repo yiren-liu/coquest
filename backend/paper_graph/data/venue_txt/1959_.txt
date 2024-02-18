@@ -1,0 +1,12 @@
+corpus id: 23321842, 
+
+Title: I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience
+
+Abstract: Social media technologies collapse multiple audiences into single contexts, making it difficult for people to use the same techniques online that they do to handle multiplicity in face-to-face conversation. This article investigates how content producers navigate ‘imagined audiences’ on Twitter. We talked with participants who have different types of followings to understand their techniques, including targeting different audiences, concealing subjects, and maintaining authenticity. Some techniques of audience management resemble the practices of ‘micro-celebrity’ and personal branding, both strategic self-commodification. Our model of the networked audience assumes a many-to-many communication through which individuals conceptualize an imagined audience evoked through their tweets.
+
+TLDR: This article investigates how content producers navigate ‘imagined audiences’ on Twitter, talking with participants who have different types of followings to understand their techniques, including targeting different audiences, concealing subjects, and maintaining authenticity.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: Alice E. Marwick, D. Boyd
+

@@ -1,0 +1,12 @@
+corpus id: 196085537, 
+
+Title: Linguistic Inquiry and Word Count (LIWC2007)
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Pennebaker, R. Booth, Martha E. Francis
+

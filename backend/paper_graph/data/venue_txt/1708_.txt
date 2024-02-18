@@ -1,0 +1,12 @@
+corpus id: 22609505, 
+
+Title: Global and regional burden of disease and risk factors, 2001: systematic analysis of population health data
+
+Abstract: None
+
+TLDR: Despite uncertainties about mortality and burden of disease estimates, the findings suggest that substantial gains in health have been achieved in most populations, countered by the HIV/AIDS epidemic in Sub-Saharan Africa and setbacks in adult mortality in countries of the former Soviet Union.
+
+Fields of Study: ['Medicine']
+
+Authors: Alan D. Lopez, C. Mathers, M. Ezzati, D. Jamison, C. Murray
+

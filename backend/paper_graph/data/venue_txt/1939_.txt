@@ -1,0 +1,12 @@
+corpus id: 265223, 
+
+Title: The media equation - how people treat computers, television, and new media like real people and places
+
+Abstract: Part I. Introduction: 1. The media equation Part II. Media and Manners: 2. Politeness 3. Interpersonal distance 4. Flattery 5. Judging others and ourselves Part III. Media and Personality: 6. Personality of characters 7. Personality of interfaces 8. Imitating a personality Part IV. Media and emotion: 9. Good versus bad 10. Negativity 11. Arousal Part V. Media and Social Roles: 12. Specialists 13. Teammates 14. Gender 15. Voices 16. Source orientation Part VI. Media and Form: 17. Image size 18. Fidelity 19. Synchrony 20. Motion 21. Scene changes 22. Subliminal images Part VII. Final Words: 23. Conclusions about the media equation References.
+
+TLDR: This chapter discusses the media equation, which describes the role media and personality play in the development of a person's identity and aims at clarifying these roles.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Byron Reeves, C. Nass
+

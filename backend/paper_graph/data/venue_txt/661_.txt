@@ -1,0 +1,12 @@
+corpus id: 39060506, 
+
+Title: On the Rate of Gain of Information
+
+Abstract: The analytical methods of information theory are applied to the data obtained in certain choice-reaction-time experiments. Two types of experiment were performed: (a) a conventional choice-reaction experiment, with various numbers of alternatives up to ten, and with a negligible proportion of errors, and (b) a ten-choice experiment in which the subjects deliberately reduced their reaction time by allowing themselves various proportions of errors. The principal finding is that the rate of gain of information is, on the average, constant with respect to time, within the duration of one perceptual-motor act, and has a value of the order of five “bits” per second. The distribution of reaction times among the ten stimuli in the second experiment is shown to be related to the objective uncertainty as to which response will be given to each stimulus. The distribution of reaction times among the responses is also related to the same uncertainty. This is further evidence that information is intimately concerned with reaction time. Some possible conceptual models of the process are considered, but tests against the data are inconclusive.
+
+TLDR: The principal finding is that the rate of gain of information is, on the average, constant with respect to time, within the duration of one perceptual-motor act, and has a value of the order of five “bits” per second.
+
+Fields of Study: ['Computer Science']
+
+Authors: W. E. Hick
+

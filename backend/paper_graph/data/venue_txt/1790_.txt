@@ -1,0 +1,12 @@
+corpus id: 13380874, 
+
+Title: Statecharts: A Visual Formalism for Complex Systems
+
+Abstract: None
+
+TLDR: It is intended to demonstrate here that statecharts counter many of the objections raised against conventional state diagrams, and thus appear to render specification by diagrams an attractive and plausible approach.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Harel
+

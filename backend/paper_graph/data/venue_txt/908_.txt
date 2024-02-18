@@ -1,0 +1,12 @@
+corpus id: 3345006, 
+
+Title: Deformable Model Fitting by Regularized Landmark Mean-Shift
+
+Abstract: None
+
+TLDR: This work proposes a principled optimization strategy where nonparametric representations of these likelihoods are maximized within a hierarchy of smoothed estimates and is shown to outperform some common existing methods on the task of generic face fitting.
+
+Fields of Study: ['Computer Science']
+
+Authors: Jason M. Saragih, S. Lucey, J. Cohn
+

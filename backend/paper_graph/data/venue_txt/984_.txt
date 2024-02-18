@@ -1,0 +1,12 @@
+corpus id: 19016767, 
+
+Title: The Search-Transfer Problem: The Role of Weak Ties in Sharing Knowledge across Organization Subunits
+
+Abstract: This paper combines the concept of weak ties from social network research and the notion of complex knowledge to explain the role of weak ties in sharing knowledge across organization subunits in a multiunit organization. I use a network study of 120 new-product development projects undertaken by 41 divisions in a large electronics company to examine the task of developing new products in the least amount of time. Findings show that weak interunit ties help a project team search for useful knowledge in other subunits but impede the transfer of complex knowledge, which tends to require a strong tie between the two parties to a transfer. Having weak interunit ties speeds up projects when knowledge is not complex but slows them down when the knowledge to be transferred is highly complex. I discuss the implications of these findings for research on social networks and product innovation.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: M. Hansen
+

@@ -1,0 +1,12 @@
+corpus id: 53793951, 
+
+Title: Restructuring the Classroom: Conditions for Productive Small Groups
+
+Abstract: Moving beyond the general question of effectiveness of small group learning, this conceptual review proposes conditions under which the use of small groups in classrooms can be productive. Included in the review is recent research that manipulates various features of cooperative learning as well as studies of the relationship of interaction in small groups to outcomes. The analysis develops propositions concerning the kinds of discourse that are productive of different types of learning as well as propositions concerning how desirable kinds of interaction may be fostered. Whereas limited exchange of information and explanation are adequate for routine learning in collaborative seatwork, more open exchange and elaborated discussion are necessary for conceptual learning with group tasks and ill-structured problems. Moreover, task instructions, student preparation, and the nature of the teacher role that are eminently suitable for supporting interaction in more routine learning tasks may result in unduly constraining the discussion in less structured tasks where the objective is conceptual learning. The research reviewed also suggests that it is necessary to treat problems of status within small groups engaged in group tasks with ill-structured problems. With a focus on task and interaction, the analysis attempts to move away from the debates about intrinsic and extrinsic rewards and goal and resource interdependence that have characterized research in cooperative learning.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. Cohen
+

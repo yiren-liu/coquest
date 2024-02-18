@@ -1,0 +1,12 @@
+corpus id: 12365014, 
+
+Title: Learning realistic human actions from movies
+
+Abstract: The aim of this paper is to address recognition of natural human actions in diverse and realistic video settings. This challenging but important subject has mostly been ignored in the past due to several problems one of which is the lack of realistic and annotated video datasets. Our first contribution is to address this limitation and to investigate the use of movie scripts for automatic annotation of human actions in videos. We evaluate alternative methods for action retrieval from scripts and show benefits of a text-based classifier. Using the retrieved action samples for visual learning, we next turn to the problem of action classification in video. We present a new method for video classification that builds upon and extends several recent ideas including local space-time features, space-time pyramids and multi-channel non-linear SVMs. The method is shown to improve state-of-the-art results on the standard KTH action dataset by achieving 91.8% accuracy. Given the inherent problem of noisy labels in automatic annotation, we particularly investigate and show high tolerance of our method to annotation errors in the training set. We finally apply the method to learning and classifying challenging action classes in movies and show promising results.
+
+TLDR: A new method for video classification that builds upon and extends several recent ideas including local space-time features,space-time pyramids and multi-channel non-linear SVMs is presented and shown to improve state-of-the-art results on the standard KTH action dataset.
+
+Fields of Study: ['Computer Science']
+
+Authors: I. Laptev, Marcin Marszalek, C. Schmid, Benjamin Rozenfeld
+

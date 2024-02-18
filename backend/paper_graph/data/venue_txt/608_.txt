@@ -1,0 +1,12 @@
+corpus id: 122676277, 
+
+Title: The Visual Display of Quantitative Information
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Physics']
+
+Authors: B. Marx
+

@@ -1,0 +1,12 @@
+corpus id: 11060174, 
+
+Title: Searching for the structure of coping: a review and critique of category systems for classifying ways of coping.
+
+Abstract: From analyzing 100 assessments of coping, the authors critiqued strategies and identified best practices for constructing category systems. From current systems, a list of 400 ways of coping was compiled. For constructing lower order categories, the authors concluded that confirmatory factor analysis should replace the 2 most common strategies (exploratory factor analysis and rational sorting). For higher order categories, they recommend that the 3 most common distinctions (problem- vs. emotion-focused, approach vs. avoidance, and cognitive vs. behavioral) no longer be used. Instead, the authors recommend hierarchical systems of action types (e.g., proximity seeking, accommodation). From analysis of 6 such systems, 13 potential core families of coping were identified. Future steps involve deciding how to organize these families, using their functional homogeneity and distinctiveness, and especially their links to adaptive processes.
+
+TLDR: The authors concluded that confirmatory factor analysis should replace the 2 most common strategies and recommend hierarchical systems of action types (e.g., proximity seeking, accommodation) for constructing category systems.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: E. Skinner, Kathleen Edge, J. Altman, Hayley Sherwood
+

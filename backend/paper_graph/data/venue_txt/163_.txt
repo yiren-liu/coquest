@@ -1,0 +1,12 @@
+corpus id: 45457328, 
+
+Title: An Extended Privacy Calculus Model for E-Commerce Transactions
+
+Abstract: While privacy is a highly cherished value, few would argue with the notion that absolute privacy is unattainable. Individuals make choices in which they surrender a certain degree of privacy in exchange for outcomes that are perceived to be worth the risk of information disclosure. This research attempts to better understand the delicate balance between privacy risk beliefs and confidence and enticement beliefs that influence the intention to provide personal information necessary to conduct transactions on the Internet. A theoretical model that incorporated contrary factors representing elements of a privacy calculus was tested using data gathered from 369 respondents. Structural equations modeling (SEM) using LISREL validated the instrument and the proposed model. The results suggest that although Internet privacy concerns inhibit e-commerce transactions, the cumulative influence of Internet trust and personal Internet interest are important factors that can outweigh privacy risk perceptions in the decision to disclose personal information when an individual uses the Internet. These findings provide empirical support for an extended privacy calculus model.
+
+TLDR: Although Internet privacy concerns inhibit e-commerce transactions, the cumulative influence of Internet trust and personal Internet interest are important factors that can outweigh privacy risk perceptions in the decision to disclose personal information when an individual uses the Internet.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tamara Dinev, Paul J. Hart
+

@@ -1,0 +1,12 @@
+corpus id: 29843973, 
+
+Title: An Empirical Evaluation of the System Usability Scale
+
+Abstract: This article presents nearly 10 year's worth of System Usability Scale (SUS) data collected on numerous products in all phases of the development lifecycle. The SUS, developed by Brooke (1996), reflected a strong need in the usability community for a tool that could quickly and easily collect a user's subjective rating of a product's usability. The data in this study indicate that the SUS fulfills that need. Results from the analysis of this large number of SUS scores show that the SUS is a highly robust and versatile tool for usability professionals. The article presents these results and discusses their implications, describes nontraditional uses of the SUS, explains a proposed modification to the SUS to provide an adjective rating that correlates with a given score, and provides details of what constitutes an acceptable SUS score.
+
+TLDR: Results from the analysis of this large number of SUS scores show that the SUS is a highly robust and versatile tool for usability professionals.
+
+Fields of Study: ['Computer Science']
+
+Authors: Aaron Bangor, P. Kortum, James T. Miller
+

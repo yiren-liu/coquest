@@ -1,0 +1,12 @@
+corpus id: 15326934, 
+
+Title: A threshold selection method from gray level histograms
+
+Abstract: A nonparametric and unsupervised method ofautomatic threshold selection for picture segmentation is presented. An optimal threshold is selected by the discriminant criterion, namely, so as to maximize the separability of the resultant classes in gray levels. The procedure is very simple, utilizing only the zerothand the first-order cumulative moments of the gray-level histogram. It is straightforward to extend the method to multithreshold problems. Several experimental results are also presented to support the validity of the method.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: N. Otsu
+

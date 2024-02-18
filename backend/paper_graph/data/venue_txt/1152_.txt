@@ -1,0 +1,12 @@
+corpus id: 53917384, 
+
+Title: Vision: A computational investigation into the human representation
+
+Abstract: An additive composition which can be adapted into conventional automatic dishwasher detergents for reducing foam during use thereof, comprising:
+
+TLDR: 
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: D. Marr
+

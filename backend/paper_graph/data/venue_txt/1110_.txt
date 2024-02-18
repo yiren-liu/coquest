@@ -1,0 +1,12 @@
+corpus id: 178327, 
+
+Title: [The European commission].
+
+Abstract: 2 1 The innovative transport systems and the CityMobil project 10 1.1 The research questions 10 2 The state of art in the field of automatic transport systems 12 2.1 Case studies and demand studies for innovative transport systems 12 3 The design and implementation of surveys 14 3.1 Definition of experimental design 14 3.2 Questionnaire design and delivery 16 3.3 First analyses on the collected sample 18 4 Calibration of Logit Multionomial demand models 21 4.1 Methodology 21 4.2 Calibration of the “full” model. 22 4.3 Calibration of the “final” model 24 4.4 The demand analysis through the final Multinomial Logit model 25 5 The analysis of interaction between the demand and socioeconomic attributes 31 5.1 Methodology 31 5.2 Application of Mixed Logit models to the demand 31 5.3 Analysis of the interactions between demand and socioeconomic attributes through Mixed Logit models 32 5.4 Mixed Logit model and interaction between age and the demand for the CTS 38 5.5 Demand analysis with Mixed Logit model 39 6 Final analyses and conclusions 45 6.1 Comparison between the results of the analyses 45 6.2 Conclusions 48 6.3 Answers to the research questions and future developments 52
+
+TLDR: This research examines the interaction between demand and socioeconomic attributes through Mixed Logit models and the state of art in the field of automatic transport systems in the CityMobil project.
+
+Fields of Study: ['Political Science', 'Medicine']
+
+Authors: W. Titkemeyer
+

@@ -1,0 +1,12 @@
+corpus id: 5719830, 
+
+Title: Activity theory as a potential framework for human-computer interaction research
+
+Abstract: During the recent years the mainstream framework for HCI research — the informationprocessing cognitive psychology —has gained more and more criticism because of serious problems in applying it both in research and practical design. In a debate within HCI research the capability of information processing psychology has been questioned and new theoretical frameworks searched. This paper presents an overview of the situation and discusses potentials of Activity Theory as an alternative framework for HCI research and design.
+
+TLDR: An overview of the situation is presented and potentials of Activity Theory as an alternative framework for HCI research and design are discussed.
+
+Fields of Study: ['Psychology']
+
+Authors: K. Kuutti
+

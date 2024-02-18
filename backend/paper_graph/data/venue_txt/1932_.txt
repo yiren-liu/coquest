@@ -1,0 +1,12 @@
+corpus id: 9901844, 
+
+Title: Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks
+
+Abstract: Many real-world sequence learning tasks require the prediction of sequences of labels from noisy, unsegmented input data. In speech recognition, for example, an acoustic signal is transcribed into words or sub-word units. Recurrent neural networks (RNNs) are powerful sequence learners that would seem well suited to such tasks. However, because they require pre-segmented training data, and post-processing to transform their outputs into label sequences, their applicability has so far been limited. This paper presents a novel method for training RNNs to label unsegmented sequences directly, thereby solving both problems. An experiment on the TIMIT speech corpus demonstrates its advantages over both a baseline HMM and a hybrid HMM-RNN.
+
+TLDR: This paper presents a novel method for training RNNs to label unsegmented sequences directly, thereby solving both problems of sequence learning and post-processing.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Graves, Santiago Fernández, F. Gomez, J. Schmidhuber
+

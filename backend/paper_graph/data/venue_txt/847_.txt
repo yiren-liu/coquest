@@ -1,0 +1,12 @@
+corpus id: 134248, 
+
+Title: Transformation-Based Error-Driven Learning and Natural Language Processing: A Case Study in Part-of-Speech Tagging
+
+Abstract: A method of injection molding wherein a pair of separable mold plates are initially urged together and fluid plastic is injected into a mold cavity formed between the mold plates to form an article. The injection pressure of the fluid plastic is utilized to generate forces sufficient to overcome the internal forces urging the mold plates apart and thus hold the mold plates together until the material being molded solidifies either by cooling, chemical reaction or phase change.
+
+TLDR: Injection molding wherein a pair of separable mold plates are initially urged together and fluid plastic is injected into a mold cavity formed between the mold plates to form an article.
+
+Fields of Study: ['Computer Science', 'Materials Science']
+
+Authors: E. Brill
+

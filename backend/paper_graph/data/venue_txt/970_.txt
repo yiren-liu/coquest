@@ -1,0 +1,12 @@
+corpus id: 14955158, 
+
+Title: Structural optimization using sensitivity analysis and a level-set method
+
+Abstract: None
+
+TLDR: A new numerical method based on a combination of the classical shape derivative and of the level-set method for front propagation, which can easily handle topology changes and is strongly dependent on the initial guess.
+
+Fields of Study: ['Mathematics']
+
+Authors: G. Allaire, F. Jouve, Anca-Maria Toader
+

@@ -1,0 +1,12 @@
+corpus id: 8489016, 
+
+Title: Work group diversity and group performance: an integrative model and research agenda.
+
+Abstract: Research on the relationship between work group diversity and performance has yielded inconsistent results. To address this problem, the authors propose the categorization-elaboration model (CEM), which reconceptualizes and integrates information/decision making and social categorization perspectives on work-group diversity and performance. The CEM incorporates mediator and moderator variables that typically have been ignored in diversity research and incorporates the view that information/decision making and social categorization processes interact such that intergroup biases flowing from social categorization disrupt the elaboration (in-depth processing) of task-relevant information and perspectives. In addition, the authors propose that attempts to link the positive and negative effects of diversity to specific types of diversity should be abandoned in favor of the assumption that all dimensions of diversity may have positive as well as negative effects. The ways in which these propositions may set the agenda for future research in diversity are discussed.
+
+TLDR: The categorization-elaboration model (CEM), which reconceptualizes and integrates information/decision making and social categorization perspectives on work-group diversity and performance, is proposed, which incorporates mediator and moderator variables that typically have been ignored in diversity research.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. van Knippenberg, C. D. De Dreu, A. Homan
+

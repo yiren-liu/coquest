@@ -1,0 +1,12 @@
+corpus id: 15000608, 
+
+Title: Logistic Regression in Rare Events Data
+
+Abstract: We study rare events data, binary dependent variables with dozens to thousands of times fewer ones (events, such as wars, vetoes, cases of political activism, or epidemiological infections) than zeros (“nonevents”). In many literatures, these variables have proven difficult to explain and predict, a problem that seems to have at least two sources. First, popular statistical procedures, such as logistic regression, can sharply underestimate the probability of rare events. We recommend corrections that outperform existing methods and change the estimates of absolute and relative risks by as much as some estimated effects reported in the literature. Second, commonly used data collection strategies are grossly inefficient for rare events data. The fear of collecting data with too few events has led to data collections with huge numbers of observations but relatively few, and poorly measured, explanatory variables, such as in international conflict data with more than a quarter-million dyads, only a few of which are at war. As it turns out, more efficient sampling designs exist for making valid inferences, such as sampling all available events (e.g., wars) and a tiny fraction of nonevents (peace). This enables scholars to save as much as 99% of their (nonfixed) data collection costs or to collect much more meaningful explanatory variables. We provide methods that link these two results, enabling both types of corrections to work simultaneously, and software that implements the methods developed.
+
+TLDR: It is shown that more efficient sampling designs exist for making valid inferences, such as sampling all available events and a tiny fraction of nonevents, which enables scholars to save as much as 99% of their (nonfixed) data collection costs or to collect much more meaningful explanatory variables.
+
+Fields of Study: ['Computer Science']
+
+Authors: Gary King, Langche Zeng
+

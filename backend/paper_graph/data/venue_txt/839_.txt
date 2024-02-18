@@ -1,0 +1,12 @@
+corpus id: 64535210, 
+
+Title: Discovering statistics using SPSS, 2nd ed.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Field
+

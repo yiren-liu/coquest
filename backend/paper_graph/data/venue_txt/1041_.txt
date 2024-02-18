@@ -1,0 +1,12 @@
+corpus id: 18059835, 
+
+Title: Visual fixation patterns during viewing of naturalistic social situations as predictors of social competence in individuals with autism.
+
+Abstract: BACKGROUNDManifestations of core social deficits in autism are more pronounced in everyday settings than in explicit experimental tasks. To bring experimental measures in line with clinical observation, we report a novel method of quantifying atypical strategies of social monitoring in a setting that simulates the demands of daily experience. Enhanced ecological validity was intended to maximize between-group effect sizes and assess the predictive utility of experimental variables relative to outcome measures of social competence.METHODSWhile viewing social scenes, eye-tracking technology measured visual fixations in 15 cognitively able males with autism and 15 age-, sex-, and verbal IQ-matched control subjects. We reliably coded fixations on 4 regions: mouth, eyes, body, and objects. Statistical analyses compared fixation time on regions of interest between groups and correlation of fixation time with outcome measures of social competence (ie, standardized measures of daily social adjustment and degree of autistic social symptoms).RESULTSSignificant between-group differences were obtained for all 4 regions. The best predictor of autism was reduced eye region fixation time. Fixation on mouths and objects was significantly correlated with social functioning: increased focus on mouths predicted improved social adjustment and less autistic social impairment, whereas more time on objects predicted the opposite relationship.CONCLUSIONSWhen viewing naturalistic social situations, individuals with autism demonstrate abnormal patterns of social visual pursuit consistent with reduced salience of eyes and increased salience of mouths, bodies, and objects. Fixation times on mouths and objects but not on eyes are strong predictors of degree of social competence.
+
+TLDR: A novel method of quantifying atypical strategies of social monitoring in a setting that simulates the demands of daily experience is reported, finding that fixation times on mouths and objects but not on eyes are strong predictors of degree of social competence.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: A. Klin, W. Jones, R. Schultz, F. Volkmar, D. Cohen
+

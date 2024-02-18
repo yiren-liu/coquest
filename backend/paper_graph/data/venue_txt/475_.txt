@@ -1,0 +1,12 @@
+corpus id: 17606780, 
+
+Title: The benefits of being present: mindfulness and its role in psychological well-being.
+
+Abstract: Mindfulness is an attribute of consciousness long believed to promote well-being. This research provides a theoretical and empirical examination of the role of mindfulness in psychological well-being. The development and psychometric properties of the dispositional Mindful Attention Awareness Scale (MAAS) are described. Correlational, quasi-experimental, and laboratory studies then show that the MAAS measures a unique quality of consciousness that is related to a variety of well-being constructs, that differentiates mindfulness practitioners from others, and that is associated with enhanced self-awareness. An experience-sampling study shows that both dispositional and state mindfulness predict self-regulated behavior and positive emotional states. Finally, a clinical intervention study with cancer patients demonstrates that increases in mindfulness over time relate to declines in mood disturbance and stress.
+
+TLDR: Correlational, quasi-experimental, and laboratory studies show that the MAAS measures a unique quality of consciousness that is related to a variety of well-being constructs, that differentiates mindfulness practitioners from others, and that is associated with enhanced self-awareness.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: K. Brown, R. Ryan
+

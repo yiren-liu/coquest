@@ -1,0 +1,12 @@
+corpus id: 143619632, 
+
+Title: The Cultural Relativity of the Quality of Life Concept
+
+Abstract: Research data on dominant work-related values patterns in 53 countries and regions are used to suggest how definitions of the quality of life are affected by national culture patterns.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: G. Hofstede
+

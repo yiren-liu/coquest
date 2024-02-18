@@ -1,0 +1,12 @@
+corpus id: 4561103, 
+
+Title: A head-mounted three dimensional display
+
+Abstract: The fundamental idea behind the three-dimensional display is to present the user with a perspective image which changes as he moves. The retinal image of the real objects which we see is, after all, only two-dimensional. Thus if we can place suitable two-dimensional images on the observer's retinas, we can create the illusion that he is seeing a three-dimensional object. Although stereo presentation is important to the three-dimensional illusion, it is less important than the change that takes place in the image when the observer moves his head. The image presented by the three-dimensional display must change in exactly the way that the image of a real object would change for similar motions of the user's head. Psychologists have long known that moving perspective images appear strikingly three-dimensional even without stereo presentation; the three-dimensional display described in this paper depends heavily on this "kinetic depth effect."
+
+TLDR: The fundamental idea behind the three-dimensional display is to present the user with a perspective image which changes as he moves, and this display depends heavily on this "kinetic depth effect".
+
+Fields of Study: ['Computer Science']
+
+Authors: I. Sutherland
+

@@ -1,0 +1,12 @@
+corpus id: 11215092, 
+
+Title: Development of a measure of workplace deviance.
+
+Abstract: The purpose of this research was to develop broad, theoretically derived measure(s) of deviant behavior in the workplace. Two scales were developed: a 12-item scale of organizational deviance (deviant behaviors directly harmful to the organization) and a 7-item scale of interpersonal deviance (deviant behaviors directly harmful to other individuals within the organization). These scales were found to have internal reliabilities of .81 and .78, respectively. Confirmatory factor analysis verified that a 2-factor structure had acceptable fit. Preliminary evidence of construct validity is also provided. The implications of this instrument for future empirical research on workplace deviance are discussed.
+
+TLDR: A broad, theoretically derived measure(s) of deviant behavior in the workplace found to have internal reliabilities of .81 and .78, respectively and verified that a 2-factor structure had acceptable fit.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: R. Bennett, S. Robinson
+

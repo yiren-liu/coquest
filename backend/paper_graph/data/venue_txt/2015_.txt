@@ -1,0 +1,12 @@
+corpus id: 13456520, 
+
+Title: Some theory for Fisher''s linear discriminant function
+
+Abstract: Introducing small amounts of cobalt, nickel, or iron into a weld joint between members of aluminum and its alloys substantially eliminates weld porosity. These additives may be included in the rod or wire used to provide the weld filler metal.
+
+TLDR: 
+
+Fields of Study: ['Mathematics', 'Materials Science']
+
+Authors: P. Bickel, E. Levina
+

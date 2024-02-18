@@ -1,0 +1,12 @@
+corpus id: 122653824, 
+
+Title: On the evaluation of structural equation models
+
+Abstract: Criteria for evaluating structural equation models with latent variables are defined, critiqued, and illustrated. An overall program for model evaluation is proposed based upon an interpretation of converging and diverging evidence. Model assessment is considered to be a complex process mixing statistical criteria with philosophical, historical, and theoretical elements. Inevitably the process entails some attempt at a reconcilation between so-called objective and subjective norms.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: R. Bagozzi, Youjae Yi
+

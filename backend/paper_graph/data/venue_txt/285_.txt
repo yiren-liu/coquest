@@ -1,0 +1,12 @@
+corpus id: 45674922, 
+
+Title: Behavioral Intention Formation in Knowledge Sharing: Examining the Roles of Extrinsic Motivators, Social-Psychological Factors, and Organizational Climate
+
+Abstract: Individuals' knowledge does not transform easily into organizational knowledge even with the implementation of knowledge repositories. Rather, individuals tend to hoard knowledge for various reasons. The aim of this study is to develop an integrative understanding of the factors supporting or inhibiting individuals' knowledge-sharing intentions. We employ as our theoretical framework the theory of reasoned action (TRA), and augment it with extrinsic motivators, social-psychological forces and organizational climate factors that are believed to influence individuals' knowledge- sharing intentions.  Through a field survey of 154 managers from 27 Korean organizations, we confirm our hypothesis that attitudes toward and subjective norms with regard to knowledge sharing as well as organizational climate affect individuals' intentions to share knowledge. Additionally, we find that anticipated reciprocal relationships affect individuals' attitudes toward knowledge sharing while both sense of self-worth and organizational climate affect subjective norms. Contrary to common belief, we find anticipated extrinsic rewards exert a negative effect on individuals' knowledge-sharing attitudes.
+
+TLDR: It is found that anticipated reciprocal relationships affect individuals' attitudes toward knowledge sharing while both sense of self-worth and organizational climate affect subjective norms, and anticipated extrinsic rewards exert a negative effect on individuals' knowledge-sharing attitudes.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: Gee-Woo Bock, R. Zmud, Young-Gul Kim, Jae-Nam Lee
+

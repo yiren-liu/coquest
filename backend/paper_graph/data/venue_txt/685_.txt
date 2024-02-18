@@ -1,0 +1,12 @@
+corpus id: 9747127, 
+
+Title: Where the Action Is - The Foundations of Embodied Interaction
+
+Abstract: Computer science as an engineering discipline has been spectacularly successful. Yet it is also a philosophical enterprise in the way it represents the world and creates and manipulates models of reality, people, and action. In this book, Paul Dourish addresses the philosophical bases of human-computer interaction. He looks at how what he calls "embodied interaction" -- an approach to interacting with software systems that emphasizes skilled, engaged practice rather than disembodied rationality -- reflects the phenomenological approaches of Martin Heidegger, Ludwig Wittgenstein, and other twentieth-century philosophers. The phenomenological tradition emphasizes the primacy of natural practice over abstract cognition in everyday activity. Dourish shows how this perspective can shed light on the foundational underpinnings of current research on embodied interaction. He looks in particular at how tangible and social approaches to interaction are related, how they can be used to analyze and understand embodied interaction, and how they could affect the design of future interactive systems.
+
+TLDR: This book addresses the philosophical bases of human-computer interaction and looks in particular at how tangible and social approaches to interaction are related, how they can be used to analyze and understand embodied interaction, and how they could affect the design of future interactive systems.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: P. Dourish
+

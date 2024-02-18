@@ -1,0 +1,12 @@
+corpus id: 145451571, 
+
+Title: Digital Natives, Digital Immigrants Part 1
+
+Abstract: Part one of this paper highlights how students today think and process information fundamentally differently from their predecessors, as a result of being surrounded by new technology. The author compares these “digital natives” with the older generation who are learning and adopting new technology naming them “digital immigrants”.
+
+TLDR: Part one of this paper highlights how students today think and process information fundamentally differently from their predecessors, as a result of being surrounded by new technology.
+
+Fields of Study: ['Sociology']
+
+Authors: M. Prensky
+

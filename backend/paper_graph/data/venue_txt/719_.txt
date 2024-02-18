@@ -1,0 +1,12 @@
+corpus id: 3719281, 
+
+Title: U-Net: Convolutional Networks for Biomedical Image Segmentation
+
+Abstract: None
+
+TLDR: It is shown that such a network can be trained end-to-end from very few images and outperforms the prior best method (a sliding-window convolutional network) on the ISBI challenge for segmentation of neuronal structures in electron microscopic stacks.
+
+Fields of Study: ['Computer Science']
+
+Authors: O. Ronneberger, P. Fischer, T. Brox
+

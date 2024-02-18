@@ -1,0 +1,12 @@
+corpus id: 68187126, 
+
+Title: Introduction to Algorithms, 2nd edition.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Cormen, C. Leiserson, R. Rivest, C. Stein
+

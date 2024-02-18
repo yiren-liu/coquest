@@ -1,0 +1,12 @@
+corpus id: 17213693, 
+
+Title: The Wisdom of Crowds
+
+Abstract: None
+
+TLDR: This work focuses on orthopaedic surgery, where significant variability in site-specific practices of intraoperative neuromonitoring (IONM) for patients undergoing spinal deformity surgery has been uncovered, and the need to dampen “mindless” variation while accelerating “Mindful’ variation and assessing its results.
+
+Fields of Study: ['Medicine']
+
+Authors: Michael Vitale, Kevin Wang, Gregory Pace
+

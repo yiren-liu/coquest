@@ -1,0 +1,12 @@
+corpus id: 3183437, 
+
+Title: Mental models
+
+Abstract: Back in 1969—which, come to think of it, seems like a long time ago even to me—I was thoroughly enjoying my junior year abroad at the University of Bonn in what was then West Germany. After the spring semester was over, two other guys and I squeezed into a Volkswagen Beetle and headed north. Earlier, between the fall and spring semesters, we had made a trip through Southern Europe, the world like the three lost American greenhorns we were. The cultural experiences were varied and captivating, and they whetted our appetites for more. So now it was time to take a look at Northern Europe. Our destination was the northernmost tip of Norway (Nordkap was it?), where we could watch the midnight sun not set over the ocean. We made it. It was a trip worth remembering for many reasons. For one thing, we stayed in a youth hostel near our destination. Most youth hostels at that time had a curfew of 10:00 or 11:00 in the evening, an issue that had the potential of throwing a monkey wrench into our well-laid plans to watch the midnight sun. We checked with the hosts of the hostel, who were at the time sitting around their dining room table after their evening meal carrying on pleasant conversation. " Would it be alright if we went to watch the midnight sun? " we wondered. " Of course, of course! " " Well, how would we get back into the hostel on our return? " " Oh, don't worry. We'll still be up. " " Really? At two in the morning? Man, when do you all sleep? " After the slightly wearied pause of one who has had to answer this question innumerable times: " In the winter. " Indeed, when we got back from our excursion, people of all ages were walking the streets of the small town as if it were two in the afternoon rather than two in the morning. And back at the hostel our host family was still seated pretty much in their same positions around the same table, still talking in the same language. That was one more new fascinating cultural experience to tuck away. But there was another memorable part to the venture that evening that involved only us three Americans. The weather was perfect. We were at the tail end of the season of the midnight …
+
+TLDR: Back in 1969, two other guys and I squeezed into a Volkswagen Beetle and headed north to the northernmost tip of Norway, where the authors could watch the midnight sun not set over the ocean, and it was a trip worth remembering for many reasons.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: R. Ross
+

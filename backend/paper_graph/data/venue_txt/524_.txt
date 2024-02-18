@@ -1,0 +1,12 @@
+corpus id: 8709950, 
+
+Title: Handbook of Fingerprint Recognition
+
+Abstract: None
+
+TLDR: This unique reference work is an absolutely essential resource for all biometric security professionals, researchers, and systems administrators.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Maltoni, D. Maio, Anil K. Jain, S. Prabhakar
+

@@ -1,0 +1,12 @@
+corpus id: 58689302, 
+
+Title: PID Controllers: Theory, Design, and Tuning
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: K. Åström
+

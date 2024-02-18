@@ -1,0 +1,12 @@
+corpus id: 14283441, 
+
+Title: Semi-Supervised Classification by Low Density Separation
+
+Abstract: We believe that the cluster assumption is key to successful semi-supervised learning. Based on this, we propose three semi-supervised algorithms: 1. deriving graph-based distances that emphazise low density regions between clusters, followed by training a standard SVM; 2. optimizing the Transductive SVM objective function, which places the decision boundary in low density regions, by gradient descent; 3. combining the ﬂrst two to make maximum use of the cluster assumption. We compare with state of the art algorithms and demonstrate superior accuracy for the latter two methods.
+
+TLDR: Three semi-supervised algorithms are proposed: deriving graph-based distances that emphazise low density regions between clusters, followed by training a standard SVM, and optimizing the Transductive SVM objective function by gradient descent.
+
+Fields of Study: ['Computer Science']
+
+Authors: O. Chapelle, A. Zien
+

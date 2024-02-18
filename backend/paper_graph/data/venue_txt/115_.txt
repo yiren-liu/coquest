@@ -1,0 +1,12 @@
+corpus id: 53070877, 
+
+Title: When Smart Groups Fail
+
+Abstract: In this study I investigated how collaborative interactions influence problem-solving outcomes. Conversations of twelve 6th-grade triads were analyzed utilizing quantitative and qualitative methods. Neither prior achievement of group members nor the generation of correct ideas for solution could account for between-triad differences in problem-solving outcomes. Instead, both characteristics of proposals and partner responsiveness were important correlates of the uptake and documentation of correct ideas by the group. Less successful groups ignored or rejected correct proposals, whereas more successful groups discussed or accepted them. Conversations in less successful groups were relatively incoherent as measured by the extent that proposals for solutions in these groups were connected with preceding discussions. Performance differences observed in triads extended to subsequent problem-solving sessions during which all students solved the same kinds of problems independently. These findings suggest that the quality of interaction had implications for learning. Case study descriptions illustrate the interweaving of social and cognitive factors involved in establishing a joint problem-solving space. A dual-space model of what collaboration requires of participants is described to clarify how the content of the problem and the relational context are interdependent aspects of the collaborative situation. How participants manage these interacting spaces is critical to the outcome of their work and helps account for variability in collaborative outcomes. Directions for future research that may help teachers, students, and designers of educational environments learn to see and foster productive interactional practices are proposed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Brigid Barron
+

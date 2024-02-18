@@ -1,0 +1,12 @@
+corpus id: 35159762, 
+
+Title: Language and the Internet
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Aitchison
+

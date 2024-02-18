@@ -1,0 +1,12 @@
+corpus id: 20533125, 
+
+Title: Effective physician-patient communication and health outcomes: a review.
+
+Abstract: OBJECTIVETo ascertain whether the quality of physician-patient communication makes a significant difference to patient health outcomes.DATA SOURCESThe MEDLINE database was searched for articles published from 1983 to 1993 using "physician-patient relations" as the primary medical subject heading. Several bibliographies and conference proceedings were also reviewed.STUDY SELECTIONRandomized controlled trials (RCTs) and analytic studies of physician-patient communication in which patient health was an outcome variable.DATA EXTRACTIONThe following information was recorded about each study: sample size, patient characteristics, clinical setting, elements of communication assessed, patient outcomes measured, and direction and significance of any association found between aspects of communication and patient outcomes.DATA SYNTHESISOf the 21 studies that met the final criteria for review, 16 reported positive results, 4 reported negative (i.e., nonsignificant) results, and 1 was inconclusive. The quality of communication both in the history-taking segment of the visit and during discussion of the management plan was found to influence patient health outcomes. The outcomes affected were, in descending order of frequency, emotional health, symptom resolution, function, physiologic measures (i.e., blood pressure and blood sugar level) and pain control.CONCLUSIONSMost of the studies reviewed demonstrated a correlation between effective physician-patient communication and improved patient health outcomes. The components of effective communication identified by these studies can be used as the basis both for curriculum development in medical education and for patient education programs. Future research should focus on evaluating such educational programs.
+
+TLDR: The quality of communication both in the history-taking segment of the visit and during discussion of the management plan was found to influence patient health outcomes.
+
+Fields of Study: ['Medicine']
+
+Authors: M. Stewart
+

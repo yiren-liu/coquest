@@ -1,0 +1,12 @@
+corpus id: 15220990, 
+
+Title: Patient-centred access to health care: conceptualising access at the interface of health systems and populations
+
+Abstract: None
+
+TLDR: This paper explains the comprehensiveness and dynamic nature of this conceptualisation of access to care and identifies relevant determinants that can have an impact on access from a multilevel perspective where factors related to health systems, institutions, organisations and providers are considered with factors at the individual, household, community, and population levels.
+
+Fields of Study: ['Medicine']
+
+Authors: J. Levesque, M. Harris, G. Russell
+

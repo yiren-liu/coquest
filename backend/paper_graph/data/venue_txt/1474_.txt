@@ -1,0 +1,12 @@
+corpus id: 6953475, 
+
+Title: One-shot learning of object categories
+
+Abstract: Learning visual models of object categories notoriously requires hundreds or thousands of training examples. We show that it is possible to learn much information about a category from just one, or a handful, of images. The key insight is that, rather than learning from scratch, one can take advantage of knowledge coming from previously learned categories, no matter how different these categories might be. We explore a Bayesian implementation of this idea. Object categories are represented by probabilistic models. Prior knowledge is represented as a probability density function on the parameters of these models. The posterior model for an object category is obtained by updating the prior in the light of one or more observations. We test a simple implementation of our algorithm on a database of 101 diverse object categories. We compare category models learned by an implementation of our Bayesian approach to models learned from by maximum likelihood (ML) and maximum a posteriori (MAP) methods. We find that on a database of more than 100 categories, the Bayesian approach produces informative models when the number of training examples is too small for other methods to operate successfully.
+
+TLDR: It is found that on a database of more than 100 categories, the Bayesian approach produces informative models when the number of training examples is too small for other methods to operate successfully.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: Li Fei-Fei, R. Fergus, P. Perona
+

@@ -1,0 +1,12 @@
+corpus id: 1627181, 
+
+Title: Brain-computer interfaces for communication and control
+
+Abstract: The brain's electrical signals enable people without muscle control to physically interact with the world.
+
+TLDR: The brain's electrical signals enable people without muscle control to physically interact with the world through the use of their brains' electrical signals.
+
+Fields of Study: ['Medicine', 'Computer Science']
+
+Authors: D. McFarland, J. Wolpaw
+

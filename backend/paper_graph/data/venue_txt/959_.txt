@@ -1,0 +1,12 @@
+corpus id: 109525367, 
+
+Title: Simulator Sickness Questionnaire: An enhanced method for quantifying simulator sickness.
+
+Abstract: Simulator sickness (SS) in high-fidelity visual simulators is a byproduct of modem simulation technology. Although it involves symptoms similar to those of motion-induced sickness (MS), SS tends to be less severe, to be of lower incidence, and to originate from elements of visual display and visuo-vestibular interaction atypical of conditions that induce MS. Most studies of SS to date index severity with some variant of the Pensacola Motion Sickness Questionnaire (MSQ). The MSQ has several deficiencies as an instrument for measuring SS. Some symptoms included in the scoring of MS are irrelevant for SS, and several are misleading. Also, the configural approach of the MSQ is not readily adaptable to computer administration and scoring. This article describes the development of a Simulator Sickness Questiomaire (SSQ), derived from the MSQ using a series of factor analyses, and illustrates its use in monitoring simulator performance with data from a computerized SSQ survey of 3,691 simulator hops. The databas...
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: R. Kennedy, N. Lane, K. Berbaum, Lilienthal Mg
+

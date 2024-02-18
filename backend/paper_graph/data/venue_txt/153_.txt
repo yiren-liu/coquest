@@ -1,0 +1,12 @@
+corpus id: 215780170, 
+
+Title: FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data
+
+Abstract: This paper describes FieldTrip, an open source software package that we developed for the analysis of MEG, EEG, and other electrophysiological data. The software is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data. It includes algorithms for simple and advanced analysis, such as time-frequency analysis using multitapers, source reconstruction using dipoles, distributed sources and beamformers, connectivity analysis, and nonparametric statistical permutation tests at the channel and source level. The implementation as toolbox allows the user to perform elaborate and structured analyses of large data sets using the MATLAB command line and batch scripting. Furthermore, users and developers can easily extend the functionality and implement new algorithms. The modular design facilitates the reuse in other software packages.
+
+TLDR: FieldTrip is an open source software package that is implemented as a MATLAB toolbox and includes a complete set of consistent and user-friendly high-level functions that allow experimental neuroscientists to analyze experimental data.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: R. Oostenveld, P. Fries, E. Maris, J. Schoffelen
+

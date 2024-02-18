@@ -1,0 +1,12 @@
+corpus id: 11959487, 
+
+Title: Designing games with a purpose
+
+Abstract: Data generated as a side effect of game play also solves computational problems and trains AI algorithms.
+
+TLDR: Data generated as a side effect of game play also solves computational problems and trains AI algorithms.
+
+Fields of Study: ['Computer Science']
+
+Authors: Luis von Ahn, Laura A. Dabbish
+

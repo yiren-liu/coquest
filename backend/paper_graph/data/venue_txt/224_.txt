@@ -1,0 +1,12 @@
+corpus id: 6435925, 
+
+Title: Seeing Sets: Representation by Statistical Properties
+
+Abstract: Sets of similar objects are common occurrences—a crowd of people, a bunch of bananas, a copse of trees, a shelf of books, a line of cars. Each item in the set may be distinct, highly visible, and discriminable. But when we look away from the set, what information do we have? The current article starts to address this question by introducing the idea of a set representation. This idea was tested using two new paradigms: mean discrimination and member identification. Three experiments using sets of different-sized spots showed that observers know a set's mean quite accurately but know little about the individual items, except their range. Taken together, these results suggest that the visual system represents the overall statistical, and not individual, properties of sets.
+
+TLDR: Three experiments showed that observers know a set's mean quite accurately but know little about the individual items, except their range, which suggests that the visual system represents the overall statistical, and not individual, properties of sets.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Ariely
+

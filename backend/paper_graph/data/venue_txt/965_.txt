@@ -1,0 +1,12 @@
+corpus id: 61029674, 
+
+Title: THE ACCURACY OF VOLUNTARY MOVEMENT
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: R. Woodworth
+

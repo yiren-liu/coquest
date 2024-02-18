@@ -1,0 +1,12 @@
+corpus id: 41701683, 
+
+Title: Transformed up-down methods in psychoacoustics.
+
+Abstract: During the past decade a number of variations in the simple up‐down procedure have been used in psychoacoustic testing. A broad class of these methods is described with due emphasis on the related problems of parameter estimation and the efficient placing of observations. The advantages of up‐down methods are many, including simplicity, high efficiency, robustness, small‐sample reliability, and relative freedom from restrictive assumptions. Several applications of these procedures in psychoacoustics are described, including examples where conventional techniques are inapplicable.
+
+TLDR: A broad class of up‐down methods used in psychoacoustics with due emphasis on the related problems of parameter estimation and the efficient placing of observations is described, including examples where conventional techniques are inapplicable.
+
+Fields of Study: ['Mathematics', 'Medicine']
+
+Authors: H. Levitt
+

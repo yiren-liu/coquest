@@ -1,0 +1,12 @@
+corpus id: 45174121, 
+
+Title: Controlling the false discovery rate: a practical and powerful approach to multiple testing
+
+Abstract: SUMMARY The common approach to the multiplicity problem calls for controlling the familywise error rate (FWER). This approach, though, has faults, and we point out a few. A different approach to problems of multiple significance testing is presented. It calls for controlling the expected proportion of falsely rejected hypotheses -the false discovery rate. This error rate is equivalent to the FWER when all hypotheses are true but is smaller otherwise. Therefore, in problems where the control of the false discovery rate rather than that of the FWER is desired, there is potential for a gain in power. A simple sequential Bonferronitype procedure is proved to control the false discovery rate for independent test statistics, and a simulation study shows that the gain in power is substantial. The use of the new procedure and the appropriateness of the criterion are illustrated with examples.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: Y. Benjamini, Y. Hochberg
+

@@ -1,0 +1,12 @@
+corpus id: 5226738, 
+
+Title: How Many Subjects Does It Take To Do A Regression Analysis.
+
+Abstract: Numerous rules-of-thumb have been suggested for determining the minimum number of subjects required to conduct multiple regression analyses. These rules-of-thumb are evaluated by comparing their results against those based on power analyses for tests of hypotheses of multiple and partial correlations. The results did not support the use of rules-of-thumb that simply specify some constant (e.g., 100 subjects) as the minimum number of subjects or a minimum ratio of number of subjects (N) to number of predictors (m). Some support was obtained for a rule-of-thumb that N ≥ 50 + 8 m for the multiple correlation and N ≥104 + m for the partial correlation. However, the rule-of-thumb for the multiple correlation yields values too large for N when m ≥ 7, and both rules-of-thumb assume all studies have a medium-size relationship between criterion and predictors. Accordingly, a slightly more complex rule-of thumb is introduced that estimates minimum sample size as function of effect size as well as the number of predictors. It is argued that researchers should use methods to determine sample size that incorporate effect size.
+
+TLDR: A slightly more complex rule-of thumb is introduced that estimates minimum sample size as function of effect size as well as the number of predictors and it is argued that researchers should use methods to determine sample size that incorporate effect size.
+
+Fields of Study: ['Mathematics', 'Medicine']
+
+Authors: S. Green
+

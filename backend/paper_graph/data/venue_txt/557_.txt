@@ -1,0 +1,12 @@
+corpus id: 5472978, 
+
+Title: Product design for manufacture and assembly
+
+Abstract: None
+
+TLDR: The importance of taking careful account of manufacturing and assembly problems in the early stages of product design is stressed and the philosophy of the Design for Manufacture and Assembly (DFMA) methodology and its application are explained.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: G. Boothroyd
+

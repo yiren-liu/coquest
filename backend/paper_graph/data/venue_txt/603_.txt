@@ -1,0 +1,12 @@
+corpus id: 1462839, 
+
+Title: Measuring and defining the experience of immersion in games
+
+Abstract: None
+
+TLDR: Overall the findings suggest that immersion can be measured subjectively as well as objectively (task completion time, eye movements) and negative emotions and uneasiness also run high.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: C. Jennett, A. Cox, P. Cairns, S. Dhoparee, Andrew Epps, Tim J. W. Tijs, Alison Walton
+

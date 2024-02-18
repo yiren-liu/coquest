@@ -1,0 +1,12 @@
+corpus id: 18907070, 
+
+Title: Service Blueprinting: A Practical Technique for Service Innovation
+
+Abstract: With the global focus on service-led growth has come increased need for practical techniques for service innovation. Services are fluid, dynamic, experiential, and frequently -produced in real time by customers, employees, and technology, often with few static physical properties. However, most product innovation approaches focus on the design of relatively static products with physical properties. Thus, many of the invention and prototype design techniques used for physical goods and technologies do not work well for human and interactive services. This article describes one technique—service blueprinting—that has proven useful for service innovation. Service blueprinting is securely grounded in the customer's experience and it allows the clear visualization of dynamic service processes. The technique is described in detail including real case examples that illustrate the value and breadth of its applications.
+
+TLDR: Service blueprinting is securely grounded in the customer's experience and it allows the clear visualization of dynamic service processes, including real case examples that illustrate the value and breadth of its applications.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. J. Bitner, Amy L. Ostrom, Felicia N. Morgan
+

@@ -1,0 +1,12 @@
+corpus id: 61218822, 
+
+Title: The Tacit Dimension
+
+Abstract: 'Without symbolism the life of man would be like that of the prisoners in the cave of Plato's simile…confined within the limits of his biological needs and practical interests; it could find no access to the "ideal world" which is opened to him from different sides by religion, art, philosophy, science.' Ernst Cassirer 1 ABSTRACT I begin by outlining some of the positions that have been taken by those who have reflected upon the nature of language. In his early work Wittgenstein asserts that language becomes meaningful when we tacitly adhere to the rules of logic. In his later work he claims that lan- guages become meaningful when they are situated within forms of life. Polanyi describes language as a toolbox for deploying our tacit awareness. A meaning is generated when a point of view attends from a subsidiary to a focal awareness. Languages re-present these meanings. Although all languages rely upon rules, what it is to be a meaning is not reduc- ible to rules. Nor is there a universal grammar. Because it renders abstract reflection possi- ble, language renders minds possible. A mind is not the product of an innate language of thought; it is a consequence of indwelling within a natural language. Indwelling within languages enables us to access new realities. Languages however do not supply us with the boundaries of the world. Not only do we know more than we can say, we can also say more than we know. The ultimate context of our linguistic meanings is not our social practices; it is our embodied awareness of the world. A representationalist account is in accordance with the view that minds are Turing machines. But the symbols processed by a Turing ma- chine derive their meaning from the agents that use them to achieve their purposes. Only if the processing of symbolic representations is related to the tacit context within which they become meaningful, does a semantic engine becomes possible.
+
+TLDR: 'Without symbolism the life of man would be like that of the prisoners in the cave of Plato's simile; it could find no access to the "ideal world" which is opened to him from different sides by religion, art, philosophy, science.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. P. Goodman
+

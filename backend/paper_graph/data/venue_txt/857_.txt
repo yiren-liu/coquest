@@ -1,0 +1,12 @@
+corpus id: 167680423, 
+
+Title: The Effects of Product Class Knowledge on Information Search Behavior
+
+Abstract: The effects of prior knowledge about a product class on various characteristics of pre-purchase information search within that product class are examined. A new search task methodology is used that imposes only a limited amount of structure on the search task: subjects are not cued with a list of attributes, and the problem is not structured in a brand-by-attribute matrix. The results indicate that prior knowledge facilitates the acquisition of new information and increases search efficiency. The results also support the conceptual distinction between objective and subjective knowledge.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: M. Brucks
+

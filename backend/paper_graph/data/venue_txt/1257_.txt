@@ -1,0 +1,12 @@
+corpus id: 6742907, 
+
+Title: Social network use and personality
+
+Abstract: None
+
+TLDR: In this study the self-reports of subjects, were replaced by more objective criteria, measurements of the user-information upload on Facebook, and a strong connection was found between personality and Facebook behavior.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Yair Amichai-Hamburger, Gideon Vinitzky
+

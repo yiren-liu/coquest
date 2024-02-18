@@ -1,0 +1,12 @@
+corpus id: 32281609, 
+
+Title: Bowling alone: the collapse and revival of American community
+
+Abstract: BOWLING ALONE warns Americans that their stock of "social capital", the very fabric of their connections with each other, has been accelerating down. Putnam describes the resulting impoverishment of their lives and communities. Drawing on evidence that includes nearly half a million interviews conducted over a quarter of a century in America, Putnam shows how changes in work, family structure, age, suburban life, television, computers, women's roles and other factors are isolating Americans from each other in a trend whose reflection can clearly be seen in British society. We sign 30 percent fewer petitions than we did ten years ago. Membership in organisations- from the Boy Scouts to political parties and the Church is falling. Ties with friends and relatives are fraying: we're 35 percent less likely to visit our neighbours or have dinner with our families than we were thirty years ago. We watch sport alone instead of with our friends. A century ago, American citizens' means of connecting were at a low point after decades of urbanisation, industrialisation and immigration uprooted them from families and friends. That generation demonstrated a capacity for renewal by creating the organisations that pulled Americans together. Putnam shows how we can learn from them and reinvent common enterprises that will make us secure, productive, happy and hopeful.
+
+TLDR: Drawing on evidence that includes nearly half a million interviews conducted over a quarter of a century in America, Putnam shows how changes in work, family structure, age, suburban life, television, computers, women's roles and other factors are isolating Americans from each other in a trend whose reflection can clearly be seen in British society.
+
+Fields of Study: ['History', 'Sociology', 'Computer Science']
+
+Authors: R. Putnam
+

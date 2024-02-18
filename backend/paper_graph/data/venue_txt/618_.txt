@@ -1,0 +1,12 @@
+corpus id: 15542489, 
+
+Title: The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+
+Abstract: Self-determination theory (SDT) maintains that an understanding of human motivation requires a consideration of innate psychological needs for competence, autonomy, and relatedness. We discuss the SDT concept of needs as it relates to previous need theories, emphasizing that needs specify the necessary conditions for psychological growth, integrity, and well-being. This concept of needs leads to the hypotheses that different regulatory processes underlying goal pursuits are differentially associated with effective functioning and well-being and also that different goal contents have different relations to the quality of behavior and mental health, specifically because different regulatory processes and different goal contents are associated with differing degrees of need satisfaction. Social contexts and individual differences that support satisfaction of the basic needs facilitate natural growth processes including intrinsically motivated behavior and integration of extrinsic motivations, whereas those that forestall autonomy, competence, or relatedness are associated with poorer motivation, performance, and well-being. We also discuss the relation of the psychological needs to cultural values, evolutionary processes, and other contemporary motivation theories.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. Deci, R. Ryan
+

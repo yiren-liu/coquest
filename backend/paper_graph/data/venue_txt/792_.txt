@@ -1,0 +1,12 @@
+corpus id: 10242279, 
+
+Title: Towards a Better Understanding of Context and Context-Awareness
+
+Abstract: None
+
+TLDR: Some of the research challenges in understanding context and in developing context-aware applications are discussed, which are increasingly important in the fields of handheld and ubiquitous computing, where the user?s context is changing rapidly.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Abowd, A. Dey, P. Brown, N. Davies, Mark T. Smith, Pete Steggles
+

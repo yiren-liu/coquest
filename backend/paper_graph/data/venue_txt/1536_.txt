@@ -1,0 +1,12 @@
+corpus id: 16142158, 
+
+Title: Discrete-Time Methods for the Analysis of Event Histories
+
+Abstract: The history of an individual or group can always be characterized as a sequence of events. People finish school, enter the labor force, marry, give birth, get promoted, change employers, retire, and ultimately die. Formal organizations merge, adopt innovations, and go bankrupt. Nations experience wars, revolutions, and peaceful changes of government. It is surely the business of sociology to explain and predict the occurrence of such events. Why is it, for example, that some individuals try marijuana while others do not? Why do some people marry early while others marry late? Do educational
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: P. Allison
+

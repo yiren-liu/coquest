@@ -1,0 +1,12 @@
+corpus id: 145750370, 
+
+Title: The dynamic architecture of emotion: Evidence for the component process model
+
+Abstract: Emotion is conceptualised as an emergent, dynamic process based on an individual's subjective appraisal of significant events. It is argued that theoretical models of emotion need to propose an architecture that reflects the essential nature and functions of emotion as a psychobiological and cultural adaptation mechanism. One proposal for such a model and its underlying dynamic architecture, the component process model, is briefly sketched and compared with some of its major competitors. Recent empirical evidence in support of the model is reviewed. Special emphasis is given to the dynamic aspect of emotion processes, in particular the sequence of appraisal checks and the synchronisation of response systems, as well as the capacity of the model to predict individual differences in emotional responding.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: K. Scherer
+

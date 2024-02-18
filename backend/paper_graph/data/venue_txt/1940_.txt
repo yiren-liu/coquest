@@ -1,0 +1,12 @@
+corpus id: 58275714, 
+
+Title: Communications of the Association for Information Systems
+
+Abstract: A collection of technologies termed social computing is driving a dramatic evolution of the Web, matching the dot-com era in growth, excitement, and investment. All of these share a high degree of community formation, user level content creation, and a variety of other characteristics. We provide an overview of social computing and identify salient characteristics. We argue that social computing holds tremendous disruptive potential in the business world and can significantly impact society, and outline possible changes in organized human action that could be brought about. Social computing can also have deleterious effects associated with it, including security issues. We suggest that social computing should be a priority for researchers and business leaders and illustrate the fundamental shifts in communication, computing, collaboration, and commerce brought about by this trend.
+
+TLDR: Author may include a copy of their article on their Web page as long as it is clearly noted that the Association for Information Systems owns the copyright and that use for profit is not allowed.
+
+Fields of Study: ['Computer Science']
+
+Authors: U. Varshney
+

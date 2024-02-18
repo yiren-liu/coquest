@@ -1,0 +1,12 @@
+corpus id: 399748, 
+
+Title: Episodic memory: from mind to brain.
+
+Abstract: Episodic memory is a neurocognitive (brain/mind) system, uniquely different from other memory systems, that enables human beings to remember past experiences. The notion of episodic memory was first proposed some 30 years ago. At that time it was defined in terms of materials and tasks. It was subsequently refined and elaborated in terms of ideas such as self, subjective time, and autonoetic consciousness. This chapter provides a brief history of the concept of episodic memory, describes how it has changed (indeed greatly changed) since its inception, considers criticisms of it, and then discusses supporting evidence provided by (a) neuropsychological studies of patterns of memory impairment caused by brain damage, and (b) functional neuroimaging studies of patterns of brain activity of normal subjects engaged in various memory tasks. I also suggest that episodic memory is a true, even if as yet generally unappreciated, marvel of nature.
+
+TLDR: This chapter provides a brief history of the concept of episodic memory, describes how it has changed (indeed greatly changed) since its inception, considers criticisms of it, and discusses supporting evidence provided by neuropsychological studies of patterns of memory impairment caused by brain damage, and functional neuroimaging studies of pattern of brain activity of normal subjects engaged in various memory tasks.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: E. Tulving
+

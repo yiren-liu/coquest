@@ -1,0 +1,12 @@
+corpus id: 44645466, 
+
+Title: A social information processing approach to job attitudes and task design.
+
+Abstract: This article outlines a social information processing approach to explain job attitudes. In comparison with need-satisfaction and expectancy models to job attitudes and motivation, the social information processing perspective emphasizes the effects of context and the consequences of past choices, rather than individual predispositions and rational decision-making processes. When an individual develops statements about attitude or needs, he or she uses social information--information about past behavior and about what others think. The process of attributing attitudes or needs from behavior is itself affected by commitment processes, by the saliency and relevance of information, and by the need to develop socially acceptable and legitimate rationalizations for actions. Both attitudes and need statements, as well as characterizations of jobs, are affected by informational social influence. The implications of the social information processing perspective for organization development efforts and programs of job redesign are discussed.
+
+TLDR: The social information processing perspective emphasizes the effects of context and the consequences of past choices, rather than individual predispositions and rational decision-making processes, to explain job attitudes.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: G. Salancik, J. Pfeffer
+

@@ -1,0 +1,12 @@
+corpus id: 210223881, 
+
+Title: Basics of qualitative research : techniques and procedures for developing grounded theory
+
+Abstract: Part I: Introduction to Grounded Theory of Anselm Strauss Chapter 1: Inspiration and Background Chapter 2: Theoretical Foundations Chapter 3: Practical Considerations for Getting Started Chapter 4: Prelude to Analysis Chapter 5: Strategies for Qualitative Data Analysis Chapter 6: Memos and Diagrams Chapter 7: Theoretical Sampling Chapter 8: Context Chapter 9: Process Chapter 10: Techniques for Achieving Theoretical Integration Chapter 11: The Use of Computer Programs in Qualitative Data Analysis Part II: Research Demonstration Project Chapter 12 Open Coding: Identifying Concepts Chapter 13: Developing Concepts in Terms of Their Properties and Dimensions Chapter 14: Analyzing Data for Context Chapter 15: Bringing Process Into the Analysis Chapter 16: Integrating Categories Part III: Finishing the Research Project Chapter 17: Writing Theses, Monographs, and Dissertations, and Giving Talks About Your Research Chapter 18: Criteria for Evaluation Chapter 19: Student Questions and Answers
+
+TLDR: Theoretical Foundations and Practical Considerations for Getting Started and Techniques for Achieving Theoretical Integration are presented.
+
+Fields of Study: ['Sociology', 'Computer Science', 'Psychology']
+
+Authors: A. Strauss, J. Corbin
+

@@ -1,0 +1,12 @@
+corpus id: 207313094, 
+
+Title: A new criterion for assessing discriminant validity in variance-based structural equation modeling
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Henseler, C. Ringle, M. Sarstedt
+

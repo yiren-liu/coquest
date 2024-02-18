@@ -1,0 +1,12 @@
+corpus id: 145791255, 
+
+Title: NEWCOMERS' RELATIONSHIPS: THE ROLE OF SOCIAL NETWORK TIES DURING SOCIALIZATION
+
+Abstract: A sample of 154 new auditors was surveyed to investigate how patterns of social relationships affected socialization. Characteristics of the newcomers' informational networks (size, density, strength, range, and status) related to three different indicators of learning: organizational knowledge, task mastery, and role clarity. Also, the structure of the newcomers' friendship networks related to their social integration and organizational commitment. By linking socialization outcomes to social network structure, this study sheds new light on the role of relationships in newcomer learning and assimilation.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. W. Morrison
+

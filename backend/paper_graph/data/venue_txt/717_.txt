@@ -1,0 +1,12 @@
+corpus id: 1780588, 
+
+Title: Review: Knowledge Management and Knowledge Management Systems: Conceptual Foundations and Research Issues
+
+Abstract: Knowledge is a broad and abstract notion that has defined epistemological debate in western philosophy since the classical Greek era. In the past few years, however, there has been a growing interest in treating knowledge as a significant organizational resource. Consistent with the interest in organizational knowledge and knowledge management (KM), IS researchers have begun promoting a class of information systems, referred to as knowledge management systems (KMS). The objective of KMS is to support creation, transfer, and application of knowledge in organizations. Knowledge and knowledge management are complex and multi-faceted concepts. Thus, effective development and implementation of KMS requires a foundation in several rich literatures.
+
+TLDR: The objective of KMS is to support creation, transfer, and application of knowledge in organizations by promoting a class of information systems, referred to as knowledge management systems.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: M. Alavi, D. Leidner
+

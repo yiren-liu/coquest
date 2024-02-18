@@ -1,0 +1,12 @@
+corpus id: 8064969, 
+
+Title: What attributes guide the deployment of visual attention and how do they do it?
+
+Abstract: None
+
+TLDR: As you drive into the centre of town, cars and trucks approach from several directions, and pedestrians swarm into the intersection, the wind blows a newspaper into the gutter and a pigeon does something unexpected on your windshield.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. Wolfe, T. Horowitz
+

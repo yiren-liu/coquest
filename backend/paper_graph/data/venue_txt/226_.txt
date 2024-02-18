@@ -1,0 +1,12 @@
+corpus id: 338469, 
+
+Title: Labeling images with a computer game
+
+Abstract: We introduce a new interactive system: a game that is fun and can be used to create valuable output. When people play the game they help determine the contents of images by providing meaningful labels for them. If the game is played as much as popular online games, we estimate that most images on the Web can be labeled in a few months. Having proper labels associated with each image on the Web would allow for more accurate image search, improve the accessibility of sites (by providing descriptions of images to visually impaired individuals), and help users block inappropriate images. Our system makes a significant contribution because of its valuable output and because of the way it addresses the image-labeling problem. Rather than using computer vision techniques, which don't work well enough, we encourage people to do the work by taking advantage of their desire to be entertained.
+
+TLDR: A new interactive system: a game that is fun and can be used to create valuable output that addresses the image-labeling problem and encourages people to do the work by taking advantage of their desire to be entertained.
+
+Fields of Study: ['Computer Science']
+
+Authors: Luis von Ahn, Laura A. Dabbish
+

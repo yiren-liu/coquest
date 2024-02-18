@@ -1,0 +1,12 @@
+corpus id: 4665022, 
+
+Title: Stereotype threat and the intellectual test performance of African Americans.
+
+Abstract: Stereotype threat is being at risk of confirming, as self-characteristic, a negative stereotype about one's group. Studies 1 and 2 varied the stereotype vulnerability of Black participants taking a difficult verbal test by varying whether or not their performance was ostensibly diagnostic of ability, and thus, whether or not they were at risk of fulfilling the racial stereotype about their intellectual ability. Reflecting the pressure of this vulnerability, Blacks underperformed in relation to Whites in the ability-diagnostic condition but not in the nondiagnostic condition (with Scholastic Aptitude Tests controlled). Study 3 validated that ability-diagnosticity cognitively activated the racial stereotype in these participants and motivated them not to conform to it, or to be judged by it. Study 4 showed that mere salience of the stereotype could impair Blacks' performance even when the test was not ability diagnostic. The role of stereotype vulnerability in the standardized test performance of ability-stigmatized groups is discussed.
+
+TLDR: The role of stereotype vulnerability in the standardized test performance of ability-stigmatized groups is discussed and mere salience of the stereotype could impair Blacks' performance even when the test was not ability diagnostic.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: C. Steele, Joshua Aronson
+

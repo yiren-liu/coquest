@@ -1,0 +1,12 @@
+corpus id: 18484126, 
+
+Title: A Cognitive Process Theory of Writing.
+
+Abstract: There is a venerable tradition in rhetoric and composition which sees the composing process as a series of decisions and choices.1 However, it is no longer easy simply to assert this position, unless you are prepared to answer a number of questions, the most pressing of which probably is: "What then are the criteria which govern that choice?" Or we could put it another way: "What guides the decisions writers make as they write?" In a recent survey of composition research, Odell, Cooper, and Courts noticed that some of the most thoughtful people in the field are giving us two reasonable but somewhat different answers:
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: L. Flower, J. Hayes
+

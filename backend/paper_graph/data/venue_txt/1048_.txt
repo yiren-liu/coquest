@@ -1,0 +1,12 @@
+corpus id: 49670925, 
+
+Title: Representation Learning with Contrastive Predictive Coding
+
+Abstract: While supervised learning has enabled great progress in many applications, unsupervised learning has not seen such widespread adoption, and remains an important and challenging endeavor for artificial intelligence. In this work, we propose a universal unsupervised learning approach to extract useful representations from high-dimensional data, which we call Contrastive Predictive Coding. The key insight of our model is to learn such representations by predicting the future in latent space by using powerful autoregressive models. We use a probabilistic contrastive loss which induces the latent space to capture information that is maximally useful to predict future samples. It also makes the model tractable by using negative sampling. While most prior work has focused on evaluating representations for a particular modality, we demonstrate that our approach is able to learn useful representations achieving strong performance on four distinct domains: speech, images, text and reinforcement learning in 3D environments.
+
+TLDR: This work proposes a universal unsupervised learning approach to extract useful representations from high-dimensional data, which it calls Contrastive Predictive Coding, and demonstrates that the approach is able to learn useful representations achieving strong performance on four distinct domains: speech, images, text and reinforcement learning in 3D environments.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Aäron van den Oord, Yazhe Li, Oriol Vinyals
+

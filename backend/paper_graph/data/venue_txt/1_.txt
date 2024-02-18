@@ -1,0 +1,12 @@
+corpus id: 8890546, 
+
+Title: The University of South Florida free association, rhyme, and word fragment norms
+
+Abstract: None
+
+TLDR: The database will be useful for investigators interested in cuing, priming, recognition, network theory, linguistics, and implicit testing applications, and for evaluating the predictive value of free association probabilities as compared with other measures, such as similarity ratings and co-occurrence norms.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: D. Nelson, C. McEvoy, T. A. Schreiber
+

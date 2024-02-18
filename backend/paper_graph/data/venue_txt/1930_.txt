@@ -1,0 +1,12 @@
+corpus id: 14910737, 
+
+Title: How video production affects student engagement: an empirical study of MOOC videos
+
+Abstract: Videos are a widely-used kind of resource for online learning. This paper presents an empirical study of how video production decisions affect student engagement in online educational videos. To our knowledge, ours is the largest-scale study of video engagement to date, using data from 6.9 million video watching sessions across four courses on the edX MOOC platform. We measure engagement by how long students are watching each video, and whether they attempt to answer post-video assessment problems. Our main findings are that shorter videos are much more engaging, that informal talking-head videos are more engaging, that Khan-style tablet drawings are more engaging, that even high-quality pre-recorded classroom lectures might not make for engaging online videos, and that students engage differently with lecture and tutorial videos. Based upon these quantitative findings and qualitative insights from interviews with edX staff, we developed a set of recommendations to help instructors and video producers take better advantage of the online video format. Finally, to enable researchers to reproduce and build upon our findings, we have made our anonymized video watching data set and analysis scripts public. To our knowledge, ours is one of the first public data sets on MOOC resource usage.
+
+TLDR: The largest-scale study of video engagement to date is presented, using data from 6.9 million video watching sessions across four courses on the edX MOOC platform, finding that shorter videos are much more engaging, that informal talking-head videos are more engage, and that Khan-style tablet drawings are more engaging.
+
+Fields of Study: ['Computer Science']
+
+Authors: Philip J. Guo, Juho Kim, Rob Rubin
+

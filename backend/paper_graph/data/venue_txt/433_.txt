@@ -1,0 +1,12 @@
+corpus id: 53662922, 
+
+Title: Individual Comparisons by Ranking Methods
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: F. Wilcoxon
+

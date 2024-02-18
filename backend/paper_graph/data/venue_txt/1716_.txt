@@ -1,0 +1,12 @@
+corpus id: 123504887, 
+
+Title: Cutoff criteria for fit indexes in covariance structure analysis : Conventional criteria versus new alternatives
+
+Abstract: This article examines the adequacy of the “rules of thumb” conventional cutoff criteria and several new alternatives for various fit indexes used to evaluate model fit in practice. Using a 2‐index presentation strategy, which includes using the maximum likelihood (ML)‐based standardized root mean squared residual (SRMR) and supplementing it with either Tucker‐Lewis Index (TLI), Bollen's (1989) Fit Index (BL89), Relative Noncentrality Index (RNI), Comparative Fit Index (CFI), Gamma Hat, McDonald's Centrality Index (Mc), or root mean squared error of approximation (RMSEA), various combinations of cutoff values from selected ranges of cutoff criteria for the ML‐based SRMR and a given supplemental fit index were used to calculate rejection rates for various types of true‐population and misspecified models; that is, models with misspecified factor covariance(s) and models with misspecified factor loading(s). The results suggest that, for the ML method, a cutoff value close to .95 for TLI, BL89, CFI, RNI, and G...
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: Li-tze Hu, P. Bentler
+

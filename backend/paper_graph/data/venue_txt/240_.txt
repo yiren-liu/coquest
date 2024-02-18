@@ -1,0 +1,12 @@
+corpus id: 14836645, 
+
+Title: A General Method Applicable to the Search for Similarities in the Amino Acid Sequence of Two Proteins
+
+Abstract: .
+
+TLDR: None
+
+Fields of Study: None
+
+Authors: Sagl B Needle, Asd Christus, D. Wuksch
+

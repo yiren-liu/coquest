@@ -1,0 +1,12 @@
+corpus id: 144451813, 
+
+Title: Reflections on past behavior: A self-report index of habit strength
+
+Abstract: We argue that habit is a psychological construct, rather than simply past behavioral frequency. In 4 studies, a 12-item index of habit strength (the Self-Report Habit Index, SRHI) was developed on the basis of features of habit; that is, a history of repetition, automaticity (lack of control and awareness, efficiency), and expressing identity. High internal and test-retest reliabilities were found. The SRHI correlated strongly with past behavioral frequency and the response frequency measure of habit (Verplanken, Aarts, van Knippenberg, & van Knippenberg, 1994). The index discriminated between behaviors varying in frequency, and also between daily vs. weekly habits. The SRHI may be useful as a dependent variable, or to determine or monitor habit strength without measuring behavioral frequency.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: B. Verplanken, S. Orbell
+

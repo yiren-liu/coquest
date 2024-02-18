@@ -1,0 +1,12 @@
+corpus id: 2847658, 
+
+Title: Reflective and Impulsive Determinants of Social Behavior
+
+Abstract: This article describes a 2-systems model that explains social behavior as a joint function of reflective and impulsive processes. In particular, it is assumed that social behavior is controlled by 2 interacting systems that follow different operating principles. The reflective system generates behavioral decisions that are based on knowledge about facts and values, whereas the impulsive system elicits behavior through associative links and motivational orientations. The proposed model describes how the 2 systems interact at various stages of processing, and how their outputs may determine behavior in a synergistic or antagonistic fashion. It extends previous models by integrating motivational components that allow more precise predictions of behavior. The implications of this reflective-impulsive model are applied to various phenomena from social psychology and beyond. Extending previous dual-process accounts, this model is not limited to specific domains of mental functioning and attempts to integrate cognitive, motivational, and behavioral mechanisms.
+
+TLDR: A 2-systems model that explains social behavior as a joint function of reflective and impulsive processes is described, which extends previous models by integrating motivational components that allow more precise predictions of behavior.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: F. Strack, Roland Deutsch
+

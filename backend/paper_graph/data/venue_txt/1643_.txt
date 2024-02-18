@@ -1,0 +1,12 @@
+corpus id: 215833720, 
+
+Title: A reliable multicast framework for light-weight sessions and application level framing
+
+Abstract: This paper describes SRM (Scalable Reliable Multicast), a reliable multicast framework for application level framing and light-weight sessions. The algorithms of this framework are efficient, robus...
+
+TLDR: SRM (Scalable Reliable Multicast), a reliable multicast framework for application level framing and light-weight sessions, and the algorithms of this framework are efficient, efficient, and robust.
+
+Fields of Study: ['Computer Science']
+
+Authors: FloydSally, JacobsonVan, LiuChing-Gung, McCanneSteven, ZHANGLi-xia
+

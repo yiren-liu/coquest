@@ -1,0 +1,12 @@
+corpus id: 6864824, 
+
+Title: Generating hard instances of lattice problems (extended abstract)
+
+Abstract: We give a random class of lattices in Zn whose elements can be generated together with a short vector in them so that, if there is a probabilistic polynomial time algorithm which finds a short vector in a random lattice with a probability of at least ~ then there is also a probabilistic polynomial time algorithm which solves the following three lattice problems in ev-e~g lattice in Zn with a probability exponentially close to one. (1) Find the length of a shortest nonzero vector in an n-dimensional lattice, approximately, up to a polynomial factor. (2) Find the shortest nonzero vector in an n-dimensional lattice L where the shortest vector v is unique in the sense that any other vector whose length is at most n' IIv]l is parallel to v, where c is a sufficiently large absolute constant. (3) Find a basis bl,. .. . bn in the n-dimensional lattice L whose length, defined as rnax~=l Ilbi II, is the smallest possible up to a polynomial factor. We get the following corollaries: if for any of the mentioned worst-case problems there is no polynomial time probabilistic solution then (a) there is a one-way function (b) for any fixed ~ > e > 0 there is a polynomial time computable function r(m) with mc s log ~(m) s m2e, so that the randomized subset sum problem: ~~=1 aizi s b (mod ~(m)), zi = 0, 1 for i=l ,..., m, has no polynomial time probabilistic solution , where ai i = 1,. .. . n and b are chosen at random with uniform distribution from the interval [1, r(m)].
+
+TLDR: A random class of lattices in Zn is given whose elements can be generated together with a short vector in them so that, if there is a probabilistic polynomial time algorithm which finds a long vector in a random lattice with a probability of at least ~ then there is also a prob probability-based algorithm which solves the following three lattice problems in ev-e~g lattice inZn with a probabilities exponentially close to one.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: M. Ajtai
+

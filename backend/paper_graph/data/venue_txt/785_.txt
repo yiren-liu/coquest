@@ -1,0 +1,12 @@
+corpus id: 153051742, 
+
+Title: わかりやすい障害者の権利条約 : 知的障害のある人の権利のために = Convention on the rights of persons with disabilities
+
+Abstract: The present report is submitted in response to General Assembly resolution 61/106, by which the Assembly adopted the Convention on the Rights of Persons with Disabilities and the Optional Protocol thereto. As requested by the Assembly, a brief overview of the status of the Convention as at 3 August 2007 is presented. The report also contains a brief description of technical arrangements on staff and facilities made necessary for the effective performance of the functions of the Conference of States Parties and the Committee under the Convention and the Optional Protocol, and a description on the progressive implementation of standards and guidelines for the accessibility of facilities and services of the United Nations system. Recent efforts of the United Nations and agencies to disseminate information on the Convention and the Optional Protocol are also described.
+
+TLDR: A brief overview of the status of the Convention as at 3 August 2007 is presented and recent efforts of the United Nations and agencies to disseminate information on the Convention and the Optional Protocol are described.
+
+Fields of Study: ['Political Science']
+
+Authors: 長瀬 修
+

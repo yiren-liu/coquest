@@ -1,0 +1,12 @@
+corpus id: 67461056, 
+
+Title: THE MIND'S EYE IN CHESS
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: W. Chase, H. Simon
+

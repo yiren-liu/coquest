@@ -1,0 +1,12 @@
+corpus id: 7495339, 
+
+Title: 300 Faces in-the-Wild Challenge: The First Facial Landmark Localization Challenge
+
+Abstract: Automatic facial point detection plays arguably the most important role in face analysis. Several methods have been proposed which reported their results on databases of both constrained and unconstrained conditions. Most of these databases provide annotations with different mark-ups and in some cases the are problems related to the accuracy of the fiducial points. The aforementioned issues as well as the lack of a evaluation protocol makes it difficult to compare performance between different systems. In this paper, we present the 300 Faces in-the-Wild Challenge: The first facial landmark localization Challenge which is held in conjunction with the International Conference on Computer Vision 2013, Sydney, Australia. The main goal of this challenge is to compare the performance of different methods on a new-collected dataset using the same evaluation protocol and the same mark-up and hence to develop the first standardized benchmark for facial landmark localization.
+
+TLDR: The main goal of this challenge is to compare the performance of different methods on a new-collected dataset using the same evaluation protocol and the same mark-up and hence to develop the first standardized benchmark for facial landmark localization.
+
+Fields of Study: ['Computer Science']
+
+Authors: Christos Sagonas, Georgios Tzimiropoulos, S. Zafeiriou, M. Pantic
+

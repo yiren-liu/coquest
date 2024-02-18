@@ -1,0 +1,12 @@
+corpus id: 14429485, 
+
+Title: Construction and Evaluation of a User Experience Questionnaire
+
+Abstract: None
+
+TLDR: An end-user questionnaire to measure user experience quickly in a simple and immediate way while covering a preferably comprehensive impression of the product user experience was the goal of the reported construction process.
+
+Fields of Study: ['Computer Science']
+
+Authors: Bettina Laugwitz, Theo Held, M. Schrepp
+

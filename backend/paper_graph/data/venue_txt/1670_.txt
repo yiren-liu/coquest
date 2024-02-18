@@ -1,0 +1,12 @@
+corpus id: 207174668, 
+
+Title: Free-form deformation of solid geometric models
+
+Abstract: A technique is presented for deforming solid geometric models in a free-form manner. The technique can be used with any solid modeling system, such as CSG or B-rep. It can deform surface primitives of any type or degree: planes, quadrics, parametric surface patches, or implicitly defined surfaces, for example. The deformation can be applied either globally or locally. Local deformations can be imposed with any desired degree of derivative continuity. It is also possible to deform a solid model in such a way that its volume is preserved.The scheme is based on trivariate Bernstein polynomials, and provides the designer with an intuitive appreciation for its effects.
+
+TLDR: A technique is presented for deforming solid geometric models in a free-form manner based on trivariate Bernstein polynomials, and provides the designer with an intuitive appreciation for its effects.
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Sederberg, S. Parry
+

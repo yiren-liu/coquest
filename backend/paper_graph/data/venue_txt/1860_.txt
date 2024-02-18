@@ -1,0 +1,12 @@
+corpus id: 47302, 
+
+Title: Principal Warps: Thin-Plate Splines and the Decomposition of Deformations
+
+Abstract: The decomposition of deformations by principal warps is demonstrated. The method is extended to deal with curving edges between landmarks. This formulation is related to other applications of splines current in computer vision. How they might aid in the extraction of features for analysis, comparison, and diagnosis of biological and medical images in indicated. >
+
+TLDR: The decomposition of deformations by principal warps is demonstrated and the method is extended to deal with curving edges between landmarks to aid the extraction of features for analysis, comparison, and diagnosis of biological and medical images.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: F. Bookstein
+

@@ -1,0 +1,12 @@
+corpus id: 35785090, 
+
+Title: A study of normative and informational social influences upon individual judgement.
+
+Abstract: Several modifications of the Asch experiment in which the S judges the length of lines in the company of a group of “stooges” who carry out the experimenter's instructions are described. These include a face-to-face situation, an anonymous situation, and a group situation, with self-commitment, publ
+
+TLDR: Several modifications of the Asch experiment in which the S judges the length of lines in the company of a group of “stooges” who carry out the experimenter's instructions are described.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: M. Deutsch, H. Gerard
+

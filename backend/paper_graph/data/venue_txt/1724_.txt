@@ -1,0 +1,12 @@
+corpus id: 2827898, 
+
+Title: Content-Based Image Retrieval at the End of the Early Years
+
+Abstract: Presents a review of 200 references in content-based image retrieval. The paper starts with discussing the working conditions of content-based retrieval: patterns of use, types of pictures, the role of semantics, and the sensory gap. Subsequent sections discuss computational steps for image retrieval systems. Step one of the review is image processing for retrieval sorted by color, texture, and local geometry. Features for retrieval are discussed next, sorted by: accumulative and global features, salient points, object and shape features, signs, and structural combinations thereof. Similarity of pictures and objects in pictures is reviewed for each of the feature types, in close connection to the types and means of feedback the user of the systems is capable of giving by interaction. We briefly discuss aspects of system engineering: databases, system architecture, and evaluation. In the concluding section, we present our view on: the driving force of the field, the heritage from computer vision, the influence on computer vision, the role of similarity and of interaction, the need for databases, the problem of evaluation, and the role of the semantic gap.
+
+TLDR: The working conditions of content-based retrieval: patterns of use, types of pictures, the role of semantics, and the sensory gap are discussed, as well as aspects of system engineering: databases, system architecture, and evaluation.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Smeulders, M. Worring, S. Santini, Amarnath Gupta, R. Jain
+

@@ -1,0 +1,12 @@
+corpus id: 26940779, 
+
+Title: What Do Laboratory Experiments Measuring Social Preferences Reveal About the Real World
+
+Abstract: A critical question facing experimental economists is whether behavior inside the laboratory is a good indicator of behavior outside the laboratory. To address that question, we build a model in which the choices that individuals make depend not just on financial implications, but also on the nature and extent of scrutiny by others, the particular context in which a decision is embedded, and the manner in which participants and tasks are selected. We present empirical evidence demonstrating the importance of these various factors. To the extent that lab and naturally occurring environments systematically differ on any of these dimensions, the results obtained inside and outside the lab need not correspond. Focusing on experiments designed to measure social preferences, we discuss the extent to which the existing laboratory results generalize to naturally-occurring markets. We summarize cases where the lab may understate the importance of social preferences as well as instances in which the lab might exaggerate their importance. We conclude by emphasizing the importance of interpreting laboratory and field data through the lens of theory.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Steven D. Levitt, J. List
+

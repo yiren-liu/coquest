@@ -1,0 +1,12 @@
+corpus id: 8299268, 
+
+Title: FDDB: A benchmark for face detection in unconstrained settings
+
+Abstract: Despite the maturity of face detection research, it remains difficult to compare different algorithms for face detection. This is partly due to the lack of common evaluation schemes. Also, existing data sets for evaluating face detection algorithms do not capture some aspects of face appearances that are manifested in real-world scenarios. In this work, we address both of these issues. We present a new data set of face images with more faces and more accurate annotations for face regions than in previous data sets. We also propose two rigorous and precise methods for evaluating the performance of face detection algorithms. We report results of several standard algorithms on the new benchmark.
+
+TLDR: A new data set of face images with more faces and more accurate annotations for face regions than in previous data sets is presented and two rigorous and precise methods for evaluating the performance of face detection algorithms are proposed.
+
+Fields of Study: ['Computer Science']
+
+Authors: Vidit Jain, E. Learned-Miller
+

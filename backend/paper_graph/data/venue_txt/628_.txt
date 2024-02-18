@@ -1,0 +1,12 @@
+corpus id: 8192877, 
+
+Title: Marker tracking and HMD calibration for a video-based augmented reality conferencing system
+
+Abstract: We describe an augmented reality conferencing system which uses the overlay of virtual images on the real world. Remote collaborators are represented on virtual monitors which can be freely positioned about a user in space. Users can collaboratively view and interact with virtual objects using a shared virtual whiteboard. This is possible through precise virtual image registration using fast and accurate computer vision techniques and head mounted display (HMD) calibration. We propose a method for tracking fiducial markers and a calibration method for optical see-through HMD based on the marker tracking.
+
+TLDR: An augmented reality conferencing system which uses the overlay of virtual images on the real world using fast and accurate computer vision techniques and head mounted display (HMD) calibration is described.
+
+Fields of Study: ['Computer Science']
+
+Authors: H. Kato, M. Billinghurst
+

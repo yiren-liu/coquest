@@ -1,0 +1,12 @@
+corpus id: 237123565, 
+
+Title: A broad-bandwidth, public domain, personality inventory measuring the lower-level facets of several five-factor models
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: L. R. Goldberg
+

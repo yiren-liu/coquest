@@ -1,0 +1,12 @@
+corpus id: 55767284, 
+
+Title: Information systems success: the quest for the dependent variable
+
+Abstract: Article history: Received July 18, 2014 Accepted December 1 2014 Available online December 11 2014 This paper presents an empirical investigation to identify and rank the factors of information market development systems influencing on the market share development. The population of this survey includes all managers who work for SMEs in city of Tehran, Iran. The study selects a sample of 230 people randomly and a questionnaire is distributed among them in Likert scale. Cronbach alpha has been calculated as 0.814, which is well above the minimum desirable level. Using structural equation modeling the study has determined seven factors including valid data, information, strategic information, organizational information, supportive information, customer information, development information and data analysis, which influence market share development. Growing Science Ltd. All rights reserved. 5 © 201
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: Neda Abasi, N. Azad, K. F. Hafashjani
+

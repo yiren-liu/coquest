@@ -1,0 +1,12 @@
+corpus id: 12037187, 
+
+Title: Communication in the presence of noise
+
+Abstract: A method is developed for representing any communication system geometrically. Messages and the corresponding signals are points in two "function spaces," and the modulation process is a mapping of one space into the other. Using this representation, a number of results in communication theory are deduced concerning expansion and compression of bandwidth and the threshold effect. Formulas are found for the maximum rate of transmission of binary digits over a system when the signal is perturbed by various types of noise. Some of the properties of "ideal" systems which transmit at this maximum rate are discussed The equivalent number of binary digits per second for certain information sources is calculated.
+
+TLDR: A method is developed for representing any communication system geometrically and a number of results in communication theory are deduced concerning expansion and compression of bandwidth and the threshold effect.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: C. Shannon
+

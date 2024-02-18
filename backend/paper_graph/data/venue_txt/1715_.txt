@@ -1,0 +1,12 @@
+corpus id: 73497737, 
+
+Title: Continual Lifelong Learning with Neural Networks: A Review
+
+Abstract: None
+
+TLDR: This review critically summarize the main challenges linked to lifelong learning for artificial learning systems and compare existing neural network approaches that alleviate, to different extents, catastrophic forgetting.
+
+Fields of Study: ['Computer Science', 'Biology', 'Mathematics', 'Medicine']
+
+Authors: G. I. Parisi, Ronald Kemker, Jose L. Part, Christopher Kanan, S. Wermter
+

@@ -1,0 +1,12 @@
+corpus id: 142804343, 
+
+Title: Emotional design : why we love (or hate) everyday things
+
+Abstract: By the author of The Design of Everyday Things , the first book to make the connection between our emotions and how we relate to ordinary objects--from juicers to Jaguars. Did you ever wonder why cheap wine tastes better in fancy glasses? Why sales of Macintosh computers soared when Apple introduced the colorful iMac? New research on emotion and cognition has shown that attractive things really do work better, a fact fans of Don Norman's classic The Design of Everyday Things cannot afford to ignore.In recent years, the design community has focused on making products easier to use. But as Norman amply demonstrates in this fascinating and important new book, design experts have vastly underestimated the role of emotion on our experience of everyday objects. Emotional Design analyzes the profound influence of this deceptively simple idea, from our willingness to spend thousands of dollars on Gucci bags and Rolex watches to the impact of emotion on the everyday objects of tomorrow. In the future, will inanimate objects respond to human emotions? Is it possible to create emotional robots?Norman addresses these provocative questions--drawing on a wealth of examples and the latest scientific insights--in this bold exploration of the objects in our everyday world.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Norman
+

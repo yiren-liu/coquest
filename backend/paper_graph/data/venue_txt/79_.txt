@@ -1,0 +1,12 @@
+corpus id: 915058, 
+
+Title: A sequential algorithm for training text classifiers
+
+Abstract: None
+
+TLDR: An algorithm for sequential sampling during machine learning of statistical classifiers was developed and tested on a newswire text categorization task and reduced by as much as 500-fold the amount of training data that would have to be manually classified to achieve a given level of effectiveness.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Lewis, W. Gale
+

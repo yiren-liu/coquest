@@ -1,0 +1,12 @@
+corpus id: 141895782, 
+
+Title: 10 ''Where Are the Missing Masses? The Sociology of a Few Mundane Artifacts''
+
+Abstract: network theorists argue that the material world pushes back on people because of its physical structure and design. People are free to interpret the precise meaning of an artifact, but they can’t simply tell an automobile engine that it should get 100 miles per gallon. The laws of nature and the capacities of a particular design limit the ways in which artifacts can be integrated into a sociotechnical system. In this chapter, one of the foremost contributors to the actor network approach, Bruno Latour, explores how artifacts can be deliberately designed to both replace human action and constrain and shape the actions of other humans. His study demonstrates how people can ‘‘act at a distance’’ through the technologies they create and implement and how, from a user’s perspective, a technology can appear to determine or compel certain actions. He argues that even technologies that are so commonplace that we don’t even think about them can shape the decisions we make, the effects our actions have, and the way we move through the world. Technologies play such an important role in mediating human relationships, Latour argues, that we cannot understand how societies work without an understanding of how technologies shape our everyday lives. Latour’s study of the relationship between producers, machines, and users demonstrates how certain values and political goals can be achieved through the construction and employment of technologies. Again, might not the glory of the machines consist in their being without this same boasted gift of language? ‘‘Silence,’’ it has been said by one writer, ‘‘is a virtue which render us agreeable to our fellow-creatures.’’ Samuel Butler (Erewhon, chap. 23)
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: B. Latour
+

@@ -1,0 +1,12 @@
+corpus id: 16833672, 
+
+Title: Acceptance of blog usage: The roles of technology acceptance, social influence and knowledge sharing motivation
+
+Abstract: None
+
+TLDR: A model involving technology acceptance, knowledge sharing and social influences is developed based on the theory of reasoned action and indicated that ease of use and enjoyment, and knowledge sharing were positively related to attitude toward blogging, and accounted for 78% of the variance.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: Chin-Lung Hsu, Judy Chuan-Chuan Lin
+

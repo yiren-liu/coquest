@@ -1,0 +1,12 @@
+corpus id: 107004073, 
+
+Title: How Designers Think: The Design Process Demystified
+
+Abstract: How Designers Think is based on Bryan Lawson's many observations of designers at work, interviews with designers and their clients and collaborators. This extended work is the culmination of twenty-five years' research and shows the author's belief that we all can learn to design better. The creative mind continues to have power to surprise and this book aims to nurture and extend this creativity. This book is not intended as an authoritative description of how designers should think but to provide helpful advice on how to develop an understanding of design. 'How Designers Think' will be of great interest, not only to designers seeking a greater insight into their own thought processes, but also to students of design in general from undergraduate level upward.
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: B. Lawson
+

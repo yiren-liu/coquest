@@ -1,0 +1,12 @@
+corpus id: 143126664, 
+
+Title: Optimal experience: Psychological studies of flow in consciousness.
+
+Abstract: Part I. A Theoretical Model of Optimal Experience: 1. Introduction Mihaly Csikszentmihalyi 2. The flow experience and its significance for human psychology Mihaly Csikszentmihalyi 3. Sociological implications of the flow experience Richard G. Mitchell Jr 4. Flow and biocultural evolution fausto massimini Mihaly Csikszentmihalyi and Antonella Delle Fave Part II. Varieties of the Flow Experience: 5. Introduction to Part II Mihaly Csikzentmihalyi and Isabella Csikszentmihalyi 6. Bozozoku: flow in Japanese motorcycle gang Ikuya Sato 7. Women, work, and flow Maria T. Allison and Margaret C. Duncan 8. The relationship between life satisfaction and flow in elderly Korean immigrants Seongyeul Han 9. Flow and writing Reed Larson 10. Flow and solitary ordeals Richard Logan Part III. Flow as a Way of Life: 11. Introduction to Part III Isabella Csikszentmihalyi and Mihaly Csikszentmihalyi 12. Modernisation and the changing context of flow in work and leisure Antonella Delle Fave and Fausto Massimini 13. Ocean cruising Jim MacBeth 14. Flow in a historical context: the case of the Jesuits Isabella Csikszentmihalyi Part IV. The Measurement of Flow in Everyday Life: 15. Introduction to Part IV Mihaly Csikszentmihalyi and Isabella Csikszentmihalyi 16. The systematic assessment of flow in daily experience Massimo Carli and Fausto Massimini 17. The quality of experience in the flow channels: comparison of Italian and US students Massimo Carli, Antonella Delle Fave and Fausto Massimini 18. Flow and the quality of experience during work and leisure Judith Le Fevre 19. Optimal experience and the uses of talent Jeanne Nakamura 20. Self-esteem and optimal experience Anne J. Wells 21. Optimal experience and the family context Kevin Rathunde 22. The future of flow Mihaly Csikszentmihalyi.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: M. Csíkszentmihályi, I. Csikszentmihalyi
+

@@ -1,0 +1,12 @@
+corpus id: 15230550, 
+
+Title: Inattentional Blindness
+
+Abstract: Surprising as it may seem, research shows that we rarely see what we are looking at unless our attention is directed to it. This phenomenon can have serious life-and-death consequences. Although the inextricable link between perceiving and attending was noted long ago by Aristotle, this phenomenon, now called inattentional blindness (IB), only recently has been named and carefully studied. Among the many questions that have been raised about IB are questions about the fate of the clearly visible, yet unseen stimuli, whether any stimuli reliably capture attention, and, if so, what they have in common. Finally, is IB an instance of rapid forgetting, or is it a failure to perceive?
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Mack
+

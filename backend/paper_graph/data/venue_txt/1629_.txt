@@ -1,0 +1,12 @@
+corpus id: 2302452, 
+
+Title: Exercise, physical activity, and self-determination theory: A systematic review
+
+Abstract: None
+
+TLDR: Overall, the literature provides good evidence for the value of SDT in understanding exercise behavior, demonstrating the importance of autonomous (identified and intrinsic) regulations in fostering physical activity.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: P. Teixeira, E. Carraça, D. Markland, M. Silva, R. Ryan
+

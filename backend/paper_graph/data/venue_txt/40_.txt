@@ -1,0 +1,12 @@
+corpus id: 18459683, 
+
+Title: Improving primary care for patients with chronic illness.
+
+Abstract: The chronic care model is a guide to higher-quality chronic illness management within primary care. The model predicts that improvement in its 6 interrelated components-self-management support, clinical information systems, delivery system redesign, decision support, health care organization, and community resources-can produce system reform in which informed, activated patients interact with prepared, proactive practice teams. Case studies are provided describing how components of the chronic care model have been implemented in the primary care practices of 4 health care organizations.
+
+TLDR: The chronic care model is a guide to higher-quality chronic illness management within primary care and predicts that improvement in its 6 interrelated components can produce system reform in which informed, activated patients interact with prepared, proactive practice teams.
+
+Fields of Study: ['Medicine']
+
+Authors: T. Bodenheimer, E. Wagner, K. Grumbach
+

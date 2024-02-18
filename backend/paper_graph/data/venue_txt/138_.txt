@@ -1,0 +1,12 @@
+corpus id: 144689350, 
+
+Title: Psychoacoustics: Facts and Models
+
+Abstract: This description of the processing of sound by the human hearing system presents the quantitative relationship between sound stimuli and auditory perceptions in terms of hearing sensations, and implements these relationships in model form. Modern views are outlined of peripheral activity in the inner ear, which plays an important role in the development of many hearing sensations. The dependence of these sensations on acoustic parameters is described in psychoacoustical terms.
+
+TLDR: This description of the processing of sound by the human hearing system presents the quantitative relationship between sound stimuli and auditory perceptions in terms of hearing sensations, and implements these relationships in model form.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: H. Fastl, E. Zwicker
+

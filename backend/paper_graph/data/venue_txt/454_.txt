@@ -1,0 +1,12 @@
+corpus id: 142732433, 
+
+Title: Qualitative Data Analysis: A User Friendly Guide for Social Scientists
+
+Abstract: From the Publisher: Qualitative Data Analysis shows that learning how to analyse qualitative data by computer can be fun. Written in a stimulating style, with examples drawn mainly from every day life and contemporary humour, it should appeal to a wide audience.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: I. Dey
+

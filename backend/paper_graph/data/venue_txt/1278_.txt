@@ -1,0 +1,12 @@
+corpus id: 6080674, 
+
+Title: Reciprocal n-Body Collision Avoidance
+
+Abstract: None
+
+TLDR: This paper presents a formal approach to reciprocal n-body collision avoidance, where multiple mobile robots need to avoid collisions with each other while moving in a common workspace, and derives sufficient conditions for collision-free motion by reducing the problem to solving a low-dimensional linear program.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. V. D. Berg, S. Guy, Ming C. Lin, Dinesh Manocha
+

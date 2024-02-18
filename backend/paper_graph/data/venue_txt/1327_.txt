@@ -1,0 +1,12 @@
+corpus id: 107534488, 
+
+Title: A simplest systematics for the organization of turn-taking for conversation
+
+Abstract: None
+
+TLDR: On the basis of research using audio recordings of naturally occurring conversations, the chapter highlights the organization of turn taking for conversation and extracts some of the interest that organization has.
+
+Fields of Study: ['Engineering', 'Computer Science', 'Psychology']
+
+Authors: Harvey Sacks, E. Schegloff, G. Jefferson
+

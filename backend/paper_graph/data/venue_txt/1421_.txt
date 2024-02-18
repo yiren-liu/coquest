@@ -1,0 +1,12 @@
+corpus id: 9934682, 
+
+Title: The work of art in the age of mechanical reproduction
+
+Abstract: One of the most important works of cultural theory ever written, Walter Benjamin's groundbreaking essay explores how the age of mass media means audiences can listen to or see a work of art repeatedly - and what the troubling social and political implications of this are. Throughout history, some books have changed the world. They have transformed the way we see ourselves - and each other. They have inspired debate, dissent, war and revolution. They have enlightened, outraged, provoked and comforted. They have enriched lives - and destroyed them. Now Penguin brings you the works of the great thinkers, pioneers, radicals and visionaries whose ideas shook civilization and helped make us who we are.
+
+TLDR: 
+
+Fields of Study: ['Art']
+
+Authors: W. Benjamin
+

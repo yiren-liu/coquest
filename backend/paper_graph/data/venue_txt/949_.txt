@@ -1,0 +1,12 @@
+corpus id: 227046321, 
+
+Title: Partial least squares structural equation modeling (PLS-SEM): An emerging tool in business research
+
+Abstract: Purpose – The authors aim to present partial least squares (PLS) as an evolving approach to structural equation modeling (SEM), highlight its advantages and limitations and provide an overview of recent research on the method across various fields. Design/methodology/approach – In this review article, the authors merge literatures from the marketing, management, and management information systems fields to present the state-of-the art of PLS-SEM research. Furthermore, the authors meta-analyze recent review studies to shed light on popular reasons for PLS-SEM usage. Findings – PLS-SEM has experienced increasing dissemination in a variety of fields in recent years with nonnormal data, small sample sizes and the use of formative indicators being the most prominent reasons for its application. Recent methodological research has extended PLS-SEM's methodological toolbox to accommodate more complex model structures or handle data inadequacies such as heterogeneity. Research limitations/implications – While rese...
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Joseph F. Hair, M. Sarstedt, Lucas M. Hopkins, V. Kuppelwieser
+

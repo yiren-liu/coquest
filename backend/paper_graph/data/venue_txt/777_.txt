@@ -1,0 +1,12 @@
+corpus id: 60579107, 
+
+Title: Signal detection theory and psychophysics
+
+Abstract: Book on statistical decision theory and sensory processes in signal detection theory and psychophysics
+
+TLDR: This book discusses statistical decision theory and sensory processes in signal detection theory and psychophysics and describes how these processes affect decision-making.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Green, J. Swets
+

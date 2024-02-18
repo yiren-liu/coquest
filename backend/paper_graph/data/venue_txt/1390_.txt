@@ -1,0 +1,12 @@
+corpus id: 16997076, 
+
+Title: The Factor Structure of the System Usability Scale
+
+Abstract: None
+
+TLDR: It is recommended that user experience practitioners and researchers treat the SUS as a unidimensional measure of perceived usability, and no longer routinely compute Usability and Learnability subscales.
+
+Fields of Study: ['Psychology', 'Computer Science', 'Engineering']
+
+Authors: James R. Lewis, J. Sauro
+

@@ -1,0 +1,12 @@
+corpus id: 18877678, 
+
+Title: Acquisition of cognitive skill.
+
+Abstract: A framework for skill acquisition is proposed that includes two major stages in the development of a cognitive skill: a declarative stage in which facts about the skill domain are interpreted and a procedural stage in which the domain knowledge is directly embodied in procedures for performing the skill. This general framework has been instantiated in the ACT system in which facts are encoded in a propositional network and procedures are encoded as productions. Knowledge compilation is the process by which the skill transits from the declarative stage to the procedural stage. It consists of the subprocesses of composition, which collapses sequences of productions into single productions, and proceduralization, which embeds factual knowledge into productions. Once proceduralized, further learning processes operate on the skill to make the productions more selective in their range of applications. These processes include generalization, discrimination, and strengthening of productions. Comparisons are made to similar concepts from past learning theories. How these learning mechanisms apply to produce the power law speedup in processing time with practice is discussed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: John R. Anderson
+

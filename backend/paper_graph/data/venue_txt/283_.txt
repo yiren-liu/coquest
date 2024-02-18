@@ -1,0 +1,12 @@
+corpus id: 18831615, 
+
+Title: Distributed practice in verbal recall tasks: A review and quantitative synthesis.
+
+Abstract: The authors performed a meta-analysis of the distributed practice effect to illuminate the effects of temporal variables that have been neglected in previous reviews. This review found 839 assessments of distributed practice in 317 experiments located in 184 articles. Effects of spacing (consecutive massed presentations vs. spaced learning episodes) and lag (less spaced vs. more spaced learning episodes) were examined, as were expanding interstudy interval (ISI) effects. Analyses suggest that ISI and retention interval operate jointly to affect final-test retention; specifically, the ISI producing maximal retention increased as retention interval increased. Areas needing future research and theoretical implications are discussed.
+
+TLDR: A meta-analysis of the distributed practice effect suggests that ISI and retention interval operate jointly to affect final-test retention; specifically, the ISI producing maximal retention increased as retention interval increased.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: N. Cepeda, H. Pashler, E. Vul, J. Wixted, D. Rohrer
+

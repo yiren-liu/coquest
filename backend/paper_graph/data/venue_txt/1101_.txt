@@ -1,0 +1,12 @@
+corpus id: 17535443, 
+
+Title: THE CONTROL OF THE FALSE DISCOVERY RATE IN MULTIPLE TESTING UNDER DEPENDENCY
+
+Abstract: Benjamini and Hochberg suggest that the false discovery rate may be the appropriate error rate to control in many applied multiple testing problems. A simple procedure was given there as an FDR controlling procedure for independent test statistics and was shown to be much more powerful than comparable procedures which control the traditional familywise error rate. We prove that this same procedure also controls the false discovery rate when the test statistics have positive regression dependency on each of the test statistics corresponding to the true null hypotheses. This condition for positive dependency is general enough to cover many problems of practical interest, including the comparisons of many treatments with a single control, multivariate normal test statistics with positive correlation matrix and multivariate t. Furthermore, the test statistics may be discrete, and the tested hypotheses composite without posing special difficulties. For all other forms of dependency, a simple conservative modification of the procedure controls the false discovery rate. Thus the range of problems for which a procedure with proven FDR control can be offered is greatly increased. 1.1. Simultaneous hypotheses testing. The control of the increased type I error when testing simultaneously a family of hypotheses is a central issue in the area of multiple comparisons. Rarely are we interested only in whether all hypotheses are jointly true or not, which is the test of the intersection null hypothesis. In most applications, we infer about the individual hypotheses, realizing that some of the tested hypotheses are usually true—we hope not all—and some are not. We wish to decide which ones are not true, indicating (statistical) discoveries. An important such problem is that of multiple endpoints in a clinical trial: a new treatment is compared with an existing one in terms of a large number of potential benefits (endpoints).
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: Y. Benjamini, D. Yekutieli
+

@@ -1,0 +1,12 @@
+corpus id: 12995893, 
+
+Title: A Decade of System Justification Theory: Accumulated Evidence of Conscious and Unconscious Bolstering of the Status Quo
+
+Abstract: Most theories in social and political psychology stress self-interest, intergroup conflict, ethnocentrism, homophily, ingroup bias, outgroup antipathy, dominance, and resistance. System justification theory is influenced by these perspectives—including social identity and social dominance theories—but it departs from them in several respects. Advocates of system justification theory argue that (a) there is a general ideological motive to justify the existing social order, (b) this motive is at least partially responsible for the internalization of inferiority among members of disadvantaged groups, (c) it is observed most readily at an implicit, nonconscious level of awareness and (d) paradoxically, it is sometimes strongest among those who are most harmed by the status quo. This article reviews and integrates 10 years of research on 20 hypotheses derived from a system justification perspective, focusing on the phenomenon of implicit outgroup favoritism among members of disadvantaged groups (including African Americans, the elderly, and gays/lesbians) and its relation to political ideology (especially liberalism-conservatism).
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Jost, M. Banaji, Brian A. Nosek
+

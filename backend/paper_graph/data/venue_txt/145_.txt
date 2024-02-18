@@ -1,0 +1,12 @@
+corpus id: 11161047, 
+
+Title: The assessment and analysis of handedness: the Edinburgh inventory.
+
+Abstract: None
+
+TLDR: An inventory of 20 items with a set of instructions and response- and computational-conventions is proposed and the results obtained from a young adult population numbering some 1100 individuals are reported.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: R. C. Oldfield
+

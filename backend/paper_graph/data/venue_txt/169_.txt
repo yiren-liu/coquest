@@ -1,0 +1,12 @@
+corpus id: 63702890, 
+
+Title: Survey Research Methods
+
+Abstract: None
+
+TLDR: The Logic of Survey Sampling and the Logic of Probability Sampling, a comparison of Survey and Other Methods, and the Ethics of Survey Research, a review of social science research in the 21st Century.
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Babbie
+

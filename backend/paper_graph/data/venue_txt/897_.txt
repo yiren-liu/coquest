@@ -1,0 +1,12 @@
+corpus id: 15863452, 
+
+Title: An Analysis of the Technology Acceptance Model in Understanding University Students' Behavioral Intention to Use e-Learning
+
+Abstract: Many universities implement e-learning for various reasons. It is obvious that the number of e-learning opportunities provided by higher educational institutes continues to grow in Korea. Yet little research has been done to verify the process of how university students adopt and use e-learning. A sample of 628 university students took part in the research. The structural equation modeling (SEM) technique was employed with the LISREL program to explain the adoption process. The general structural model, which included e-learning selfefficacy, subjective norm, system accessibility, perceived usefulness, perceived ease of use, attitude, and behavioral intention to use e-learning, was developed based on the technology acceptance model (TAM). The result proved TAM to be a good theoretical tool to understand users’ acceptance of e-learning. E-learning selfefficacy was the most important construct, followed by subjective norm in explicating the causal process in the model.
+
+TLDR: E-learning selfefficacy was the most important construct, followed by subjective norm in explicating the causal process in the model, and proved TAM to be a good theoretical tool to understand users’ acceptance of e-learning.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: S. Park
+

@@ -1,0 +1,12 @@
+corpus id: 13006499, 
+
+Title: A Survey Method for Characterizing Daily Life Experience: The Day Reconstruction Method
+
+Abstract: The Day Reconstruction Method (DRM) assesses how people spend their time and how they experience the various activities and settings of their lives, combining features of time-budget measurement and experience sampling. Participants systematically reconstruct their activities and experiences of the preceding day with procedures designed to reduce recall biases. The DRM's utility is shown by documenting close correspondences between the DRM reports of 909 employed women and established results from experience sampling. An analysis of the hedonic treadmill shows the DRM's potential for well-being research.
+
+TLDR: The DRM's utility is shown by documenting close correspondences between the DRM reports of 909 employed women and established results from experience sampling, and an analysis of the hedonic treadmill shows its potential for well-being research.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Kahneman, A. Krueger, D. Schkade, N. Schwarz, A. Stone
+

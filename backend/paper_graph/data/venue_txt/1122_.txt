@@ -1,0 +1,12 @@
+corpus id: 1495745, 
+
+Title: Information Foraging
+
+Abstract: None
+
+TLDR: Information foraging theory is an approach to understanding how strategies and technologies for information seeking, gathering, and consumption are adapted to the flux of information in the environment.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Pirolli
+

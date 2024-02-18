@@ -1,0 +1,12 @@
+corpus id: 17780742, 
+
+Title: The Interplay of Beauty, Goodness, and Usability in Interactive Products
+
+Abstract: Two studies considered the interplay between user-perceived usability (i.e., pragmatic attributes), hedonic attributes (e.g., stimulation, identification), goodness (i.e., satisfaction), and beauty of 4 different MP3-player skins. As long as beauty and goodness stress the subjective valuation of a product, both were related to each other. However, the nature of goodness and beauty was found to differ. Goodness depended on both perceived usability and hedonic attributes. Especially after using the skins, perceived usability became a strong determinant of goodness. In contrast, beauty largely depended on identification; a hedonic attribute group, which captures the product's ability to communicate important personal values to relevant others. Perceived usability as well as goodness was affected by experience (i.e., actual usability, usability problems), whereas hedonic attributes and beauty remained stable over time. All in all, the nature of beauty is rather self-oriented than goal-oriented, whereas goodness relates to both.
+
+TLDR: The nature of beauty is rather self-oriented than goal-oriented, whereas goodness relates to both; both were related to each other as long as beauty and goodness stress the subjective valuation of a product.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Marc Hassenzahl
+

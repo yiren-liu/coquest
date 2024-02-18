@@ -1,0 +1,12 @@
+corpus id: 19179825, 
+
+Title: How to kill creativity.
+
+Abstract: In today's knowledge economy, creativity is more important than ever. But many companies unwittingly employ managerial practices that kill it. How? By crushing their employees' intrinsic motivation--the strong internal desire to do something based on interests and passions. Managers don't kill creativity on purpose. Yet in the pursuit of productivity, efficiency, and control--all worthy business imperatives--they undermine creativity. It doesn't have to be that way, says Teresa Amabile. Business imperatives can comfortably coexist with creativity. But managers will have to change their thinking first. Specifically, managers will need to understand that creativity has three parts: expertise, the ability to think flexibly and imaginatively, and motivation. Managers can influence the first two, but doing so is costly and slow. It would be far more effective to increase employees' intrinsic motivation. To that end, managers have five levers to pull: the amount of challenge they give employees, the degree of freedom they grant around process, the way they design work groups, the level of encouragement they give, and the nature of organizational support. Take challenge as an example. Intrinsic motivation is high when employees feel challenged but not overwhelmed by their work. The task for managers, therefore, becomes matching people to the right assignments. Consider also freedom. Intrinsic motivation--and thus creativity--soars when managers let people decide how to achieve goals, not what goals to achieve. Managers can make a difference when it comes to employee creativity. The result can be truly innovative companies in which creativity doesn't just survive but actually thrives.
+
+TLDR: Managers can make a difference when it comes to employee creativity, and the result can be truly innovative companies in which creativity doesn't just survive but actually thrives, says Teresa Amabile.
+
+Fields of Study: ['Business', 'Medicine']
+
+Authors: T. Amabile
+

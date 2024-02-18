@@ -1,0 +1,12 @@
+corpus id: 545361, 
+
+Title: Indoor Segmentation and Support Inference from RGBD Images
+
+Abstract: None
+
+TLDR: The goal is to parse typical, often messy, indoor scenes into floor, walls, supporting surfaces, and object regions, and to recover support relationships, to better understand how 3D cues can best inform a structured 3D interpretation.
+
+Fields of Study: ['Computer Science']
+
+Authors: N. Silberman, Derek Hoiem, Pushmeet Kohli, R. Fergus
+

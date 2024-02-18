@@ -1,0 +1,12 @@
+corpus id: 112710658, 
+
+Title: Institutional Ecology, `Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39
+
+Abstract: Scientific work is heterogeneous, requiring many different actors and viewpoints. It also requires cooperation. The two create tension between divergent viewpoints and the need for generalizable findings. We present a model of how one group of actors managed this tension. It draws on the work of amateurs, professionals, administrators and others connected to the Museum of Vertebrate Zoology at the University of California, Berkeley, during its early years. Extending the Latour-Callon model of interessement, two major activities are central for translating between viewpoints: standardization of methods, and the development of `boundary objects'. Boundary objects are both adaptable to different viewpoints and robust enough to maintain identity across them. We distinguish four types of boundary objects: repositories, ideal types, coincident boundaries and standardized forms.
+
+TLDR: A model of how one group of actors managed this tension between divergent viewpoints was presented, drawing on the work of amateurs, professionals, administrators and others connected to the Museum of Vertebrate Zoology at the University of California, Berkeley, during its early years.
+
+Fields of Study: ['Sociology', 'Engineering']
+
+Authors: S. L. Star, J. Griesemer
+

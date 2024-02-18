@@ -1,0 +1,12 @@
+corpus id: 269166, 
+
+Title: The protection of information in computer systems
+
+Abstract: This tutorial paper explores the mechanics of protecting computer-stored information from unauthorized use or modification. It concentrates on those architectural structures-whether hardware or software-that are necessary to support information protection. The paper develops in three main sections. Section I describes desired functions, design principles, and examples of elementary protection and authentication mechanisms. Any reader familiar with computers should find the first section to be reasonably accessible. Section II requires some familiarity with descriptor-based computer architecture. It examines in depth the principles of modern protection architectures and the relation between capability systems and access control list systems, and ends with a brief analysts of protected subsystems and protected objects. The reader who is dismayed by either the prerequisites or the level of detail in the second section may wish to skip to Section III, which reviews the state of the art and current research projects and provides suggestions for further reading.
+
+TLDR: This tutorial paper explores the mechanics of protecting computer-stored information from unauthorized use or modification by examining in depth the principles of modern protection architectures and the relation between capability systems and access control list systems.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Saltzer, M. D. Schroeder
+

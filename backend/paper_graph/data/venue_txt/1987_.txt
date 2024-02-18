@@ -1,0 +1,12 @@
+corpus id: 62612820, 
+
+Title: The practice of social research
+
+Abstract: Part I: AN INTRODUCTION TO INQUIRY. 1. Human Inquiry and Science. 2. Paradigms, Theory, and Social Research. 3. The Ethics and Politics of Social Research. Part II: THE STRUCTURING OF INQUIRY: QUANTITATIVE AND QUALITATIVE. 4. Research Design. 5. Conceptualization, Operationalization, and Measurement. 6. Indexes, Scales, and Typologies. 7. The Logic of Sampling. Part III: MODES OF OPERATION: QUANTITATIVE AND QUALITATIVE. 8. Experiments. 9. Survey Research. 10. Qualitative Field Research. 11. Unobtrusive Research. 12. Evaluation Research. Part IV: ANALYSIS OF DATA: QUANTITATIVE AND QUALITATIVE. 13. Qualitative Data Analysis. 14. Quantitative Data Analysis. 15. The Logic of Multivariate Analysis. 16. Statistical Analyses. 17. Reading and Writing Social Research. APPENDICES. A. Using the Library. B. GSS Household Enumeration Questionnaire. C. Random Numbers. D. Distribution of Chi Square. E. Normal Curve Areas. F. Estimated Sampling Error. Preface. Acknowledgments.
+
+TLDR: This chapter discusses the construction of Inquiry, the science of inquiry, and the role of data in the design of research.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: E. Babbie
+

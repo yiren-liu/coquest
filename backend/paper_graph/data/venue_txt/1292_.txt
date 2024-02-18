@@ -1,0 +1,12 @@
+corpus id: 54041604, 
+
+Title: Information Privacy Concerns, Procedural Fairness, and Impersonal Trust: An Empirical Investigation
+
+Abstract: This research addresses the tensions that arise between the collection and use of personal information that people provide in the course of most consumer transactions, and privacy. In today's electronic world, the competitive strategies of successful firms increasingly depend on vast amounts of customer data. Ironically, the same information practices that provide value to organizations also raise privacy concerns for individuals. This study hypothesized that organizations can address these privacy concerns and gain business advantage through customer retention by observing procedural fairness: customers will be willing to disclose personal information and have that information subsequently used to create consumer profiles for business use when there are fair procedures in place to protect individual privacy. Because customer relationships are characterized by social distance, customers must depend on strangers to act on their behalf. Procedural fairness serves as an intermediary to build trust when interchang eable organizational agents exercise considerable delegated power on behalf of customers who cannot specify or constrain their behavior. Our hypothesis was supported as we found that when customers are explicitly told that fair information practices are employed, privacy concerns do not distinguish consumers who are willing to be profiled from those who are unwilling to have their personal information used in this way.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: M. Culnan, Pam Armstrong
+

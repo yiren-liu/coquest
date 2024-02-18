@@ -1,0 +1,12 @@
+corpus id: 9942616, 
+
+Title: The Gaussian Mixture Probability Hypothesis Density Filter
+
+Abstract: A new recursive algorithm is proposed for jointly estimating the time-varying number of targets and their states from a sequence of observation sets in the presence of data association uncertainty, detection uncertainty, noise, and false alarms. The approach involves modelling the respective collections of targets and measurements as random finite sets and applying the probability hypothesis density (PHD) recursion to propagate the posterior intensity, which is a first-order statistic of the random finite set of targets, in time. At present, there is no closed-form solution to the PHD recursion. This paper shows that under linear, Gaussian assumptions on the target dynamics and birth process, the posterior intensity at any time step is a Gaussian mixture. More importantly, closed-form recursions for propagating the means, covariances, and weights of the constituent Gaussian components of the posterior intensity are derived. The proposed algorithm combines these recursions with a strategy for managing the number of Gaussian components to increase efficiency. This algorithm is extended to accommodate mildly nonlinear target dynamics using approximation strategies from the extended and unscented Kalman filters
+
+TLDR: Under linear, Gaussian assumptions on the target dynamics and birth process, the posterior intensity at any time step is a Gaussian mixture and closed-form recursions for propagating the means, covariances, and weights of the constituent Gaussian components of the posteriorintensity are derived.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: B. Vo, Wing-Kin Ma
+

@@ -1,0 +1,12 @@
+corpus id: 134557863, 
+
+Title: Projections of the Size and Composition of the U.S. Population: 2014 to 2060. Population Estimates and Projections. Current Population Reports. P25-1143.
+
+Abstract: Between 2014 and 2060, the U.S. population is projected to increase from 319 million to 417 million, reaching 400 million in 2051. The U.S. population is projected to grow more slowly in future decades than in the recent past, as these projections assume that fertility rates will continue to decline and that there will be a modest decline in the overall rate of net international migration. By 2030, one in five Americans is projected to be 65 and over; by 2044, more than half of all Americans are projected to belong to a minority group (any group other than non-Hispanic White alone); and by 2060, nearly one in five of the nation’s total population is projected to be foreign born.
+
+TLDR: 
+
+Fields of Study: ['Geography']
+
+Authors: S. Colby, Jennifer M. Ortman
+

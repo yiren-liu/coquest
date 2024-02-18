@@ -1,0 +1,12 @@
+corpus id: 143505925, 
+
+Title: Beyond Relational Demography: Time and the Effects of Surface- and Deep-Level Diversity on Work Group Cohesion
+
+Abstract: We examined the impact of surface-level (demographic) and deep-level (attitudinal) diversity on group social integration. As hypothesized, the length of time group members worked together weakened the effects of surface-level diversity and strengthened the effects of deep-level diversity as group members bad the opportunity to engage in meaningful interactions.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Harrison, K. H. Price, M. Bell
+

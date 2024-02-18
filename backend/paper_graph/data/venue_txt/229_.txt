@@ -1,0 +1,12 @@
+corpus id: 144689146, 
+
+Title: THE BIG FIVE PERSONALITY DIMENSIONS AND JOB PERFORMANCE: A META-ANALYSIS
+
+Abstract: This study investigated the relation of the “Big Five” personality dimensions (Extraversion, Emotional Stability, Agreeableness, Conscientiousness, and Openness to Experience) to three job performance criteria (job proficiency, training proficiency, and personnel data) for five occupational groups (professionals, police, managers, sales, and skilled/semi-skilled). Results indicated that one dimension of personality, Conscientiousness, showed consistent relations with all job performance criteria for all occupational groups. For the remaining personality dimensions, the estimated true score correlations varied by occupational group and criterion type. Extraversion was a valid predictor for two occupations involving social interaction, managers and sales (across criterion types). Also, both Openness to Experience and Extraversion were valid predictors of the training proficiency criterion (across occupations). Other personality dimensions were also found to be valid predictors for some occupations and some criterion types, but the magnitude of the estimated true score correlations was small (ρ < .10). Overall, the results illustrate the benefits of using the 5-factor model of personality to accumulate and communicate empirical findings. The findings have numerous implications for research and practice in personnel psychology, especially in the subfields of personnel selection, training and development, and performance appraisal.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: M. Barrick, M. Mount
+

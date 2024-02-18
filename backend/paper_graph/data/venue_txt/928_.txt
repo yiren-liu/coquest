@@ -1,0 +1,12 @@
+corpus id: 7742072, 
+
+Title: Self-efficacy: toward a unifying theory of behavioral change.
+
+Abstract: The present article presents an integrative theoretical framework to explain and to predict psychological changes achieved by different modes of treatment. This theory states that psychological procedures, whatever their form, alter the level and strength of self-efficacy. It is hypothesized that expectations of personal efficacy determine whether coping behavior will be initiated, how much effort will be expended, and how long it will be sustained in the face of obstacles and aversive experiences. Persistence in activities that are subjectively threatening but in fact relatively safe produces, through experiences of mastery, further enhancement of self-efficacy and corresponding reductions in defensive behavior. In the proposed model, expectations of personal efficacy are derived from four principal sources of information: performance accomplishments, vicarious experience, verbal persuasion, and physiological states. The more dependable the experiential sources, the greater are the changes in perceived selfefficacy. A number of factors are identified as influencing the cognitive processing of efficacy information arising from enactive, vicarious, exhortative, and emotive sources. The differential power of diverse therapeutic procedures is analyzed in terms of the postulated cognitive mechanism of operation. Findings are reported from microanalyses of enactive, vicarious, and emotive modes of treatment that support the hypothesized relationship between perceived self-efficacy and behavioral changes. Possible directions for further research are discussed.
+
+TLDR: An integrative theoretical framework to explain and to predict psychological changes achieved by different modes of treatment is presented and findings are reported from microanalyses of enactive, vicarious, and emotive mode of treatment that support the hypothesized relationship between perceived self-efficacy and behavioral changes.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: A. Bandura
+

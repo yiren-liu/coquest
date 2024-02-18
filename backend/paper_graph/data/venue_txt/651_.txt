@@ -1,0 +1,12 @@
+corpus id: 189900, 
+
+Title: Silhouettes: a graphical aid to the interpretation and validation of cluster analysis
+
+Abstract: None
+
+TLDR: A new graphical display is proposed for partitioning techniques, where each cluster is represented by a so-called silhouette, which is based on the comparison of its tightness and separation, and provides an evaluation of clustering validity.
+
+Fields of Study: ['Mathematics']
+
+Authors: P. Rousseeuw
+

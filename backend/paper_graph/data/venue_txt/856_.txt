@@ -1,0 +1,12 @@
+corpus id: 1053741, 
+
+Title: Emerging frameworks for tangible user interfaces
+
+Abstract: We present steps toward a conceptual framework for tangible user interfaces. We introduce the MCRpd interaction model for tangible interfaces, which relates the role of physical and digital representations, physical control, and underlying digital models. This model serves as a foundation for identifying and discussing several key characteristics of tangible user interfaces. We identify a number of systems exhibiting these characteristics, and situate these within 12 application domains. Finally, we discuss tangible interfaces in the context of related research themes, both within and outside of the human-computer interaction domain.
+
+TLDR: The MCRpd interaction model for tangible interfaces is introduced, which relates the role of physical and digital representations, physical control, and underlying digital models to provide a foundation for identifying and discussing several key characteristics of tangible user interfaces.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: Brygg Ullmer, H. Ishii
+

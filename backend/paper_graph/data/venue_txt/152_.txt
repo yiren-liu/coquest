@@ -1,0 +1,12 @@
+corpus id: 22405371, 
+
+Title: How Maps Work - Representation, Visualization, and Design
+
+Abstract: Part 1 How meaning is derived from maps: taking a scientific approach in improving map representation and design an information processing view of vision and visual cognition - cartographic implications how maps are seen how maps are understood. Part 2 How maps are imbued with meaning: a Primer On Semiotics For Understanding Map Representation A Functional approach to map representation - semantics and syntactics of map signs a lexical approach to map representation - map pragmatics. Part 3 How maps are used - applications in geographical visualization: GVIS - facilitating visual thinking GVIS - relationship in space and time GVIS - should we believe what we see.
+
+TLDR: Part 1 How meaning is derived from maps: taking a scientific approach in improving map representation and design an information processing view of vision and visual cognition - cartographic implications how Maps are seen how maps are understood.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: A. MacEachren
+

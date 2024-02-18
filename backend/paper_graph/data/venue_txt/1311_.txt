@@ -1,0 +1,12 @@
+corpus id: 153484846, 
+
+Title: Culture's Consequences: Comparing Values, Behaviors, Institutions and Organisations Across Nations
+
+Abstract: he publication of this second edition of Culture’s Consequences marks an important moment in the field of cross-cultural studies. The first edition of this book, published in 1980, launched what some have called a revolution within the social sciences. Researchers who previously had not questioned whether their theories of human behaviour were applicable to all people were suddenly confronted with a systematic framework of cultural dimensions suggesting that not only behaviour but the processes and mechanisms governing behaviour could fundamentally vary based on four cultural dimensions. The first edition of this book brought the field of cross-cultural studies to the forefront (or at least the front) of social science research. But Hofstede’s framework has come under intense scrutiny since its first publication, and, although this second edition makes many needed changes and additions, it will be significant to see whether the intellectual community still finds simplistic frameworks, even as influential as Hofstede’s, to still be relevant to cross-cultural research. T
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: Giana M. Eckhardt
+

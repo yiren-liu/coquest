@@ -1,0 +1,12 @@
+corpus id: 13220626, 
+
+Title: Dynamical model of traffic congestion and numerical simulation.
+
+Abstract: We present a dynamical model of traffic congestion based on the equation of motion of each vehicle. In this model, the legal velocity function is introduced, which is a function of the headway of the preceding vehicle. We investigate this model with both analytic and numerical methods. The stability of traffic flow is analyzed, and the evolution of traffic congestion is observed with the development of time.
+
+TLDR: In this model, the legal velocity function is introduced, which is a function of the headway of the preceding vehicle, and the evolution of traffic congestion is observed with the development of time.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: Bando, Hasebe, Nakayama, Shibata, Sugiyama
+

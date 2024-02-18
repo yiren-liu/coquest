@@ -1,0 +1,12 @@
+corpus id: 544823, 
+
+Title: Private information retrieval
+
+Abstract: We describe schemes that enable a user to access k replicated copies of a database (k/spl ges/2) and privately retrieve information stored in the database. This means that each individual database gets no information on the identity of the item retrieved by the user. For a single database, achieving this type of privacy requires communicating the whole database, or n bits (where n is the number of bits in the database). Our schemes use the replication to gain substantial saving. In particular, we have: A two database scheme with communication complexity of O(n/sup 1/3/). A scheme for a constant number, k, of databases with communication complexity O(n/sup 1/k/). A scheme for 1/3 log/sub 2/ n databases with polylogarithmic (in n) communication complexity.
+
+TLDR: Schemes that enable a user to access k replicated copies of a database and privately retrieve information stored in the database and get no information on the identity of the item retrieved by the user are described.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Chor, E. Kushilevitz, Oded Goldreich, M. Sudan
+

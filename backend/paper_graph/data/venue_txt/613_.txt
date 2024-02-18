@@ -1,0 +1,12 @@
+corpus id: 2752461, 
+
+Title: Representing multiple objects as an ensemble enhances visual cognition
+
+Abstract: None
+
+TLDR: It is established that the visual system computes accurate ensemble representations across a variety of feature domains and current research aims to determine how these representations are computed, why they are computed and where they are coded in the brain.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: G. Alvarez
+

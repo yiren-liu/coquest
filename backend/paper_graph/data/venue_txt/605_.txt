@@ -1,0 +1,12 @@
+corpus id: 113750815, 
+
+Title: Confirmatory Factor Analysis
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: R. Hoyle
+

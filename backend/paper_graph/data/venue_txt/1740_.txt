@@ -1,0 +1,12 @@
+corpus id: 13919881, 
+
+Title: Self-disclosure and liking: a meta-analytic review.
+
+Abstract: Self-disclosure plays a central role in the development and maintenance of relationships. One way that researchers have explored these processes is by studying the links between self-disclosure and liking. Using meta-analytic procedures, the present work sought to clarify and review this literature by evaluating the evidence for 3 distinct disclosure-liking effects. Significant disclosure-liking relations were found for each effect: (a) People who engage in intimate disclosures tend to be liked more than people who disclose at lower levels, (b) people disclose more to those whom they initially like, and (c) people like others as a result of having disclosed to them. In addition, the relation between disclosure and liking was moderated by a number of variables, including study paradigm, type of disclosure, and gender of the discloser. Taken together, these results suggest that various disclosure-liking effects can be integrated and viewed as operating together within a dynamic interpersonal system. Implications for theory development are discussed, and avenues for future research are suggested.
+
+TLDR: Results suggest that various disclosure-liking effects can be integrated and viewed as operating together within a dynamic interpersonal system.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: N. Collins, L. C. Miller
+

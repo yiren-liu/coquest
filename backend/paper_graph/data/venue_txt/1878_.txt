@@ -1,0 +1,12 @@
+corpus id: 6202829, 
+
+Title: "GrabCut": interactive foreground extraction using iterated graph cuts
+
+Abstract: The problem of efficient, interactive foreground/background segmentation in still images is of great practical importance in image editing. Classical image segmentation tools use either texture (colour) information, e.g. Magic Wand, or edge (contrast) information, e.g. Intelligent Scissors. Recently, an approach based on optimization by graph-cut has been developed which successfully combines both types of information. In this paper we extend the graph-cut approach in three respects. First, we have developed a more powerful, iterative version of the optimisation. Secondly, the power of the iterative algorithm is used to simplify substantially the user interaction needed for a given quality of result. Thirdly, a robust algorithm for "border matting" has been developed to estimate simultaneously the alpha-matte around an object boundary and the colours of foreground pixels. We show that for moderately difficult examples the proposed method outperforms competitive tools.
+
+TLDR: A more powerful, iterative version of the optimisation of the graph-cut approach is developed and the power of the iterative algorithm is used to simplify substantially the user interaction needed for a given quality of result.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Rother, V. Kolmogorov, A. Blake
+

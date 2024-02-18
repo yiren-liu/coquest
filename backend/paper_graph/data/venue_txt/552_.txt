@@ -1,0 +1,12 @@
+corpus id: 11358505, 
+
+Title: An introduction to hidden Markov models
+
+Abstract: The basic theory of Markov chains has been known to mathematicians and engineers for close to 80 years, but it is only in the past decade that it has been applied explicitly to problems in speech processing. One of the major reasons why speech models, based on Markov chains, have not been developed until recently was the lack of a method for optimizing the parameters of the Markov model to match observed signal patterns. Such a method was proposed in the late 1960's and was immediately applied to speech processing in several research institutions. Continued refinements in the theory and implementation of Markov modelling techniques have greatly enhanced the method, leading to a wide range of applications of these models. It is the purpose of this tutorial paper to give an introduction to the theory of Markov models, and to illustrate how they have been applied to problems in speech recognition.
+
+TLDR: The purpose of this tutorial paper is to give an introduction to the theory of Markov models, and to illustrate how they have been applied to problems in speech recognition.
+
+Fields of Study: ['Computer Science']
+
+Authors: L. Rabiner, B. Juang
+

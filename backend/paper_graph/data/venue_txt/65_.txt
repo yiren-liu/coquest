@@ -1,0 +1,12 @@
+corpus id: 207357142, 
+
+Title: Why Should I Share? Examining Social Capital and Knowledge Contribution in Electronic Networks of Practice
+
+Abstract: Electronic networks of practice are computer-mediated discussion forums focused on problems of practice that enable individuals to exchange advice and ideas with others based on common interests. However, why individuals help strangers in these electronic networks is not well understood: there is no immediate benefit to the contributor, and free-riders are able to acquire the same knowledge as everyone else. To understand this paradox, we apply theories of collective action to examine how individual motivations and social capital influence knowledge contribution in electronic networks. This study reports on the activities of one electronic network supporting a professional legal association. Using archival, network, survey, and content analysis data, we empirically test a model of knowledge contribution. We find that people contribute their knowledge when they perceive that it enhances their professional reputations, when they have the experience to share, and when they are structurally embedded in the network. Surprisingly, contributions occur without regard to expectations of reciprocity from others or high levels of commitment to the network.
+
+TLDR: This study empirically test a model of knowledge contribution and finds that people contribute their knowledge when they perceive that it enhances their professional reputations, when they have the experience to share, and when they are structurally embedded in the network.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: M. Wasko, Samer Faraj
+

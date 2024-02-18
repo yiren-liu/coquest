@@ -1,0 +1,12 @@
+corpus id: 58208211, 
+
+Title: Reading Images: The Grammar of Visual Design
+
+Abstract: Introduction 1. The Semiotic Landscape 2. Narrative Representations: Designing Social Action 3. Conceptual Representations: Designing Social Constructs 4. Representation and Interaction: Designing the Position of the Viewer 5. Morality: Designing Models of Reality 6. The Meaning of Composition 7. The Materiality of Meaning - Surface and Inscription 8. The Third Dimension
+
+TLDR: This chapter discusses representation and interaction, morality, and the materiality of meaning in the Semiotic Landscape - Surface and Inscription.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Kress, T. V. Leeuwen
+

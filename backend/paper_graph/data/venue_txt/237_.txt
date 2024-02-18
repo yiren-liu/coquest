@@ -1,0 +1,12 @@
+corpus id: 2715202, 
+
+Title: Rapid object detection using a boosted cascade of simple features
+
+Abstract: This paper describes a machine learning approach for visual object detection which is capable of processing images extremely rapidly and achieving high detection rates. This work is distinguished by three key contributions. The first is the introduction of a new image representation called the "integral image" which allows the features used by our detector to be computed very quickly. The second is a learning algorithm, based on AdaBoost, which selects a small number of critical visual features from a larger set and yields extremely efficient classifiers. The third contribution is a method for combining increasingly more complex classifiers in a "cascade" which allows background regions of the image to be quickly discarded while spending more computation on promising object-like regions. The cascade can be viewed as an object specific focus-of-attention mechanism which unlike previous approaches provides statistical guarantees that discarded regions are unlikely to contain the object of interest. In the domain of face detection the system yields detection rates comparable to the best previous systems. Used in real-time applications, the detector runs at 15 frames per second without resorting to image differencing or skin color detection.
+
+TLDR: A machine learning approach for visual object detection which is capable of processing images extremely rapidly and achieving high detection rates and the introduction of a new image representation called the "integral image" which allows the features used by the detector to be computed very quickly.
+
+Fields of Study: ['Computer Science']
+
+Authors: Paul A. Viola, Michael J. Jones
+

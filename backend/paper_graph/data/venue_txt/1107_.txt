@@ -1,0 +1,12 @@
+corpus id: 60305346, 
+
+Title: Design of Everyday Things
+
+Abstract: Revealing how smart design is the new competitive frontier, this innovative book is a powerful primer on how--and why--some products satisfy customers while others only frustrate them.
+
+TLDR: Revealing how smart design is the new competitive frontier, this innovative book is a powerful primer on how--and why--some products satisfy customers while others only frustrate them.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: D. Norman, J. Stasko, Jeff Pierce, C. Potts, Chris Shaw
+

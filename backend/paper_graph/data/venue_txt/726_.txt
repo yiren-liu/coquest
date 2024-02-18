@@ -1,0 +1,12 @@
+corpus id: 125463158, 
+
+Title: Discarding Variables in a Principal Component Analysis. I: Artificial Data
+
+Abstract: Often, results obtained from the use of principal component analysis are little changed if some of the variables involved are discarded beforehand. This paper examines some of the possible methods for deciding which variables to reject and these rejection methods are tested on artificial data containing variables known to be “redundant”. It is shown that several of the rejection methods, of differing types, each discard precisely those variables known to be redundant, for all but a few sets of data.
+
+TLDR: It is shown that several of the rejection methods, of differing types, each discard precisely those variables known to be redundant, for all but a few sets of data.
+
+Fields of Study: ['Computer Science']
+
+Authors: I. Jolliffe
+

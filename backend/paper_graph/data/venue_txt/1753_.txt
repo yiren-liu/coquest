@@ -1,0 +1,12 @@
+corpus id: 167710267, 
+
+Title: Consumer–Company Identification: A Framework for Understanding Consumers’ Relationships with Companies
+
+Abstract: In this article, the authors try to determine why and under what conditions consumers enter into strong, committed, and meaningful relationships with certain companies, becoming champions of these companies and their products. Drawing on theories of social identity and organizational identification, the authors propose that strong consumer–company relationships often result from consumers’ identification with those companies, which helps them satisfy one or more important self-definitional needs. The authors elaborate on the nature of consumer–company identification, including the company identity, and articulate a consumer-level conceptual framework that offers propositions regarding the key determinants and consequences of such identification in the marketplace.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: C. Bhattacharya, Sankar Sen
+

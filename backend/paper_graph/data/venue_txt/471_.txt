@@ -1,0 +1,12 @@
+corpus id: 15355866, 
+
+Title: Generalized expectancies for internal versus external control of reinforcement.
+
+Abstract: The effects of reward or reinforcement on preceding behavior depend in part on whether the person perceives the reward as contingent on his own behavior or independent of it. Acquisition and performance differ in situa tions perceived as determined by skill versus chance. Persons may also differ in generalized expectancies for internal versus external control of reinforce ment. This report summarizes several experiments which define group dif ferences in behavior when Ss perceive reinforcement as contingent on their behavior versus chance or experimenter control. The report also de scribes the development of tests of individual differences in a generalized belief in internal-external control and provides reliability, discriminant va lidity and normative data for 1 test, along with a description of the results of several studies of construct validity.
+
+TLDR: This report summarizes several experiments which define group differences in behavior when Ss perceive reinforcement as contingent on their behavior versus chance or experimenter control.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Rotter
+

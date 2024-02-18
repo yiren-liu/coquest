@@ -1,0 +1,12 @@
+corpus id: 34382228, 
+
+Title: Automatic Text Processing: The Transformation, Analysis, and Retrieval of Information by Computer
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Salton
+

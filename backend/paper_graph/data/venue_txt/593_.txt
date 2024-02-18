@@ -1,0 +1,12 @@
+corpus id: 201759629, 
+
+Title: It (review)
+
+Abstract: This paper presents a comprehensive review of the state-of-the-art in structural battery composites research. Structural battery composites are a class of structural power composites aimed to provide mass-less energy storage for electrically powered structural systems. Structural battery composites are made from carbon fibres in a structural electrolyte matrix material. Neat carbon fibres are used as a structural negative electrode, exploiting their high mechanical properties, excellent lithium insertion capacity and high electrical conductivity. Lithium iron phosphate coated carbon fibres are used as the structural positive electrode. Here, the lithium iron phosphate is the electrochemically active substance and the fibres carry mechanical loads and conduct electrons. The surrounding structural electrolyte is lithium ion conductive and transfers mechanical loads between fibres. With these constituents, structural battery half-cells and full-cells are realised with a variety in device architecture. The paper also presents an overview of material modelling and characterisation performed to date. Particular reference is given to work performed in national and European research projects under the leadership of the authors, who are able to provide a unique insight into this emerging and exciting field of research.
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: L. Senelick
+

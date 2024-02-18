@@ -1,0 +1,12 @@
+corpus id: 2146137, 
+
+Title: Introduction to WordNet: An On-line Lexical Database
+
+Abstract: Standard alphabetical procedures for organizing lexical information put together words that are spelled alike and scatter words with similar or related meanings haphazardly through the list. Unfortunately, there is no obvious alternative, no other simple way for lexicographers to keep track of what has been done or for readers to find the word they are looking for. But a frequent objection to this solution is that finding things on an alphabetical list can be tedious and time-consuming. Many people who would like to refer to a dictionary decide not to bother with it because finding the information would interrupt their work and break their train of thought.
+
+TLDR: Standard alphabetical procedures for organizing lexical information put together words that are spelled alike and scatter words with similar or related meanings haphazardly through the list.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Miller, R. Beckwith, C. Fellbaum, Derek Gross, K. Miller
+

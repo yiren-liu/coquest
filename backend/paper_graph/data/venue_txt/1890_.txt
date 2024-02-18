@@ -1,0 +1,12 @@
+corpus id: 15529821, 
+
+Title: Heart Rate Variability and Cardiac Vagal Tone in Psychophysiological Research – Recommendations for Experiment Planning, Data Analysis, and Data Reporting
+
+Abstract: Psychophysiological research integrating heart rate variability (HRV) has increased during the last two decades, particularly given the fact that HRV is able to index cardiac vagal tone. Cardiac vagal tone, which represents the contribution of the parasympathetic nervous system to cardiac regulation, is acknowledged to be linked with many phenomena relevant for psychophysiological research, including self-regulation at the cognitive, emotional, social, and health levels. The ease of HRV collection and measurement coupled with the fact it is relatively affordable, non-invasive and pain free makes it widely accessible to many researchers. This ease of access should not obscure the difficulty of interpretation of HRV findings that can be easily misconstrued, however, this can be controlled to some extent through correct methodological processes. Standards of measurement were developed two decades ago by a Task Force within HRV research, and recent reviews updated several aspects of the Task Force paper. However, many methodological aspects related to HRV in psychophysiological research have to be considered if one aims to be able to draw sound conclusions, which makes it difficult to interpret findings and to compare results across laboratories. Those methodological issues have mainly been discussed in separate outlets, making difficult to get a grasp on them, and thus this paper aims to address this issue. It will help to provide psychophysiological researchers with recommendations and practical advice concerning experimental designs, data analysis, and data reporting. This will ensure that researchers starting a project with HRV and cardiac vagal tone are well informed regarding methodological considerations in order for their findings to contribute to knowledge advancement in their field.
+
+TLDR: This paper will provide psychophysiological researchers with recommendations and practical advice concerning experimental designs, data analysis, and data reporting to ensure that researchers starting a project with HRV and cardiac vagal tone are well informed regarding methodological considerations in order for their findings to contribute to knowledge advancement in their field.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: S. Laborde, E. Mosley, J. Thayer
+

@@ -1,0 +1,12 @@
+corpus id: 7965352, 
+
+Title: RADAR: an in-building RF-based user location and tracking system
+
+Abstract: The proliferation of mobile computing devices and local-area wireless networks has fostered a growing interest in location-aware systems and services. In this paper we present RADAR, a radio-frequency (RF)-based system for locating and tracking users inside buildings. RADAR operates by recording and processing signal strength information at multiple base stations positioned to provide overlapping coverage in the area of interest. It combines empirical measurements with signal propagation modeling to determine user location and thereby enable location-aware services and applications. We present experimental results that demonstrate the ability of RADAR to estimate user location with a high degree of accuracy.
+
+TLDR: RADAR is presented, a radio-frequency (RF)-based system for locating and tracking users inside buildings that combines empirical measurements with signal propagation modeling to determine user location and thereby enable location-aware services and applications.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Bahl, V. Padmanabhan
+

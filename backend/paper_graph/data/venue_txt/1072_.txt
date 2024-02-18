@@ -1,0 +1,12 @@
+corpus id: 12098286, 
+
+Title: Lying in everyday life.
+
+Abstract: In 2 diary studies of lying, 77 college students reported telling 2 lies a day, and 70 community members told 1. Participants told more self-centered lies than other-oriented lies, except in dyads involving only women, in which other-oriented lies were as common as self-centered ones. Participants told relatively more self-centered lies to men and relatively more other-oriented lies to women. Consistent with the view of lying as an everyday social interaction process, participants said that they did not regard their lies as serious and did not plan them much or worry about being caught. Still, social interactions in which lies were told were less pleasant and less intimate than those in which no lies were told.
+
+TLDR: Participants said that they did not regard their lies as serious and did not plan them much or worry about being caught, still, social interactions in which lies were told were less pleasant and less intimate than those in which no lie was told.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: B. DePaulo, D. Kashy, S. Kirkendol, M. M. Wyer, J. A. Epstein
+

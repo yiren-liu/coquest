@@ -1,0 +1,12 @@
+corpus id: 195720172, 
+
+Title: Handbook of usability testing: How to plan, design, and conduct effective tests
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: Debora Shaw
+

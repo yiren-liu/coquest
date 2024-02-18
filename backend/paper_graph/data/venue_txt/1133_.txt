@@ -1,0 +1,12 @@
+corpus id: 37145257, 
+
+Title: Revision of the Physical Activity Readiness Questionnaire (PAR-Q).
+
+Abstract: The original Physical Activity Readiness Questionnaire (PAR-Q) offers a safe preliminary screening of candidates for exercise testing and prescription, but it screens out what seems an excessive proportion of apparently healthy older adults. To reduce unnecessary exclusions, an expert committee established by Fitness Canada has now revised the questionnaire wording. The present study compares responses to the original and the revised PAR-Q questionnaire in 399 men and women attending 40 accredited fitness testing centres across Canada. The number of subjects screened out by the revised test decreased significantly (p < .05), from 68 to 48 of the 399 subjects. The change reflects in part the inclusion of individuals who had made an erroneous positive response to the original question regarding high blood pressure. There is no simple gold standard to provide an objective evaluation of the sensitivity and specificity of either questionnaire format, but the revised wording has apparently had the intended effect of reducing positive responses, particularly to the question regarding an elevation of blood pressure.
+
+TLDR: The revised wording of the Physical Activity Readiness Questionnaire has apparently had the intended effect of reducing positive responses, particularly to the question regarding an elevation of blood pressure.
+
+Fields of Study: ['Medicine']
+
+Authors: S. Thomas, J. Reading, R. Shephard
+

@@ -1,0 +1,12 @@
+corpus id: 11518222, 
+
+Title: Fast Planning Through Planning Graph Analysis
+
+Abstract: None
+
+TLDR: A new approach to planning in STRIPS-like domains based on constructing and analyzing a compact structure the authors call a Planning Graph is introduced, and a new planner, Graphplan, is described that uses this paradigm.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: A. Blum, M. Furst
+

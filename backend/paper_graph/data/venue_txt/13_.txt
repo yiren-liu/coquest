@@ -1,0 +1,12 @@
+corpus id: 64802100, 
+
+Title: Envisioning Information
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Tufte
+

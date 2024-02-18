@@ -1,0 +1,12 @@
+corpus id: 33233573, 
+
+Title: Information Privacy Research: An Interdisciplinary Review
+
+Abstract: To date, many important threads of information privacy research have developed, but these threads have not been woven together into a cohesive fabric. This paper provides an interdisciplinary review of privacy-related research in order to enable a more cohesive treatment. With a sample of 320 privacy articles and 128 books and book sections, we classify previous literature in two ways: (1) using an ethics-based nomenclature of normative, purely descriptive, and empirically descriptive, and (2) based on their level of analysis: individual, group, organizational, and societal.  Based upon our analyses via these two classification approaches, we identify three major areas in which previous research contributions reside: the conceptualization of information privacy, the relationship between information privacy and other constructs, and the contextual nature of these relationships.  As we consider these major areas, we draw three overarching conclusions. First, there are many theoretical developments in the body of normative and purely descriptive studies that have not been addressed in empirical research on privacy. Rigorous studies that either trace processes associated with, or test implied assertions from, these value-laden arguments could add great value. Second, some of the levels of analysis have received less attention in certain contexts than have others in the research to date. Future empirical studies-both positivist and interpretive--could profitably be targeted to these under-researched levels of analysis. Third, positivist empirical studies will add the greatest value if they focus on antecedents to privacy concerns and on actual outcomes. In that light, we recommend that researchers be alert to an overarching macro model that we term APCO (Antecedents → Privacy Concerns → Outcomes).
+
+TLDR: An interdisciplinary review of privacy-related research is provided in order to enable a more cohesive treatment and recommends that researchers be alert to an overarching macro model that is referred to as APCO (Antecedents → Privacy Concerns → Outcomes).
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: H. J. Smith, Tamara Dinev, Heng Xu
+

@@ -1,0 +1,12 @@
+corpus id: 146359317, 
+
+Title: Calculating, Interpreting, And Reporting Cronbach’s Alpha Reliability Coefficient For Likert-Type Scales
+
+Abstract: The purpose of this paper is to show why single-item questions pertaining to a construct are not reliable and should not be used in drawing conclusions. By comparing the reliability of a summated, multi-item scale versus a single-item question, the authors show how unreliable a single item is; and therefore it is not appropriate to make inferences based upon the analysis of single-item questions which are used in measuring a construct.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Gliem, R. R. Gliem
+

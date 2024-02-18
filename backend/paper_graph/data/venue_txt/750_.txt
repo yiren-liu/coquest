@@ -1,0 +1,12 @@
+corpus id: 141127414, 
+
+Title: Descartes' error: emotion, reason, and the human brain. avon books
+
+Abstract: Descartes' Error offers the scientific basis for ending the division between mind and body. Antonio Damasio contends that rational decisions are not the product of logic alone - they require the support of emotion and feeling. Drawing on his experience with neurological patients affected with brain damage, Dr Damasio shows how absence of emotions and feelings can break down rationality. He also offers a new perspective on what emotions and feelings actually are: a direct view of our own body states; a link between the body and its survival-oriented regulation on the one hand, and consciousness on the other. Written as a conversation between the author and an imaginary listener, Descartes' Error leads us to conclude that human organisms are endowed from their very beginning with a spirited passion for making choices, which the social mind can then use to build rational behaviour.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Damasio
+

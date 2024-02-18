@@ -1,0 +1,12 @@
+corpus id: 17620776, 
+
+Title: The Daikon system for dynamic detection of likely invariants
+
+Abstract: None
+
+TLDR: Daikon is an implementation of dynamic detection of likely invariants; that is, the Daikon invariant detector reports likely program invariants, a property that holds at a certain point or points in a program.
+
+Fields of Study: ['Computer Science']
+
+Authors: Michael D. Ernst, J. Perkins, Philip J. Guo, Stephen McCamant, Carlos Pacheco, Matthew S. Tschantz, Chen Xiao
+

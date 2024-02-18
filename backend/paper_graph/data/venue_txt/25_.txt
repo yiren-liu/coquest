@@ -1,0 +1,12 @@
+corpus id: 143914924, 
+
+Title: Nonresponse In Household Interview Surveys
+
+Abstract: An Introduction to Survey Participation. A Conceptual Framework for Survey Participation. Data Resources for Testing Theories of Survey Participation. Influences on the Likelihood of Contact. Influences of Household Characteristics on Survey Cooperation. Social Environmental Influences on Survey Participation. Influences of the Interviewers. When Interviewers Meet Householders: The Nature of Initial Interactions. Influences of Householder-Interviewer Interactions on Survey Cooperation. How Survey Design Features Affect Participation. Practical Survey Design Acknowledging Nonresponse. References. Index.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. Ziegel, R. Groves, M. Couper
+

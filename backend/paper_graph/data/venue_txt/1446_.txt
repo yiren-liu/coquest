@@ -1,0 +1,12 @@
+corpus id: 986419, 
+
+Title: Mixed-effects modeling with crossed random effects for subjects and items
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Baayen, D. Davidson, D. Bates
+

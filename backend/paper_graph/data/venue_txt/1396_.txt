@@ -1,0 +1,12 @@
+corpus id: 144500962, 
+
+Title: All in a Day'S Work: Boundaries and Micro Role Transitions
+
+Abstract: We focus on everyday role transitions involving home, work, and other places. Transitions are boundary-crossing activities, where one exits and enters roles by surmounting role boundaries. Roles can be arrayed on a continuum, spanning high segmentation to high integration. Segmentation decreases role blurring but increases the magnitude of change, rendering boundary crossing more difficult; crossing often is facilitated by rites of passage. Integration decreases the magnitude of change but increases blurring, rendering boundary creation and maintenance more difficult; this challenge often is surmounted by boundary work.
+
+TLDR: Everyday role transitions involving home, work, and other places is focused on boundary-crossing activities, where one exits and enters roles by surmounting role boundaries, spanning high segmentation to high integration.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Ashforth, Glen E. Kreiner, M. Fugate
+

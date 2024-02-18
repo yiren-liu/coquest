@@ -1,0 +1,12 @@
+corpus id: 1715998, 
+
+Title: A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks
+
+Abstract: We present a digital signature scheme based on the computational difficulty of integer factorization. The scheme possesses the novel property of being robust against an adaptive chosen-message attack: an adversary who receives signatures for messages of his choice (where each message may be chosen in a way that depends on the signatures of previously chosen messages) cannot later forge the signature of even a single additional message. This may be somewhat surprising, since in the folklore the properties of having forgery being equivalent to factoring and being invulnerable to an adaptive chosen-message attack were considered to be contradictory. More generally, we show how to construct a signature scheme with such properties based on the existence of a "claw-free" pair of permutations--a potentially weaker assumption than the intractibility of integer factorization. The new scheme is potentially practical: signing and verifying signatures are reasonably fast, and signatures are compact.
+
+TLDR: A digital signature scheme based on the computational difficulty of integer factorization possesses the novel property of being robust against an adaptive chosen-message attack: an adversary who receives signatures for messages of his choice cannot later forge the signature of even a single additional message.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: S. Goldwasser, S. Micali, R. Rivest
+

@@ -1,0 +1,12 @@
+corpus id: 14772228, 
+
+Title: Capital in the Twenty-First Century
+
+Abstract: In this article, I present three key facts about income and wealth inequality in the long run emerging from my book, Capital in the Twenty-First Century, and seek to sharpen and refocus the discussion about those trends. In particular, I clarify the role played by r > g in my analysis of wealth inequality. I also discuss some of the implications for optimal taxation, and the relation between capital-income ratios and capital shares.
+
+TLDR: 
+
+Fields of Study: ['History', 'Economics', 'Political Science']
+
+Authors: T. Piketty
+

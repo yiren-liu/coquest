@@ -1,0 +1,12 @@
+corpus id: 5889931, 
+
+Title: A grounded investigation of game immersion
+
+Abstract: The term immersion is widely used to describe games but it is not clear what immersion is or indeed if people are using the same word consistently. This paper describes work done to define immersion based on the experiences of gamers. Grounded Theory is used to construct a robust division of immersion into the three levels: engagement, engrossment and total immersion. This division alone suggests new lines for investigating immersion and transferring it into software domains other than games.
+
+TLDR: Grounded Theory is used to construct a robust division of immersion into the three levels: engagement, engrossment and total immersion, which suggests new lines for investigating immersion and transferring it into software domains other than games.
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Brown, P. Cairns
+

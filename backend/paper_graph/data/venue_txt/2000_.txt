@@ -1,0 +1,12 @@
+corpus id: 167896719, 
+
+Title: Specification, evaluation, and interpretation of structural equation models
+
+Abstract: None
+
+TLDR: This compendium of standards for the use and interpretation of structural equation models (SEMs) removes some of the mystery and uncertainty of the use of SEMs, while conveying the spirit of their possibilities.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Bagozzi, Youjae Yi
+

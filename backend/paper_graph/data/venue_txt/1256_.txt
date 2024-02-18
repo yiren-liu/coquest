@@ -1,0 +1,12 @@
+corpus id: 142713601, 
+
+Title: Social Research Methods
+
+Abstract: PART ONE ; 1. The nature and process of social research ; 2. Social research strategies: quantitative research and qualitative research ; 3. Research designs ; 4. Planning a research project and formulating research questions ; Getting started: reviewing the literature ; 6. Ethics and politics in social research ; PART TWO ; 7. The nature of quantitative research ; 8. Sampling in quantitative research ; 9. Structured interviewing ; 10. Self-administered questionnaires ; 11. Asking questions ; 12. Structured observation ; 13. Content analysis ; 14. Using existing data ; 15. Quantitative data analysis ; 16. Using IBM SPSS for Windows ; PART THREE ; 17. The nature of qualitative research ; 18. Sampling in qualitative research ; 19. Ethnography and participant observation ; 20. Interviewing in qualitative research ; 21. Focus groups ; 22. Language in qualitative research ; 23. Documents as sources of data ; 24. Qualitative data analysis ; 25. Computer-assisted qualitative data analysis: using NVivo ; PART FOUR ; 26. Breaking down the quantitative/qualitative divide ; 27. Mixed methods research: combining quantitative and qualitative research ; 28. Writing up social research
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Bryman
+

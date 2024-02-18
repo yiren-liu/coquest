@@ -1,0 +1,12 @@
+corpus id: 10090814, 
+
+Title: Optimizing Semantic Coherence in Topic Models
+
+Abstract: Latent variable models have the potential to add value to large document collections by discovering interpretable, low-dimensional subspaces. In order for people to use such models, however, they must trust them. Unfortunately, typical dimensionality reduction methods for text, such as latent Dirichlet allocation, often produce low-dimensional subspaces (topics) that are obviously flawed to human domain experts. The contributions of this paper are threefold: (1) An analysis of the ways in which topics can be flawed; (2) an automated evaluation metric for identifying such topics that does not rely on human annotators or reference collections outside the training data; (3) a novel statistical topic model based on this metric that significantly improves topic quality in a large-scale document collection from the National Institutes of Health (NIH).
+
+TLDR: A novel statistical topic model based on an automated evaluation metric based on this metric that significantly improves topic quality in a large-scale document collection from the National Institutes of Health (NIH).
+
+Fields of Study: ['Computer Science']
+
+Authors: David Mimno, H. Wallach, E. Talley, Miriam Leenders, A. McCallum
+

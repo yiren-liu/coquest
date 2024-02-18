@@ -1,0 +1,12 @@
+corpus id: 679934, 
+
+Title: L-diversity: privacy beyond k-anonymity
+
+Abstract: Publishing data about individuals without revealing sensitive information about them is an important problem. In recent years, a new definition of privacy called \kappa-anonymity has gained popularity. In a \kappa-anonymized dataset, each record is indistinguishable from at least k—1 other records with respect to certain "identifying" attributes. In this paper we show with two simple attacks that a \kappa-anonymized dataset has some subtle, but severe privacy problems. First, we show that an attacker can discover the values of sensitive attributes when there is little diversity in those sensitive attributes. Second, attackers often have background knowledge, and we show that \kappa-anonymity does not guarantee privacy against attackers using background knowledge. We give a detailed analysis of these two attacks and we propose a novel and powerful privacy definition called \ell-diversity. In addition to building a formal foundation for \ell-diversity, we show in an experimental evaluation that \ell-diversity is practical and can be implemented efficiently.
+
+TLDR: This paper shows with two simple attacks that a \kappa-anonymized dataset has some subtle, but severe privacy problems, and proposes a novel and powerful privacy definition called \ell-diversity, which is practical and can be implemented efficiently.
+
+Fields of Study: ['Computer Science']
+
+Authors: Ashwin Machanavajjhala, J. Gehrke, Daniel Kifer, Muthuramakrishnan Venkitasubramaniam
+

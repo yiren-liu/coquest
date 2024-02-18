@@ -1,0 +1,12 @@
+corpus id: 7102337, 
+
+Title: A Developmental Model of Critical Thinking
+
+Abstract: The critical thinking movement, it is suggested, has much to gain from conceptualizing its subject matter in a developmental framework. Most instructional programs designed to teach critical thinking do not draw on contemporary empirical research in cognitive development as a potential resource. The developmental model of critical thinking outlined here derives from contemporary empirical research on directions and processes of intellectual development in children and adolescents. It identifies three forms of second-order cognition (meta-knowing)—metacognitive, metastrategic, and epistemological—that constitute an essential part of what develops cognitively to make critical thinking possible.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Kuhn
+

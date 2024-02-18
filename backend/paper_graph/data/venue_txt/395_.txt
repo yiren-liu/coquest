@@ -1,0 +1,12 @@
+corpus id: 13325999, 
+
+Title: Blended learning: Uncovering its transformative potential in higher education
+
+Abstract: None
+
+TLDR: The conclusion is that blended learning is consistent with the values of traditional higher education institutions and has the proven potential to enhance both the effectiveness and efficiency of meaningful learning experiences.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: D. Garrison, H. Kanuka
+

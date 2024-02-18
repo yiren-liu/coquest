@@ -1,0 +1,12 @@
+corpus id: 16726452, 
+
+Title: Toward Machine Emotional Intelligence: Analysis of Affective Physiological State
+
+Abstract: The ability to recognize emotion is one of the hallmarks of emotional intelligence, an aspect of human intelligence that has been argued to be even more important than mathematical and verbal intelligences. This paper proposes that machine intelligence needs to include emotional intelligence and demonstrates results toward this goal: developing a machine's ability to recognize the human affective state given four physiological signals. We describe difficult issues unique to obtaining reliable affective data and collect a large set of data from a subject trying to elicit and experience each of eight emotional states, daily, over multiple weeks. This paper presents and compares multiple algorithms for feature-based recognition of emotional state from this data. We analyze four physiological signals that exhibit problematic day-to-day variations: The features of different emotions on the same day tend to cluster more tightly than do the features of the same emotion on different days. To handle the daily variations, we propose new features and algorithms and compare their performance. We find that the technique of seeding a Fisher Projection with the results of sequential floating forward search improves the performance of the Fisher Projection and provides the highest recognition rates reported to date for classification of affect from physiology: 81 percent recognition accuracy on eight classes of emotion, including neutral.
+
+TLDR: It is found that the technique of seeding a Fisher Projection with the results of sequential floating forward search improves the performance of the Fisher Projections and provides the highest recognition rates reported to date for classification of affect from physiology: 81 percent recognition accuracy on eight classes of emotion, including neutral.
+
+Fields of Study: ['Computer Science']
+
+Authors: Rosalind W. Picard, E. Vyzas, Jennifer Healey
+

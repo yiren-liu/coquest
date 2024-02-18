@@ -1,0 +1,12 @@
+corpus id: 14308899, 
+
+Title: The qualitative content analysis process.
+
+Abstract: AIMThis paper is a description of inductive and deductive content analysis.BACKGROUNDContent analysis is a method that may be used with either qualitative or quantitative data and in an inductive or deductive way. Qualitative content analysis is commonly used in nursing studies but little has been published on the analysis process and many research books generally only provide a short description of this method.DISCUSSIONWhen using content analysis, the aim was to build a model to describe the phenomenon in a conceptual form. Both inductive and deductive analysis processes are represented as three main phases: preparation, organizing and reporting. The preparation phase is similar in both approaches. The concepts are derived from the data in inductive content analysis. Deductive content analysis is used when the structure of analysis is operationalized on the basis of previous knowledge.CONCLUSIONInductive content analysis is used in cases where there are no previous studies dealing with the phenomenon or when it is fragmented. A deductive approach is useful if the general aim was to test a previous theory in a different situation or to compare categories at different time periods.
+
+TLDR: Inductive content analysis is used in cases where there are no previous studies dealing with the phenomenon or when it is fragmented, and a deductive approach is useful if the general aim was to test a previous theory in a different situation or to compare categories at different time periods.
+
+Fields of Study: ['Medicine', 'Computer Science']
+
+Authors: S. Elo, H. Kyngäs
+

@@ -1,0 +1,12 @@
+corpus id: 4411440, 
+
+Title: Information Systems Success: The Quest for the Independent Variables
+
+Abstract: In 1992, DeLone and McLean suggested that the dependent variable for information systems (IS) research is IS Success. Their research resulted in the widely cited DeLone and McLean (D&M) IS Success Model, in which System Quality, Information Quality, Use, User Satisfaction, Individual Impact, and Organizational Impact are distinct, but related dimensions of IS success. Since the original IS Success Model was published, research has developed a better understanding of IS success. Meanwhile, comprehensive and integrative research on the variables that influence IS success has been lacking. Therefore, we examine the literature on the independent variables that affect IS success. After examining over 600 articles, we focused our attention on integrating the findings of over 140 studies. In this research, we identify 43 specific variables posited to influence the different dimensions of IS success, and we organize these success factors into five categories based on the Leavitt Diamond of Organizational Change: task characteristics, user characteristics, social characteristics, project characteristics, and organizational characteristics. Next, we identify 15 success factors that have consistently been found to influence IS success: Enjoyment, Trust, User Expectations, Extrinsic Motivation, IT Infrastructure, Task Compatibility, Task Difficulty, Attitudes Toward Technology, Organizational Role, User Involvement, Relationship with Developers, Domain Expert Knowledge, Management Support, Management Processes, and Organizational Competence. Finally, we highlight gaps in our knowledge of success factors and propose a road map for future research.
+
+TLDR: A large number of studies have been conducted during the last decade and a half attempting to identify those factors that contribute to information systems success, but the dependent variable in these studies-I/S success-has been an elusive one to define.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: S. Petter, William H. DeLone, E. McLean
+

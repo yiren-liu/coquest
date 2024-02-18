@@ -1,0 +1,12 @@
+corpus id: 108466700, 
+
+Title: In the Age of the Smart Machine: The Future of Work and Power
+
+Abstract: A noted Harvard social scientist documents the pitfalls and promises of computerized technology in business life..
+
+TLDR: 
+
+Fields of Study: ['Engineering', 'Business']
+
+Authors: Shoshana Zuboff
+

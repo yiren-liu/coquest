@@ -1,0 +1,12 @@
+corpus id: 110118944, 
+
+Title: Of Bicycles, Bakelites, and Bulbs: Toward a Theory of Sociotechnical Change
+
+Abstract: King of the road - the social construction of the safety bicycle the fourth kingdom - the social construction of bakelite the majesty of daylight - the social construction of fluorescent lighting conclusion - the politics of sociotechnical change.
+
+TLDR: 
+
+Fields of Study: ['Sociology', 'Engineering']
+
+Authors: W. Bijker
+

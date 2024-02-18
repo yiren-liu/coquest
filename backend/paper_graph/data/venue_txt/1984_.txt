@@ -1,0 +1,12 @@
+corpus id: 61248947, 
+
+Title: Web Content Accessibility Guidelines (WCAG) 2.0
+
+Abstract: Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content accessible to a wider range of people with disabili ties, including blindness and low vision, deafness and hearing loss, learning disabilities, c ognitive limitations, limited movement,
+
+TLDR: Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, limited movement, and more.
+
+Fields of Study: ['Computer Science']
+
+Authors: Benjamin Caldwell, Michael Cooper, Loretta Guarino Reid, G. Vanderheiden
+

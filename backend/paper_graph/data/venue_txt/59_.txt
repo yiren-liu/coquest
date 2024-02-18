@@ -1,0 +1,12 @@
+corpus id: 220766, 
+
+Title: Computer Self-Efficacy: Development of a Measure and Initial Test
+
+Abstract: This paper discusses the role of individuals' beliefs about their abilities to competently use computers (computer self-efficacy) in the determination of computer use. A survey of Canadian managers and professionals was conducted to develop and validate a measure of computer self-efficacy and to assess both its impacts and antecedents. Computer self- efficacy was found to exert a significant influence on individuals' expectations of the outcomes of using computers, their emotional reactions to computers (affect and anxiety), as well as their actual computer use. An individual's self-efficacy and outcome expecta- tions were found to be positively influenced by the encouragement of others in their work group, as well as others' use of computers. Thus, self-efficacy represents an important individual trait, which moderates organizational influences (such as encouragement and support) on an individual's decision to use computers. Understanding self-efficacy, then, is important to the successful implementation of systems in organizations. The existence of a reliable and valid measure of self-efficacy makes assessment possible and should have implications for organizational support, training, and implementation.
+
+TLDR: Self-efficacy represents an important individual trait, which moderates organizational influences on an individual's decision to use computers, and is important to the successful implementation of systems in organizations.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: Deborah R. Compeau, C. Higgins
+

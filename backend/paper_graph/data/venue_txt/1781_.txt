@@ -1,0 +1,12 @@
+corpus id: 142892841, 
+
+Title: Case Study Research: Design and Methods
+
+Abstract: Foreword, by Donald T. Campbell Preface 1. INTRODUCTION: How to Know Whether and When to Use Case Studies as a Research Method The Case Study as a Research Method Comparing Case Studies With Other Research Methods in the Social Sciences Different Kinds of Case Studies, But a Common Definition Summary 2. DESIGNING CASE STUDIES: Identifying Your Case(s) and Establishing the Logic of Your Case Study General Approach to Designing Case Studies Criteria for Judging the Quality of Research Designs Case Study Designs Modest Advice in Selecting Case Study Designs 3. PREPARING TO COLLECT CASE STUDY EVIDENCE: What You Need to Do Before Starting to Collect Case Study Data The Case Study Investigator: Desired Skills Preparation and Training for a Specific Case Study The Case Study Protocol Screening the Candidate "Cases" for Your Case Study The Pilot Case Study Summary 4. COLLECTING CASE STUDY EVIDENCE: The Principles You Should Follow in Working With Six Sources of Evidence Six Sources of Evidence Three Principles of Data Collection Summary 5. ANALYZING CASE STUDY EVIDENCE: How to Start Your Analysis, Your Analytic Choices, and How They Work An Analytic Strategy: More Than Familiarity With Analytic Tools Five Analytic Techniques Pressing for a High-Quality Analysis Summary 6. REPORTING CASE STUDIES: How and What to Compose Targeting Case Study Reports Case Study Reprots as Part of Larger, Mixed Methods Studies Illustrative Structures for Case Study Compositions Procedures in Doing a Case Study Report What Makes an Examplary Case Study? References Author Index Subject Index About the Author
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: R. Yin
+

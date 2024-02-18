@@ -1,0 +1,12 @@
+corpus id: 381475, 
+
+Title: Contiki - a lightweight and flexible operating system for tiny networked sensors
+
+Abstract: Wireless sensor networks are composed of large numbers of tiny networked devices that communicate untethered. For large scale networks, it is important to be able to download code into the network dynamically. We present Contiki, a lightweight operating system with support for dynamic loading and replacement of individual programs and services. Contiki is built around an event-driven kernel but provides optional preemptive multithreading that can be applied to individual processes. We show that dynamic loading and unloading is feasible in a resource constrained environment, while keeping the base system lightweight and compact.
+
+TLDR: This work presents Contiki, a lightweight operating system with support for dynamic loading and replacement of individual programs and services, built around an event-driven kernel but provides optional preemptive multithreading that can be applied to individual processes.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Dunkels, B. Grönvall, T. Voigt
+

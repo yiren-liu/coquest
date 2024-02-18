@@ -1,0 +1,12 @@
+corpus id: 15554405, 
+
+Title: Power, politics, and MIS implementation
+
+Abstract: Theories of resistance to management information systems (MIS) are important because they guide the implementation strategies and tactics chosen by implementors. Three basic theories of the causes of resistance underlie many prescriptions and rules for MIS implementation. Simply stated, people resist MIS because of their own internal factors, because of poor system design, and because of the interaction of specific system design features with aspects of the organizational context of system use. These theories differ in their basic assumptions about systems, organizations, and resistance; they also differ in predictions that can be derived from them and in their implications for the implementation process. These differences are described and the task of evaluating the theories on the bases of the differences is begun. Data from a case study are used to illustrate the theories and to demonstrate the superiority, for implementors, of the interaction theory.
+
+TLDR: The task of evaluating the theories of resistance to management information systems on the bases of the differences is begun and data from a case study is used to illustrate the theories and to demonstrate the superiority, for implementors, of the interaction theory.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Markus
+

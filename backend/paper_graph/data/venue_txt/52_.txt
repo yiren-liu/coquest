@@ -1,0 +1,12 @@
+corpus id: 207193782, 
+
+Title: From game design elements to gamefulness: defining "gamification"
+
+Abstract: Recent years have seen a rapid proliferation of mass-market consumer software that takes inspiration from video games. Usually summarized as "gamification", this trend connects to a sizeable body of existing concepts and research in human-computer interaction and game studies, such as serious games, pervasive games, alternate reality games, or playful design. However, it is not clear how "gamification" relates to these, whether it denotes a novel phenomenon, and how to define it. Thus, in this paper we investigate "gamification" and the historical origins of the term in relation to precursors and similar concepts. It is suggested that "gamified" applications provide insight into novel, gameful phenomena complementary to playful phenomena. Based on our research, we propose a definition of "gamification" as the use of game design elements in non-game contexts.
+
+TLDR: A definition of "gamification" is proposed as the use of game design elements in non-game contexts and it is suggested that "gamified" applications provide insight into novel, gameful phenomena complementary to playful phenomena.
+
+Fields of Study: ['Computer Science']
+
+Authors: Sebastian Deterding, Dan Dixon, Rilla Khaled, L. Nacke
+

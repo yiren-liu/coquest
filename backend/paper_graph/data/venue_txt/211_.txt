@@ -1,0 +1,12 @@
+corpus id: 382842, 
+
+Title: Annotating Expressions of Opinions and Emotions in Language
+
+Abstract: None
+
+TLDR: The manual annotation process and the results of an inter-annotator agreement study on a 10,000-sentence corpus of articles drawn from the world press are presented.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Wiebe, Theresa Wilson, Claire Cardie
+

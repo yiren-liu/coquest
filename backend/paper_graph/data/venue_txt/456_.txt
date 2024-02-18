@@ -1,0 +1,12 @@
+corpus id: 6386267, 
+
+Title: Implementation intentions: Strong effects of simple plans.
+
+Abstract: When people encounter problems in translating their goals into action (e.g., failing to get started, becoming distracted, or falling into bad habits), they may strategically call on automatic processes in an attempt to secure goal attainment. This can be achieved by plans in the form of implementation intentions that link anticipated critical situations to goal-directed responses ("Whenever situation x arises, I will initiate the goal-directed response y!"). Implementation intentions delegate the control of goal-directed responses to anticipated situational cues, which (when actually encountered) elicit these responses automatically. A program of research demonstrates that implementation intentions further the attainment of goals, and it reveals the underlying processes.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: P. Gollwitzer
+

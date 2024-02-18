@@ -1,0 +1,12 @@
+corpus id: 12502175, 
+
+Title: Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals
+
+Abstract: None
+
+TLDR: This paper explains the cube and roll-up operators, shows how they fit in SQL, explains how users can define new aggregatefunctions for cubes, and discusses efficient techniques to compute the cube.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: J. Gray, S. Chaudhuri, A. Bosworth, Andrew Layman, D. Reichart, Murali Venkatrao, Frank Pellow, H. Pirahesh
+

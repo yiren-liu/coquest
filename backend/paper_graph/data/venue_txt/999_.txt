@@ -1,0 +1,12 @@
+corpus id: 4047127, 
+
+Title: Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence
+
+Abstract: None
+
+TLDR: This work introduces two metrics to quantify forgetting and intransigence that allow for better insights into the behaviour of IL algorithms and presents RWalk, a generalization of EWC++ and Path Integral with a theoretically grounded KL-divergence based perspective.
+
+Fields of Study: ['Computer Science']
+
+Authors: Arslan Chaudhry, P. Dokania, Thalaiyasingam Ajanthan, Philip H. S. Torr
+

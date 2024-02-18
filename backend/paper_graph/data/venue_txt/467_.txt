@@ -1,0 +1,12 @@
+corpus id: 32493971, 
+
+Title: Introduction to Information Retrieval
+
+Abstract: Introduction To Information Retrieval Overdrive Digital. Introduction To Information Retrieval. Introduction To Information Retrieval Putao Ufcg. Introduction To Information Retrieval Arbeitsbereiche. Introduction To Information Retrieval. Introduction To Information Retrieval Stanford Nlp Group. Introduction To Information Retrieval Cs Ucr Edu. Introduction To Information Retrieval By Christopher D. Introduction To Information Retrieval Book. Information Retrieval The Mit Press. Introduction Information Retrieval Uvm. Information Retrieval Lmu Munich. Introduction To Information Retrieval Stanford University. Introduction To Information Retrieval. Introduction To Information Retrieval Amp Models Slideshare. Introduction To Information Retrieval Kangwon Ac Kr. Information Retrieval. Introduction To Information Retrieval Assets. Introduction To Information Retrieval. Introduction To Information Retrieval
+
+TLDR: This chapter discusses Information Retrieval, the science and technology behind information retrieval and retrieval, and some of the techniques used in the retrieval of information.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Larson
+

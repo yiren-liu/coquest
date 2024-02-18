@@ -1,0 +1,12 @@
+corpus id: 61037268, 
+
+Title: Interaction Design: Beyond Human-Computer Interaction
+
+Abstract: A revision of the #1 text in the Human Computer Interaction field, Interaction Design, the third edition is an ideal resource for learning the interdisciplinary skills needed for interaction design, human-computer interaction, information design, web design and ubiquitous computing.The authorsare acknowledged leaders and educators in their field, with a strong global reputation. They bring depth of scope to the subject in this new edition, encompassing the latest technologies and devices including social networking, Web 2.0 and mobile devices. The third edition also adds, develops and updates cases, examples and questions to bring the book in line with the latest in Human Computer Interaction.Interaction Design offers a cross-disciplinary, practical and process-oriented approach to Human Computer Interaction, showing not just what principles ought to apply to Interaction Design, but crucially how they can be applied. The book focuses on how to design interactive products that enhance and extend the way people communicate, interact and work. Motivating examples are included to illustrate both technical, but also social and ethical issues, making the book approachable and adaptable for both Computer Science and non-Computer Science users. Interviews with key HCI luminaries are included and provide an insight into current and future trends.The book has an accompanying website www.id-book.com which has been updated to include resources to match the new edition.
+
+TLDR: Interaction Design offers a cross-disciplinary, practical and process-oriented approach to Human Computer Interaction, showing not just what principles ought to apply to Interaction Design, but crucially how they can be applied.
+
+Fields of Study: ['Computer Science']
+
+Authors: Y. Rogers, H. Sharp, J. Preece
+

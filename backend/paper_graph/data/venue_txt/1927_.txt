@@ -1,0 +1,12 @@
+corpus id: 3803489, 
+
+Title: An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: theoretical considerations and preliminary results.
+
+Abstract: None
+
+TLDR: It is concluded that this form of meditation can be used as the basis for an effective behavioral program in self-regulation for chronic pain patients and key features of the program structure, and the limitations of the present uncontrolled study are discussed.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Kabat‐Zinn, J. Kabat‐Zinn
+

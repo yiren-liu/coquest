@@ -1,0 +1,12 @@
+corpus id: 206080501, 
+
+Title: Extending the technology acceptance model with task-technology fit constructs
+
+Abstract: None
+
+TLDR: The authors' integrated IT utilization model is an extension of TAM to include TTF constructs and provides more explanatory power than either model alone, which should lead to a better understanding of choices about using IT.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: Mark T. Dishaw, D. Strong
+

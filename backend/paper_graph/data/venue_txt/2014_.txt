@@ -1,0 +1,12 @@
+corpus id: 4911368, 
+
+Title: ArrayTrack: A Fine-Grained Indoor Location System
+
+Abstract: With myriad augmented reality, social networking, and retail shopping applications all on the horizon for the mobile handheld, a fast and accurate location technology will become key to a rich user experience. When roaming outdoors, users can usually count on a clear GPS signal for accurate location, but indoors, GPS often fades, and so up until recently, mobiles have had to rely mainly on rather coarse-grained signal strength readings. What has changed this status quo is the recent trend of dramatically increasing numbers of antennas at the indoor access point, mainly to bolster capacity and coverage with multiple-input, multiple-output (MIMO) techniques. We thus observe an opportunity to revisit the important problem of localization with a fresh perspective. This paper presents the design and experimental evaluation of ArrayTrack, an indoor location system that uses MIMO-based techniques to track wireless clients at a very fine granularity in real time, as they roam about a building. With a combination of FPGA and general purpose computing, we have built a prototype of the ArrayTrack system. Our results show that the techniques we propose can pinpoint 41 clients spread out over an indoor office environment to within 23 centimeters median accuracy, with the system incurring just 100 milliseconds latency, making for the first time ubiquitous real-time, fine-grained location available on the mobile handset.
+
+TLDR: The design and experimental evaluation of ArrayTrack is presented, an indoor location system that uses MIMO-based techniques to track wireless clients at a very fine granularity in real time, as they roam about a building, making for the first time ubiquitous real-time, fine-grained location available on the mobile handset.
+
+Fields of Study: ['Computer Science']
+
+Authors: Jie Xiong, Kyle Jamieson
+

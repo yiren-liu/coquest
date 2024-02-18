@@ -1,0 +1,12 @@
+corpus id: 22727274, 
+
+Title: Understanding face recognition.
+
+Abstract: The aim of this paper is to develop a theoretical model and a set of terms for understanding and discussing how we recognize familiar faces, and the relationship between recognition and other aspects of face processing. It is suggested that there are seven distinct types of information that we derive from seen faces; these are labelled pictorial, structural, visually derived semantic, identity-specific semantic, name, expression and facial speech codes. A functional model is proposed in which structural encoding processes provide descriptions suitable for the analysis of facial speech, for analysis of expression and for face recognition units. Recognition of familiar faces involves a match between the products of structural encoding and previously stored structural codes describing the appearance of familiar faces, held in face recognition units. Identity-specific semantic codes are then accessed from person identity nodes, and subsequently name codes are retrieved. It is also proposed that the cognitive system plays an active role in deciding whether or not the initial match is sufficiently close to indicate true recognition or merely a 'resemblance'; several factors are seen as influencing such decisions. This functional model is used to draw together data from diverse sources including laboratory experiments, studies of everyday errors, and studies of patients with different types of cerebral injury. It is also used to clarify similarities and differences between processes for object, word and face recognition.
+
+TLDR: A functional model is proposed in which structural encoding processes provide descriptions suitable for the analysis of facial speech, for analysis of expression and for face recognition units, and it is proposed that the cognitive system plays an active role in deciding whether or not the initial match is sufficiently close to indicate true recognition.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: V. Bruce, A. Young
+

@@ -1,0 +1,12 @@
+corpus id: 1883850, 
+
+Title: Users are not the enemy
+
+Abstract: Many system security departments treat users as a security risk to be controlled. The general consensus is that most users are careless and unmotivated when it comes to system security. In a recent study, we found that users may indeed compromise computer security mechanisms, such as password authentication, both knowing and unknowingly. A closer analysis, however, revealed that such behavior is often caused by the way in which security mechanisms are implemented, and users’ lack of knowledge. We argue that to change this state of affairs, security departments need to communicate more with users, and adopt a usercentered design approach.
+
+TLDR: It is argued that to change this state of affairs, security departments need to communicate more with users, and adopt a usercentered design approach.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Adams, M. Sasse
+

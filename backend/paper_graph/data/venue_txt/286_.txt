@@ -1,0 +1,12 @@
+corpus id: 18140983, 
+
+Title: The Mythical Man-Month
+
+Abstract: The book, The Mythical Man-Month, Addison-Wesley, 1975 (excerpted in Datamation, December 1974), gathers some of the published data about software engineering and mixes it with the assertion of a lot of personal opinions. In this presentation, the author will list some of the assertions and invite dispute or support from the audience. This is intended as a public discussion of the published book, not a regular paper.
+
+TLDR: The author will list some of the assertions in the book and invite dispute or support from the audience in this public discussion of the published book.
+
+Fields of Study: ['Computer Science']
+
+Authors: Frederick P. Brooks
+

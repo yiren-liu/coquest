@@ -1,0 +1,12 @@
+corpus id: 14333234, 
+
+Title: The episodic buffer: a new component of working memory?
+
+Abstract: None
+
+TLDR: The revised model differs from the old principally in focussing attention on the processes of integrating information, rather than on the isolation of the subsystems, which provides a better basis for tackling the more complex aspects of executive control in working memory.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: A. Baddeley
+

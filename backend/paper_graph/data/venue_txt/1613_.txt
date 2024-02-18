@@ -1,0 +1,12 @@
+corpus id: 167983176, 
+
+Title: Executive Perceptions of the Top 10 Soft Skills Needed in Today’s Workplace
+
+Abstract: Hard skills are the technical expertise and knowledge needed for a job. Soft skills are interpersonal qualities, also known as people skills, and personal attributes that one possesses. Business executives consider soft skills a very important attribute in job applicants. Employers want new employees to have strong soft skills, as well as hard skills. This study identified the top 10 soft skills as perceived the most important by business executives: integrity, communication, courtesy, responsibility, social skills, positive attitude, professionalism, flexibility, teamwork, and work ethic.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: M. Robles
+

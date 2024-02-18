@@ -1,0 +1,12 @@
+corpus id: 784862, 
+
+Title: Hidden Markov models.
+
+Abstract: None
+
+TLDR: 'Profiles' of protein structures and sequence alignments can detect subtle homologies and are beginning to appear in the fields of protein-structure prediction and large-scale genome-sequence analysis.
+
+Fields of Study: ['Mathematics', 'Medicine', 'Biology']
+
+Authors: S. Eddy
+

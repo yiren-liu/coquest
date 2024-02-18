@@ -1,0 +1,12 @@
+corpus id: 32869743, 
+
+Title: User Acceptance of Hedonic Information Systems
+
+Abstract: This paper studies the differences in user acceptance models for productivity-oriented (or utilitarian) and pleasure-oriented (or hedonic) information systems. Hedonic information systems aim to provide self-fulfilling rather than instrumental value to the user, are strongly connected to home and leisure activities, focus on the fun-aspect of using information systems, and encourage prolonged rather than productive use. The paper reports a cross-sectional survey on the usage intentions for one hedonic information system. Analysis of this sample supports the hypotheses that perceived enjoyment and perceived ease of use are stronger determinants of intentions to use than perceived usefulness. The paper concludes that the hedonic nature of an information system is an important boundary condition to the validity of the technology acceptance model. Specifically, perceived usefulness loses its dominant predictive value in favor of ease of use and enjoyment.
+
+TLDR: The paper concludes that the hedonic nature of an information system is an important boundary condition to the validity of the technology acceptance model and perceived usefulness loses its dominant predictive value in favor of ease of use and enjoyment.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: H. Heijden
+

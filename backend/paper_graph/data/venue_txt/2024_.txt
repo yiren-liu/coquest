@@ -1,0 +1,12 @@
+corpus id: 2095658, 
+
+Title: Fuzzy Extractors: How to Generate Strong Keys from Biometrics and Other Noisy Data
+
+Abstract: We provide formal definitions and efficient secure techniques for   turning biometric information into keys usable for any cryptographic application, and   reliably and securely authenticating biometric data.
+
+TLDR: This work provides formal definitions and efficient secure techniques for turning biometric information into keys usable for any cryptographic application, and reliably and securely authenticating biometric data.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Y. Dodis, R. Ostrovsky, L. Reyzin, Adam D. Smith
+

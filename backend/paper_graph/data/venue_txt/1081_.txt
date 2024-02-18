@@ -1,0 +1,12 @@
+corpus id: 145719543, 
+
+Title: The social psychology of creativity: A componential conceptualization.
+
+Abstract: Despite the clear importance of social and environmental' influences on creative performance, a social psychology of creativity is yet to be developed. Theory and research have focused almost exclusively on a personality approach to creativity and, to a lesser extent, a cognitive-abilities approach. Following a consideration of the definition and assessment of creativity, a componential framework for conceptualizing creativity is presented here. Including domain-relevant skills, creativity-relevant skills, and task motivation as a set of necessary and sufficient components of creativity, the framework describes the way in which cognitive abilities, personality characteristics, and social factors might contribute to different stages of the creative process. The discussion emphasizes the previously neglected social factors and highlights the contributions that a social psychology of creativity can make to a comprehensive view of creative performance. A striking feature of many phenomenological accounts of creativity is the degree to which outstandingly creative individuals feel influenced by social and environmental factors. In many cases, these factors are quite ordinary, mundane events; it appears that even seemingly insignificant features of the environment can be detrimental or conducive to creativity in some individuals. For example, in a letter to a friend, Tchaikovsky (1906) described the devastating effect that
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: T. M. Amabile
+

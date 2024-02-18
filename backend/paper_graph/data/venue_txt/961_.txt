@@ -1,0 +1,12 @@
+corpus id: 16784591, 
+
+Title: A Partial Least Squares Latent Variable Modeling Approach for Measuring Interaction Effects: Results from a Monte Carlo Simulation Study and an Electronic - Mail Emotion/Adoption Study
+
+Abstract: The ability to detect and accurately estimate the strength of interaction effects are critical issues that are fundamental to social science research in general and IS research in particular. Within the IS discipline, a significant percentage of research has been devoted to examining the conditions and contexts under which relationships may vary, often under the general umbrella of contingency theory (cf. McKeen et al. 1994, Weill and Olson 1989). In our survey of such studies, the majority failed to either detect or provide an estimate of the effect size. In cases where effect sizes are estimated, the numbers are generally small. These results have led some researchers to question both the usefulness of contingency theory and the need to detect interaction effects (e.g., Weill and Olson 1989). This paper addresses this issue by providing a new latent variable modeling approach that can give more accurate estimates of interaction effects by accounting for the measurement error that attenuates the estimated relationships. The capacity of this approach at recovering true effects in comparison to summated regression is demonstrated in a Monte Carlo study that creates a simulated data set in which the underlying true effects are known. Analysis of a second, empirical data set is included to demonstrate the technique's use within IS theory. In this second analysis, substantial direct and interaction effects of enjoyment on electronic-mail adoption are shown to exist.
+
+TLDR: A new latent variable modeling approach is provided that can give more accurate estimates of interaction effects by accounting for the measurement error that attenuates the estimated relationships.
+
+Fields of Study: ['Computer Science', 'Economics']
+
+Authors: Wynne W. Chin, Barbara L. Marcolin, P. R. Newsted
+

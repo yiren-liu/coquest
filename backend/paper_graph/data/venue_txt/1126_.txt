@@ -1,0 +1,12 @@
+corpus id: 6056852, 
+
+Title: MDA : A Formal Approach to Game Design and Game Research
+
+Abstract: In this paper we present the MDA framework (standing for Mechanics, Dynamics, and Aesthetics), developed and taught as part of the Game Design and Tuning Workshop at the Game Developers Conference, San Jose 2001-2004. MDA is a formal approach to understanding games (cid:150) one which attempts to bridge the gap between game design and development, game criticism, and technical game research. We believe this methodology will clarify and strengthen the iterative processes of developers, scholars and researchers alike, making it easier for all parties to decompose, study and design a broad class of game designs and game artifacts.
+
+TLDR: The MDA framework is presented, developed and taught as part of the Game Design and Tuning Workshop at the Game Developers Conference, San Jose 2001-2004, with the aim of making it easier for all parties to decompose, study and design a broad class of game designs and game artifacts.
+
+Fields of Study: ['Computer Science']
+
+Authors: Robin Hunicke, Marc G. Leblanc, Robert Zubek
+

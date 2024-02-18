@@ -1,0 +1,12 @@
+corpus id: 54903310, 
+
+Title: Common Beliefs and Reality About PLS
+
+Abstract: This article addresses Rönkkö and Evermann’s criticisms of the partial least squares (PLS) approach to structural equation modeling. We contend that the alleged shortcomings of PLS are not due to problems with the technique, but instead to three problems with Rönkkö and Evermann’s study: (a) the adherence to the common factor model, (b) a very limited simulation designs, and (c) overstretched generalizations of their findings. Whereas Rönkkö and Evermann claim to be dispelling myths about PLS, they have in reality created new myths that we, in turn, debunk. By examining their claims, our article contributes to reestablishing a constructive discussion of the PLS method and its properties. We show that PLS does offer advantages for exploratory research and that it is a viable estimator for composite factor models. This can pose an interesting alternative if the common factor model does not hold. Therefore, we can conclude that PLS should continue to be used as an important statistical tool for management and organizational research, as well as other social science disciplines.
+
+TLDR: It is shown that PLS does offer advantages for exploratory research and that it is a viable estimator for composite factor models, and can pose an interesting alternative if the common factor model does not hold.
+
+Fields of Study: ['Business', 'Computer Science']
+
+Authors: Joerg Henseler, T. Dijkstra, M. Sarstedt, C. Ringle, A. Diamantopoulos, D. Straub, D. Ketchen, Joseph F. Hair, G. Hult, R. Calantone
+

@@ -1,0 +1,12 @@
+corpus id: 97383637, 
+
+Title: A solution for the best rotation to relate two sets of vectors
+
+Abstract: A simple procedure is derived which determines a best rotation of a given vector set into a second vector set by minimizing the weighted sum of squared deviations. The method is generalized for any given metric constraint on the transformation.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: W. Kabsch
+

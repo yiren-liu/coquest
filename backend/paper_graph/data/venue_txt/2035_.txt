@@ -1,0 +1,12 @@
+corpus id: 27521765, 
+
+Title: The Gamification of Learning and Instruction: Game-Based Methods and Strategies for Training and Education
+
+Abstract: DriveGamification in Learning and EducationGamify Your ClassroomGamification of LearningThe Impact of the 4th Industrial Revolution on Engineering EducationThe Gamification of Learning in Virtual WorldsGamification in English Teaching and LearningGamification with MoodleGame Design for LearningActionable GamificationThe Gamification of Learning and Instruction FieldbookGame-Based Learning and the Power of PlayGamification MindsetGamification in Higher EducationGamification in Education: Breakthroughs in Research and PracticeThe Gamification of Learning and InstructionLernen mit Big DataAugmented Reality Games IIDas Design Thinking PlaybookGamify your LifePlay to LearnGamification of Learning and Teaching in SchoolsGamification in Education and BusinessData Analytics Approaches in Educational Games and Gamification SystemsDie Kunst des Game DesignsDie Wirkung von Gamification auf Motivation und LeistungLehrerdämmerungGamificationGamestor mingGamification for Interactive LearningHandbook of Research on Solving Modern Healthcare Challenges With GamificationBesser als die Wirklichkeit!MicrolearningTelekommunikation und FremdsprachenunterrichtTransforming Learning and
+
+TLDR: A simulation devoted to covering the steps involved in typical firefighter training known as REVAS, one of many examples covered by Karl Kapp (2012) in his new book, The gamification of learning and instruction: game-based methods and strategies for training and education.
+
+Fields of Study: ['Computer Science']
+
+Authors: John W. Rice
+

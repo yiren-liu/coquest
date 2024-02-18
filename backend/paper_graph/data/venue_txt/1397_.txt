@@ -1,0 +1,12 @@
+corpus id: 142594195, 
+
+Title: Qualitative research : theory, method and practice
+
+Abstract: PART ONE: INTRODUCTION Introducing Qualitative Research - David Silverman PART TWO: OBSERVATION Ethnography - Isabelle Baszanger and Nicolas Dodier Relating the Part to the Whole Building Bridges - Gale Miller and Kathryn J Fox The Possibility of Analytic Dialogue between Ethnography, Conversation Analysis and Foucault PART THREE: TEXTS Analyzing Documentary Realities - Paul Atkinson and Amanda Coffey Doing Things with Documents - Lindsay Prior Internet Communication as a Tool for Qualitative Research - Annette Markham PART FOUR: INTERVIEWS AND FOCUS GROUPS The 'Inside' and the 'Outside' - Jody Miller and Barry Glassner Finding Realities in Interviews The Active Interview - James A Holstein and Jaber F Gubrium Membership Categorization and Interview Accounts - Carolyn Baker Focus Group Research - Sue Wilkinson PART FIVE: TALK Discourse Analysis as a Way of Analyzing Naturally Occurring Talk - Jonathan Potter Conversation Analysis and Institutional Talk - John Heritage Analyzing Data PART SIX: VISUAL DATA The Conceptualisation and Analysis of Visual Data - Michael Emmison Analyzing Face to Face Interaction - Christian Heath Video and the Visual and Material PART SEVEN: VALIDITY Reliability and Validity in Research Based on Transcripts - Anssi Per[um]akyl[um]a PART EIGHT: THE WIDER COMMUNITY Addressing Social Problems through Qualitative Research - Michael Bloor Using Qualitative Data and Analysis - Gale Miller, Robert Dingwall and Elizabeth Murphy Reflections on Organizational Research PART NINE: POSTSCRIPT Who Cares about 'Experience'? Missing Issues in Qualitative Research - David Silverman
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: D. Silverman
+

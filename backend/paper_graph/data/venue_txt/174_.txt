@@ -1,0 +1,12 @@
+corpus id: 10985974, 
+
+Title: A tutorial on human activity recognition using body-worn inertial sensors
+
+Abstract: The last 20 years have seen ever-increasing research activity in the field of human activity recognition. With activity recognition having considerably matured, so has the number of challenges in designing, implementing, and evaluating activity recognition systems. This tutorial aims to provide a comprehensive hands-on introduction for newcomers to the field of human activity recognition. It specifically focuses on activity recognition using on-body inertial sensors. We first discuss the key research challenges that human activity recognition shares with general pattern recognition and identify those challenges that are specific to human activity recognition. We then describe the concept of an Activity Recognition Chain (ARC) as a general-purpose framework for designing and evaluating activity recognition systems. We detail each component of the framework, provide references to related research, and introduce the best practice methods developed by the activity recognition research community. We conclude with the educational example problem of recognizing different hand gestures from inertial sensors attached to the upper and lower arm. We illustrate how each component of this framework can be implemented for this specific activity recognition problem and demonstrate how different implementations compare and how they impact overall recognition performance.
+
+TLDR: This tutorial aims to provide a comprehensive hands-on introduction for newcomers to the field of human activity recognition using on-body inertial sensors and describes the concept of an Activity Recognition Chain (ARC) as a general-purpose framework for designing and evaluating activity recognition systems.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: A. Bulling, Ulf Blanke, B. Schiele
+

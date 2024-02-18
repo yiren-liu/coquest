@@ -1,0 +1,12 @@
+corpus id: 5641133, 
+
+Title: Status quo bias in decision making
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: William Samuelson, R. Zeckhauser
+

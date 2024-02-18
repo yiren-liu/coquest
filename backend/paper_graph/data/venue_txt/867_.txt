@@ -1,0 +1,12 @@
+corpus id: 1900911, 
+
+Title: LabelMe: A Database and Web-Based Tool for Image Annotation
+
+Abstract: None
+
+TLDR: A web-based tool that allows easy image annotation and instant sharing of such annotations is developed and a large dataset that spans many object categories, often containing multiple instances over a wide variety of images is collected.
+
+Fields of Study: ['Computer Science']
+
+Authors: Bryan C. Russell, A. Torralba, K. Murphy, W. Freeman
+

@@ -1,0 +1,12 @@
+corpus id: 24003687, 
+
+Title: Tcl and the Tk Toolkit
+
+Abstract: Copyright © 1993 Addison-Wesley Publishing Company, Inc. All rights reserved. Duplication of this draft is permitted by individuals for personal use only. Any other form of duplication or reproduction requires prior written permission of the author or publisher. This statement must be easily visible on the first page of any reproduced copies. The publisher does not offer warranties in regard to this draft.
+
+TLDR: This draft is intended for educational purposes only and the publisher does not offer warranties in regard to this draft.
+
+Fields of Study: ['Computer Science', 'Business']
+
+Authors: J. Ousterhout
+

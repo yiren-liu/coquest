@@ -1,0 +1,12 @@
+corpus id: 30109998, 
+
+Title: Using PLS path modeling in new technology research: updated guidelines
+
+Abstract: Purpose – Partial least squares (PLS) path modeling is a variance-based structural equation modeling (SEM) technique that is widely applied in business and social sciences. Its ability to model composites and factors makes it a formidable statistical tool for new technology research. Recent reviews, discussions, and developments have led to substantial changes in the understanding and use of PLS. The paper aims to discuss these issues. Design/methodology/approach – This paper aggregates new insights and offers a fresh look at PLS path modeling. It presents new developments, such as consistent PLS, confirmatory composite analysis, and the heterotrait-monotrait ratio of correlations. Findings – PLS path modeling is the method of choice if a SEM contains both factors and composites. Novel tests of exact fit make a confirmatory use of PLS path modeling possible. Originality/value – This paper provides updated guidelines of how to use PLS and how to report and interpret its results.
+
+TLDR: This paper presents new developments, such as consistent PLS, confirmatory composite analysis, and the heterotrait-monotrait ratio of correlations, and updated guidelines of how to use PLS and how to report and interpret its results.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: J. Henseler, Geoffrey S. Hubona, P. A. Ray
+

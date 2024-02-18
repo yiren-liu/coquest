@@ -1,0 +1,12 @@
+corpus id: 19283900, 
+
+Title: The CAVE: audio visual experience automatic virtual environment
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Cruz-Neira, D. Sandin, T. DeFanti, R. Kenyon, J. Hart
+

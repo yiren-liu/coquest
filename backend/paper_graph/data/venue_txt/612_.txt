@@ -1,0 +1,12 @@
+corpus id: 17573771, 
+
+Title: Attitude-behavior relations: A theoretical analysis and review of empirical research.
+
+Abstract: Research on the relation between attitude and behavior is examined in light of the correspondence between attitudinal and behavioral entities. Such entities are defined by their target, action, context, and time elements. A review of available empirical research supports the contention that strong attitude-behavior relations dre obtained only under high correspondence between at least the target and action elements of the attitudinal and behavioral entities. This conclusion is compared with the rather pessimistic assessment of the utility of the attitude concept found in much contemporary social psychological literature.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: I. Ajzen, M. Fishbein
+

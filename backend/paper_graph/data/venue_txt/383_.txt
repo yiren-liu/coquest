@@ -1,0 +1,12 @@
+corpus id: 12534659, 
+
+Title: DeFT: A Conceptual Framework for Considering Learning with Multiple Representations.
+
+Abstract: None
+
+TLDR: The utility of the DeFT framework is proposed to be in identifying a broad range of factors that influence learning, reconciling inconsistent experimental findings, revealing under-explored areas of multi-representational research and pointing forward to potential design heuristics for learning with multiple representations.
+
+Fields of Study: ['Psychology']
+
+Authors: S. Ainsworth
+

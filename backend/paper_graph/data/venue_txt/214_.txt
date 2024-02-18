@@ -1,0 +1,12 @@
+corpus id: 144573008, 
+
+Title: Studies in Ethnomethodology
+
+Abstract: 1. What is Ethnomethodology?. 2. Studies of the Routine Grounds of Everyday Activities. 3. Common Sense Knowledge of Social Structures: The Documentary Method of Interpretation in Lay and Professional Fact Finding. 4. Some Rules of Correct Decisions that Jurors Respect. 5. Passing and the Managed Achievement of Sex Status in the Intersexed Person. 6. "Good Organizational Reasons for a Bada Clinic Records". 7. Methodological Adequacy in the Quantitative Study of Selection Criteria and Selection Practices in Psychiatric Outpatient Clinics. 8. The Rational Properties of Scientific and Common Sense Activities. Appendix.
+
+TLDR: This work focuses on Ethnomethodology, which investigates the role of sex status in the lives of the Intersexed Person and some of the rules of Correct Decisions that Jurors Respect.
+
+Fields of Study: ['Sociology', 'Psychology']
+
+Authors: H. Garfinkel
+

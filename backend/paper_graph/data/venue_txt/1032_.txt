@@ -1,0 +1,12 @@
+corpus id: 143173821, 
+
+Title: A Theory of Cognitive Dissonance
+
+Abstract: Cognitive dissonance theory links actions and attitudes. It holds that dissonance is experienced whenever one cognition that a person holds follows from the opposite of at least one other cognition that the person holds. The magnitude of dissonance is directly proportional to the number of discrepant cognitions and inversely proportional to the number of consonant cognitions that a person has. The relative weight of any discrepant or consonant element is a function of its Importance.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: L. Festinger
+

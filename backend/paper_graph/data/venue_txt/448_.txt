@@ -1,0 +1,12 @@
+corpus id: 18384521, 
+
+Title: Why do people play on-line games? An extended TAM with social influences and flow experience
+
+Abstract: None
+
+TLDR: This study applies the technology acceptance model (TAM) that incorporates social influences and flow experience as belief-related constructs to predict users' acceptance of on-line games to reveal that social norms, attitude, andflow experience explain about 80% of game playing.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Chin-Lung Hsu, Hsi-Peng Lu
+

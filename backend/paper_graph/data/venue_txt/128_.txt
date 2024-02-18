@@ -1,0 +1,12 @@
+corpus id: 206156123, 
+
+Title: Motivations for Play in Online Games
+
+Abstract: An empirical model of player motivations in online games provides the foundation to understand and assess how players differ from one another and how motivations of play relate to age, gender, usage patterns, and in-game behaviors. In the current study, a factor analytic approach was used to create an empirical model of player motivations. The analysis revealed 10 motivation subcomponents that grouped into three overarching components (achievement, social, and immersion). Relationships between motivations and demographic variables (age, gender, and usage patterns) are also presented.
+
+TLDR: An empirical model of player motivations in online games provides the foundation to understand and assess how players differ from one another and how motivations of play relate to age, gender, usage patterns, and in-game behaviors.
+
+Fields of Study: ['Computer Science', 'Medicine', 'Engineering']
+
+Authors: N. Yee
+

@@ -1,0 +1,12 @@
+corpus id: 207194178, 
+
+Title: How do humans sketch objects?
+
+Abstract: Humans have used sketching to depict our visual world since prehistoric times. Even today, sketching is possibly the only rendering technique readily available to all humans. This paper is the first large scale exploration of human sketches. We analyze the distribution of non-expert sketches of everyday objects such as 'teapot' or 'car'. We ask humans to sketch objects of a given category and gather 20,000 unique sketches evenly distributed over 250 object categories. With this dataset we perform a perceptual study and find that humans can correctly identify the object category of a sketch 73% of the time. We compare human performance against computational recognition methods. We develop a bag-of-features sketch representation and use multi-class support vector machines, trained on our sketch dataset, to classify sketches. The resulting recognition method is able to identify unknown sketches with 56% accuracy (chance is 0.4%). Based on the computational model, we demonstrate an interactive sketch recognition system. We release the complete crowd-sourced dataset of sketches to the community.
+
+TLDR: This paper is the first large scale exploration of human sketches, developing a bag-of-features sketch representation and using multi-class support vector machines, trained on the sketch dataset, to classify sketches.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Eitz, James Hays, M. Alexa
+

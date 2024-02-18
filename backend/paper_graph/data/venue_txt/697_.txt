@@ -1,0 +1,12 @@
+corpus id: 455476, 
+
+Title: Power failure: why small sample size undermines the reliability of neuroscience
+
+Abstract: None
+
+TLDR: It is shown that the average statistical power of studies in the neurosciences is very low, and the consequences include overestimates of effect size and low reproducibility of results.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: K. Button, J. Ioannidis, C. Mokrysz, Brian A. Nosek, J. Flint, E. Robinson, M. Munafo
+

@@ -1,0 +1,12 @@
+corpus id: 15177006, 
+
+Title: Protection motivation and deterrence: a framework for security policy compliance in organisations
+
+Abstract: None
+
+TLDR: An Integrated Protection Motivation and Deterrence model of security policy compliance under the umbrella of Taylor-Todd's Decomposed Theory of Planned Behaviour is developed and it is found that employees in the sample underestimate the probability of security breaches.
+
+Fields of Study: ['Computer Science', 'Business']
+
+Authors: Tejaswini C. Herath, H. Rao
+

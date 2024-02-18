@@ -1,0 +1,12 @@
+corpus id: 3348287, 
+
+Title: Activity recognition using cell phone accelerometers
+
+Abstract: Mobile devices are becoming increasingly sophisticated and the latest generation of smart cell phones now incorporates many diverse and powerful sensors. These sensors include GPS sensors, vision sensors (i.e., cameras), audio sensors (i.e., microphones), light sensors, temperature sensors, direction sensors (i.e., magnetic compasses), and acceleration sensors (i.e., accelerometers). The availability of these sensors in mass-marketed communication devices creates exciting new opportunities for data mining and data mining applications. In this paper we describe and evaluate a system that uses phone-based accelerometers to perform activity recognition, a task which involves identifying the physical activity a user is performing. To implement our system we collected labeled accelerometer data from twenty-nine users as they performed daily activities such as walking, jogging, climbing stairs, sitting, and standing, and then aggregated this time series data into examples that summarize the user activity over 10- second intervals. We then used the resulting training data to induce a predictive model for activity recognition. This work is significant because the activity recognition model permits us to gain useful knowledge about the habits of millions of users passively---just by having them carry cell phones in their pockets. Our work has a wide range of applications, including automatic customization of the mobile device's behavior based upon a user's activity (e.g., sending calls directly to voicemail if a user is jogging) and generating a daily/weekly activity profile to determine if a user (perhaps an obese child) is performing a healthy amount of exercise.
+
+TLDR: This work describes and evaluates a system that uses phone-based accelerometers to perform activity recognition, a task which involves identifying the physical activity a user is performing, and has a wide range of applications, including automatic customization of the mobile device's behavior based upon a user's activity.
+
+Fields of Study: ['Computer Science']
+
+Authors: Jennifer R. Kwapisz, Gary M. Weiss, Samuel Moore
+

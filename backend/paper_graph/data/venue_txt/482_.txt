@@ -1,0 +1,12 @@
+corpus id: 16192025, 
+
+Title: Understanding and Predicting Electronic Commerce Adoption: An Extension of the Theory of Planned Behavior
+
+Abstract: This paper extends Ajzen's (1991) theory of planned behavior (TPB) to explain and predict the process of e-commerce adoption by consumers. The process is captured through two online consumer behaviors: (1) getting information and (2) purchasing a product from a Web vendor. First, we simultaneously model the association between these two contingent online behaviors and their respective intentions by appealing to consumer behavior theories and the theory of implementation intentions, respectively. Second, following TPB, we derive for each behavior its intention, attitude, subjective norm, and perceived behavioral control (PBC). Third, we elicit and test a comprehensive set of salient beliefs for each behavior.  A longitudinal study with online consumers supports the proposed e-commerce adoption model, validating the predictive power of TPB and the proposed conceptualization of PBC as a higher-order factor formed by self-efficacy and controllability. Our findings stress the importance of trust and technology adoption variables (perceived usefulness and ease of use) as salient beliefs for predicting e-commerce adoption, justifying the integration of trust and technology adoption variables within the TPB framework. In addition, technological characteristics (download delay, Website navigability, and information protection), consumer skills, time and monetary resources, and product characteristics (product diagnosticity and product value) add to the explanatory and predictive power of our model. Implications for Information Systems, e-commerce, TPB, and the study of trust are discussed.
+
+TLDR: A longitudinal study with online consumers supports the proposed e-commerce adoption model, validating the predictive power of TPB and the proposed conceptualization of PBC as a higher-order factor formed by self-efficacy and controllability.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: P. Pavlou, Mendel Fygenson
+

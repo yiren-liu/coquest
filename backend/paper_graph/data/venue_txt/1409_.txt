@@ -1,0 +1,12 @@
+corpus id: 11662013, 
+
+Title: Systems Competition and Network Effects
+
+Abstract: This paper discusses firm behavior, market performance, and the public and private institutions that arise in systems markets, i.e., markets where consumers use compatible components together to generate benefits. In such markets, which include communications networks and 'hardware/software' networks, popular products are inherently more valuable. These 'network effects' can drive corporate strategies and are critical in understanding innovation in many high-technology markets. The discussion here emphasizes the dynamics of consumer adoption decisions in the presence of network effects, competition between incompatible systems, and how suppliers choose which components are compatible and which are not.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: M. Katz, C. Shapiro
+

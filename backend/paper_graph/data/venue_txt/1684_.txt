@@ -1,0 +1,12 @@
+corpus id: 1941040, 
+
+Title: The affect heuristic
+
+Abstract: None
+
+TLDR: In this paper, the development of the affect heuristic is traced across a variety of research paths followed by ourselves and many others and some of the important practical implications resulting from ways that this heuristic impacts the authors' daily lives are discussed.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: P. Slovic, M. Finucane, E. Peters, D. MacGregor
+

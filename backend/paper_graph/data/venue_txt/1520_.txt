@@ -1,0 +1,12 @@
+corpus id: 8609596, 
+
+Title: Is There Social Capital in a Social Network Site?: Facebook Use and College Students' Life Satisfaction, Trust, and Participation
+
+Abstract: This study examines if Facebook, one of the most popular social network sites among college students in the U.S., is related to attitudes and behaviors that enhance individuals' social capital. Using data from a random web survey of college students across Texas (n = 2,603), we find positive relationships between intensity of Facebook use and students' life satisfaction, social trust, civic engagement, and political participation. While these findings should ease the concerns of those who fear that Facebook has mostly negative effects on young adults, the positive and significant associations between Facebook variables and social capital were small, suggesting that online social networks are not the most effective solution for youth disengagement from civic duty and democracy.
+
+TLDR: Positive relationships between intensity of Facebook use and students' life satisfaction, social trust, civic engagement, and political participation are found, suggesting that online social networks are not the most effective solution for youth disengagement from civic duty and democracy.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: S. Valenzuela, Namsu Park, Kerk F. Kee
+

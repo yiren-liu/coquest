@@ -1,0 +1,12 @@
+corpus id: 215803390, 
+
+Title: Mental health problems and social media exposure during COVID-19 outbreak
+
+Abstract: Huge citizens expose to social media during a novel coronavirus disease (COVID-19) outbroke in Wuhan, China. We assess the prevalence of mental health problems and examine their association with social media exposure. A cross-sectional study among Chinese citizens aged≥18 years old was conducted during Jan 31 to Feb 2, 2020. Online survey was used to do rapid assessment. Total of 4872 participants from 31 provinces and autonomous regions were involved in the current study. Besides demographics and social media exposure (SME), depression was assessed by The Chinese version of WHO-Five Well-Being Index (WHO-5) and anxiety was assessed by Chinese version of generalized anxiety disorder scale (GAD-7). multivariable logistic regressions were used to identify associations between social media exposure with mental health problems after controlling for covariates. The prevalence of depression, anxiety and combination of depression and anxiety (CDA) was 48.3% (95%CI: 46.9%-49.7%), 22.6% (95%CI: 21.4%-23.8%) and 19.4% (95%CI: 18.3%-20.6%) during COVID-19 outbroke in Wuhan, China. More than 80% (95%CI:80.9%-83.1%) of participants reported frequently exposed to social media. After controlling for covariates, frequently SME was positively associated with high odds of anxiety (OR = 1.72, 95%CI: 1.31–2.26) and CDA (OR = 1.91, 95%CI: 1.52–2.41) compared with less SME. Our findings show there are high prevalence of mental health problems, which positively associated with frequently SME during the COVID-19 outbreak. These findings implicated the government need pay more attention to mental health problems, especially depression and anxiety among general population and combating with “infodemic” while combating during public health emergency.
+
+TLDR: There are high prevalence of mental health problems, which positively associated with frequently SME during the COVID-19 outbreak, and the government need pay more attention to mental health issues among general population and combating with “infodemic” while combating during public health emergency.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: Junling Gao, P. Zheng, Yingnan Jia, Hao Chen, Yimeng Mao, Suhong Chen, Yi Wang, H. Fu, J. Dai
+

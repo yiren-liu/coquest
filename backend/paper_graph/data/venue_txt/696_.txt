@@ -1,0 +1,12 @@
+corpus id: 6937964, 
+
+Title: Attitudinal effects of mere exposure.
+
+Abstract: The hypothesis is offered that mere repeated exposure of the individual to a stimulus object enhances his attitude toward it. By "mere" exposure is meant a condition making the stimulus accessible to the individual's perception. Support for the hypothesis consists of 4 types of evidence, presented and reviewed: (a) the correlation between affective connotation of words and word frequency; (b) the effect of experimentally manipulated frequency of exposure upon the affective connotation of nonsense words and symbols; (c) the correlation between word frequency and the attitude to their referents j (d) the effects of experimentally manipulated frequency of exposure on attitude. The relevance for the exposure-attitude hypothesis of the exploration theory and of the semantic satiation findings were examined.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Zajonc
+

@@ -1,0 +1,12 @@
+corpus id: 168139204, 
+
+Title: Evaluating structural equation models with unobservable variables and measurement error.
+
+Abstract: The statistical tests used in the analysis of structural equation models with unobservable variables and measurement error are examined. A drawback of the commonly applied chi square test, in addit...
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: C. Fornell, D. Larcker
+

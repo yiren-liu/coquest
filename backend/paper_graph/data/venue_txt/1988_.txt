@@ -1,0 +1,12 @@
+corpus id: 34000088, 
+
+Title: Pooling of Unshared Information in Group Decision Making: Biased Information Sampling During Discussion
+
+Abstract: Decision-making groups can potentially benefit from pooling members' information, particularly when members individually have partial and biased information but collectively can compose an unbiased characterization of the decision alternatives. The proposed biased sampling model of group discussion, however, suggests that group members often fail to effectively pool their information because discussion tends to be dominated by (a) information that members hold in common before discussion and (b) information that supports members' existent preferences. In a political caucus simulation, group members individually read candidate descriptions that contained partial information biased against the most favorable candidate and then discussed the candidates as a group. Even though groups could have produced unbiased composites of the candidates through discussion, they decided in favor of the candidate initially preferred by a plurality rather than the most favorable candidate. Group members' pre- and postdiscussion recall of candidate attributes indicated that discussion tended to perpetuate, not to correct, members' distorted pictures of the candidates.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: G. Stasser, William Titus
+

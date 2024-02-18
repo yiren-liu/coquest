@@ -1,0 +1,12 @@
+corpus id: 13391930, 
+
+Title: Validation Guidelines for IS Positivist Research
+
+Abstract: The issue of whether IS positivist researchers were validating their instruments sufficiently was initially raised fifteen years ago. Rigor in IS research is still one of the critical scientific issues facing the field. Without solid validation of the instruments that are used to gather data on which findings and interpretations are based, the very scientific basis of the profession is threatened. This study builds on four prior retrospectives of IS research that conclude that IS positivist researchers continue to face major barriers in instrument, statistical, and other forms of validation. It goes beyond these studies by offering analyses of the state-of-the-art of research validities and deriving specific heuristics for research practice in the validities. Some of these heuristics will, no doubt, be controversial. But we believe that it is time for the IS academic profession to bring such issues into the open for community debate. This article is a first step in that direction. Based on our interpretation of the importance of a long list of validities, this paper suggests heuristics for reinvigorating the quest for validation in IS research via content/construct validity, reliability, manipulation validity, and statistical conclusion validity. New guidelines for validation and new research directions are offered.
+
+TLDR: Heuristics for reinvigorating the quest for validation in IS research via content/construct validity, reliability, manipulation validity, and statistical conclusion validity are suggested and new guidelines for validation and new research directions are offered.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: D. Straub, Marie-Claude Boudreau, D. Gefen
+

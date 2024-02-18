@@ -1,0 +1,12 @@
+corpus id: 57128451, 
+
+Title: Research design: qualitative, quantitative, and mixed methods approaches
+
+Abstract: Nova edicao do conhecido livro sobre metodologia de pesquisa de Creswell. Originalmente pensado no campo da Educacao, o autor ficou muito conhecido tambem em Administracao. Nesta nova edicao, ele procura sair da dicotomia metodos quantitativos x qualitativos, com uma otima discussao adicional sobre metodos mistos. Como um todo, e uma obra excelente de referencia para cursos introdutorios de metodologia de pesquisa em programas de pos-graduacao.
+
+TLDR: 
+
+Fields of Study: ['Philosophy']
+
+Authors: Miguel P. Caldas
+

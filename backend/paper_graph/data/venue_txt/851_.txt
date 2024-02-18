@@ -1,0 +1,12 @@
+corpus id: 5639435, 
+
+Title: Adaptive linear step-up procedures that control the false discovery rate
+
+Abstract: The linear step-up multiple testing procedure controls the false discovery rate at the desired level q for independent and positively dependent test statistics. When all null hypotheses are true, and the test statistics are independent and continuous, the bound is sharp. When some of the null hypotheses are not true, the procedure is conservative by a factor which is the proportion m-sub-0/m of the true null hypotheses among the hypotheses. We provide a new two-stage procedure in which the linear step-up procedure is used in stage one to estimate m-sub-0, providing a new level q′ which is used in the linear step-up procedure in the second stage. We prove that a general form of the two-stage procedure controls the false discovery rate at the desired level q. This framework enables us to study analytically the properties of other procedures that exist in the literature. A simulation study is presented that shows that two-stage adaptive procedures improve in power over the original procedure, mainly because they provide tighter control of the false discovery rate. We further study the performance of the current suggestions, some variations of the procedures, and previous suggestions, in the case where the test statistics are positively dependent, a case for which the original procedure controls the false discovery rate. In the setting studied here the newly proposed two-stage procedure is the only one that controls the false discovery rate. The procedures are illustrated with two examples of biological importance. Copyright 2006, Oxford University Press.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: Y. Benjamini, A. Krieger, D. Yekutieli
+

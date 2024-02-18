@@ -1,0 +1,12 @@
+corpus id: 53315995, 
+
+Title: Procrustes methods in the statistical analysis of shape
+
+Abstract: Procrustes Methods in the Statistical Analysis of Shape. Journal of the Royal Statistical Society. Basic techniques such as Procrustes analysis, tan.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: C. Goodall
+

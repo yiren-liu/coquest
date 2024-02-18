@@ -1,0 +1,12 @@
+corpus id: 5324521, 
+
+Title: An experimental comparison of min-cut/max- flow algorithms for energy minimization in vision
+
+Abstract: None
+
+TLDR: The goal of this paper is to provide an experimental comparison of the efficiency of min-cut/max flow algorithms for applications in vision, comparing the running times of several standard algorithms, as well as a new algorithm that is recently developed.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: Yuri Boykov, V. Kolmogorov
+

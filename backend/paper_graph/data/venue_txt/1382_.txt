@@ -1,0 +1,12 @@
+corpus id: 16489081, 
+
+Title: The do re mi's of everyday life: the structure and personality correlates of music preferences.
+
+Abstract: The present research examined individual differences in music preferences. A series of 6 studies investigated lay beliefs about music, the structure underlying music preferences, and the links between music preferences and personality. The data indicated that people consider music an important aspect of their lives and listening to music an activity they engaged in frequently. Using multiple samples, methods, and geographic regions, analyses of the music preferences of over 3,500 individuals converged to reveal 4 music-preference dimensions: Reflective and Complex, Intense and Rebellious, Upbeat and Conventional, and Energetic and Rhythmic. Preferences for these music dimensions were related to a wide array of personality dimensions (e.g., Openness), self-views (e.g., political orientation), and cognitive abilities (e.g., verbal IQ).
+
+TLDR: The data indicated that people consider music an important aspect of their lives and listening to music an activity they engaged in frequently, and the links between music preferences and personality were related to a wide array of personality dimensions.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: P. Rentfrow, S. Gosling
+

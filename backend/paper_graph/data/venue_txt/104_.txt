@@ -1,0 +1,12 @@
+corpus id: 144860444, 
+
+Title: Homophily, Selection, and Socialization in Adolescent Friendships
+
+Abstract: Longitudinal sociometric data on adolescent friendship pairs, friends-to-be, and former friends are examined to assess levels of homophily on four attributes (frequency of current marijuana, use, level of educational aspirations, political orientation, and participation in minor delinquency) at various stages of friendship formation and dissolution. In addition, estimates are developed of the extent to which observed homophily in friendship dyads results from a process of selection (assortative pairing), in which similarity precedes association and the extent to which it results from a process of socialization in which association leads to similarity. The implications of the results for interpreting estimates of peer influence derived from cross-sectional data are discussed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Kandel
+

@@ -1,0 +1,12 @@
+corpus id: 3654176, 
+
+Title: The Smartphone Addiction Scale: Development and Validation of a Short Version for Adolescents
+
+Abstract: Objective This study was designed to investigate the revised and short version of the smartphone addiction scale and the proof of its validity in adolescents. In addition, it suggested cutting off the values by gender in order to determine smartphone addiction and elaborate the characteristics of smartphone usage in adolescents. Method A set of questionnaires were provided to a total of 540 selected participants from April to May of 2013. The participants consisted of 343 boys and 197 girls, and their average age was 14.5 years old. The content validity was performed on a selection of shortened items, while an internal-consistency test was conducted for the verification of its reliability. The concurrent validity was confirmed using SAS, SAPS and KS-scale. Receiver operating characteristics analysis was conducted to suggest cut-off. Results The 10 final questions were selected using content validity. The internal consistency and concurrent validity of SAS were verified with a Cronbach's alpha of 0.911. The SAS-SV was significantly correlated with the SAS, SAPS and KS-scale. The SAS-SV scores of gender (p<.001) and self-evaluation of smartphone addiction (p<.001) showed significant difference. The ROC analysis results showed an area under a curve (AUC) value of 0.963(0.888–1.000), a cut-off value of 31, sensitivity value of 0.867 and specificity value of 0.893 in boys while an AUC value of 0.947(0.887–1.000), a cut-off value of 33, sensitivity value of 0.875, and a specificity value of 0.886 in girls. Conclusions The SAS-SV showed good reliability and validity for the assessment of smartphone addiction. The smartphone addiction scale short version, which was developed and validated in this study, could be used efficiently for the evaluation of smartphone addiction in community and research areas.
+
+TLDR: The revised and short version of the smartphone addiction scale short version, which was developed and validated in this study, could be used efficiently for the evaluation of smartphone addiction in community and research areas.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: Min Kwon, D. Kim, H. Cho, Soo Yang
+

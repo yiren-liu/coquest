@@ -1,0 +1,12 @@
+corpus id: 6502291, 
+
+Title: Clustering by Passing Messages Between Data Points
+
+Abstract: Clustering data by identifying a subset of representative examples is important for processing sensory signals and detecting patterns in data. Such “exemplars” can be found by randomly choosing an initial subset of data points and then iteratively refining it, but this works well only if that initial choice is close to a good solution. We devised a method called “affinity propagation,” which takes as input measures of similarity between pairs of data points. Real-valued messages are exchanged between data points until a high-quality set of exemplars and corresponding clusters gradually emerges. We used affinity propagation to cluster images of faces, detect genes in microarray data, identify representative sentences in this manuscript, and identify cities that are efficiently accessed by airline travel. Affinity propagation found clusters with much lower error than other methods, and it did so in less than one-hundredth the amount of time.
+
+TLDR: A method called “affinity propagation,” which takes as input measures of similarity between pairs of data points, which found clusters with much lower error than other methods, and it did so in less than one-hundredth the amount of time.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: B. Frey, D. Dueck
+

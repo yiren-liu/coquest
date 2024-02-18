@@ -1,0 +1,12 @@
+corpus id: 8347993, 
+
+Title: Toward a Theory of Situation Awareness in Dynamic Systems
+
+Abstract: This paper presents a theoretical model of situation awareness based on its role in dynamic human decision making in a variety of domains. Situation awareness is presented as a predominant concern in system operation, based on a descriptive view of decision making. The relationship between situation awareness and numerous individual and environmental factors is explored. Among these factors, attention and working memory are presented as critical factors limiting operators from acquiring and interpreting information from the environment to form situation awareness, and mental models and goal-directed behavior are hypothesized as important mechanisms for overcoming these limits. The impact of design features, workload, stress, system complexity, and automation on operator situation awareness is addressed, and a taxonomy of errors in situation awareness is introduced, based on the model presented. The model is used to generate design implications for enhancing operator situation awareness and future directions for situation awareness research.
+
+TLDR: A theoretical model of situation awareness based on its role in dynamic human decision making in a variety of domains is presented and design implications for enhancing operator situation awareness and future directions for situation awareness research are explored.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: M. Endsley
+

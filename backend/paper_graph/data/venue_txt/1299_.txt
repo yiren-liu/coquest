@@ -1,0 +1,12 @@
+corpus id: 16344988, 
+
+Title: Subjective Well-Being: Three Decades of Progress
+
+Abstract: W. Wilson's (1967) review of the area of subjective well-being (SWB) advanced several conclusions regarding those who report high levels of "happiness". A number of his conclusions have been overturned: youth and modest aspirations no longer are seen as prerequisites of SWB. E. Diener's (1984) review placed greater emphasis on theories that stressed psychological factors. In the current article, the authors review current evidence for Wilson's conclusions and discuss modern theories of SWB that stress dispositional influences, adaptation, goals, and coping strategies. The next steps in the evolution of the field are to comprehend the interaction of psychological factors with life circumstances in producing SWB, to understand the causal pathways leading to happiness, understand the processes underlying adaptation to events, and develop theories that explain why certain variables differentially influence the different components of SWV (life satisfaction, pleasant affect, and unpleasant affect).
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. Diener, E. Suh, R. Lucas, Heidi L. Smith
+

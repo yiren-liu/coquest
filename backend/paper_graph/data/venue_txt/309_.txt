@@ -1,0 +1,12 @@
+corpus id: 52810295, 
+
+Title: Social network sites: definition, history, and scholarship
+
+Abstract: This publication contains reprint articles for which IEEE does not hold copyright. Full text is not available on IEEE Xplore for these articles.
+
+TLDR: This publication contains reprint articles for which IEEE does not hold copyright and which are likely to be copyrighted.
+
+Fields of Study: ['Psychology', 'Computer Science', 'Economics']
+
+Authors: D. Boyd, N. Ellison
+

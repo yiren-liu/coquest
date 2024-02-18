@@ -1,0 +1,12 @@
+corpus id: 237007033, 
+
+Title: The Sensemaking Process and Leverage Points for Analyst Technology as Identified Through Cognitive Task Analysis
+
+Abstract: There are a relatively few open literature reports that provide empirical descriptive studies of intelligence analysis and that link these into the context of expertise and work. This paper, based on first results from a cognitive task analysis and verbal protocols give a broad brush description of intelligence analysis as an example of sensemaking. It then suggests some possible leverage points where technology might be applied.
+
+TLDR: A broad brush description of intelligence analysis as an example of sense-making is given and some possible leverage points where technology might be applied are suggested.
+
+Fields of Study: None
+
+Authors: P. Pirolli
+

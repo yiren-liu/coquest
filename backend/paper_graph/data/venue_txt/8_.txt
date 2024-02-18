@@ -1,0 +1,12 @@
+corpus id: 7138292, 
+
+Title: What we talk about when we talk about context
+
+Abstract: None
+
+TLDR: This paper suggests that the representational stance implied by conventional interpretations of “context” misinterprets the role of context in everyday human activity, and proposes an alternative model that suggests different directions for design.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Dourish
+

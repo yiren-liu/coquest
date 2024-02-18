@@ -1,0 +1,12 @@
+corpus id: 1607600, 
+
+Title: Toward integrating feature selection algorithms for classification and clustering
+
+Abstract: This paper introduces concepts and algorithms of feature selection, surveys existing feature selection algorithms for classification and clustering, groups and compares different algorithms with a categorizing framework based on search strategies, evaluation criteria, and data mining tasks, reveals unattempted combinations, and provides guidelines in selecting feature selection algorithms. With the categorizing framework, we continue our efforts toward-building an integrated system for intelligent feature selection. A unifying platform is proposed as an intermediate step. An illustrative example is presented to show how existing feature selection algorithms can be integrated into a meta algorithm that can take advantage of individual algorithms. An added advantage of doing so is to help a user employ a suitable algorithm without knowing details of each algorithm. Some real-world applications are included to demonstrate the use of feature selection in data mining. We conclude this work by identifying trends and challenges of feature selection research and development.
+
+TLDR: With the categorizing framework, the efforts toward-building an integrated system for intelligent feature selection are continued, and an illustrative example is presented to show how existing feature selection algorithms can be integrated into a meta algorithm that can take advantage of individual algorithms.
+
+Fields of Study: ['Computer Science']
+
+Authors: Huan Liu, Lei Yu
+

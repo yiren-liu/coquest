@@ -1,0 +1,12 @@
+corpus id: 35892240, 
+
+Title: The Ambivalent Sexism Inventory : Differentiating Hostile and Benevolent Sexism
+
+Abstract: The authors present a theory of sexism formulated as ambivalence toward women and validate a corresponding measure, the Ambivalent Sexism Inventory (ASI). The ASI taps 2 positively correlated components of sexism that nevertheless represent opposite evaluative orientations toward women: sexist antipathy or Hostile Sexism (HS) and a subjectively positive ( for sexist men ) orientation toward women, Benevolent Sexism (BS). HS and BS are hypothesized to encompass 3 sources of male ambivalence: Paternalism, Gender Differentiation, and Heterosexuality. Six ASI studies on 2,250 respondents established convergent, discriminant, and predictive validity. Overall ASI scores predict ambivalent attitudes toward women, the HS scale correlates with negative attitudes toward and stereotypes about women, and the BS scale (for nonstudent men only) correlates with positive attitudes toward and stereotypes about women. A copy of the ASI is provided, with scoring instructions, as a tool for further explorations of sexist ambivalence.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Pam Flaskrud, Kari Dietzler, Ingrid Niehans, J. Jenkins, M. McClellan, David Rivas, A. Cobb, Richard Fernando da Silva, J. Honikman, R. Grace, Amanda Casarjian, S. Lemon, D. Goldstein, Maria K. Wilson, Lauren Yurfest
+

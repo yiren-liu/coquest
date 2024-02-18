@@ -1,0 +1,12 @@
+corpus id: 146138712, 
+
+Title: The Application of Electronic Computers to Factor Analysis
+
+Abstract: more stodgy and less exciting application of computers to psychological problems. Let me warn you about how I am going to talk today. I have not conducted a survey of available computer programs for factor analytic computations, nor have I done an analysis of the problems of the application of computers to factor analysis in any way that could be considered scientific. I am saying that I shall ask you to listen to my opinions about the applications of computers to factor
+
+TLDR: A survey of available computer programs for factor analytic computations and a analysis of the problems of the application of computers to factor analysis.
+
+Fields of Study: ['Psychology']
+
+Authors: H. Kaiser
+

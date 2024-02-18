@@ -1,0 +1,12 @@
+corpus id: 9184893, 
+
+Title: Eliciting Self-Explanations Improves Understanding
+
+Abstract: Learning involves the integration of new information into existing knowledge. Generoting explanations to oneself (self-explaining) facilitates that integration process. Previously, self-explanation has been shown to improve the acquisition of problem-solving skills when studying worked-out examples. This study extends that finding, showing that self-explanation can also be facilitative when it is explicitly promoted, in the context of learning declarative knowledge from an expository text. Without any extensive training, 14 eighth-grade students were merely asked to self-explain after reading each line of a possage on the human circulatory system. Ten students in the control group read the same text twice, but were not prompted to self-explain. All of the students were tested for their circulatory system knowledge before and after reading the text. The prompted group had a greater gain from the pretest to the posttest. Moreover, prompted students who generated o large number of self-explanations (the high explainers) learned with greater understanding than low explainers. Understanding was assessed by answering very complex questions and inducing the function of a component when it was only implicitly stated. Understanding was further captured by a mental model onolysis of the self-explanation protocols. High explainers all achieved the correct mental model of the circulatory system, whereas many of the unprompted students as well as the low explainers did not. Three processing characteristics of self-explaining are considered as reasons for the gains in deeper understanding.
+
+TLDR: It is shown that self-explanation can also be facilitative when it is explicitly promoted, in the context of learning declarative knowledge from an expository text, and three processing characteristics of self-explaining are considered as reasons for the gains in deeper understanding.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: M. Chi, N. D. Leeuw, M. Chiu, Christian LaVancher
+

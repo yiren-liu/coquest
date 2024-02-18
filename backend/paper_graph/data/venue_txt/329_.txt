@@ -1,0 +1,12 @@
+corpus id: 40882221, 
+
+Title: Tit for Tat? The Spiraling Effect of Incivility in the Workplace
+
+Abstract: In this article we introduce the concept of workplace incivility and explain how incivility can potentially spiral into increasingly intense aggressive behaviors. To gain an understanding of the mechanisms that underlie an “incivility spiral,” we examine what happens at key points: the starting and tipping points. Furthermore, we describe several factors that can facilitate the occurrence and escalation of an incivility spiral and the secondary spirals that can result. We offer research propositions and discuss implications of workplace incivility for researchers and practitioners.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Lynne M. Andersson, Christine M. Pearson
+

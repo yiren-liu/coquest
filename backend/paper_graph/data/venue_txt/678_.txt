@@ -1,0 +1,12 @@
+corpus id: 538820, 
+
+Title: Adaptive Subgradient Methods for Online Learning and Stochastic Optimization
+
+Abstract: We present a new family of subgradient methods that dynamically incorporate knowledge of the geometry of the data observed in earlier iterations to perform more informative gradient-based learning. Metaphorically, the adaptation allows us to find needles in haystacks in the form of very predictive but rarely seen features. Our paradigm stems from recent advances in stochastic optimization and online learning which employ proximal functions to control the gradient steps of the algorithm. We describe and analyze an apparatus for adaptively modifying the proximal function, which significantly simplifies setting a learning rate and results in regret guarantees that are provably as good as the best proximal function that can be chosen in hindsight. We give several efficient algorithms for empirical risk minimization problems with common and important regularization functions and domain constraints. We experimentally study our theoretical analysis and show that adaptive subgradient methods outperform state-of-the-art, yet non-adaptive, subgradient algorithms.
+
+TLDR: This work describes and analyze an apparatus for adaptively modifying the proximal function, which significantly simplifies setting a learning rate and results in regret guarantees that are provably as good as the best proximal functions that can be chosen in hindsight.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: John C. Duchi, Elad Hazan, Y. Singer
+

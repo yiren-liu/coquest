@@ -1,0 +1,12 @@
+corpus id: 186689463, 
+
+Title: Lucas-Kanade 20 Years On: A Unifying Framework
+
+Abstract: None
+
+TLDR: An overview of image alignment is presented, describing most of the algorithms and their extensions in a consistent framework and concentrating on the inverse compositional algorithm, an efficient algorithm that was recently proposed.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Simon Baker, Iain Matthews
+

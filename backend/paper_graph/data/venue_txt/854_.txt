@@ -1,0 +1,12 @@
+corpus id: 607651, 
+
+Title: Evaluation of Objective Quality Measures for Speech Enhancement
+
+Abstract: In this paper, we evaluate the performance of several objective measures in terms of predicting the quality of noisy speech enhanced by noise suppression algorithms. The objective measures considered a wide range of distortions introduced by four types of real-world noise at two signal-to-noise ratio levels by four classes of speech enhancement algorithms: spectral subtractive, subspace, statistical-model based, and Wiener algorithms. The subjective quality ratings were obtained using the ITU-T P.835 methodology designed to evaluate the quality of enhanced speech along three dimensions: signal distortion, noise distortion, and overall quality. This paper reports on the evaluation of correlations of several objective measures with these three subjective rating scales. Several new composite objective measures are also proposed by combining the individual objective measures using nonparametric and parametric regression analysis techniques.
+
+TLDR: The evaluation of correlations of several objective measures with these three subjective rating scales is reported on and several new composite objective measures are also proposed by combining the individual objective measures using nonparametric and parametric regression analysis techniques.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Y. Hu, P. Loizou
+

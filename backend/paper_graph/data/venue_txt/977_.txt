@@ -1,0 +1,12 @@
+corpus id: 36024272, 
+
+Title: Explanation in Artificial Intelligence: Insights from the Social Sciences
+
+Abstract: None
+
+TLDR: This paper argues that the field of explainable artificial intelligence should build on existing research, and reviews relevant papers from philosophy, cognitive psychology/science, and social psychology, which study these topics, and draws out some important findings.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tim Miller
+

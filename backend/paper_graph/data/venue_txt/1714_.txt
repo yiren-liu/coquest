@@ -1,0 +1,12 @@
+corpus id: 60594797, 
+
+Title: Praat: doing phonetics by computer
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Boersma, D. Weenink
+

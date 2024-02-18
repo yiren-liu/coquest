@@ -1,0 +1,12 @@
+corpus id: 141869206, 
+
+Title: Gesture: Visible Action as Utterance
+
+Abstract: 1. The domain of gesture 2. Visible action as gesture 3. Western interest in gesture from classical antiquity to the eighteenth century 4. Four contributions from the nineteenth century: Andrea de Jorio, Edward Tylor, Garrick Mallery and Wilhelm Wundt 5. Gesture studies in the twentieth century: recession and return 6. Classifying gestures 7. Gesture units, gesture phrases and speech 8. Deployments of gesture in the utterance 9. Gesture and speech in semantic interaction 10. Gesture and referential meaning 11. On pointing 12. Gestures of the 'precision-grip': topic, comment and question markers 13. Two gesture families of the open hand 14. Gesture without speech: the emergence of kinesic codes 15. Gesture and sign on common ground 16. Gesture, culture and the communication economy 17. The status of gesture Appendix I. Transcription conventions Appendix II. The recordings.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Kendon
+

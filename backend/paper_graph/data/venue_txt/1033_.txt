@@ -1,0 +1,12 @@
+corpus id: 16074195, 
+
+Title: Tensor Decompositions and Applications
+
+Abstract: This survey provides an overview of higher-order tensor decompositions, their applications, and available software. A tensor is a multidimensional or $N$-way array. Decompositions of higher-order tensors (i.e., $N$-way arrays with $N \geq 3$) have applications in psycho-metrics, chemometrics, signal processing, numerical linear algebra, computer vision, numerical analysis, data mining, neuroscience, graph analysis, and elsewhere. Two particular tensor decompositions can be considered to be higher-order extensions of the matrix singular value decomposition: CANDECOMP/PARAFAC (CP) decomposes a tensor as a sum of rank-one tensors, and the Tucker decomposition is a higher-order form of principal component analysis. There are many other tensor decompositions, including INDSCAL, PARAFAC2, CANDELINC, DEDICOM, and PARATUCK2 as well as nonnegative variants of all of the above. The N-way Toolbox, Tensor Toolbox, and Multilinear Engine are examples of software packages for working with tensors.
+
+TLDR: This survey provides an overview of higher-order tensor decompositions, their applications, and available software.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: T. Kolda, Brett W. Bader
+

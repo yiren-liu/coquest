@@ -1,0 +1,12 @@
+corpus id: 144086308, 
+
+Title: Culture′s Consequences: International Differences in Work-Related Values
+
+Abstract: In his bestselling book Culture's Consequences, Geert Hofstede proposed four dimensions on which the differences among national cultures can be understood: Individualism, Power Distance, Uncertainty Avoidance and Masculinity. This volume comprises the first in-depth discussion of the masculinity dimension and how it can help us to understand differences among cultures. The book begins with a general explanation of the masculinity dimension, and discusses how it illuminates broad features of different cultures. The following parts apply the dimension more specifically to gender (and gender identity), sexuality (and sexual behaviour) and religion, probably the most influential variable of all. Hofstede closes the book with a synthesizing statement about cultural values as they are linked to sexuality, gender and religion.
+
+TLDR: 
+
+Fields of Study: ['Political Science', 'Sociology']
+
+Authors: W. Lonner, J. Berry, G. Hofstede
+

@@ -1,0 +1,12 @@
+corpus id: 140837151, 
+
+Title: Engineering psychology and human performance, 2nd ed.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: C. Wickens
+

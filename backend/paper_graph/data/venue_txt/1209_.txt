@@ -1,0 +1,12 @@
+corpus id: 16147141, 
+
+Title: CYC: a large-scale investment in knowledge infrastructure
+
+Abstract: Since 1984, a person-century of effort has gone into building CYC, a universal schema of roughly 105 general concepts spanning human reality. Most of the time has been spent codifying knowledge about these concepts; approximately 106 commonsense axioms have been handcrafted for and entered into CYC's knowledge base, and millions more have been inferred and cached by CYC. This article examines the fundamental assumptions of doing such a large-scale project, reviews the technical lessons learned by the developers, and surveys the range of applications that are or soon will be enabled by the technology.
+
+TLDR: The fundamental assumptions of doing such a large-scale project are examined, the technical lessons learned by the developers are reviewed, and the range of applications that are or soon will be enabled by the technology is surveyed.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Lenat
+

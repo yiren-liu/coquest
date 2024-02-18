@@ -1,0 +1,12 @@
+corpus id: 43900901, 
+
+Title: Diagnostic and Statistical Manual of Mental Disorders
+
+Abstract: None
+
+TLDR: An issue concerning the criteria for tic disorders is highlighted, and how this might affect classification of dyskinesias in psychotic spectrum disorders.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: V. Mittal, E. Walker
+

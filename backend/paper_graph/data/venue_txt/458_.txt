@@ -1,0 +1,12 @@
+corpus id: 2906476, 
+
+Title: The promise of multimedia learning: using the same instructional design methods across different media
+
+Abstract: None
+
+TLDR: A program of research is explored aimed at determining research-based principles for the design of multimedia explanations and the extent to which methods are effective across different learning environments—which can be called media.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Mayer
+

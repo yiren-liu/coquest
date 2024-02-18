@@ -1,0 +1,12 @@
+corpus id: 3377361, 
+
+Title: Self-efficacy mechanism in human agency.
+
+Abstract: This article addresses the centrality of the self-efficacy mechanism in human agency. Self-per- cepts of efficacy influence thought patterns, actions, and emotional arousal. In causal tests the higher the level of induced self-efficacy, the higher the perfor- mance accomplishments and the lower the emotional arousal. Different lines of research are reviewed, show- ing that the self-efficacy mechanism may have wide explanatory power. Perceived self-efficacy helps to ac- count for such diverse phenomena as changes in coping behavior produced by different modes of influence, level of physiological stress reactions, self-regulation of refractory behavior, resignation and despondency to failure experiences, self-debilitating effects of proxy control and illusory inefficaciousness, achievement strivings, growth of intrinsic interest, and career pur- suits. The influential role of perceived collective effi- cacy in social change is analyzed, as are the social con- ditions conducive to development of collective inefficacy. Psychological theorizing and research tend to cen- ter on issues concerning either acquisition of knowledge or execution of response patterns. As a result the processes governing the interrelation- ship between knowledge and action have been largely neglected (Newell, 1978). Some of the re- cent efforts to bridge this gap have been directed at the biomechanics problem—how efferent com- mands of action plans guide the production of ap- propriate response patterns (Stelmach, 1976,1978). Others have approached the matter in terms of algorithmic knowledge, which furnishes guides for executing action sequences (Greeno, 1973; Newell, 1973). ,
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Bandura
+

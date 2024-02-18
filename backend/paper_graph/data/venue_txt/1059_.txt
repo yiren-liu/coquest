@@ -1,0 +1,12 @@
+corpus id: 142725147, 
+
+Title: Work and motivation
+
+Abstract: Why do people choose the careers they do? What factors cause people to be satisfied with their work? No single work did more to make concepts like motive, goal incentive, and attitude part of the workplace vocabulary. This landmark work, originally published in 1964, integrates the work of hundreds of researchers in individual workplace behavior to explain choice of work, job satisfaction, and job performance. Includes an extensive new introduction that highlights and updates his model for current organization behavior educators and students, as well as professionals who must extract the highest levels of productivity from today's downsized workforces.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: V. Vroom
+

@@ -1,0 +1,12 @@
+corpus id: 1733343, 
+
+Title: Tree-maps: a space-filling approach to the visualization of hierarchical information structures
+
+Abstract: A method for visualizing hierarchically structured information is described. The tree-map visualization technique makes 100% use of the available display space, mapping the full hierarchy onto a rectangular region in a space-filling manner. This efficient use of space allows very large hierarchies to be displayed in their entirety and facilitates the presentation of semantic information. Tree-maps can depict both the structure and content of the hierarchy. However, the approach is best suited to hierarchies in which the content of the leaf nodes and the structure of the hierarchy are of primary importance, and the content information associated with internal nodes is largely derived from their children.<<ETX>>
+
+TLDR: The tree-map visualization technique makes 100% use of the available display space, mapping the full hierarchy onto a rectangular region in a space-filling manner, which allows very large hierarchies to be displayed in their entirety and facilitates the presentation of semantic information.
+
+Fields of Study: ['Computer Science']
+
+Authors: Brian Johnson, B. Shneiderman
+

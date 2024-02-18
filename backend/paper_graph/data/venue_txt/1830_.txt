@@ -1,0 +1,12 @@
+corpus id: 6802839, 
+
+Title: Amount of time spent in sedentary behaviors in the United States, 2003-2004.
+
+Abstract: Sedentary behaviors are linked to adverse health outcomes, but the total amount of time spent in these behaviors in the United States has not been objectively quantified. The authors evaluated participants from the 2003-2004 National Health and Nutrition Examination Survey aged >/=6 years who wore an activity monitor for up to 7 days. Among 6,329 participants with at least one 10-hour day of monitor wear, the average monitor-wearing time was 13.9 hours/day (standard deviation, 1.9). Overall, participants spent 54.9% of their monitored time, or 7.7 hours/day, in sedentary behaviors. The most sedentary groups in the United States were older adolescents and adults aged >/=60 years, and they spent about 60% of their waking time in sedentary pursuits. Females were more sedentary than males before age 30 years, but this pattern was reversed after age 60 years. Mexican-American adults were significantly less sedentary than other US adults, and White and Black females were similarly sedentary after age 12 years. These data provide the first objective measure of the amount of time spent in sedentary behavior in the US population and indicate that Americans spend the majority of their time in behaviors that expend very little energy.
+
+TLDR: The authors evaluate participants from the 2003-2004 National Health and Nutrition Examination Survey aged >/=6 years who wore an activity monitor for up to 7 days to provide the first objective measure of the amount of time spent in sedentary behavior in the US population.
+
+Fields of Study: ['Medicine']
+
+Authors: C. Matthews, Kong Y. Chen, P. Freedson, M. Buchowski, B. Beech, R. Pate, R. Troiano
+

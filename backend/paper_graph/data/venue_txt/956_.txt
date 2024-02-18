@@ -1,0 +1,12 @@
+corpus id: 123401265, 
+
+Title: The Relevance of Algorithms
+
+Abstract: This chapter contains section titled: Patterns of Inclusion, Cycles of Anticipation, The Evaluation of Relevance, The Promise of Algorithmic Objectivity, Entanglement with Practice, The Production of Calculated Publics, Conclusion, Acknowledgments, Notes
+
+TLDR: This chapter contains section titled: Patterns of Inclusion, Cycles of Anticipation, The Evaluation of Relevance, The Promise of Algorithmic Objectivity, Entanglement with Practice, and The Production of Calculated Publics.
+
+Fields of Study: ['Computer Science']
+
+Authors: Tarleton Gillespie, P. Boczkowski
+

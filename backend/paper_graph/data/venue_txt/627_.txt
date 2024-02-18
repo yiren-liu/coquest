@@ -1,0 +1,12 @@
+corpus id: 9518879, 
+
+Title: Organizational adoption and assimilation of complex technological innovations: development and application of a new framework
+
+Abstract: This paper explores the applicability of traditional innovation adoption and diffusion models to contingent, authority innovation processes occurring within an organizational context (Zaltman, Duncan & Holbeck, 1973); that is, when employees in organizations adopt an innovation that has been chosen by an authority figure. This paper identifies existing gaps in traditional innovation adoption models and concludes that a new framework is required --- one that incorporates the unique processes and factors related to organizational adoption and assimilation of innovations. A new hybrid theoretical framework is developed which combines insights from organizational-level research on technology implementation (Cooper & Zmud, 1990; Orlikowski, 1993) with constructs from traditional innovation adoption models (Rogers, 1983; Prescott & Conger, 1995). The resulting theory is a hybrid process/variance theory, which captures both implementation events and the factors that influence them (Shaw & Jarvenpaa, 1997). Data from a longitudinal case study of a firm that implemented client/server development are used to illustrate the framework and to develop propositions for future research.
+
+TLDR: A new hybrid theoretical framework is developed which combines insights from organizational-level research on technology implementation with constructs from traditional innovation adoption models and captures both implementation events and the factors that influence them.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: M. Gallivan
+

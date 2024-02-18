@@ -1,0 +1,12 @@
+corpus id: 9455111, 
+
+Title: Vision meets robotics: The KITTI dataset
+
+Abstract: We present a novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research. In total, we recorded 6 hours of traffic scenarios at 10–100 Hz using a variety of sensor modalities such as high-resolution color and grayscale stereo cameras, a Velodyne 3D laser scanner and a high-precision GPS/IMU inertial navigation system. The scenarios are diverse, capturing real-world traffic situations, and range from freeways over rural areas to inner-city scenes with many static and dynamic objects. Our data is calibrated, synchronized and timestamped, and we provide the rectified and raw image sequences. Our dataset also contains object labels in the form of 3D tracklets, and we provide online benchmarks for stereo, optical flow, object detection and other tasks. This paper describes our recording platform, the data format and the utilities that we provide.
+
+TLDR: A novel dataset captured from a VW station wagon for use in mobile robotics and autonomous driving research, using a variety of sensor modalities such as high-resolution color and grayscale stereo cameras and a high-precision GPS/IMU inertial navigation system.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: Andreas Geiger, Philip Lenz, C. Stiller, R. Urtasun
+

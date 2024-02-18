@@ -1,0 +1,12 @@
+corpus id: 9458767, 
+
+Title: Pfinder: real-time tracking of the human body
+
+Abstract: Pfinder is a real-time system for tracking and interpretation of people. It runs on a standard SGI Indy computer, and has performed reliably on thousands of people in many different physical locations. The system uses a multi-class statistical model of color and shape to obtain a 2-D representation of head and hands in a wide range of viewing conditions. These representations are useful for applications such as wireless interfaces, video databases, and low-bandwidth coding, without cumbersome wires or attached sensors.
+
+TLDR: Pfinder uses a multi-class statistical model of color and shape to obtain a 2-D representation of head and hands in a wide range of viewing conditions, useful for applications such as wireless interfaces, video databases, and low-bandwidth coding.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: C. R. Wren, A. Azarbayejani, Trevor Darrell, A. Pentland
+

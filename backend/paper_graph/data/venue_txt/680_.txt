@@ -1,0 +1,12 @@
+corpus id: 2141740, 
+
+Title: SSD: Single Shot MultiBox Detector
+
+Abstract: None
+
+TLDR: The approach, named SSD, discretizes the output space of bounding boxes into a set of default boxes over different aspect ratios and scales per feature map location, which makes SSD easy to train and straightforward to integrate into systems that require a detection component.
+
+Fields of Study: ['Computer Science']
+
+Authors: W. Liu, Dragomir Anguelov, D. Erhan, Christian Szegedy, Scott E. Reed, Cheng-Yang Fu, A. Berg
+

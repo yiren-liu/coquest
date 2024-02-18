@@ -1,0 +1,12 @@
+corpus id: 167180422, 
+
+Title: Analyzing models with unobserved variables: analysis of covariance structures
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. Carmines, C. McIver
+

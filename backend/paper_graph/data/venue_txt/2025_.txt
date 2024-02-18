@@ -1,0 +1,12 @@
+corpus id: 61138693, 
+
+Title: Comprehension: A Paradigm for Cognition
+
+Abstract: Preface Acknowledgements 1. Introduction Part I. The Theory: 2. Cognition and representation 3. Propositional representations 4. Modeling comprehension processes: the construction-integration model Part II. Models of Comprehension: 5. Word identification in discourse 6. Textbases and situation models 7. The role of working memory in comprehension 8. Memory for text 9. Learning from text 10. Word problems 11. Beyond text References name index Subject index.
+
+TLDR: This work proposes a new model of comprehension processes: the construction-integration model, which combines the role of working memory, Cognition and representation, and Propositional representations.
+
+Fields of Study: ['Computer Science']
+
+Authors: W. Kintsch
+

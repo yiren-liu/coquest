@@ -1,0 +1,12 @@
+corpus id: 6426983, 
+
+Title: Observational studies.
+
+Abstract: Observational studies are important methodologies to evaluate exposures and risk factors that are not amenable to experimental trials. They offer the advantage of being more generalizable to our patients, as these studies may have more liberal inclusion criteria than the typical randomized trial. Their disadvantage is their susceptibility to biases and their inability to control for unknown factors that may impact on the outcome of interest. Establishing causality of an association noted in observational studies is an intricate process that requires careful assessment. Clinicians and researchers should be familiar with observational studies so they may better evaluate a proposed causal relationship and the quality of reports claiming such relationships. Only then can they determine if the findings are valid and applicable to their patient population.
+
+TLDR: Clinicians and researchers should be familiar with observational studies so they may better evaluate a proposed causal relationship and the quality of reports claiming such relationships, and determine if the findings are valid and applicable to their patient population.
+
+Fields of Study: ['Medicine']
+
+Authors: J. Peipert, M. Phipps
+

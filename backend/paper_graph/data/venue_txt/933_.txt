@@ -1,0 +1,12 @@
+corpus id: 1925599, 
+
+Title: The moderator-mediator variable distinction in social psychological research: conceptual, strategic, and statistical considerations.
+
+Abstract: In this article, we attempt to distinguish between the properties of moderator and mediator variables at a number of levels. First, we seek to make theorists and researchers aware of the importance of not using the terms moderator and mediator interchangeably by carefully elaborating, both conceptually and strategically, the many ways in which moderators and mediators differ. We then go beyond this largely pedagogical function and delineate the conceptual and strategic implications of making use of such distinctions with regard to a wide range of phenomena, including control and stress, attitudes, and personality traits. We also provide a specific compendium of analytic procedures appropriate for making the most effective use of the moderator and mediator distinction, both separately and in terms of a broader causal system that includes both moderators and mediators.
+
+TLDR: This article seeks to make theorists and researchers aware of the importance of not using the terms moderator and mediator interchangeably by carefully elaborating the many ways in which moderators and mediators differ, and delineates the conceptual and strategic implications of making use of such distinctions with regard to a wide range of phenomena.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: R. M. Baron, D. A. Kenny
+

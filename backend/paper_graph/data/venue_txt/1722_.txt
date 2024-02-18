@@ -1,0 +1,12 @@
+corpus id: 2970664, 
+
+Title: Heart rate variability: a review
+
+Abstract: None
+
+TLDR: The various applications of HRV and different linear, frequency domain, wavelet domain, nonlinear techniques used for the analysis of the HRV are discussed.
+
+Fields of Study: ['Mathematics', 'Medicine', 'Computer Science']
+
+Authors: U. Acharya, P. Joseph, N. Kannathal, C. M. Lim, J. Suri
+

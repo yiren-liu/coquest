@@ -1,0 +1,12 @@
+corpus id: 57696333, 
+
+Title: Online communities – Designing Usability, Supporting Sociability
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Cupic
+

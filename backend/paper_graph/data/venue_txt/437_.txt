@@ -1,0 +1,12 @@
+corpus id: 12242182, 
+
+Title: Mining sequential patterns
+
+Abstract: We are given a large database of customer transactions, where each transaction consists of customer-id, transaction time, and the items bought in the transaction. We introduce the problem of mining sequential patterns over such databases. We present three algorithms to solve this problem, and empirically evaluate their performance using synthetic data. Two of the proposed algorithms, AprioriSome and AprioriAll, have comparable performance, albeit AprioriSome performs a little better when the minimum number of customers that must support a sequential pattern is low. Scale-up experiments show that both AprioriSome and AprioriAll scale linearly with the number of customer transactions. They also have excellent scale-up properties with respect to the number of transactions per customer and the number of items in a transaction.<<ETX>>
+
+TLDR: Three algorithms are presented to solve the problem of mining sequential patterns over databases of customer transactions, and empirically evaluating their performance using synthetic data shows that two of them have comparable performance.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Agrawal, R. Srikant
+

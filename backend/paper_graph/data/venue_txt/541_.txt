@@ -1,0 +1,12 @@
+corpus id: 13635578, 
+
+Title: User experience - a research agenda
+
+Abstract: Over the last decade, 'user experience' (UX) became a buzzword in the field of human - computer interaction (HCI) and interaction design. As technology matured, interactive products became not only more useful and usable, but also fashionable, fascinating things to desire. Driven by the impression that a narrow focus on interactive products as tools does not capture the variety and emerging aspects of technology use, practitioners and researchers alike, seem to readily embrace the notion of UX as a viable alternative to traditional HCI. And, indeed, the term promises change and a fresh look, without being too specific about its definite meaning. The present introduction to the special issue on 'Empirical studies of the user experience' attempts to give a provisional answer to the question of what is meant by 'the user experience'. It provides a cursory sketch of UX and how we think UX research will look like in the future. It is not so much meant as a forecast of the future, but as a proposal - a stimulus for further UX research.
+
+TLDR: The present introduction to the special issue on 'Empirical studies of the user experience' attempts to give a provisional answer to the question of what is meant by 'the user experience', and provides a cursory sketch of UX and how the authors think UX research will look like in the future.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: Marc Hassenzahl, N. Tractinsky
+

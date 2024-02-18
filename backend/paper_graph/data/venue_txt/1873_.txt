@@ -1,0 +1,12 @@
+corpus id: 3263112, 
+
+Title: Memory for goals: an activation-based model
+
+Abstract: None
+
+TLDR: The goal-activation model presented here analyzes goal-directed cognition in terms of the general memory constructs of activation and associative priming, and implications for understanding intention superiority, postcompletion error, and effects of task interruption are discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Altmann, J. Trafton
+

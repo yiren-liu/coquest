@@ -1,0 +1,12 @@
+corpus id: 63175546, 
+
+Title: Heuristic evaluation
+
+Abstract: • Heuristic Evaluation – Nielsen & Molich (1990) CHI Proceedings – Based upon empirical article Molich & Nielsen (1990) (in readings) – Inspection of a prototype or finished system to identify all changes necessary to optimize human performance and preference – Evaluators use a set of guidelines or general principle • hence term: “heuristics” • Distinctions not always made clear in studies and criticisms of heuristic evaluation: – Use of heuristics (guidelines) or not – Experience level of reviewers • experts vs. non-experts using just heuristics) – Review by lone individual or joint review by group • Research shows it makes a difference – Use of prescribed tasks versus self-guided evaluation
+
+TLDR: This chapter discusses heuristic evaluation, which Inspection of a prototype or finished system to identify all changes necessary to optimize human performance and preference.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Nielsen
+

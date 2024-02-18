@@ -1,0 +1,12 @@
+corpus id: 195820364, 
+
+Title: Invariant Risk Minimization
+
+Abstract: We introduce Invariant Risk Minimization (IRM), a learning paradigm to estimate invariant correlations across multiple training distributions. To achieve this goal, IRM learns a data representation such that the optimal classifier, on top of that data representation, matches for all training distributions. Through theory and experiments, we show how the invariances learned by IRM relate to the causal structures governing the data and enable out-of-distribution generalization.
+
+TLDR: This work introduces Invariant Risk Minimization, a learning paradigm to estimate invariant correlations across multiple training distributions and shows how the invariances learned by IRM relate to the causal structures governing the data and enable out-of-distribution generalization.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Martín Arjovsky, L. Bottou, Ishaan Gulrajani, David Lopez-Paz
+

@@ -1,0 +1,12 @@
+corpus id: 154695326, 
+
+Title: Consumer Perceptions of Price, Quality, and Value: A Means-End Model and Synthesis of Evidence:
+
+Abstract: Evidence from past research and insights from an exploratory investigation are combined in a conceptual model that defines and relates price, perceived quality, and perceived value. Propositions ab...
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: V. Zeithaml
+

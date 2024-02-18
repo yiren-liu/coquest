@@ -1,0 +1,12 @@
+corpus id: 3252915, 
+
+Title: Indexing by Latent Semantic Analysis
+
+Abstract: A new method for automatic indexing and retrieval is described. The approach is to take advantage of implicit higher-order structure in the association of terms with documents (“semantic structure”) in order to improve the detection of relevant documents on the basis of terms found in queries. The particular technique used is singular-value decomposition, in which a large term by document matrix is decomposed into a set of ca. 100 orthogonal factors from which the original matrix can be approximated by linear combination. Documents are represented by ca. 100 item vectors of factor weights. Queries are represented as pseudo-document vectors formed from weighted combinations of terms, and documents with supra-threshold cosine values are returned. initial tests find this completely automatic method for retrieval to be promising.
+
+TLDR: A new method for automatic indexing and retrieval to take advantage of implicit higher-order structure in the association of terms with documents (“semantic structure”) in order to improve the detection of relevant documents on the basis of terms found in queries.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: S. Deerwester, S. Dumais, T. Landauer, G. Furnas, R. Harshman
+

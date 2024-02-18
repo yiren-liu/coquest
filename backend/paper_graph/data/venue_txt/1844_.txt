@@ -1,0 +1,12 @@
+corpus id: 996021, 
+
+Title: Opportunity Recognition as Pattern Recognition: How Entrepreneurs “Connect the Dots” to Identify New Business Opportunities
+
+Abstract: Executive Overview How do entrepreneurs identify opportunities for new business ventures? One possibility, suggested by research on human cognition, is that they do so by using cognitive frameworks they have acquired through experience to perceive connections between seemingly unrelated events or trends in the external world. In other words, they use cognitive frameworks they possess to “connect the dots” between changes in technology, demographics, markets, government policies, and other factors. The patterns they then perceive in these events or trends suggest ideas for new products or services—ideas that can potentially serve as the basis for new ventures. This pattern recognition perspective on opportunity identification is useful in several respects. First, it helps integrate into one basic framework three factors that have been found to play an important role in opportunity recognition: engaging in an active search for opportunities; alertness to them; and prior knowledge of an industry or market. I...
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: R. Baron
+

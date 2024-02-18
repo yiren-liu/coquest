@@ -1,0 +1,12 @@
+corpus id: 239802700, 
+
+Title: 2017
+
+Abstract: This paper introduces a novel idea of unsupervised hotspots detection from first person vision (FPV) records. The purpose is to gather typical patterns of machine operations based on touching or manipulating those hotspots and summarize the patterns as guides for operations such as online operating manuals. We chose sewing machine operation as an example and demonstrated that, a good performance of hotspots detection can be achieved by utilizing multiple features, especially touch and hand motion. More importantly, detected hotspots in both temporal and spatial locations matches well the positions of key components such as buttons, levers, and other important portions essential for operating the machine.
+
+TLDR: A good performance of hotspots detection can be achieved by utilizing multiple features, especially touch and hand motion, and detected hotspots in both temporal and spatial locations matches well the positions of key components such as buttons, levers, and other important portions essential for operating the machine.
+
+Fields of Study: None
+
+Authors: Ami Saputra
+

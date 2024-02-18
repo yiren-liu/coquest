@@ -1,0 +1,12 @@
+corpus id: 58314357, 
+
+Title: 打磨Using Language,倡导新理念
+
+Abstract: 人教版高中英语新课程教材中,语言运用（Using Language）是每个单元必不可少的部分,提供了围绕单元中心话题的听、说、读、写的综合性练习,是单元中心话题的延续和升华.如何设计Using Language部分的教学,使自己的教学模式既不落俗套,又能真正体现新课程标准所倡导的教学理念,正是广大一线英语教师一直努力探索的问题.
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: 付伶俐
+

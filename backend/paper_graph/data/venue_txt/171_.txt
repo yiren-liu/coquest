@@ -1,0 +1,12 @@
+corpus id: 11554984, 
+
+Title: An extended set of Haar-like features for rapid object detection
+
+Abstract: Recently Viola et al. [2001] have introduced a rapid object detection. scheme based on a boosted cascade of simple feature classifiers. In this paper we introduce a novel set of rotated Haar-like features. These novel features significantly enrich the simple features of Viola et al. and can also be calculated efficiently. With these new rotated features our sample face detector shows off on average a 10% lower false alarm rate at a given hit rate. We also present a novel post optimization procedure for a given boosted cascade improving on average the false alarm rate further by 12.5%.
+
+TLDR: This paper introduces a novel set of rotated Haar-like features that significantly enrich the simple features of Viola et al. scheme based on a boosted cascade of simple feature classifiers.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Lienhart, Jochen Maydt
+

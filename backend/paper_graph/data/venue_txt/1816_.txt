@@ -1,0 +1,12 @@
+corpus id: 56824463, 
+
+Title: Borg's Perceived Exertion and Pain Scales
+
+Abstract: Borg's Perceived Exertion and Pain Scales : Medicine ... Gunnar Borg, PhD, introduced the field of perceived exertion during the latter part of the 1950s. Since then, he has won international renown for his work in developing methods for measuring perceived exertion and pain. His method for measuring perceived exertion is the main method used in the field, and his new scale, the Borg CR10 scale, is used for measuring both perceived exertion and pain, and other subjective magnitudes.
+
+TLDR: Gunnar Borg's Perceived Exertion and Pain Scales : Medicine ...
+
+Fields of Study: ['Medicine']
+
+Authors: E. Heath
+

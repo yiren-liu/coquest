@@ -1,0 +1,12 @@
+corpus id: 16751355, 
+
+Title: Gender Differences in the Perception and Use of E-Mail: An Extension to the Technology Acceptance Model
+
+Abstract: This study extends the TAM model (Davis 1989) and the SPIR addendum (Straub 1994) by adding gender to an IT diffusion model. The technology acceptance model (TAM) has been widely studied in IS research as an explanation of the use of information systems across IS types and nationalities. While this line of research has found significant cross-cultural differences, it has ignored the effects of gender, even though in socio-linguistic research, gender is a fundamental aspect of culture. Indeed, socio-linguistic research has shown that men tend to focus discourse on hierarchy and independence, while women focus on intimacy and solidarity. This literature provides a solid grounding for conceptual extensions to the IT diffusion research and the technology acceptance model.Testing gender differences that might relate to beliefs and use of computer-based media, the present study sampled 392 female and male responses via a cross-sectional survey instrument. The sample drew from comparable groups of knowledge workers using e-mail systems in the airline industry in North America, Asia, and Europe.Study findings indicate that women and men differ in their perceptions but not use of e-mail. These findings suggest that researchers should include gender in IT diffusion models along with other cultural effects. Managers and coworkers, moreover, need to realize that the same mode of communication may be perceived differently by the sexes, suggesting that more favorable communications environments might be created, environments that take into account not only organizational contextual factors, but also the gender of users. The creation of these environments involves not only the actual deployment of communication media, but also organizational training on communications media.
+
+TLDR: It is suggested that researchers should include gender in IT diffusion models along with other cultural effects, suggesting that more favorable communications environments might be created, environments that take into account not only organizational contextual factors, but also the gender of users.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: D. Gefen, D. Straub
+

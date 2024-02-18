@@ -1,0 +1,12 @@
+corpus id: 5285325, 
+
+Title: Self efficacy.
+
+Abstract: : Academic motivation is discussed in terms of self-efficacy, an individual's judgments of his or her capabilities to perform given actions. After presenting an overview of self-efficacy theory, I contrast self-efficacy with related constructs (perceived control, outcome expectations, perceived value of outcomes, attributions, and self-concept) and discuss some efficacy research relevant to academic motivation. Studies of the effects of person variables (goal setting and information processing) and situation variables (models, attributional feedback, and rewards) on self-efficacy and motivation are reviewed. In conjunction with this discussion, I mention substantive issues that need to be addressed in the self-efficacy research and summarize evidence on the utility of self-efficacy for predicting motivational outcomes. Areas for future research are suggested.
+
+TLDR: This article discusses academic motivation in terms of one type of personal expectancy: self-efficacy, defined as "People's judgments of their capabilities to organize and execute courses of action required to attain designated types of performances" and discusses some efficacy research relevant to academic motivation.
+
+Fields of Study: ['Medicine']
+
+Authors: B. Ootim
+

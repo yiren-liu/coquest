@@ -1,0 +1,12 @@
+corpus id: 17676624, 
+
+Title: High-resolution frequency-wavenumber spectrum analysis
+
+Abstract: The output of an array of sansors is considered to be a homogeneous random field. In this case there is a spectral representation for this field, similar to that for stationary random processes, which consists of a superposition of traveling waves. The frequency-wavenumber power spectral density provides the mean-square value for the amplitudes of these waves and is of considerable importance in the analysis of propagating waves by means of an array of sensors. The conventional method of frequency-wavenumber power spectral density estimation uses a fixed-wavenumber window and its resolution is determined essentially by the beam pattern of the array of sensors. A high-resolution method of estimation is introduced which employs a wavenumber window whose shape changes and is a function of the wavenumber at which an estimate is obtained. It is shown that the wavenumber resolution of this method is considerably better than that of the conventional method. Application of these results is given to seismic data obtained from the large aperture seismic array located in eastern Montana. In addition, the application of the high-resolution method to other areas, such as radar, sonar, and radio astronomy, is indicated.
+
+TLDR: 
+
+Fields of Study: ['Physics']
+
+Authors: J. Capon
+

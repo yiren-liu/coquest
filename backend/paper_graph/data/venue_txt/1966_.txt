@@ -1,0 +1,12 @@
+corpus id: 10939046, 
+
+Title: Groupware and social dynamics: eight challenges for developers
+
+Abstract: Publisher Summary This chapter discusses challenges for developers while using groupware applications. To understand the problems encountered by groupware applications, it is essential to realize that most interest in groupware development is found among the developers and users of commercial off-the-shelf products who previously focused exclusively on single-user applications. In addition to technical challenges, groupware poses a fundamental problem for product developers: Because individuals interact with a groupware application, it has all the interface design challenges of single-user applications, supplemented by a host of new challenges arising from its direct involvement in group processes. A groupware application never provides precisely the same benefit to every group member. Costs and benefits depend on preferences, prior experience, roles, and assignments. Although a groupware application is expected to provide a collective benefit, some people must adjust more than others. Ideally, each individual benefits, even if they do not benefit equally. Most groupware requires some people to do additional work to enter or process information required or produced by the application.
+
+TLDR: This chapter discusses challenges for developers while using groupware applications, noting that most interest in groupware development is found among the developers and users of commercial off-the-shelf products who previously focused exclusively on single-user applications.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Grudin
+

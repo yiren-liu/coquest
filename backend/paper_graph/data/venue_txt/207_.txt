@@ -1,0 +1,12 @@
+corpus id: 1247874, 
+
+Title: The Role of Espoused National Cultural Values in Technology Acceptance
+
+Abstract: Prior research has examined age, gender, experience, and voluntariness as the main moderators of beliefs on technology acceptance. This paper extends this line of research beyond these demographic and situational variables. Motivated by research that suggests that behavioral models do not universally hold across cultures, the paper identifies espoused national cultural values as an important set of individual difference moderators in technology acceptance. Building on research in psychological anthropology and cultural psychology that assesses cultural traits by personality tests at the individual level of analysis, we argue that individuals espouse national cultural values to differing degrees. These espoused national cultural values of masculinity/femininity, individualism/collectivism, power distance, and uncertainty avoidance are incorporated into an extended model of technology acceptance as moderators. We conducted two studies to test our model. Results indicated that, as hypothesized, social norms are stronger determinants of intended behavior for individuals who espouse feminine and high uncertainty avoidance cultural values. Contrary to expectations, espoused masculinity/femininity values did not moderate the relationship between perceived usefulness and behavioral intention but, as expected, did moderate the relationship between perceived ease of use and behavioral intention.
+
+TLDR: It is argued that individuals espouse national cultural values to differing degrees and that social norms are stronger determinants of intended behavior for individuals who espouse feminine and high uncertainty avoidance cultural values.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Mark Srite, Elena Karahanna
+

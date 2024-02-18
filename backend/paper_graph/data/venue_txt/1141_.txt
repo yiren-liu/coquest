@@ -1,0 +1,12 @@
+corpus id: 2534141, 
+
+Title: Principal Component Analysis
+
+Abstract: None
+
+TLDR: The Karhunen-Lo eve basis functions, more frequently referred to as principal components or empirical orthogonal functions (EOFs), of the noise response of the climate system are an important tool for geophysical studies.
+
+Fields of Study: ['Computer Science', 'Biology']
+
+Authors: Heng Tao Shen
+

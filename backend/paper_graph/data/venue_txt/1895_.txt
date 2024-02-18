@@ -1,0 +1,12 @@
+corpus id: 9409426, 
+
+Title: How a Cockpit Remembers Its Speeds
+
+Abstract: Cognitive science normally takes the individual agent as its unit of analysis. In many human endeavors, however, the outcomes of interest are not determined entirely by the information processing properties of individuals. Nor can they be inferred from the properties of the individual agents, alone, no matter how detailed the knowledge of the properties of those individuals may be. In commercial aviation, for example, the successful completion of a flight is produced by a system that typically includes two or more pilots interacting with each other and with a suite of technological devices. This article presents a theoretical framework that takes a distributed, socio-technical system rather than an individual mind as its primary unit of analysis. This framework is explicitly cognitive in that it is concerned with how information is represented and how representations are transformed and propagated in the performance of tasks. An analysis of a memory task in the cockpit of a commercial airliner shows how the cognitive properties of such distributed systems can differ radically from the cognitive properties of the individuals who inhabit them.
+
+TLDR: This article presents a theoretical framework that takes a distributed, socio-technical system rather than an individual mind as its primary unit of analysis, concerned with how information is represented and how representations are transformed and propagated in the performance of tasks.
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Hutchins
+

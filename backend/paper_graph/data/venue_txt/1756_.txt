@@ -1,0 +1,12 @@
+corpus id: 187547, 
+
+Title: Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles
+
+Abstract: None
+
+TLDR: A novel unsupervised learning approach to build features suitable for object detection and classification and to facilitate the transfer of features to other tasks, the context-free network (CFN), a siamese-ennead convolutional neural network is introduced.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Noroozi, P. Favaro
+

@@ -1,0 +1,12 @@
+corpus id: 205210989, 
+
+Title: The origins and the future of microfluidics
+
+Abstract: None
+
+TLDR: The manipulation of fluids in channels with dimensions of tens of micrometres — microfluidics — has emerged as a distinct new field that has the potential to influence subject areas from chemical synthesis and biological analysis to optics and information technology.
+
+Fields of Study: ['Medicine', 'Environmental Science']
+
+Authors: G. Whitesides
+

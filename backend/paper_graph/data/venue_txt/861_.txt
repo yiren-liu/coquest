@@ -1,0 +1,12 @@
+corpus id: 145705499, 
+
+Title: When Work And Family Are Allies: A Theory Of Work-Family Enrichment
+
+Abstract: We define work-family enrichment as the extent to which experiences in one role improve the quality of life in the other role. In this article we propose a theoretical model of work-family enrichment and offer a series of research propositions that reflect two paths to enrichment: an instrumental path and an affective path. We then examine the implications of the model for future research on the work-family enrichment process.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Greenhaus, G. Powell
+

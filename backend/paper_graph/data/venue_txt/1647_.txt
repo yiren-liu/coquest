@@ -1,0 +1,12 @@
+corpus id: 5215840, 
+
+Title: When second wave HCI meets third wave challenges
+
+Abstract: This paper surveys the current status of second generation HCI theory, faced with the challenges brought to HCI by the so-called third wave. In the third wave, the use context and application types are broadened, and intermixed, relative to the focus of the second wave on work. Technology spreads from the workplace to our homes and everyday lives and culture. Using these challenges the paper specifically addresses the topics of multiplicity, context, boundaries, experience and participation in order to discuss where second wave theory and conceptions can still be positioned to make a contribution as part of the maturing of our handling of the challenges brought on by the third wave.
+
+TLDR: The topics of multiplicity, context, boundaries, experience and participation are addressed in order to discuss where second wave theory and conceptions can still be positioned to make a contribution as part of the maturing of the authors' handling of the challenges brought on by the third wave.
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Bødker
+

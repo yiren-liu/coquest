@@ -1,0 +1,12 @@
+corpus id: 9791192, 
+
+Title: The discrete wavelet transform: wedding the a trous and Mallat algorithms
+
+Abstract: Two separately motivated implementations of the wavelet transform are brought together. It is observed that these algorithms are both special cases of a single filter bank structure, the discrete wavelet transform, the behavior of which is governed by the choice of filters. In fact, the a trous algorithm is more properly viewed as a nonorthonormal multiresolution algorithm for which the discrete wavelet transform is exact. Moreover, it is shown that the commonly used Lagrange a trous filters are in one-to-one correspondence with the convolutional squares of the Daubechies filters for orthonormal wavelets of compact support. A systematic framework for the discrete wavelet transform is provided, and conditions are derived under which it computes the continuous wavelet transform exactly. Suitable filter constraints for finite energy and boundedness of the discrete transform are also derived. Relevant signal processing parameters are examined, and it is observed that orthonormality is balanced by restrictions on resolution. >
+
+TLDR: It is shown that the commonly used Lagrange a trous filters are in one-to-one correspondence with the convolutional squares of the Daubechies filters for orthonormal wavelets of compact support.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: M. Shensa
+

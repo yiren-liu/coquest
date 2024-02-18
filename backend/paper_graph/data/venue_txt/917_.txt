@@ -1,0 +1,12 @@
+corpus id: 145534926, 
+
+Title: Cyberbullying in Schools
+
+Abstract: This study investigates the nature and the extent of adolescences’ experience of cyberbullying. A survey study of 264 students from three junior high schools was conducted. In this article, ‘cyberbullying’ refers to bullying via electronic communication tools. The results show that close to half of the students were bully victims and about one in four had been cyber-bullied. Over half of the students reported that they knew someone being cyberbullied. Almost half of the cyberbullies used electronic means to harass others more than three times. The majority of the cyber-bully victims and bystanders did not report the incidents to adults. When gender was considered, significant differences were identified in terms of bullying and cyberbullying. Males were more likely to be bullies and cyberbullies than their female counterparts. In addition, female cyberbully victims were more likely to inform adults than their male counterparts.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Qing Li
+

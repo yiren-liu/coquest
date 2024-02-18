@@ -1,0 +1,12 @@
+corpus id: 961425, 
+
+Title: LIBSVM: A library for support vector machines
+
+Abstract: LIBSVM is a library for Support Vector Machines (SVMs). We have been actively developing this package since the year 2000. The goal is to help users to easily apply SVM to their applications. LIBSVM has gained wide popularity in machine learning and many other areas. In this article, we present all implementation details of LIBSVM. Issues such as solving SVM optimization problems theoretical convergence multiclass classification probability estimates and parameter selection are discussed in detail.
+
+TLDR: Issues such as solving SVM optimization problems theoretical convergence multiclass classification probability estimates and parameter selection are discussed in detail.
+
+Fields of Study: ['Computer Science']
+
+Authors: Chih-Chung Chang, Chih-Jen Lin
+

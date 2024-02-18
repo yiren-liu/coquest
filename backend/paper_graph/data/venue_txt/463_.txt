@@ -1,0 +1,12 @@
+corpus id: 15450886, 
+
+Title: “Put-that-there”: Voice and gesture at the graphics interface
+
+Abstract: Recent technological advances in connected-speech recognition and position sensing in space have encouraged the notion that voice and gesture inputs at the graphics interface can converge to provide a concerted, natural user modality. The work described herein involves the user commanding simple shapes about a large-screen graphics display surface. Because voice can be augmented with simultaneous pointing, the free usage of pronouns becomes possible, with a corresponding gain in naturalness and economy of expression. Conversely, gesture aided by voice gains precision in its power to reference.
+
+TLDR: The work described herein involves the user commanding simple shapes about a large-screen graphics display surface, and because voice can be augmented with simultaneous pointing, the free usage of pronouns becomes possible, with a corresponding gain in naturalness and economy of expression.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Bolt
+

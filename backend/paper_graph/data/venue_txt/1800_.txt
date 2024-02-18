@@ -1,0 +1,12 @@
+corpus id: 140110276, 
+
+Title: Eye tracking: a comprehensive guide to methods and measures
+
+Abstract: Holmqvist, K., Nystrom, N., Andersson, R., Dewhurst, R., Jarodzka, H., & Van de Weijer, J. (Eds.) (2011). Eye tracking: a comprehensive guide to methods and measures, Oxford, UK: Oxford University Press.
+
+TLDR: Eye tracking: a comprehensive guide to methods and measures, Oxford, UK: Oxford University Press.
+
+Fields of Study: ['Computer Science']
+
+Authors: K. Holmqvist
+

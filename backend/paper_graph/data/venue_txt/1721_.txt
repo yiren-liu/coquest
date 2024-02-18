@@ -1,0 +1,12 @@
+corpus id: 10075179, 
+
+Title: Using thematic analysis in psychology
+
+Abstract: Thematic analysis is a poorly demarcated, rarely acknowledged, yet widely used qualitative analytic method within psychology. In this paper, we argue that it offers an accessible and theoretically flexible approach to analysing qualitative data. We outline what thematic analysis is, locating it in relation to other qualitative analytic methods that search for themes or patterns, and in relation to different epistemological and ontological positions. We then provide clear guidelines to those wanting to start thematic analysis, or conduct it in a more deliberate and rigorous way, and consider potential pitfalls in conducting thematic analysis. Finally, we outline the disadvantages and advantages of thematic analysis. We conclude by advocating thematic analysis as a useful and flexible method for qualitative research in and beyond psychology.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: V. Braun, Victoria Clarke
+

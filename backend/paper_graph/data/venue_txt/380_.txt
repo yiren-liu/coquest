@@ -1,0 +1,12 @@
+corpus id: 143080250, 
+
+Title: How people learn: Brain, mind, experience, and school.
+
+Abstract: New developments in the science of learning science of learning overview mind and brain how experts differ from novices how children learn learning and transfer the learning environment curriculum, instruction and commnity effective teaching - examples in history, mathematics and science teacher learning technology to support learning conclusions from new developments in the science of learning.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Bransford, Ann L. Brown, R. Cocking
+

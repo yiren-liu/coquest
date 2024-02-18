@@ -1,0 +1,12 @@
+corpus id: 42027475, 
+
+Title: Exploratory Data Analysis
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Economics', 'Sociology', 'Medicine', 'Computer Science']
+
+Authors: J. Tukey
+

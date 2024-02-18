@@ -1,0 +1,12 @@
+corpus id: 6796655, 
+
+Title: Familiarity, Confidence, Trust: Problems and Alternatives
+
+Abstract: Trust has never been a topic of mainstream sociology. Neither classical authors nor modern sociologists use the term in a theoretical context. For this reason the elaboration of theoretical frameworks, one of the main sources of conceptual clarification, has been relatively neglected. Furthermore, empirical research for example, research about trust and distrust in politics has relied on rather general and unspecified ideas, confusing problems of trust with positive or negative attitudes toward political leadership or political institutions, with alienation (itself a multidimensional concept), with hopes and worries, or with confidence. In their monograph on patrons, clients, and friends, Shmuel Eisenstadt and Luis Roniger (1984) use the concept of trust as roughly equivalent to solidarity, meaning, and participation. This makes it possible to show that unconditional trust is generated in families and small-scale societies and cannot be automatically transferred to complex societies based on the division of labour. Trust, then, needs for its reconstruction special social institutions; friendship networks and patron-client relations are examples for this adaptation. But this is merely to reiterate well-known statements about the division of labour and the need to reconstruct solidarity, about Gesellschaft and Gemeinschaft. It does not give any new insight into the particularities of trusting relations. To gain such insights we need further conceptual clarification.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: N. Luhmann
+

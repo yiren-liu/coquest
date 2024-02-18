@@ -1,0 +1,12 @@
+corpus id: 10337279, 
+
+Title: Introducing a New Benchmarked Dataset for Activity Monitoring
+
+Abstract: This paper addresses the lack of a commonly used, standard dataset and established benchmarking problems for physical activity monitoring. A new dataset - recorded from 18 activities performed by 9 subjects, wearing 3 IMUs and a HR-monitor - is created and made publicly available. Moreover, 4 classification problems are benchmarked on the dataset, using a standard data processing chain and 5 different classifiers. The benchmark shows the difficulty of the classification tasks and exposes new challenges for physical activity monitoring.
+
+TLDR: A new dataset - recorded from 18 activities performed by 9 subjects, wearing 3 IMUs and a HR-monitor - is created and made publicly available, showing the difficulty of the classification tasks and exposes new challenges for physical activity monitoring.
+
+Fields of Study: ['Computer Science']
+
+Authors: Attila Reiss, D. Stricker
+

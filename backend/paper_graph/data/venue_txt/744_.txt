@@ -1,0 +1,12 @@
+corpus id: 20048534, 
+
+Title: Forms of Capital
+
+Abstract: The text is devoted to the cultural capital (and its three main states: incorporation, objectification, institutionalization) and social capital. The author analyzes the issues of transfer and reproduction of these types of capital and their connection with individual and group. At the end of the paper the author focuses on the conversion phenomenon when one type of the capital turns to another. The author claims that economic capital is the basis for all other types of capitals.
+
+TLDR: 
+
+Fields of Study: ['Business', 'Economics']
+
+Authors: P. Bourdieu
+

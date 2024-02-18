@@ -1,0 +1,12 @@
+corpus id: 32642600, 
+
+Title: A Theoretical Extension of the Technology Acceptance Model: Four Longitudinal Field Studies
+
+Abstract: The present research develops and tests a theoretical extension of the Technology Acceptance Model (TAM) that explains perceived usefulness and usage intentions in terms of social influence and cognitive instrumental processes. The extended model, referred to as TAM2, was tested using longitudinal data collected regarding four different systems at four organizations ( N = 156), two involving voluntary usage and two involving mandatory usage. Model constructs were measured at three points in time at each organization: preimplementation, one month postimplementation, and three months postimplementation. The extended model was strongly supported for all four organizations at all three points of measurement, accounting for 40%--60% of the variance in usefulness perceptions and 34%--52% of the variance in usage intentions. Both social influence processes (subjective norm, voluntariness, and image) and cognitive instrumental processes (job relevance, output quality, result demonstrability, and perceived ease of use) significantly influenced user acceptance. These findings advance theory and contribute to the foundation for future research aimed at improving our understanding of user adoption behavior.
+
+TLDR: 
+
+Fields of Study: ['Sociology', 'Psychology']
+
+Authors: V. Venkatesh, Fred D. Davis
+

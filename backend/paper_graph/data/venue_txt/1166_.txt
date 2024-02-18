@@ -1,0 +1,12 @@
+corpus id: 1101992, 
+
+Title: Affective Computing
+
+Abstract: Computers are beginning to acquire the ability to ex- press and recognize aﬀect, and may soon be given the ability to “have emotions.” The essential role of emotion in both human cognition and perception, as demonstrated by recent neurological studies, indi- cates that aﬀective computers should not only provide better performance in assisting humans, but also might enhance computers’ abilities to make decisions. This paper presents and discusses key issues in “aﬀective computing,” computing that relates to, arises from, or inﬂuences emotions. Models are sug- gested for computer recognition of human emotion, and new applications are presented for computer- assisted learning, perceptual information retrieval, arts and entertainment, and human health and inter- action. Aﬀective computing, coupled with new wearable computers, will also provide the ability to gather new data necessary for advances in emotion and cognition theory.
+
+TLDR: Key issues in “aﬀective computing,” computing that relates to, arises from, or inﬂuences emotions are presented and new applications are presented for computer- assisted learning, perceptual information retrieval, arts and entertainment, and human health and inter- action.
+
+Fields of Study: ['Computer Science']
+
+Authors: Rosalind W. Picard
+

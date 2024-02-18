@@ -1,0 +1,12 @@
+corpus id: 3994096, 
+
+Title: AllenNLP: A Deep Semantic Natural Language Processing Platform
+
+Abstract: Modern natural language processing (NLP) research requires writing code. Ideally this code would provide a precise definition of the approach, easy repeatability of results, and a basis for extending the research. However, many research codebases bury high-level parameters under implementation details, are challenging to run and debug, and are difficult enough to extend that they are more likely to be rewritten. This paper describes AllenNLP, a library for applying deep learning methods to NLP research that addresses these issues with easy-to-use command-line tools, declarative configuration-driven experiments, and modular NLP abstractions. AllenNLP has already increased the rate of research experimentation and the sharing of NLP components at the Allen Institute for Artificial Intelligence, and we are working to have the same impact across the field.
+
+TLDR: AllenNLP is described, a library for applying deep learning methods to NLP research that addresses issues with easy-to-use command-line tools, declarative configuration-driven experiments, and modular NLP abstractions.
+
+Fields of Study: ['Computer Science']
+
+Authors: Matt Gardner, Joel Grus, Mark Neumann, Oyvind Tafjord, Pradeep Dasigi, Nelson F. Liu, Matthew E. Peters, Michael Schmitz, Luke Zettlemoyer
+

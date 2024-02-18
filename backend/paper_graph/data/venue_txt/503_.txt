@@ -1,0 +1,12 @@
+corpus id: 8575594, 
+
+Title: Longitudinal data analysis using generalized linear models
+
+Abstract: SUMMARY This paper proposes an extension of generalized linear models to the analysis of longitudinal data. We introduce a class of estimating equations that give consistent estimates of the regression parameters and of their variance under mild assumptions about the time dependence. The estimating equations are derived without specifying the joint distribution of a subject's observations yet they reduce to the score equations for multivariate Gaussian outcomes. Asymptotic theory is presented for the general class of estimators. Specific cases in which we assume independence, m-dependence and exchangeable correlation structures from each subject are discussed. Efficiency of the proposed estimators in two simple situations is considered. The approach is closely related to quasi-likelih ood. Some key ironh: Estimating equation; Generalized linear model; Longitudinal data; Quasi-likelihood; Repeated measures.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: K. Liang, S. Zeger
+

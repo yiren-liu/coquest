@@ -1,0 +1,12 @@
+corpus id: 24067985, 
+
+Title: A Meta-Analysis of Personality in Scientific and Artistic Creativity
+
+Abstract: Theory and research in both personality psychology and creativity share an essential commonality: emphasis on the uniqueness of the individual. Both disciplines also share an emphasis on temporal consistency and have a 50-year history, and yet no quantitative review of the literature on the creative personality has been conducted. The 3 major goals of this article are to present the results of the first meta-analytic review of the literature on personality and creative achievement, to present a conceptual integration of underlying potential psychological mechanisms that personality and creativity have in common, and to show how the topic of creativity has been important to personality psychologists and can be to social psychologists. A common system of personality description was obtained by classifying trait terms or scales onto one of the Five-Factor Model (or Big Five) dimensions: neuroticism, extraversion, openness, agreeableness, and conscientiousness. Effect size was measured using Cohen 's d (Cohen, 1988). Comparisons on personality traits were made on 3 sets of samples: scientists versus nonscientists, more creative versus less creative scientists, and artists versus nonartists. In general, creative people are more open to new experiences, less conventional and less conscientious, more self-confident, self-accepting, driven, ambitious, dominant, hostile, and impulsive. Out of these, the largest effect sizes were on openness, conscientiousness, self-acceptance, hostility, and impulsivity. Further, there appears to be temporal stability of these distinguishing personality dimensions of creative people. Dispositions important to creative behavior are parsed into social, cognitive, motivational, and affective dimensions. Creativity, like most complex behaviors requires an intra- as well as interdisciplinary view and thereby mitigates the historically disciplinocentric attitudes of personality and social psychologists.
+
+TLDR: The results of the first meta-analytic review of the literature on personality and creative achievement are presented, to present a conceptual integration of underlying potential psychological mechanisms that personality and creativity have in common, and to show how the topic of creativity has been important to personality psychologists and can be to social psychologists.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: Gregory J. Feist
+

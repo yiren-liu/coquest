@@ -1,0 +1,12 @@
+corpus id: 15008577, 
+
+Title: GroupLens: applying collaborative filtering to Usenet news
+
+Abstract: newsgroups carry a wide enough spread of messages to make most individuals consider Usenet news to be a high noise information resource. Furthermore, each user values a different set of messages. Both taste and prior knowledge are major factors in evaluating news articles. For example, readers of the rec.humor newsgroup, a group designed for jokes and other humorous postings, value articles based on whether they perceive them to be funny. Readers of technical groups, such as comp.lang.c11 value articles based on interest and usefulness to them—introductory questions and answers may be uninteresting to an expert C11 programmer just as debates over subtle and advanced language features may be useless to the novice. The combination of high volume and personal taste made Usenet news a promising candidate for collaborative filtering. More formally, we determined the potential predictive utility for Usenet news was very high. The GroupLens project started in 1992 and completed a pilot study at two sites to establish the feasibility of using collaborative filtering for Usenet news [8]. Several critical design decisions were made as part of that pilot study, including:
+
+TLDR: The combination of high volume and personal taste made Usenet news a promising candidate for collaborative filtering and the potential predictive utility for Usenets news was very high.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Konstan, Bradley N. Miller, D. Maltz, Jonathan L. Herlocker, Lee R. Gordon, J. Riedl
+

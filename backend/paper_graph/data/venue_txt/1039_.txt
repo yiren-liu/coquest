@@ -1,0 +1,12 @@
+corpus id: 592170, 
+
+Title: A fuzzy K-nearest neighbor algorithm
+
+Abstract: Classification of objects is an important area of research and application in a variety of fields. In the presence of full knowledge of the underlying probabilities, Bayes decision theory gives optimal error rates. In those cases where this information is not present, many algorithms make use of distance or similarity among samples as a means of classification. The K-nearest neighbor decision rule has often been used in these pattern recognition problems. One of the difficulties that arises when utilizing this technique is that each of the labeled samples is given equal importance in deciding the class memberships of the pattern to be classified, regardless of their `typicalness'. The theory of fuzzy sets is introduced into the K-nearest neighbor technique to develop a fuzzy version of the algorithm. Three methods of assigning fuzzy memberships to the labeled samples are proposed, and experimental results and comparisons to the crisp version are presented.
+
+TLDR: The theory of fuzzy sets is introduced into the K-nearest neighbor technique to develop a fuzzy version of the algorithm, and three methods of assigning fuzzy memberships to the labeled samples are proposed.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: J. Keller, M. R. Gray, James A. Givens
+

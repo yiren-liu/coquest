@@ -1,0 +1,12 @@
+corpus id: 145180191, 
+
+Title: PROCESSES OF OPINION CHANGE
+
+Abstract: Attitude and opinion data provide a basis for inferring the meaning of opinions held by individuals and groups and also for predictions about their future behavior. Such inferences and predictions, if they are to be made effectively, require a theoretical foundation which explains the processes by which people adopt and express particular opinions. Here is a theory of three processes by which persons respond to social influence. Herbert C. Kelman is Lecturer on Social Psychology at Harvard University. Currently, he is spending the year at the Institute for Social Research in Oslo and devoting part of his time to a further study of the effects of a year's sojourn in the United States on the self-images of Scandinavian students. His theoretical and experimental work during the past eight years on the problems reported in this article will be published in a forthcoming book, an early draft of which was awarded the Socio-Psychological Prize of the American Association for the Advancement of Science in 1956.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: H. Kelman
+

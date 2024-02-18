@@ -1,0 +1,12 @@
+corpus id: 3298854, 
+
+Title: Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification
+
+Abstract: Recent studies demonstrate that machine learning algorithms can discriminate based on classes like race and gender. In this work, we present an approach to evaluate bias present in automated facial analysis algorithms and datasets with respect to phenotypic subgroups. Using the dermatologist approved Fitzpatrick Skin Type classiﬁcation system, we characterize the gender and skin type distribution of two facial analysis benchmarks, IJB-A and Adience. We ﬁnd that these datasets are overwhelm-ingly composed of lighter-skinned subjects (79 . 6% for IJB-A and 86 . 2% for Adience) and introduce a new facial analysis dataset which is balanced by gender and skin type. We evaluate 3 commercial gender classiﬁcation systems using our dataset and show that darker-skinned females are the most misclassiﬁed group (with error rates of up to 34 . 7%). The maximum error rate for lighter-skinned males is 0 . 8%. The substantial disparities in the accuracy of classifying darker females, lighter females, darker males, and lighter males in gender classiﬁcation systems require urgent attention if commercial companies are to build genuinely fair, transparent and accountable facial analysis algorithms.
+
+TLDR: The substantial disparities in the accuracy of classifying darker females, lighter females, darker males, and lighter males in gender classiﬁcation systems require urgent attention if commercial companies are to build genuinely fair, transparent and accountable facial analysis algorithms.
+
+Fields of Study: ['Computer Science']
+
+Authors: Joy Buolamwini, Timnit Gebru
+

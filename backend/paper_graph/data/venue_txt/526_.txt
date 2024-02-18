@@ -1,0 +1,12 @@
+corpus id: 475575, 
+
+Title: Systematic review of the health benefits of physical activity and fitness in school-aged children and youth
+
+Abstract: None
+
+TLDR: A systematic review of studies examining the relation between physical activity, fitness, and health in school-aged children and youth found that even modest amounts of physical activity can have health benefits in high-risk youngsters (e.g., obese).
+
+Fields of Study: ['Medicine']
+
+Authors: I. Janssen, A. LeBlanc
+

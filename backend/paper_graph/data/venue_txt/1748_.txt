@@ -1,0 +1,12 @@
+corpus id: 36552179, 
+
+Title: Validating Instruments in MIS Research
+
+Abstract: Calls for new directions in MIS research bring with them a call for renewed methodological rigor. This article offers an operating paradigm for renewal along dimensions previously unstressed. The basic contention is that confirmatory empirical findings will be strengthened when instrument validation precedes both internal and statistical conclusion validity and that, in many situations, MIS researchers need to validate their research instruments. This contention is supported by a survey of instrumentation as reported in sample IS journals over the last several years.  A demonstration exercise of instrument validation follows as an illustration of some of the basic principles of validation. The validated instrument was designed to gather data on the impact of computer security administration on the incidence of computer abuse in the U.S.A.
+
+TLDR: An operating paradigm for renewal along dimensions previously unstressed is offered and it is argued that confirmatory empirical findings will be strengthened when instrument validation precedes both internal and statistical conclusion validity and that, in many situations, MIS researchers need to validate their research instruments.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: D. Straub
+

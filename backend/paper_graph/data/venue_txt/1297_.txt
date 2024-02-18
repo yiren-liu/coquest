@@ -1,0 +1,12 @@
+corpus id: 13618539, 
+
+Title: A tutorial on hidden Markov models and selected applications in speech recognition
+
+Abstract: The fabric comprises a novel type of netting which will have particular utility in screening out mosquitoes and like insects and pests. The fabric is defined of voids having depth as well as width and length. The fabric is usable as a material from which to form clothing for wear, or bed coverings, or sleeping bags, etc., besides use simply as a netting.
+
+TLDR: The fabric comprises a novel type of netting which will have particular utility in screening out mosquitoes and like insects and pests.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: L. Rabiner
+

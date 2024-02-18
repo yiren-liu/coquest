@@ -1,0 +1,12 @@
+corpus id: 1206, 
+
+Title: Assessing Agreement on Classification Tasks: The Kappa Statistic
+
+Abstract: Currently, computational linguists and cognitive scientists working in the area of discourse and dialogue argue that their subjective judgments are reliable using several different statistics, none of which are easily interpretable or comparable to each other. Meanwhile, researchers in content analysis have already experienced the same difficulties and come up with a solution in the kappa statistic. We discuss what is wrong with reliability measures as they are currently used for discourse and dialogue work in computational linguistics and cognitive science, and argue that we would be better off as a field adopting techniques from content analysis.
+
+TLDR: What is wrong with reliability measures as they are currently used for discourse and dialogue work in computational linguistics and cognitive science, and it is argued that the field would be better off as a field adopting techniques from content analysis.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: J. Carletta
+

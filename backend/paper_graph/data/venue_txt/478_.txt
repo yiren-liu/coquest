@@ -1,0 +1,12 @@
+corpus id: 10659969, 
+
+Title: Scikit-learn: Machine Learning in Python
+
+Abstract: Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems. This package focuses on bringing machine learning to non-specialists using a general-purpose high-level language. Emphasis is put on ease of use, performance, documentation, and API consistency. It has minimal dependencies and is distributed under the simplified BSD license, encouraging its use in both academic and commercial settings. Source code, binaries, and documentation can be downloaded from http://scikit-learn.sourceforge.net.
+
+TLDR: Scikit-learn is a Python module integrating a wide range of state-of-the-art machine learning algorithms for medium-scale supervised and unsupervised problems, focusing on bringing machine learning to non-specialists using a general-purpose high-level language.
+
+Fields of Study: ['Computer Science']
+
+Authors: Fabian Pedregosa, G. Varoquaux, Alexandre Gramfort, V. Michel, B. Thirion, O. Grisel, Mathieu Blondel, Gilles Louppe, P. Prettenhofer, Ron Weiss, Ron J. Weiss, J. Vanderplas, Alexandre Passos, D. Cournapeau, M. Brucher, M. Perrot, E. Duchesnay
+

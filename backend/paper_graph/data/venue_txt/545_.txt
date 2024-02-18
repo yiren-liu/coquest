@@ -1,0 +1,12 @@
+corpus id: 221152436, 
+
+Title: A conceptual framework for action on the social determinants of health.
+
+Abstract: When he announced his intention to create the Commission on Social Determinants of Health (CSDH), WHO Director-General Lee Jong-wook identified the Commission as part of a comprehensive effort to promote greater equity in global health, in a spirit of social justice1. The Commission’s goal, then, is to advance health equity, driving action to reduce health differences among social groups, within and between countries. Getting to grips with this mission requires finding answers to three fundamental problems: 1. Where do health differences among social groups originate, if we trace them back to their deepest roots? 2. What pathways lead from root causes to the stark differences in health status observed at the population level? 3. In light of the answers to the first two questions, where and how should we intervene to reduce health inequities? This paper seeks to make explicit a shared understanding of these issues that can orient the work of the CSDH.
+
+TLDR: A shared understanding of where and how to intervene to reduce health inequities is sought that can orient the work of the Commission on Social Determinants of Health.
+
+Fields of Study: ['Political Science']
+
+Authors: O. Solar, A. Irwin
+

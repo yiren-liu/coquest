@@ -1,0 +1,12 @@
+corpus id: 14411587, 
+
+Title: A power primer.
+
+Abstract: One possible reason for the continued neglect of statistical power analysis in research in the behavioral sciences is the inaccessibility of or difficulty with the standard material. A convenient, although not comprehensive, presentation of required sample sizes is provided here. Effect-size indexes and conventional values for these are given for operationally defined small, medium, and large effects. The sample sizes necessary for .80 power to detect effects at these levels are tabled for eight standard statistical tests: (a) the difference between independent means, (b) the significance of a product-moment correlation, (c) the difference between independent rs, (d) the sign test, (e) the difference between independent proportions, (f) chi-square tests for goodness of fit and contingency tables, (g) one-way analysis of variance, and (h) the significance of a multiple or multiple partial correlation.
+
+TLDR: A convenient, although not comprehensive, presentation of required sample sizes is providedHere the sample sizes necessary for .80 power to detect effects at these levels are tabled for eight standard statistical tests.
+
+Fields of Study: ['Mathematics', 'Psychology', 'Medicine']
+
+Authors: Jacob Cohen
+

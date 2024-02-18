@@ -1,0 +1,12 @@
+corpus id: 55454668, 
+
+Title: The Effects of Trust and Interdependence on Relationship Commitment
+
+Abstract: None
+
+TLDR: A two-stage locking or latching mechanism for releasably connecting an endoscope and a urological instrument.
+
+Fields of Study: ['Computer Science', 'Business']
+
+Authors: I. Geyskens, J. Steenkamp, L. Scheer, N. Kumar
+

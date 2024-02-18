@@ -1,0 +1,12 @@
+corpus id: 10986188, 
+
+Title: Class-Based n-gram Models of Natural Language
+
+Abstract: We address the problem of predicting a word from previous words in a sample of text. In particular, we discuss n-gram models based on classes of words. We also discuss several statistical algorithms for assigning words to classes based on the frequency of their co-occurrence with other words. We find that we are able to extract classes that have the flavor of either syntactically based groupings or semantically based groupings, depending on the nature of the underlying statistics.
+
+TLDR: This work addresses the problem of predicting a word from previous words in a sample of text and discusses n-gram models based on classes of words, finding that these models are able to extract classes that have the flavor of either syntactically based groupings or semanticallybased groupings, depending on the nature of the underlying statistics.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Brown, V. D. Pietra, P. D. Souza, J. Lai, R. Mercer
+

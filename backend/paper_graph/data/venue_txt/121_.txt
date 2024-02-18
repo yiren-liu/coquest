@@ -1,0 +1,12 @@
+corpus id: 60454344, 
+
+Title: Qualitative inquiry & research design : choosing among five approaches
+
+Abstract: Chapter 1. Introduction Chapter 2. Philosophical Assumptions and Interpretive Frameworks Chapter 3. Designing a Qualitative Study Chapter 4. Five Qualitative Approaches to Inquiry Chapter 5. Five Different Qualitative Studies Chapter 6. Introducing and Focusing the Study Chapter 7. Data Collection Chapter 8. Data Analysis and Representation Chapter 9. Writing a Qualitative Study Chapter 10. Standards of Validation and Reliability in Qualitative Research Chapter 11. "Turning the Story" and Conclusion Appendix A. An Annotated Glossary of Terms Appendix B. A Narrative Research Study Appendix C. A Phenomenological Study Appendix D. A Grounded Theory Study Appendix E. An Ethnography Appendix F. A Case Study
+
+TLDR: This chapter discusses five Qualitative Approaches to Inquiry, the design of a Qualitative Study, and standards of Validation and Reliability in Qualitative Research.
+
+Fields of Study: ['Psychology', 'Political Science', 'Computer Science', 'Sociology']
+
+Authors: J. Creswell
+

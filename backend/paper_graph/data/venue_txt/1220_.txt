@@ -1,0 +1,12 @@
+corpus id: 207230134, 
+
+Title: YFCC100M: the new data in multimedia research
+
+Abstract: This publicly available curated dataset of almost 100 million photos and videos is free and legal for all.
+
+TLDR: This publicly available curated dataset of almost 100 million photos and videos is free and legal for all.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Thomee, David A. Shamma, G. Friedland, Benjamin Elizalde, Karl S. Ni, Douglas N. Poland, Damian Borth, Li-Jia Li
+

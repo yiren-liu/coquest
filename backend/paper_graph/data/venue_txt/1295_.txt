@@ -1,0 +1,12 @@
+corpus id: 142882342, 
+
+Title: Microaggressions in Everyday Life: Race, Gender, and Sexual Orientation
+
+Abstract: Foreword. Preface. Acknowledgments. About the Author. SECTION ONE: PSYCHOLOGICAL MANIFESTATION AND DYNAMICS OFMICROAGGRESSIONS. CHAPTER ONE: The Manifestation of Racial, Gender, andSexual-Orientation Microaggressions. CHAPTER TWO: Taxonomy of Microaggressions. CHAPTER THREE: The Psychological Dilemmas and Dynamics ofMicroaggressions. SECTION TWO: MICROAGGRESSIVE IMPACT ON TARGETS ANDPERPETRATORS. CHAPTER FOUR: The Microaggression Process Model: From Beginningto End. CHAPTER FIVE: Microaggressive Stress: Impact on Physical andMental Health. CHAPTER SIX: Microaggressive Perpetrators and Oppression: TheNature of the Beast. SECTION THREE: GROUP-SPECIFIC MICROAGGRESSIONS: RACE, GENDER,AND SEXUAL ORIENTATION. CHAPTER SEVEN: Racial/Ethnic Microaggressions and Racism. CHAPTER EIGHT: Gender Microaggressions and Sexism. CHAPTER NINE: Sexual-Orientation Microaggressions andHeterosexism. SECTION FOUR: MICROAGGRESSIONS IN EMPLOYMENT, EDUCATION, ANDMENTAL HEALTH PRACTICE. CHAPTER TEN: Microaggressive Impact in the Workplace andEmployment. CHAPTER ELEVEN: Microaggressive Impact on Education andTeaching: Facilitating Diffi cult Dialogues on Race in theClassroom. CHAPTER TWELVE: Microaggressive Impact on Mental HealthPractice. References. Index.
+
+TLDR: This book discusses microaggressive impact in the Workplace and Employment, Race, Gender, and Sexual-Orientation Microaggressions, and its applications in education, employment, and health practice.
+
+Fields of Study: ['Psychology']
+
+Authors: D. W. Sue
+

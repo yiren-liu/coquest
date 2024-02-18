@@ -1,0 +1,12 @@
+corpus id: 222376678, 
+
+Title: Multivariate data analysis
+
+Abstract: Chapter 1: Introduction Chapter 2: Examining Your Data Chapter 3: Factor Analysis Chapter 4: Regression Chapter 5: Multiple Discriminant Analysis Chapter 6: Manova Chapter 7: Conjoint Analysis Chapter 8: Cluster Analysis Chapter 9: MDS Chapter 10: Structural Equation Modeling: An Introduction Chapter 11: SEM: Confirmatory Factor Analysis Chapter 12: SEM: Testing A Structural Model
+
+TLDR: This chapter discusses Structural Equation Modeling: An Introduction, and SEM: Confirmatory Factor Analysis, and Testing A Structural Model, which shows how the model can be modified for different data types.
+
+Fields of Study: ['Mathematics']
+
+Authors: J. Hair
+

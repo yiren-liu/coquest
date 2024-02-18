@@ -1,0 +1,12 @@
+corpus id: 110955000, 
+
+Title: Code and Other Laws of Cyberspace
+
+Abstract: From the Publisher: Should cyberspace be regulated? How can it be done? It's a cherished belief of techies and net denizens everywhere that cyberspace is fundamentally impossible to regulate. Harvard Professor Lawrence Lessig warns that, if we're not careful we'll wake up one day to discover that the character of cyberspace has changed from under us. Cyberspace will no longer be a world of relative freedom; instead it will be a world of perfect control where our identities, actions, and desires are monitored, tracked, and analyzed for the latest market research report. Commercial forces will dictate the change, and architecturethe very structure of cyberspace itselfwill dictate the form our interactions can and cannot take. Code And Other Laws of Cyberspace is an exciting examination of how the core values of cyberspace as we know itintellectual property, free speech, and privacy-are being threatened and what we can do to protect them. Lessig shows how codethe architecture and law of cyberspacecan make a domain, site, or network free or restrictive; how technological architectures influence people's behavior and the values they adopt; and how changes in code can have damaging consequences for individual freedoms. Code is not just for lawyers and policymakers; it is a must-read for everyone concerned with survival of democratic values in the Information Age.
+
+TLDR: Harvard Professor Lawrence Lessig shows how code can make a domain, site, or network free or restrictive; how technological architectures influence people's behavior and the values they adopt; and how changes in code can have damaging consequences for individual freedoms.
+
+Fields of Study: ['Engineering']
+
+Authors: Lawrence Lessig
+

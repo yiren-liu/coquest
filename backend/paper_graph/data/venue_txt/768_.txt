@@ -1,0 +1,12 @@
+corpus id: 6331667, 
+
+Title: Amazon's Mechanical Turk
+
+Abstract: Amazon’s Mechanical Turk (MTurk) is a relatively new website that contains the major elements required to conduct research: an integrated participant compensation system; a large participant pool; and a streamlined process of study design, participant recruitment, and data collection. In this article, we describe and evaluate the potential contributions of MTurk to psychology and other social sciences. Findings indicate that (a) MTurk participants are slightly more demographically diverse than are standard Internet samples and are significantly more diverse than typical American college samples; (b) participation is affected by compensation rate and task length, but participants can still be recruited rapidly and inexpensively; (c) realistic compensation rates do not affect data quality; and (d) the data obtained are at least as reliable as those obtained via traditional methods. Overall, MTurk can be used to obtain high-quality data inexpensively and rapidly.
+
+TLDR: Findings indicate that MTurk can be used to obtain high-quality data inexpensively and rapidly and the data obtained are at least as reliable as those obtained via traditional methods.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: Michael D. Buhrmester, T. Kwang, S. Gosling
+

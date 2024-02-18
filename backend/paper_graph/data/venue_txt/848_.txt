@@ -1,0 +1,12 @@
+corpus id: 123722079, 
+
+Title: Estimating the Dimension of a Model
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: G. Schwarz
+

@@ -1,0 +1,12 @@
+corpus id: 46878603, 
+
+Title: Habits, rituals, and the evaluative brain.
+
+Abstract: Scientists in many different fields have been attracted to the study of habits because of the power habits have over behavior and because they invoke a dichotomy between the conscious, voluntary control over behavior, considered the essence of higher-order deliberative behavioral control, and lower-order behavioral control that is scarcely available to consciousness. A broad spectrum of behavioral routines and rituals can become habitual and stereotyped through learning. Others have a strong innate basis. Repetitive behaviors can also appear as cardinal symptoms in a broad range of neurological and neuropsychiatric illness and in addictive states. This review suggests that many of these behaviors could emerge as a result of experience-dependent plasticity in basal ganglia-based circuits that can influence not only overt behaviors but also cognitive activity. Culturally based rituals may reflect privileged interactions between the basal ganglia and cortically based circuits that influence social, emotional, and action functions of the brain.
+
+TLDR: This review suggests that many of these behaviors could emerge as a result of experience-dependent plasticity in basal ganglia-based circuits that can influence not only overt behaviors but also cognitive activity.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: A. Graybiel
+

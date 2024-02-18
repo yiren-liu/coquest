@@ -1,0 +1,12 @@
+corpus id: 3865671, 
+
+Title: Why we twitter: understanding microblogging usage and communities
+
+Abstract: Microblogging is a new form of communication in which users can describe their current status in short posts distributed by instant messages, mobile phones, email or the Web. Twitter, a popular microblogging tool has seen a lot of growth since it launched in October, 2006. In this paper, we present our observations of the microblogging phenomena by studying the topological and geographical properties of Twitter's social network. We find that people use microblogging to talk about their daily activities and to seek or share information. Finally, we analyze the user intentions associated at a community level and show how users with similar intentions connect with each other.
+
+TLDR: It is found that people use microblogging to talk about their daily activities and to seek or share information and the user intentions associated at a community level are analyzed to show how users with similar intentions connect with each other.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Java, Xiaodan Song, Timothy W. Finin, B. Tseng
+

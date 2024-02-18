@@ -1,0 +1,12 @@
+corpus id: 17406543, 
+
+Title: A general method applicable to the search for similarities in the amino acid sequence of two proteins.
+
+Abstract: None
+
+TLDR: A computer adaptable method for finding similarities in the amino acid sequences of two proteins has been developed and it is possible to determine whether significant homology exists between the proteins to trace their possible evolutionary development.
+
+Fields of Study: ['Biology', 'Medicine']
+
+Authors: S. B. Needleman, C. D. Wunsch
+

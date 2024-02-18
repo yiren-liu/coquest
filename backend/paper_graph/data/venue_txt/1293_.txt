@@ -1,0 +1,12 @@
+corpus id: 31468174, 
+
+Title: Graph drawing by force‐directed placement
+
+Abstract: We present a modification of the spring‐embedder model of Eades [Congressus Numerantium, 42, 149–160, (1984)] for drawing undirected graphs with straight edges. Our heuristic strives for uniform edge lengths, and we develop it in analogy to forces in natural systems, for a simple, elegant, conceptually‐intuitive, and efficient algorithm.
+
+TLDR: A modification of the spring‐embedder model of Eades for drawing undirected graphs with straight edges is presented, developed in analogy to forces in natural systems, for a simple, elegant, conceptually‐intuitive, and efficient algorithm.
+
+Fields of Study: ['Computer Science']
+
+Authors: Thomas M. J. Fruchterman, E. Reingold
+

@@ -1,0 +1,12 @@
+corpus id: 32633178, 
+
+Title: Psychological Safety and Learning Behavior in Work Teams
+
+Abstract: This paper presents a model of team learning and tests it in a multimethod field study. It introduces the construct of team psychological safety—a shared belief held by members of a team that the team is safe for interpersonal risk taking—and models the effects of team psychological safety and team efficacy together on learning and performance in organizational work teams. Results of a study of 51 work teams in a manufacturing company, measuring antecedent, process, and outcome variables, show that team psychological safety is associated with learning behavior, but team efficacy is not, when controlling for team psychological safety. As predicted, learning behavior mediates between team psychological safety and team performance. The results support an integrative perspective in which both team structures, such as context support and team leader coaching, and shared beliefs shape team outcomes.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Edmondson
+

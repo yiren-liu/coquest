@@ -1,0 +1,12 @@
+corpus id: 144985742, 
+
+Title: Studies of independence and conformity: I. A minority of one against a unanimous majority.
+
+Abstract: The investigations described in this series are concerned with the conditions of independence and lack of independence in the face of group pressure. The abstract temper of present-day theory and investigation in this region rests to a considerable degree on a neglect of the cognitive and emotional experiences that are part of the individual's psychological field. The understanding of social influences will require the study of a wide range of conditions and of the interrelated operations of different psychological functions. A group of seven to nine individuals was gathered in a classroom to take part in what appeared to be a simple experiment in visual discrimination. The subjects were all male, white college students, ranging in age from 17 to 25; the mean age was 20. For certain purposes a large number of critical subjects was required for the present experiment. The present report is based on a total of 123 subjects. The task consisted of the comparison of a standard line with three other lines, one of which was equal in length to the standard. We investigated some of the conditions responsible for independence and lack of independence in the face of arbitrary group pressure. To this end we produced a disagreement between a group and one individual member about a clear and simple issue of fact. The interview, which followed the experimental session, provided qualitative evidence concerning the effects produced by the majority, The particular properties of the experimental situation and their relation to more usual social contradictions were described.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: S. Asch
+

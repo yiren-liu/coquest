@@ -1,0 +1,12 @@
+corpus id: 8619947, 
+
+Title: Understanding knowledge sharing in virtual communities: An integration of social capital and social cognitive theories
+
+Abstract: None
+
+TLDR: The study holds that the facets of social capital -- social interaction ties, trust, norm of reciprocity, identification, shared vision and shared language -- will influence individuals' knowledge sharing in virtual communities.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: Chao-Min Chiu, M. Hsu, Eric T. G. Wang
+

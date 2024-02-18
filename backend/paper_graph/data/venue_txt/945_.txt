@@ -1,0 +1,12 @@
+corpus id: 5065146, 
+
+Title: Smalltalk-80: The Language and Its Implementation
+
+Abstract: From the Preface (See Front Matter for full Preface)  Advances in the design and production of computer hardware have brought many more people into direct contact with computers. Similar advances in the design and production of computer software are required in order that this increased contact be as rewarding as possible. The Smalltalk-80 system is a result of a decade of research into creating computer software that is appropriate for producing highly functional and interactive contact with personal computer systems. This book is the first detailed account of the Smalltalk-80 system. It is divided into four major parts:  Part One -- an overview of the concepts and syntax of the programming language.  Part Two -- an annotated and illustrated specification of the system's functionality.  Part Three -- an example of the design and implementation of a moderate-size application.  Part Four -- a specification of the Smalltalk-80 virtual machine.
+
+TLDR: This book is the first detailed account of the Smalltalk-80 system and is divided into four major parts: an overview of the concepts and syntax of the programming language, a specification of the system's functionality, and an example of the design and implementation of a moderate-size application.
+
+Fields of Study: ['Computer Science']
+
+Authors: Adele Goldberg, D. Robson
+

@@ -1,0 +1,12 @@
+corpus id: 12849354, 
+
+Title: Snakes: Active contour models
+
+Abstract: None
+
+TLDR: This work uses snakes for interactive interpretation, in which user-imposed constraint forces guide the snake near features of interest, and uses scale-space continuation to enlarge the capture region surrounding a feature.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Kass, A. Witkin, Demetri Terzopoulos
+

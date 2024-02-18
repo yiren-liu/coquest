@@ -1,0 +1,12 @@
+corpus id: 145704449, 
+
+Title: Organizational Silence: A Barrier to Change and Development in a Pluralistic World
+
+Abstract: We argue that there are powerful forces in many organizations that cause widespread withholding of information about potential problems or issues by employees. We refer to this collective-level phenomenon as “organizational silence.” In our model we identify contextual variables that create conditions conducive to silence and explore the collective sensemaking dynamics that can create the shared perception that speaking up is unwise. We also discuss some of the negative consequences of systemic silence, especially for organizations' ability to change and develop in the context of pluralism.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: E. W. Morrison, Frances J. Milliken
+

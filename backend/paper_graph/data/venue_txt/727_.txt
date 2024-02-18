@@ -1,0 +1,12 @@
+corpus id: 176424, 
+
+Title: Lightweight causal and atomic group multicast
+
+Abstract: Reference LSR-ARTICLE-1991-001View record in Web of Science Record created on 2005-05-20, modified on 2016-08-08
+
+TLDR: This poster presents a probabilistic procedure to constrain the number of particles in the response of the immune system to the presence of Tau.
+
+Fields of Study: ['Computer Science']
+
+Authors: K. Birman, A. Schiper, Patrick Stephenson
+

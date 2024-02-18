@@ -1,0 +1,12 @@
+corpus id: 5736984, 
+
+Title: Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks
+
+Abstract: We present a novel method for real-time continuous pose recovery of markerless complex articulable objects from a single depth image. Our method consists of the following stages: a randomized decision forest classifier for image segmentation, a robust method for labeled dataset generation, a convolutional network for dense feature extraction, and finally an inverse kinematics stage for stable real-time pose recovery. As one possible application of this pipeline, we show state-of-the-art results for real-time puppeteering of a skinned hand-model.
+
+TLDR: A novel method for real-time continuous pose recovery of markerless complex articulable objects from a single depth image using a randomized decision forest classifier for image segmentation, a robust method for labeled dataset generation, a convolutional network for dense feature extraction, and finally an inverse kinematics stage for stable real- time pose recovery.
+
+Fields of Study: ['Computer Science']
+
+Authors: Jonathan Tompson, Murphy Stein, Yann LeCun, K. Perlin
+

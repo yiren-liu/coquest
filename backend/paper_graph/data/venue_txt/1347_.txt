@@ -1,0 +1,12 @@
+corpus id: 110020342, 
+
+Title: Mail and telephone surveys : the total design method
+
+Abstract: Develops a theoretically based system guided by principles of social exchange and administration that ensure high quality surveys at low cost. Presents step-by-step procedures and shows why each step is important. Contains many examples and, where appropriate, contrasts acceptable and unacceptable procedures.
+
+TLDR: 
+
+Fields of Study: ['Sociology', 'Psychology']
+
+Authors: D. Dillman
+

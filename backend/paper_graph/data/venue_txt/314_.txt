@@ -1,0 +1,12 @@
+corpus id: 8959407, 
+
+Title: The Meaning of Intonational Contours in the Interpretation of Discourse
+
+Abstract: Recent investigations of the contribution that intonation makes to overall utterance and discourse interpretation promise new sources of information for the investigation of long-time concerns in natural-language processing. In Hirschberg and Pierrehumbert 1986 we proposed that intonational features such as phrasing, accmt pUuttTWIt, pilch rangt, and huIe represent important sources of information about the attmh0ru3l and the rntmt10rIJAl structures of discourse. I In this paper we examine the particular contribution of choice of tune, or int0ru3h0ru3l cantour, to discourse interpretation. In particular, we propose that a speaker (5) chooses a particular tune to convey a particular relationship between an utterance, currently perceived beliefs of a hearer or hearers (H), and anticipated contributions of subsequent utterances. We claim that these relationships are compositionalcomposed from the pitch aumts, phrase QCcmts, and bowndary tones that make up tunes. We further propose that the different aspects of tune meaning can be associated with different phonological domains. We assume the intorIJAtional phrase as our primary unit of meaning analysis. In the following discussion we put forward a first approximation of a compositional theory of tune interpretation. together with the phonological assumptions on which it is based and the evidence from which we have drawn our proposals. We assume Pierrehumbert's Wierrehumbert 198{); Beckman and Pierrehurnbert 1986a) theory of intonational description. which we describe in sections 2-3. In section 4 we present our general approach to intonational meaning. In sections 5 -7 we present the data upon which we base this account. In section 8 we explore avenues of further development for the theory and discuss implications for the study of discourse.
+
+TLDR: This paper proposes that a speaker chooses a particular tune to convey a particular relationship between an utterance, currently perceived beliefs of a hearer or hearers, and anticipated contributions of subsequent utterances, and claims that these relationships are compositionalcomposed from the pitch aumts, phrase QCcmts, and bowndary tones that make up tunes.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Pierrehumbert, Julia Hirschberg
+

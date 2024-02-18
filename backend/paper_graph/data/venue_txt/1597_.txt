@@ -1,0 +1,12 @@
+corpus id: 2108518, 
+
+Title: The evolution of cooperation.
+
+Abstract: Cooperation in organisms, whether bacteria or primates, has been a difficulty for evolutionary theory since Darwin. On the assumption that interactions between pairs of individuals occur on a probabilistic basis, a model is developed based on the concept of an evolutionarily stable strategy in the context of the Prisoner's Dilemma game. Deductions from the model, and the results of a computer tournament show how cooperation based on reciprocity can get started in an asocial world, can thrive while interacting with a wide range of other strategies, and can resist invasion once fully established. Potential applications include specific aspects of territoriality, mating, and disease.
+
+TLDR: A model is developed based on the concept of an evolutionarily stable strategy in the context of the Prisoner's Dilemma game to show how cooperation based on reciprocity can get started in an asocial world, can thrive while interacting with a wide range of other strategies, and can resist invasion once fully established.
+
+Fields of Study: ['Sociology', 'Mathematics', 'Economics', 'Medicine']
+
+Authors: R. Axelrod, W. Hamilton
+

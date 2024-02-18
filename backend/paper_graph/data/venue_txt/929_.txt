@@ -1,0 +1,12 @@
+corpus id: 14270987, 
+
+Title: Conducting behavioral research on Amazon’s Mechanical Turk
+
+Abstract: None
+
+TLDR: It is shown that when taken as a whole Mechanical Turk can be a useful tool for many researchers, and how the behavior of workers compares with that of experts and laboratory subjects is discussed.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: Winter A. Mason, Siddharth Suri
+

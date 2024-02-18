@@ -1,0 +1,12 @@
+corpus id: 13676847, 
+
+Title: Bayesian Experimental Design: A Review
+
+Abstract: This paper reviews the literature on Bayesian experimental design, both for linear and nonlinear models. A uniied view of the topic is presented by putting experimental design in a decision theoretic framework. This framework justiies many optimality criteria, and opens new possibilities. Various design criteria become part of a single, coherent approach.
+
+TLDR: This paper reviews the literature on Bayesian experimental design, both for linear and nonlinear models, and presents a uniied view of the topic by putting experimental design in a decision theoretic framework.
+
+Fields of Study: ['Mathematics']
+
+Authors: K. Chaloner, I. Verdinelli
+

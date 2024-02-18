@@ -1,0 +1,12 @@
+corpus id: 17558010, 
+
+Title: Touchalytics: On the Applicability of Touchscreen Input as a Behavioral Biometric for Continuous Authentication
+
+Abstract: We investigate whether a classifier can continuously authenticate users based on the way they interact with the touchscreen of a smart phone. We propose a set of 30 behavioral touch features that can be extracted from raw touchscreen logs and demonstrate that different users populate distinct subspaces of this feature space. In a systematic experiment designed to test how this behavioral pattern exhibits consistency over time, we collected touch data from users interacting with a smart phone using basic navigation maneuvers, i.e., up-down and left-right scrolling. We propose a classification framework that learns the touch behavior of a user during an enrollment phase and is able to accept or reject the current user by monitoring interaction with the touch screen. The classifier achieves a median equal error rate of 0% for intrasession authentication, 2%-3% for intersession authentication, and below 4% when the authentication test was carried out one week after the enrollment phase. While our experimental findings disqualify this method as a standalone authentication mechanism for long-term authentication, it could be implemented as a means to extend screen-lock time or as a part of a multimodal biometric authentication system.
+
+TLDR: A classification framework that learns the touch behavior of a user during an enrollment phase and is able to accept or reject the current user by monitoring interaction with the touch screen is proposed.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Frank, R. Biedert, Eugene Ma, I. Martinovic, D. Song
+

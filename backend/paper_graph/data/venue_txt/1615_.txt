@@ -1,0 +1,12 @@
+corpus id: 1165523, 
+
+Title: Does Active Learning Work? A Review of the Research
+
+Abstract: This study examines the evidence for the effectiveness of active learning. It defines the common forms of active learning most relevant for engineering faculty and critically examines the core element of each method. It is found that there is broad but uneven support for the core elements of active, collaborative, cooperative and problem‐based learning.
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: M. Prince
+

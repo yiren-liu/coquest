@@ -1,0 +1,12 @@
+corpus id: 15145996, 
+
+Title: The 'digital natives' debate: A critical review of the evidence
+
+Abstract: The idea that a new generation of students is entering the education system has excited recent attention among educators and education commentators. Termed ‘digital natives’ or the ‘Net generation’, these young people are said to have been immersed in technology all their lives, imbuing them with sophisticated technical skills and learning preferences for which traditional education is unprepared. Grand claims are being made about the nature of this generational change and about the urgent necessity for educational reform in response. A sense of impending crisis pervades this debate. However, the actual situation is far from clear. In this paper, the authors draw on the fields of education and sociology to analyse the digital natives debate. The paper presents and questions the main claims made about digital natives and analyses the nature of the debate itself. We argue that rather than being empirically and theoretically informed, the debate can be likened to an academic form of a ‘moral panic’. We propose that a more measured and disinterested approach is now required to investigate ‘digital natives’ and their implications for education.
+
+TLDR: It is proposed that a more measured and disinterested approach is now required to investigate ‘digital natives’ and their implications for education and it is argued that rather than being empirical and theoretically informed, the debate can be likened to an academic form of a ‘moral panic’.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: S. Bennett, K. Maton, L. Kervin
+

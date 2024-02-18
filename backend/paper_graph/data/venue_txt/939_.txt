@@ -1,0 +1,12 @@
+corpus id: 60972899, 
+
+Title: FREQUENCY ANALYSIS OF ENGLISH USAGE: LEXICON AND GRAMMAR
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: W. Francis, H. Kucera, Andrew Mackie
+

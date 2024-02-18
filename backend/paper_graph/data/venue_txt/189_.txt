@@ -1,0 +1,12 @@
+corpus id: 55577025, 
+
+Title: A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking
+
+Abstract: Increasingly, for many application areas, it is becoming important to include elements of nonlinearity and non-Gaussianity in order to model accurately the underlying dynamics of a physical system. Moreover, it is typically crucial to process data on-line as it arrives, both from the point of view of storage costs as well as for rapid adaptation to changing signal characteristics. In this paper, we review both optimal and suboptimal Bayesian algorithms for nonlinear/non-Gaussian tracking problems, with a focus on particle filters. Particle filters are sequential Monte Carlo methods based on point mass (or "particle") representations of probability densities, which can be applied to any state-space model and which generalize the traditional Kalman filtering methods. Several variants of the particle filter such as SIR, ASIR, and RPF are introduced within a generic framework of the sequential importance sampling (SIS) algorithm. These are discussed and compared with the standard EKF through an illustrative example.
+
+TLDR: Both optimal and suboptimal Bayesian algorithms for nonlinear/non-Gaussian tracking problems, with a focus on particle filters are reviewed.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: M. Arulampalam, S. Maskell, N. Gordon, T. Clapp
+

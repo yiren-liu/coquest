@@ -1,0 +1,12 @@
+corpus id: 6794491, 
+
+Title: A Comparison of Affine Region Detectors
+
+Abstract: None
+
+TLDR: A snapshot of the state of the art in affine covariant region detectors, and compares their performance on a set of test images under varying imaging conditions to establish a reference test set of images and performance software so that future detectors can be evaluated in the same framework.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: K. Mikolajczyk, T. Tuytelaars, C. Schmid, Andrew Zisserman, Jiri Matas, Frederik Schaffalitzky, T. Kadir, L. Gool
+

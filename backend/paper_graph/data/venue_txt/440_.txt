@@ -1,0 +1,12 @@
+corpus id: 121177082, 
+
+Title: Social Network Analysis: Methods and Applications
+
+Abstract: Part I. Introduction: Networks, Relations, and Structure: 1. Relations and networks in the social and behavioral sciences 2. Social network data: collection and application Part II. Mathematical Representations of Social Networks: 3. Notation 4. Graphs and matrixes Part III. Structural and Locational Properties: 5. Centrality, prestige, and related actor and group measures 6. Structural balance, clusterability, and transitivity 7. Cohesive subgroups 8. Affiliations, co-memberships, and overlapping subgroups Part IV. Roles and Positions: 9. Structural equivalence 10. Blockmodels 11. Relational algebras 12. Network positions and roles Part V. Dyadic and Triadic Methods: 13. Dyads 14. Triads Part VI. Statistical Dyadic Interaction Models: 15. Statistical analysis of single relational networks 16. Stochastic blockmodels and goodness-of-fit indices Part VII. Epilogue: 17. Future directions.
+
+TLDR: This paper presents mathematical representation of social networks in the social and behavioral sciences through the lens of dyadic and triadic interaction models, which provide insights into the structure and dynamics of relationships between actors and groups.
+
+Fields of Study: ['Computer Science', 'Sociology', 'Mathematics', 'Business']
+
+Authors: S. Wasserman, Katherine Faust
+

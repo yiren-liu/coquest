@@ -1,0 +1,12 @@
+corpus id: 11573665, 
+
+Title: Social cognitive theory: an agentic perspective.
+
+Abstract: The capacity to exercise control over the nature and quality of one's life is the essence of humanness. Human agency is characterized by a number of core features that operate through phenomenal and functional consciousness. These include the temporal extension of agency through intentionality and forethought, self-regulation by self-reactive influence, and self-reflectiveness about one's capabilities, quality of functioning, and the meaning and purpose of one's life pursuits. Personal agency operates within a broad network of sociostructural influences. In these agentic transactions, people are producers as well as products of social systems. Social cognitive theory distinguishes among three modes of agency: direct personal agency, proxy agency that relies on others to act on one's behest to secure desired outcomes, and collective agency exercised through socially coordinative and interdependent effort. Growing transnational embeddedness and interdependence are placing a premium on collective efficacy to exercise control over personal destinies and national life.
+
+TLDR: Social cognitive theory distinguishes among three modes of agency: direct personal agency, proxy agency that relies on others to act on one's behest to secure desired outcomes, and collective agency exercised through socially coordinative and interdependent effort.
+
+Fields of Study: ['Medicine', 'Sociology', 'Psychology']
+
+Authors: A. Bandura
+

@@ -1,0 +1,12 @@
+corpus id: 15536496, 
+
+Title: The automated will: nonconscious activation and pursuit of behavioral goals.
+
+Abstract: It is proposed that goals can be activated outside of awareness and then operate nonconsciously to guide self-regulation effectively (J. A. Bargh, 1990). Five experiments are reported in which the goal either to perform well or to cooperate was activated, without the awareness of participants, through a priming manipulation. In Experiment 1 priming of the goal to perform well caused participants to perform comparatively better on an intellectual task. In Experiment 2 priming of the goal to cooperate caused participants to replenish a commonly held resource more readily. Experiment 3 used a dissociation paradigm to rule out perceptual-construal alternative explanations. Experiments 4 and 5 demonstrated that action guided by nonconsciously activated goals manifests two classic content-free features of the pursuit of consciously held goals. Nonconsciously activated goals effectively guide action, enabling adaptation to ongoing situational demands.
+
+TLDR: Five experiments reported in which the goal either to perform well or to cooperate was activated, without the awareness of participants, through a priming manipulation demonstrated that action guided by nonconsciously activated goals effectively guide action, enabling adaptation to ongoing situational demands.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. Bargh, P. Gollwitzer, A. Lee-Chai, K. Barndollar, R. Trötschel
+

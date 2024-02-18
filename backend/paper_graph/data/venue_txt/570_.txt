@@ -1,0 +1,12 @@
+corpus id: 14727192, 
+
+Title: An Introduction to Support Vector Machines and Other Kernel-based Learning Methods
+
+Abstract: From the publisher: This is the first comprehensive introduction to Support Vector Machines (SVMs), a new generation learning system based on recent advances in statistical learning theory. SVMs deliver state-of-the-art performance in real-world applications such as text categorisation, hand-written character recognition, image classification, biosequences analysis, etc., and are now established as one of the standard tools for machine learning and data mining. Students will find the book both stimulating and accessible, while practitioners will be guided smoothly through the material required for a good grasp of the theory and its applications. The concepts are introduced gradually in accessible and self-contained stages, while the presentation is rigorous and thorough. Pointers to relevant literature and web sites containing software ensure that it forms an ideal starting point for further study. Equally, the book and its associated web site will guide practitioners to updated literature, new applications, and on-line software.
+
+TLDR: This is the first comprehensive introduction to Support Vector Machines (SVMs), a new generation learning system based on recent advances in statistical learning theory, and will guide practitioners to updated literature, new applications, and on-line software.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: N. Cristianini, J. Shawe-Taylor
+

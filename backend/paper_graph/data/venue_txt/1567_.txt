@@ -1,0 +1,12 @@
+corpus id: 2078404, 
+
+Title: Self-Explonations: How Students Study and Use Examples in Learning to Solve Problems
+
+Abstract: The present paper analyzes the self-generated explanations (from talk-aloud protocols) that “Good” ond “Poor” students produce while studying worked-out exomples of mechanics problems, and their subsequent reliance on examples during problem solving. We find that “Good” students learn with understanding: They generate many explanations which refine and expand the conditions for the action ports of the exomple solutions, ond relate these actions to principles in the text. These self-explanations are guided by accurate monitoring of their own understanding and misunderstanding. Such learning results in example-inde-pendent knowledge and in a better understanding of the principles presented in the text. “Poor” students do not generate sufficient self-explonations, monitor their learning inaccurately, and subsequently rely heovily an examples. We then discuss the role of self-explanations in facilitating problem solving, as well OS the adequacy of current Al models of explanation-based learning to account for these psychological findings.
+
+TLDR: The present paper analyzes the self-generated explanations that “Good” and “Poor” students produce while studying worked-out exomples of mechanics problems, and their subsequent reliance on examples during problem solving and the adequacy of current Al models of explanation-based learning is discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Chi, M. Bassok, Matthew W. Lewis, P. Reimann, R. Glaser
+

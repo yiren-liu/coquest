@@ -1,0 +1,12 @@
+corpus id: 4492210, 
+
+Title: Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations
+
+Abstract: None
+
+TLDR: The Visual Genome dataset is presented, which contains over 108K images where each image has an average of $$35$$35 objects, $$26$$26 attributes, and $$21$$21 pairwise relationships between objects, and represents the densest and largest dataset of image descriptions, objects, attributes, relationships, and question answer pairs.
+
+Fields of Study: ['Computer Science']
+
+Authors: Ranjay Krishna, Yuke Zhu, O. Groth, Justin Johnson, K. Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li-Jia Li, David A. Shamma, Michael S. Bernstein, Li Fei-Fei
+

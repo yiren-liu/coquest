@@ -1,0 +1,12 @@
+corpus id: 8888392, 
+
+Title: The Next Big Five Inventory (BFI-2): Developing and Assessing a Hierarchical Model With 15 Facets to Enhance Bandwidth, Fidelity, and Predictive Power
+
+Abstract: Three studies were conducted to develop and validate the Big Five Inventory-2 (BFI-2), a major revision of the Big Five Inventory (BFI). Study 1 specified a hierarchical model of personality structure with 15 facet traits nested within the Big Five domains, and developed a preliminary item pool to measure this structure. Study 2 used conceptual and empirical criteria to construct the BFI-2 domain and facet scales from the preliminary item pool. Study 3 used data from 2 validation samples to evaluate the BFI-2’s measurement properties and substantive relations with self-reported and peer-reported criteria. The results of these studies indicate that the BFI-2 is a reliable and valid personality measure, and an important advance over the original BFI. Specifically, the BFI-2 introduces a robust hierarchical structure, controls for individual differences in acquiescent responding, and provides greater bandwidth, fidelity, and predictive power than the original BFI, while still retaining the original measure’s conceptual focus, brevity, and ease of understanding. The BFI-2 therefore offers valuable new opportunities for research examining the structure, assessment, development, and life outcomes of personality traits.
+
+TLDR: The BFI-2 introduces a robust hierarchical structure, controls for individual differences in acquiescent responding, and provides greater bandwidth, fidelity, and predictive power than the original BFI, while still retaining the original measure’s conceptual focus, brevity, and ease of understanding.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: C. Soto, O. John
+

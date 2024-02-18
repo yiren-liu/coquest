@@ -1,0 +1,12 @@
+corpus id: 13779137, 
+
+Title: The Ethnography of Infrastructure
+
+Abstract: This article asks methodological questions about studying infrastructure with some of the tools and perspectives of ethnography. Infrastructure is both relational and ecological—it means different things to different groups and it is part of the balance of action, tools, and the built environment, inseparable from them. It also is frequently mundane to the point of boredom, involving things such as plugs, standards, and bureaucratic forms. Some of the difficulties of studying infrastructure are how to scale up from traditional ethnographic sites, how to manage large quantities of data such as those produced by transaction logs, and how to understand the interplay of online and offline behavior. Some of the tricks of the trade involved in meeting these challenges include studying the design of infrastructure, understanding the paradoxes of infrastructure as both transparent and opaque, including invisible work in the ecological analysis, and pinpointing the epistemological status of indictors.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: S. L. Star
+

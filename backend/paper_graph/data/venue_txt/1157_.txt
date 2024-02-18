@@ -1,0 +1,12 @@
+corpus id: 6492502, 
+
+Title: Fast Effective Rule Induction
+
+Abstract: None
+
+TLDR: This paper evaluates the recently-proposed rule learning algorithm IREP on a large and diverse collection of benchmark problems, and proposes a number of modifications resulting in an algorithm RIPPERk that is very competitive with C4.5 and C 4.5rules with respect to error rates, but much more efficient on large samples.
+
+Fields of Study: ['Computer Science']
+
+Authors: William W. Cohen
+

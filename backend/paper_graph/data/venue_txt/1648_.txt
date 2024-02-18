@@ -1,0 +1,12 @@
+corpus id: 33053615, 
+
+Title: Message Equivocality, Media Selection, and Manager Performance: Implications for Information Systems
+
+Abstract: A field study of middle- and upper-level managers was undertaken to explain managers' selection of communication media. The findings indicate that media vary in their capacity to convey information cues. Managers prefer rich media for ambiguous communications and less rich media for unequivocal communications. The data suggest that high performing managers are more sensitive to the relationship between message ambiguity and media richness than low performing managers. Implications for managers' use of information systems and electronic media are discussed.
+
+TLDR: The findings indicate that media vary in their capacity to convey information cues and that high performing managers are more sensitive to the relationship between message ambiguity and media richness than low performing managers.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Daft, R. Lengel, L. Treviño
+

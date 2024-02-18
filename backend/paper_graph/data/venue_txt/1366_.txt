@@ -1,0 +1,12 @@
+corpus id: 245838515, 
+
+Title: Embodied Hands: Modeling and Capturing Hands and Bodies Together
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Romero, Dimitrios Tzionas, Michael J. Black
+

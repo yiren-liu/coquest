@@ -1,0 +1,12 @@
+corpus id: 215822405, 
+
+Title: Time, clocks, and the ordering of events in a distributed system
+
+Abstract: The concept of one event happening before another in a distributed system is examined, and is shown to define a partial ordering of the events. A distributed algorithm is given for synchronizing a system of logical clocks which can be used to totally order the events. The use of the total ordering is illustrated with a method for solving synchronization problems. The algorithm is then specialized for synchronizing physical clocks, and a bound is derived on how far out of synchrony the clocks can become.
+
+TLDR: A distributed algorithm is given for synchronizing a system of logical clocks which can be used to totally order the events, and a bound is derived on how far out of synchrony the clocks can become.
+
+Fields of Study: ['Computer Science']
+
+Authors: L. Lamport
+

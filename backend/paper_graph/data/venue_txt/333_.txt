@@ -1,0 +1,12 @@
+corpus id: 144631736, 
+
+Title: Creative Self-Efficacy: Its Potential Antecedents and Relationship to Creative Performance
+
+Abstract: Using data from two different firms, this study tested a new construct, creative self-efficacy, tapping employees' belief) that they can be creative in their work roles. Results support the discriminant validity of the construct and indicate that job tenure, job self-efficacy, supervisor behavior, and job complexity contribute to creative efficacy beliefs. Creative self-efficacy also predicted creative performance beyond the predictive effects of job self-efficacy. Differences in results between white-collar and blue-collar samples suggest considerations for both theory and practice.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: P. Tierney, Steven M. Farmer
+

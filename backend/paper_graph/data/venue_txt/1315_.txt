@@ -1,0 +1,12 @@
+corpus id: 30441985, 
+
+Title: A marker for the end of adolescence
+
+Abstract: None
+
+TLDR: Investigating ‘chronotypes' observed an abrupt change in the timing of sleep at around the age of 20 and propose this change as the first biological marker of the end of adolescence.
+
+Fields of Study: ['Biology', 'Medicine']
+
+Authors: T. Roenneberg, Tim Kuehnle, P. Pramstaller, J. Ricken, M. Havel, A. Guth, M. Merrow
+

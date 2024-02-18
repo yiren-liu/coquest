@@ -1,0 +1,12 @@
+corpus id: 57375753, 
+
+Title: A Comprehensive Survey on Graph Neural Networks
+
+Abstract: Deep learning has revolutionized many machine learning tasks in recent years, ranging from image classification and video processing to speech recognition and natural language understanding. The data in these tasks are typically represented in the Euclidean space. However, there is an increasing number of applications, where data are generated from non-Euclidean domains and are represented as graphs with complex relationships and interdependency between objects. The complexity of graph data has imposed significant challenges on the existing machine learning algorithms. Recently, many studies on extending deep learning approaches for graph data have emerged. In this article, we provide a comprehensive overview of graph neural networks (GNNs) in data mining and machine learning fields. We propose a new taxonomy to divide the state-of-the-art GNNs into four categories, namely, recurrent GNNs, convolutional GNNs, graph autoencoders, and spatial–temporal GNNs. We further discuss the applications of GNNs across various domains and summarize the open-source codes, benchmark data sets, and model evaluation of GNNs. Finally, we propose potential research directions in this rapidly growing field.
+
+TLDR: This article provides a comprehensive overview of graph neural networks (GNNs) in data mining and machine learning fields and proposes a new taxonomy to divide the state-of-the-art GNNs into four categories, namely, recurrent GNNS, convolutional GNN’s, graph autoencoders, and spatial–temporal Gnns.
+
+Fields of Study: ['Computer Science', 'Mathematics', 'Medicine']
+
+Authors: Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu
+

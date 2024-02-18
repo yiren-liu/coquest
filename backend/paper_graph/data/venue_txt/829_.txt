@@ -1,0 +1,12 @@
+corpus id: 57331965, 
+
+Title: An Update.
+
+Abstract: Bacillus cereus causes two distinct forms of gastroenteritis, and also contributes to infections such as mastitis. The two foodborne illness syndromes are caused by toxins that elicit vomiting or diarrhea ca. 4 or 10-12 h, respectively, after consumption of contaminated food. The emetic (vomiting) response is generally associated with rice as a vehicle. Work is required to determine if the syndrome produced in an outbreak is a function of the strain involved, the food implicated, and/or other environmental factors. The heat resistance of B. cereus spores and the nonfastidious nature of the organism facilitates survival and/or growth of the organism in a wide variety of foods. This review describes B. cereus gastroenteritis, toxins, sources, survival, growth characteristics, enumeration, and prevention.
+
+TLDR: This review describes B. cereus gastroenteritis, toxins, sources, survival, growth characteristics, enumeration, and prevention of foodborne illness syndromes.
+
+Fields of Study: ['Medicine']
+
+Authors: K. Johnson
+

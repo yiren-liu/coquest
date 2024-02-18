@@ -1,0 +1,12 @@
+corpus id: 59869181, 
+
+Title: An expanded sourcebook qualitative data analysis
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: M. Miles, A. Huberman
+

@@ -1,0 +1,12 @@
+corpus id: 141826363, 
+
+Title: Autopoiesis and Cognition : The Realization of the Living (Boston Studies in the Philosophy of Scie
+
+Abstract: Editorial Preface General Table Of Contents Foreword Introduction (by Professor Maturana) Biology Of Cognition Dedication Table of Contents I. Introduction II. The Problem III. Cognitive Function in General A. The Observer B. The Living System C. Evolution D. The Cognitive Process IV. Cognitive Function in Particular A. Nerve Cells B. Architecture C. Function D. Representation E. Description F. Thinking G. Natural Language H. Memory and Learning I. The Observer V. Problems in the Neurophysiology of Cognition VI. Conclusions VII. Post Scriptum Autopoiesis: The Organization Of The Living Preface (by Sir Stafford Beer) Introduction I. On Machines, living and Otherwise 1. Machines 2. Living Machines II. Dispensability of Teleonomy 1. Purposelessness 2. Individuality III. Embodiments of Autopoiesis 1. Descriptive and Causal Notions 2. Molecular Embodiments 3. Origin IV. Diversity of Autopoiesis 1. Subordination to the Condition of Unity 2. Plasticity of Ontogeny 3. Reproduction, a Complication of the Unity 4. Evolution, a Historical Network 5. Second and Third Order Autopoietic Systems V. Presence of Autopoiesis 1. Biological Implications 2. Epistemological Implications 3. Cognitive Implications Appendix: The Nervous System Glossary Bibliography Index Of Names
+
+TLDR: The aim of this book is to provide a Discussion of the Foundations of Cognitive Function and its Applications in Autopoiesis, and to clarify the role of language in the development of cognition.
+
+Fields of Study: ['Psychology']
+
+Authors: H. Maturana, F. Varela
+

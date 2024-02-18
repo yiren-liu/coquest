@@ -1,0 +1,12 @@
+corpus id: 14447070, 
+
+Title: Achieving convergence, causality preservation, and intention preservation in real-time cooperative editing systems
+
+Abstract: Real-time cooperative editing systems allow multiple users to view and edit the same text/graphic/image/multimedia document at the same time for multiple sites connected by communication networks. Consistency maintenance is one of the most significant challenges in designing and implementing real-time cooperative editing systems. In this article, a consistency model, with properties of convergence, causality preservation, and intention preservation, is proposed as a framework for consistency maintenance in real-time cooperative editing systems. Moreover, an integrated set of schemes and algorithms, which support the proposed consistency model, are devised and discussed in detail. In particular, we have contributed (1) a novel generic operation transformation control algorithm for achieving intention preservation in combination with schemes for achieving convergence and causality preservation and (2) a pair of reversible inclusion and exclusion transformation algorithms for stringwise operations for text editing. An Internet-based prototype system has been built to test the feasibility of the proposed schemes and algorithms
+
+TLDR: A consistency model, with properties of convergence, causality preservation, and intention preservation, is proposed as a framework for consistency maintenance in real-time cooperative editing systems and an integrated set of schemes and algorithms are devised.
+
+Fields of Study: ['Computer Science']
+
+Authors: Chengzheng Sun, X. Jia, Yanchun Zhang, Yun Yang, David Chen
+

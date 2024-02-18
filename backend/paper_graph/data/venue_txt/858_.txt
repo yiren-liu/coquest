@@ -1,0 +1,12 @@
+corpus id: 27148249, 
+
+Title: Context theory of classification learning.
+
+Abstract: Most theories dealing with ill-defined concepts assume that performance is based on category level information or a mixture of category level and specific item information. A context theory of classificatio n is described in which judgments are assumed to derive exclusively from stored exemplar information. The main idea is that a probe item acts as a retrieval cue to access information associated with stimuli similar to the probe. The predictions of the context theory are contrasted with those of a class of theories (including prototype theory) that assume that the information entering into judgments can be derived from an additive combination of information from component cue dimensions. Across four experiments using both geometric forms and schematic faces as stimuli, the context theory consistently gave a better account of the data. The relation of the context theory to other theories and phenomena associated with ill-defined concepts is discussed in detail. One of the major components of cognitive behavior concerns abstracting rules and forming concepts. Our entire system of naming objects and events, talking about them, and interacting with them presupposes the ability to group experiences into appropriate classes. Young children learn to tell the difference between dogs and cats, between clocks and fans, and between stars and street lights. Since few concepts are formally taught, the evolution of concepts from experience with exemplars must be a fundamental learning phenomenon. The focus of the present article is to explore how such conceptual achievements emerge from individual instances.
+
+TLDR: A context theory of classificatio n is described in which judgments are assumed to derive exclusively from stored exemplar information, and the main idea is that a probe item acts as a retrieval cue to access information associated with stimuli similar to the probe.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Medin, M. M. Schaffer
+

@@ -1,0 +1,12 @@
+corpus id: 10520480, 
+
+Title: Steps Toward an Ecology of Infrastructure: Design and Access for Large Information Spaces
+
+Abstract: We analyze a large-scale custom software effort, the Worm Community System (WCS), a collaborative system designed for a geographically dispersed community of geneticists. There were complex challenges in creating this infrastructural tool, ranging from simple lack of resources to complex organizational and intellectual communication failures and tradeoffs. Despite high user satisfaction with the system and interface, and extensive user needs assessment, feedback, and analysis, many users experienced difficulties in signing on and use. The study was conducted during a time of unprecedented growth in the Internet and its utilities (1991--1994), and many respondents turned to the World Wide Web for their information exchange. Using Bateson's model of levels of learning, we analyze the levels of infrastructural complexity involved in system access and designer-user communication. We analyze the connection between systems development aimed at supporting specific forms of collaborative knowledge work, local organizational transformation, and large-scale infrastructural change.
+
+TLDR: A large-scale custom software effort, the Worm Community System (WCS), a collaborative system designed for a geographically dispersed community of geneticists, is analyzed, using Bateson's model of levels of learning to analyze the levels of infrastructural complexity involved in system access and designer-user communication.
+
+Fields of Study: ['Computer Science']
+
+Authors: S. L. Star, K. Ruhleder
+

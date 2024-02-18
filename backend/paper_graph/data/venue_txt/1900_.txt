@@ -1,0 +1,12 @@
+corpus id: 206591220, 
+
+Title: Secrets of optical flow estimation and their principles
+
+Abstract: The accuracy of optical flow estimation algorithms has been improving steadily as evidenced by results on the Middlebury optical flow benchmark. The typical formulation, however, has changed little since the work of Horn and Schunck. We attempt to uncover what has made recent advances possible through a thorough analysis of how the objective function, the optimization method, and modern implementation practices influence accuracy. We discover that “classical” flow formulations perform surprisingly well when combined with modern optimization and implementation techniques. Moreover, we find that while median filtering of intermediate flow fields during optimization is a key to recent performance gains, it leads to higher energy solutions. To understand the principles behind this phenomenon, we derive a new objective that formalizes the median filtering heuristic. This objective includes a nonlocal term that robustly integrates flow estimates over large spatial neighborhoods. By modifying this new term to include information about flow and image boundaries we develop a method that ranks at the top of the Middlebury benchmark.
+
+TLDR: It is discovered that “classical” flow formulations perform surprisingly well when combined with modern optimization and implementation techniques, and while median filtering of intermediate flow fields during optimization is a key to recent performance gains, it leads to higher energy solutions.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Deqing Sun, S. Roth, Michael J. Black
+

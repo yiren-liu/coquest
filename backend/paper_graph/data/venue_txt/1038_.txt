@@ -1,0 +1,12 @@
+corpus id: 15091825, 
+
+Title: The Cognitive Structure of Emotions
+
+Abstract: More than 30 years after its initial publication, this new edition of The Cognitive Structure of Emotions refines and updates Ortony, Clore, and Collins's OCC model of emotions. Starting from a three-way classification of construals of the world––events, the attribution of responsibility for events, and objects––the authors propose a systematic account of emotion differentiation. Rejecting the oft-favored features of bodily feelings, emotion-related behaviors, and facial expressions as too intensity-dependent and insufficiently diagnostic, they provide a detailed analysis of emotion differentiation in terms of the cognitive underpinnings of emotion types. Using numerous examples, they explain how different variables influence emotion intensity, and show how emotions can be formalized for computational purposes. Now with a contributed chapter describing the OCC model's influence, this book will interest a wide audience in cognitive, clinical, and social psychology, as well as in artificial intelligence and affective computing, and other cognitive science disciplines.
+
+TLDR: The boundaries of the theory Emotion words and cross-cultural issues Emotion experiences and unconscious emotions Coping and the function of emotions Computational tractability.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: A. Ortony, G. Clore, A. Collins
+

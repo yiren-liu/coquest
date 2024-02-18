@@ -1,0 +1,12 @@
+corpus id: 33630608, 
+
+Title: Social psychology.
+
+Abstract: Within the context of psychology, social psychology is the scientific study of how people's thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others.[1] By this definition, scientific refers to the empirical method of investigation. The terms thoughts, feelings, and behaviors include all psychological variables that are measurable in a human being. The statement that others' presence may be imagined or implied suggests that we are prone to social influence even when no other people are present, such as when watching television, or following internalized cultural norms. Social psychologists typically explain human behavior as a result of the interaction of mental states and immediate social situations. In general, social psychologists have a preference for laboratory-based, empirical findings. Social psychology theories tend to be specific and focused, rather than global and general. Social psychology is an interdisciplinary domain that bridges the gap between psychology and sociology. During the years immediately following World War II, there was frequent collaboration between psychologists and sociologists.[2] However, the two disciplines have become increasingly specialized and isolated from each other in recent years, with sociologists focusing on "macro variables" (e.g., social structure) to a much greater extent. Nevertheless, sociological approaches to social psychology remain an important counterpart to psychological research in this area. In addition to the split between psychology and sociology, there has been a somewhat less pronounced difference in emphasis between American social psychologists and European social psychologists. As a broad generalization, American researchers traditionally have focused more on the individual, whereas Europeans have paid more attention to group level phenomena (see group dynamics).[3]
+
+TLDR: Within the context of psychology, social psychology is the scientific study of how people's thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others.
+
+Fields of Study: ['Medicine']
+
+Authors: S. Fiske
+

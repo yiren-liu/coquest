@@ -1,0 +1,12 @@
+corpus id: 108666793, 
+
+Title: Estimation with Applications to Tracking and Navigation: Theory, Algorithms and Software
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: Y. Bar-Shalom, Xiaorong Li, T. Kirubarajan
+

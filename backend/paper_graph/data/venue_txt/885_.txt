@@ -1,0 +1,12 @@
+corpus id: 144417425, 
+
+Title: The rise of the network society
+
+Abstract: From the Publisher: This ambitious book is an account of the economic and social dynamics of the new age of information. Based on research in the USA, Asia, Latin America, and Europe, it aims to formulate a systematic theory of the information society which takes account of the fundamental effects of information technology on the contemporary world. The global economy is now characterized by the almost instantaneous flow and exchange of information, capital and cultural communication. These flows order and condition both consumption and production. The networks themselves reflect and create distinctive cultures. Both they and the traffic they carry are largely outside national regulation. Our dependence on the new modes of informational flow gives enormous power to those in a position to control them to control us. The main political arena is now the media, and the media are not politically answerable. Manuel Castells describes the accelerating pace of innovation and application. He examines the processes of globalization that have marginalized and now threaten to make redundant whole countries and peoples excluded from informational networks. He investigates the culture, institutions and organizations of the network enterprise and the concomitant transformation of work and employment. He points out that in the advanced economies production is now concentrated on an educated section of the population aged between 25 and 40: many economies can do without a third or more of their people. He suggests that the effect of this accelerating trend may be less mass unemployment than the extreme flexibilization of work and individualization of labor, and, in consequence, a highly segmented socialstructure. The author concludes by examining the effects and implications of technological change on mass media culture ("the culture of real virtuality"), on urban life, global politics, and the nature of time and history. Written by one of the worlds leading social thinkers and researchers The Rise of the Network Society is the first of three linked investigations of contemporary global, economic, political and social change. It is a work of outstanding penetration, originality, and importance.
+
+TLDR: 
+
+Fields of Study: ['Sociology', 'Political Science', 'Materials Science']
+
+Authors: M. Castells
+

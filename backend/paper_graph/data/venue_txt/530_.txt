@@ -1,0 +1,12 @@
+corpus id: 6987161, 
+
+Title: Discovery of Frequent Episodes in Event Sequences
+
+Abstract: None
+
+TLDR: This work gives efficient algorithms for the discovery of all frequent episodes from a given class of episodes, and presents detailed experimental results that are in use in telecommunication alarm management.
+
+Fields of Study: ['Computer Science']
+
+Authors: H. Mannila, Hannu (TT) Toivonen, A. I. Verkamo
+

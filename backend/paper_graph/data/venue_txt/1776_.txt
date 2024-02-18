@@ -1,0 +1,12 @@
+corpus id: 55381800, 
+
+Title: Interactive Home Shopping: Consumer, Retailer, and Manufacturer Incentives to Participate in Electronic Marketplaces
+
+Abstract: The authors examine the implications of electronic shopping for consumers, retailers, and manufacturers. They assume that near-term technological developments will offer consumers unparalleled opportunities to locate and compare product offerings. They examine these advantages as a function of typical consumer goals and the types of products and services being sought and offer conclusions regarding consumer incentives and disincentives to purchase through interactive home shopping vis-à-vis traditional retail formats. The authors discuss implications for industry structure as they pertain to competition among retailers, competition among manufacturers, and retailer-manufacturer relationships.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: J. Alba, John G. Lynch, Barton A. Weitz, Chris Janiszewski, R. Lutz, Alan G. Sawyer, Stacy L. Wood
+

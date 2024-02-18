@@ -1,0 +1,12 @@
+corpus id: 217766041, 
+
+Title: Domain-adversarial training of neural networks
+
+Abstract: We introduce a new representation learning approach for domain adaptation, in which data at training and test time come from similar but different distributions. Our approach is directly inspired b...
+
+TLDR: A new representation learning approach for domain adaptation is introduced, in which data at training and test time come from similar but different distributions.
+
+Fields of Study: ['Computer Science']
+
+Authors: GaninYaroslav, UstinovaEvgeniya, AjakanHana, GermainPascal, LarochelleHugo, LavioletteFrançois, MarchandMario, LempitskyVictor
+

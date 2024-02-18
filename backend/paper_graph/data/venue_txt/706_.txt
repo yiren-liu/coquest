@@ -1,0 +1,12 @@
+corpus id: 118946703, 
+
+Title: Applying regression & correlation : a guide for students and researchers
+
+Abstract: PART ONE: I NEED TO DO REGRESSION ANALYSIS TOMORROW Building Models with Regression and Correlation More Than One Independent Variable Multiples Regression Categorical Independent Variables PART TWO: I NEED TO DO REGRESSION ANALYSIS NEXT WEEK Assumptions in Regression Analysis Issues in Regression Analysis PART THREE: I NEED TO KNOW MORE OF THE THINGS THAT REGRESSION CAN DO Nonlinear and Logistic Regression Moderator and Mediator Analysis Introducing Some Advanced Techniques Multilevel Modelling and Structural Equation Modelling
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: J. Miles, M. Shevlin
+

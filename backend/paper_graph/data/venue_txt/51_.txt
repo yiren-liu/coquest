@@ -1,0 +1,12 @@
+corpus id: 54141961, 
+
+Title: The Computer for the Twenty-First Century
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Physics']
+
+Authors: M. Weiser
+

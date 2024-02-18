@@ -1,0 +1,12 @@
+corpus id: 3348787, 
+
+Title: Guidelines for snowballing in systematic literature studies and a replication in software engineering
+
+Abstract: Background: Systematic literature studies have become common in software engineering, and hence it is important to understand how to conduct them efficiently and reliably. Objective: This paper presents guidelines for conducting literature reviews using a snowballing approach, and they are illustrated and evaluated by replicating a published systematic literature review. Method: The guidelines are based on the experience from conducting several systematic literature reviews and experimenting with different approaches. Results: The guidelines for using snowballing as a way to search for relevant literature was successfully applied to a systematic literature review. Conclusions: It is concluded that using snowballing, as a first search strategy, may very well be a good alternative to the use of database searches.
+
+TLDR: It is concluded that using snowballing, as a first search strategy, may very well be a good alternative to the use of database searches.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Wohlin
+

@@ -1,0 +1,12 @@
+corpus id: 1652902, 
+
+Title: Algorithms and applications for approximate nonnegative matrix factorization
+
+Abstract: None
+
+TLDR: The development and use of low-rank approximate nonnegative matrix factorization algorithms for feature extraction and identification in the fields of text mining and spectral data analysis and the interpretability of NMF outputs in specific contexts are provided.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: M. Berry, M. Browne, A. Langville, V. P. Pauca, R. Plemmons
+

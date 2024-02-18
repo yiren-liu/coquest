@@ -1,0 +1,12 @@
+corpus id: 26163921, 
+
+Title: Interaction design: beyond human-computer interaction
+
+Abstract: There's Not an App for ThatOptimizing Human-Computer Interaction With Emerging TechnologiesAffect and Emotion in Human-Computer InteractionCross-disciplinary Advances in Human Computer InteractionInteraction DesignHuman-Computer InteractionInterdisciplinary Interaction DesignInteraction DesignAbout FaceDesigning the User InterfaceFuture Interaction DesignDesign for How People ThinkThoughtful Interaction DesignHuman-Computer Interaction. Interaction Design and UsabilityInteraction DesignDesigning Interactive SystemsInteraction DesignDesigning with BlendsFundamentals of Human-Computer InteractionDesigning InteractionsThe Encyclopaedia BritannicaInteraction DesignEncyclopedia of Human Computer InteractionBeing HumanINTERACTION DESIGNInteraction DesignHuman-Computer Interaction. Design and User Experience Case StudiesHuman-Computer InteractionInternationalization, Design and Global DevelopmentResearch Methods in Human-Computer InteractionHuman-Computer InteractionDesigning User ExperienceThe Materiality of InteractionHCI TheoryThe UX BookInteraction Design: Beyond Human-Computer Interaction, 2Nd EdHuman-Computer Interaction and Beyond: Advances Towards Smart and Interconnected Environments (Part I)Learn Human-Computer InteractionEnhancing Learning Through Human Computer InteractionHuman-Computer Interaction. Design and User Experience Case Studies
+
+TLDR: There's Not an App for ThatOptimizing Human-Computer Interaction With Emerging TechnologiesCross-disciplinary Advances in Human Computer InteractionInteraction Design human-computer Interaction interdisciplinary Interaction Design interaction designAbout FaceDesigning the User InterfaceFuture InteractiondesignDesign for How People ThinkThoughtful Interaction design human-Computer interaction.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Henderson
+

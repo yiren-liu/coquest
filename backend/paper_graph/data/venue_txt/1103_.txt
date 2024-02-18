@@ -1,0 +1,12 @@
+corpus id: 10746210, 
+
+Title: Exploration and Exploitation in Organizational Learning
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: Scott R. Herriott, Daniel A. Levinthal, C. Shapiro
+

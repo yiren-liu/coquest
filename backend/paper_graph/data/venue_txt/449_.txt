@@ -1,0 +1,12 @@
+corpus id: 4428232, 
+
+Title: Learning the parts of objects by non-negative matrix factorization
+
+Abstract: None
+
+TLDR: An algorithm for non-negative matrix factorization is demonstrated that is able to learn parts of faces and semantic features of text and is in contrast to other methods that learn holistic, not parts-based, representations.
+
+Fields of Study: ['Medicine', 'Physics', 'Computer Science']
+
+Authors: Daniel D. Lee
+

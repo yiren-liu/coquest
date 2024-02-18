@@ -1,0 +1,12 @@
+corpus id: 9558257, 
+
+Title: Independent Component Analysis
+
+Abstract: In this chapter, we discuss a statistical generative model called independent component analysis. It is basically a proper probabilistic formulation of the ideas underpinning sparse coding. It shows how sparse coding can be interpreted as providing a Bayesian prior, and answers some questions which were not properly answered in the sparse coding framework.
+
+TLDR: 
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Aapo Hyvärinen, J. Karhunen, E. Oja
+

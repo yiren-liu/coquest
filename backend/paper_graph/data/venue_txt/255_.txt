@@ -1,0 +1,12 @@
+corpus id: 356450, 
+
+Title: A survey of mobile phone sensing
+
+Abstract: Mobile phones or smartphones are rapidly becoming the central computer and communication device in people's lives. Application delivery channels such as the Apple AppStore are transforming mobile phones into App Phones, capable of downloading a myriad of applications in an instant. Importantly, today's smartphones are programmable and come with a growing set of cheap powerful embedded sensors, such as an accelerometer, digital compass, gyroscope, GPS, microphone, and camera, which are enabling the emergence of personal, group, and communityscale sensing applications. We believe that sensor-equipped mobile phones will revolutionize many sectors of our economy, including business, healthcare, social networks, environmental monitoring, and transportation. In this article we survey existing mobile phone sensing algorithms, applications, and systems. We discuss the emerging sensing paradigms, and formulate an architectural framework for discussing a number of the open issues and challenges emerging in the new area of mobile phone sensing research.
+
+TLDR: This article surveys existing mobile phone sensing algorithms, applications, and systems, and discusses the emerging sensing paradigms, and formulates an architectural framework for discussing a number of the open issues and challenges emerging in the new area ofMobile phone sensing research.
+
+Fields of Study: ['Computer Science']
+
+Authors: N. Lane, E. Miluzzo, Hong Lu, D. Peebles, Tanzeem Choudhury, A. Campbell
+

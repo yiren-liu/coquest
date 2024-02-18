@@ -1,0 +1,12 @@
+corpus id: 195603137, 
+
+Title: Information Visualization: Perception for Design
+
+Abstract: Most designers know that yellow text presented against a blue background reads clearly and easily, but how many can explain why, and what really are the best ways to help others and ourselves clearly see key patterns in a bunch of data? When we use software, access a website, or view business or scientific graphics, our understanding is greatly enhanced or impeded by the way the information is presented.  This book explores the art and science of why we see objects the way we do. Based on the science of perception and vision, the author presents the key principles at work for a wide range of applications--resulting in visualization of improved clarity, utility, and persuasiveness. The book offers practical guidelines that can be applied by anyone: interaction designers, graphic designers of all kinds (including web designers), data miners, and financial analysts.    Complete update of the recognized source in industry, research, and academic for applicable guidance on information visualizing.  Includes the latest research and state of the art information on multimedia presentation.  More than 160 explicit design guidelines based on vision science.  A new final chapter that explains the process of visual thinking and how visualizations help us to think about problems.  Packed with over 400 informative full color illustrations, which are key to understanding of the subject.  Table of Contents   Chapter 1. Foundations for an Applied Science of Data Visualization  Chapter 2. The Environment, Optics, Resolution, and the Display  Chapter 3. Lightness, Brightness, Contrast and Constancy  Chapter 4. Color  Chapter 5. Visual Salience and Finding Information  Chapter 6. Static and Moving Patterns  Chapter 7. Space Perception  Chapter 8. Visual Objects and Data Objects  Chapter 9. Images, Narrative, and Gestures for Explanation  Chapter 10. Interacting with Visualizations  Chapter 11. Visual Thinking Processes
+
+TLDR: The art and science of why the authors see objects the way they do are explored, and the author presents the key principles at work for a wide range of applications--resulting in visualization of improved clarity, utility, and persuasiveness.
+
+Fields of Study: ['Computer Science']
+
+Authors: C. Ware
+

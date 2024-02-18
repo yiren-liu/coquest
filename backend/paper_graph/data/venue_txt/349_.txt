@@ -1,0 +1,12 @@
+corpus id: 143215484, 
+
+Title: Communities of Practice: Learning, Meaning, and Identity
+
+Abstract: Prologue Part I. Practice: Introduction I 1. Meaning 2. Community 3. Learning 4. Boundary 5. Locality Coda I. Knowing in practice Part II. Identity: Introduction II 6. Identity in practice 7. Participation and non-participation 8. Modes of belonging 9. Identification and negotiability Coda II. Learning communities Conclusion: Introduction III 10. Learning architectures 11. Organizations 12. Education Epilogue.
+
+TLDR: Identity in practice, modes of belonging, participation and non-participation, and learning communities: a guide to understanding identity in practice.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: E. Wenger
+

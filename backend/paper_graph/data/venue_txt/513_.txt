@@ -1,0 +1,12 @@
+corpus id: 2527220, 
+
+Title: Statistical Color Models with Application to Skin Detection
+
+Abstract: None
+
+TLDR: This work describes the construction of color models for skin and non-skin classes from a dataset of nearly 1 billion labelled pixels and suggests that color can be a more powerful cue for detecting people in unconstrained imagery than was previously suspected.
+
+Fields of Study: ['Computer Science']
+
+Authors: Michael J. Jones, James M. Rehg
+

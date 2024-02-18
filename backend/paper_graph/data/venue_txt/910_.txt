@@ -1,0 +1,12 @@
+corpus id: 36928206, 
+
+Title: Jupyter Notebooks - a publishing format for reproducible computational workflows
+
+Abstract: It is increasingly necessary for researchers in all fields to write computer code, and in order to reproduce research results, it is important that this code is published. We present Jupyter notebooks, a document format for publishing code, results and explanations in a form that is both readable and executable. We discuss various tools and use cases for notebook documents.
+
+TLDR: Jupyter notebooks, a document format for publishing code, results and explanations in a form that is both readable and executable, is presented.
+
+Fields of Study: ['Computer Science']
+
+Authors: T. Kluyver, B. Ragan-Kelley, Fernando Pérez, B. Granger, M. Bussonnier, J. Frederic, Kyle Kelley, J. Hamrick, J. Grout, S. Corlay, Paul Ivanov, Damián Avila, Safia Abdalla, Carol Willing, Jupyter Development Team
+

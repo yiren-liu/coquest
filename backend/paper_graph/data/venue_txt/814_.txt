@@ -1,0 +1,12 @@
+corpus id: 51859022, 
+
+Title: Social Capital in the Creation of Human Capital
+
+Abstract: In this paper, the concept of social capital is introduced and illustrated, its forms are described, the social structural conditions under which it arises are examined, and it is used in an analysis of dropouts from high school. Use of the concept of social capital is part of a general theoretical strategy discussed in the paper: taking rational action as a starting point but rejecting the extreme individualistic premises that often accompany it. The conception of social capital as a resource for action is one way of introducing social structure into the rational action paradigm. Three forms of social capital are examined: obligations and expectations, information channels, and social norms. The role of closure in the social structure in facilitating the first and third of these forms of social capital is described. An analysis of the effect of the lack of social capital available to high school sophomores on dropping out of school before graduation is carried out. The effect of social capital within the family and in the community outside the family is examined.
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: J. Coleman
+

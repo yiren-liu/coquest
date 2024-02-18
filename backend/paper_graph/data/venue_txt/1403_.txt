@@ -1,0 +1,12 @@
+corpus id: 61800864, 
+
+Title: Algorithms on Strings, Trees, and Sequences - Computer Science and Computational Biology
+
+Abstract: Part I. Exact String Matching: The Fundamental String Problem: 1. Exact matching: fundamental preprocessing and first algorithms 2. Exact matching: classical comparison-based methods 3. Exact matching: a deeper look at classical methods 4. Semi-numerical string matching Part II. Suffix Trees and their Uses: 5. Introduction to suffix trees 6. Linear time construction of suffix trees 7. First applications of suffix trees 8. Constant time lowest common ancestor retrieval 9. More applications of suffix trees Part III. Inexact Matching, Sequence Alignment and Dynamic Programming: 10. The importance of (sub)sequence comparison in molecular biology 11. Core string edits, alignments and dynamic programming 12. Refining core string edits and alignments 13. Extending the core problems 14. Multiple string comparison: the Holy Grail 15. Sequence database and their uses: the motherlode Part IV. Currents, Cousins and Cameos: 16. Maps, mapping, sequencing and superstrings 17. Strings and evolutionary trees 18. Three short topics 19. Models of genome-level mutations.
+
+TLDR: The author examines the importance of (sub)sequence comparison in molecular biology, core string edits, alignments and dynamic programming, and a deeper look at classical methods for exact string matching.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Gusfield
+

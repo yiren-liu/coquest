@@ -1,0 +1,12 @@
+corpus id: 59726127, 
+
+Title: The Cathedral and the Bazaar
+
+Abstract: None
+
+TLDR: A process for preparing organic thioethers of formula R-S-R1 from organic dithiocarbonates and organic halides or sulphonates, in the presence of an aqueous alkaline base and a phase transfer catalyst.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Salus
+

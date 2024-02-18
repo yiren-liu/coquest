@@ -1,0 +1,12 @@
+corpus id: 15579135, 
+
+Title: The impact of initial consumer trust on intentions to transact with a web site: a trust building model
+
+Abstract: None
+
+TLDR: These factors, especially web site quality and reputation, are powerful levers that vendors can use to build consumer trust, in order to overcome the negative perceptions people often have about the safety of the web environment.
+
+Fields of Study: ['Business', 'Computer Science']
+
+Authors: D. McKnight, V. Choudhury, C. Kacmar
+

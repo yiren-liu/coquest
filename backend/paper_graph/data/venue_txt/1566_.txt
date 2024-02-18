@@ -1,0 +1,12 @@
+corpus id: 12367651, 
+
+Title: Course in General Linguistics
+
+Abstract: Introduction to the Bloomsbury Revelations Edition Preface to the First Edition Preface to the Second Edition Preface to the Third Edition Editor's Introduction, Roy Harris Introduction 1. A Brief Survey of the History of Linguistics 2. Data and Aims of Linguistics: Connexions with Related Sciences 3. The Object of Study 4. Linguistics of Language Structure and Linguistics of Speech 5. Internal and External Elements of a Language 6. Representation of a Language by Writing 7. Physiological Phonetics Appendix: Principles of Physiological Phonetics 1. Sound Types 2. Sounds in Spoken Sequences Part One: General Principles 1. Nature of the Linguistic Sign 2. Invariability and Variability of the Sign 3. Static Linguistics and Evolutionary Linguistics Part Two: Synchronic Linguistics 1. General Observations 2. Concrete Entities of a Language 3. Identities, Realities, Values 4. Linguistic Value 5. Syntagmatic Relations and Associative Relations 6. The Language Mechanism 7. Grammar and Its Subdivisions 8. Abstract Entities in Grammar Part Three: Diachronic Linguistics 1. General Observations 2. Sound Changes 3. Grammatical Consequences of Phonetic Evolution 4. Analogy 5. Analogy and Evolution 6. Popular Etymology 7. Agglutination 8. Diachronic Units,Identities and Realities Appendices Part Four: Geographical Linguistics 1. On the Diversity of Languages 2. Geographical Diversity: Its Complexity 3. Causes of Geographical Diversity 4. Propagation of Linguistic Waves Part Five: Questions of Retrospective Linguistics Conclusion 1. The Two Perspectives of Diachronic Linguistics 2. Earliest Languages and Prototypes 3. Reconstructions 4. Linguistic Evidence in Anthropology and Prehistory 5. Language Families and Linguistic Types Index
+
+TLDR: 
+
+Fields of Study: ['Computer Science', 'Sociology', 'Philosophy']
+
+Authors: F. Saussure
+

@@ -1,0 +1,12 @@
+corpus id: 5689540, 
+
+Title: The impact of enhancing students' social and emotional learning: a meta-analysis of school-based universal interventions.
+
+Abstract: This article presents findings from a meta-analysis of 213 school-based, universal social and emotional learning (SEL) programs involving 270,034 kindergarten through high school students. Compared to controls, SEL participants demonstrated significantly improved social and emotional skills, attitudes, behavior, and academic performance that reflected an 11-percentile-point gain in achievement. School teaching staff successfully conducted SEL programs. The use of 4 recommended practices for developing skills and the presence of implementation problems moderated program outcomes. The findings add to the growing empirical evidence regarding the positive impact of SEL programs. Policy makers, educators, and the public can contribute to healthy development of children by supporting the incorporation of evidence-based SEL programming into standard educational practice.
+
+TLDR: Findings from a meta-analysis of 213 school-based, universal social and emotional learning programs involving 270,034 kindergarten through high school students suggest that policy makers, educators, and the public can contribute to healthy development of children by supporting the incorporation of evidence-based SEL programming into standard educational practice.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. Durlak, R. Weissberg, Allison B. Dymnicki, Rebecca D. Taylor, Kriston B. Schellinger
+

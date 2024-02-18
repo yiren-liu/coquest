@@ -1,0 +1,12 @@
+corpus id: 53639570, 
+
+Title: The Design and Administration of Mail Surveys
+
+Abstract: For reasons of cost and ease of implementation, mail surveys are more frequently used for social research than are either telephone or face-to-face interviews. In this chapter, the last two decades of research aimed at improving mail survey methods are examined. Discussion of this research is organized around progress made in overcoming four important sources of error: sampling , noncoverage, measurement, and nonresponse. Progress has been especially great in improving response rates as a means of reducing nonresponse error. Significant progress has also been made in finding means of overcoming measurement error. Because mail surveys generally present few, if any, special sampling error problems, little research in this area has been conducted. The lack of research on noncoverage issues is a major deficiency in research to date , and noncoverage error presents the most significant impediment to the increased use of mail surveys. The 1990s are likely to see increased research on mail surveys, as efforts ar...
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: D. Dillman
+

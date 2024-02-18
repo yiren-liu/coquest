@@ -1,0 +1,12 @@
+corpus id: 964287, 
+
+Title: ROUGE: A Package for Automatic Evaluation of Summaries
+
+Abstract: ROUGE stands for Recall-Oriented Understudy for Gisting Evaluation. It includes measures to automatically determine the quality of a summary by comparing it to other (ideal) summaries created by humans. The measures count the number of overlapping units such as n-gram, word sequences, and word pairs between the computer-generated summary to be evaluated and the ideal summaries created by humans. This paper introduces four different ROUGE measures: ROUGE-N, ROUGE-L, ROUGE-W, and ROUGE-S included in the ROUGE summarization evaluation package and their evaluations. Three of them have been used in the Document Understanding Conference (DUC) 2004, a large-scale summarization evaluation sponsored by NIST.
+
+TLDR: Four different RouGE measures are introduced: ROUGE-N, ROUge-L, R OUGE-W, and ROUAGE-S included in the Rouge summarization evaluation package and their evaluations.
+
+Fields of Study: ['Computer Science']
+
+Authors: Chin-Yew Lin
+

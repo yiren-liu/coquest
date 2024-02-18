@@ -1,0 +1,12 @@
+corpus id: 51902974, 
+
+Title: Use of Ranks in One-Criterion Variance Analysis
+
+Abstract: Abstract Given C samples, with n i observations in the ith sample, a test of the hypothesis that the samples are from the same population may be made by ranking the observations from from 1 to Σn i (giving each observation in a group of ties the mean of the ranks tied for), finding the C sums of ranks, and computing a statistic H. Under the stated hypothesis, H is distributed approximately as χ2(C – 1), unless the samples are too small, in which case special approximations or exact tables are provided. One of the most important applications of the test is in detecting differences among the population means.* * Based in part on research supported by the Office of Naval Research at the Statistical Research Center, University of Chicago.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: W. Kruskal, W. A. Wallis
+

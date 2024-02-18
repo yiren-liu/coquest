@@ -1,0 +1,12 @@
+corpus id: 9760893, 
+
+Title: Cognitive control in media multitaskers
+
+Abstract: Chronic media multitasking is quickly becoming ubiquitous, although processing multiple incoming streams of information is considered a challenge for human cognition. A series of experiments addressed whether there are systematic differences in information processing styles between chronically heavy and light media multitaskers. A trait media multitasking index was developed to identify groups of heavy and light media multitaskers. These two groups were then compared along established cognitive control dimensions. Results showed that heavy media multitaskers are more susceptible to interference from irrelevant environmental stimuli and from irrelevant representations in memory. This led to the surprising result that heavy media multitaskers performed worse on a test of task-switching ability, likely due to reduced ability to filter out interference from the irrelevant task set. These results demonstrate that media multitasking, a rapidly growing societal trend, is associated with a distinct approach to fundamental information processing.
+
+TLDR: Results demonstrate that media multitasking, a rapidly growing societal trend, is associated with a distinct approach to fundamental information processing, with heavy media multitaskers more susceptible to interference from irrelevant environmental stimuli and from irrelevant representations in memory.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: E. Ophir, C. Nass, A. Wagner
+

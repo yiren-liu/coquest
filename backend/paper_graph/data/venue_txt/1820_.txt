@@ -1,0 +1,12 @@
+corpus id: 30502927, 
+
+Title: Incivility in the workplace: incidence and impact.
+
+Abstract: This study extends the literature on interpersonal mistreatment in the workplace by examining the incidence, targets, instigators, and impact of incivility (e.g., disrespect, condescension, degradation). Data were collected from 1,180 public-sector employees, 71% of whom reported some experience of workplace incivility in the previous 5 years. As many as one third of the most powerful individuals within the organization instigated these uncivil acts. Although women endured greater frequencies of incivility than did men, both genders experienced similarly negative effects on job satisfaction, job withdrawal, and career salience. Uncivil workplace experiences were also associated with greater psychological distress; however, indices of psychological and physical health were relatively unaffected. The authors discuss these findings in the context of organizational and cognitive stress theories.
+
+TLDR: Although women endured greater frequencies of incivility than did men, both genders experienced similarly negative effects on job satisfaction, job withdrawal, and career salience, and indices of psychological and physical health were relatively unaffected.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: L. Cortina, V. Magley, J. H. Williams, R. Langhout
+

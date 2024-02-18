@@ -1,0 +1,12 @@
+corpus id: 38613589, 
+
+Title: Genetic Algorithms in Search Optimization and Machine Learning
+
+Abstract: From the Publisher: This book brings together - in an informal and tutorial fashion - the computer techniques, mathematical tools, and research results that will enable both students and practitioners to apply genetic algorithms to problems in many fields.  Major concepts are illustrated with running examples, and major algorithms are illustrated by Pascal computer programs. No prior knowledge of GAs or genetics is assumed, and only a minimum of computer programming and mathematics background is required.
+
+TLDR: This book brings together the computer techniques, mathematical tools, and research results that will enable both students and practitioners to apply genetic algorithms to problems in many fields.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Goldberg
+

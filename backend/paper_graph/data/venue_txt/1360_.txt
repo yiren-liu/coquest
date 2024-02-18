@@ -1,0 +1,12 @@
+corpus id: 67686068, 
+
+Title: Cultures and Organizations: Software of the Mind, 3rd ed.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Hofstede, G. Hofstede, M. Minkov, McGraw-Hill New
+

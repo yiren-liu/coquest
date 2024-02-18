@@ -1,0 +1,12 @@
+corpus id: 3483402, 
+
+Title: The kindness of strangers: on the usefulness of electronic weak ties for technical advice
+
+Abstract: People use weak ties---relationships with acquaintances or strangers---to seek help unavailable from friends or colleagues. Yet in the absence of personal relationships or the expectation of direct reciprocity, help from weak ties might not be forthcoming or could be of low quality. We examined the practice of distant employees (strangers) exchanging technical advice through a large organizational computer network. A survey of advice seekers and those who replied was conducted to test hypotheses about the viability and usefulness of such electronic weak tie exchanges.Theories of organizational motivation suggest that positive regard for the larger organization can substitute for direct incentives or personal relationships in motivating people to help others. Theories of weak ties suggest that the usefulness of this help may depend on the number of ties, the diversity of ties, or the resources of help providers. We hypothesized that, in an organizational context, the firm-specific resources and organizational motivation of people who provide advice will predict the usefulness of advice.We investigated these theories in a study of employees of a global computer manufacturer. We collected survey and observational data on the relationships between information seekers and information providers; the number, diversity, resources, and motivations of information providers, and subjective ratings of the usefulness of the advice (from both parties in the exchange) and whether or not the advice solved information seekers' problems.We found that information providers gave useful advice and solved the problems of information seekers, despite their lack of a personal connection with the seekers. The data support the main hypotheses and provide some support for resource and diversity explanations of weak tie influence. We discuss how this organization's culture sustained useful intormation exchange through weak ties.
+
+TLDR: 
+
+Fields of Study: ['Psychology', 'Political Science']
+
+Authors: David Constant, L. Sproull, S. Kiesler
+

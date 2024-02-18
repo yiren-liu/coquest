@@ -1,0 +1,12 @@
+corpus id: 3638670, 
+
+Title: Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
+
+Abstract: None
+
+TLDR: This work extends DeepLabv3 by adding a simple yet effective decoder module to refine the segmentation results especially along object boundaries and applies the depthwise separable convolution to both Atrous Spatial Pyramid Pooling and decoder modules, resulting in a faster and stronger encoder-decoder network.
+
+Fields of Study: ['Computer Science']
+
+Authors: Liang-Chieh Chen, Yukun Zhu, G. Papandreou, Florian Schroff, Hartwig Adam
+

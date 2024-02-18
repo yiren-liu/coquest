@@ -1,0 +1,12 @@
+corpus id: 143815557, 
+
+Title: Core Discussion Networks of Americans
+
+Abstract: Aspects of interpersonal networks in which Americans discuss "important matters" are examined using data from the 1985 General Social Survey. These are the first survey network data representative of the American population. The networks are small, kin-centered, relatively dense, and homogeneous in comparison with the sample of respondents. Bivariate examination of subgroup differences by age, education, racelethnicity, sex, and size of place indicates that network range is greatest among the young, the highly educated, and metropolitan residents. Sex differences consist primarily of differences in kin/nonkin composition of networks.
+
+TLDR: 
+
+Fields of Study: ['Geography']
+
+Authors: P. Marsden
+

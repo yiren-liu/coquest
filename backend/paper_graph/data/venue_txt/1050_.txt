@@ -1,0 +1,12 @@
+corpus id: 17105396, 
+
+Title: Wireless Power Transfer via Strongly Coupled Magnetic Resonances
+
+Abstract: Using self-resonant coils in a strongly coupled regime, we experimentally demonstrated efficient nonradiative power transfer over distances up to 8 times the radius of the coils. We were able to transfer 60 watts with ∼40% efficiency over distances in excess of 2 meters. We present a quantitative model describing the power transfer, which matches the experimental results to within 5%. We discuss the practical applicability of this system and suggest directions for further study.
+
+TLDR: A quantitative model is presented describing the power transfer of self-resonant coils in a strongly coupled regime, which matches the experimental results to within 5%.
+
+Fields of Study: ['Chemistry', 'Medicine']
+
+Authors: A. Kurs, A. Karalis, R. Moffatt, J. Joannopoulos, P. Fisher, M. Soljačić
+

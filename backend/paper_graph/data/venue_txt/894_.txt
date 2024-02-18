@@ -1,0 +1,12 @@
+corpus id: 2572274, 
+
+Title: Prospect theory: An analysis of decision under risk Econometrica 47
+
+Abstract: A lubricator valve apparatus adapted for use when running wireline tools into an offshore well during a production test of the well. The valve includes a valve body having a central flow passage and a ball valve element for opening and closing the passage, hydraulically operable means responsive to surface-controlled pressure for opening and closing the ball valve, latch means for releasably holding the ball valve in both the open and the closed positions, and bypass valve means for equalizing pressures across the ball valve prior to opening thereof and arranged in the event hydraulic control of the ball valve is lost to be opened in response to pressure applied at the surface to the production pipe to provide a flow path for well control fluids.
+
+TLDR: 
+
+Fields of Study: ['Economics', 'Geology']
+
+Authors: D. Kahneman, A. Tversky
+

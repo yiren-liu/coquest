@@ -1,0 +1,12 @@
+corpus id: 42656519, 
+
+Title: The emotion probe. Studies of motivation and attention.
+
+Abstract: Emotions are action dispositions--states of vigilant readiness that vary widely in reported affect, physiology, and behavior. They are driven, however, by only 2 opponent motivational systems, appetitive and aversive--subcortical circuits that mediate reactions to primary reinforcers. Using a large emotional picture library, reliable affective psychophysiologies are shown, defined by the judged valence (appetitive/pleasant or aversive/unpleasant) and arousal of picture percepts. Picture-evoked affects also modulate responses to independently presented startle probe stimuli. In other words, they potentiate startle reflexes during unpleasant pictures and inhibit them during pleasant pictures, and both effects are augmented by high picture arousal. Implications are elucidated for research in basic emotions, psychopathology, and theories of orienting and defense. Conclusions highlight both the approach's constraints and promising paths for future study.
+
+TLDR: Using a large emotional picture library, reliable affective psychophysiologies are shown, defined by the judged valence (appetitive/pleasant or aversive/unpleasant) and arousal of picture percepts.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: P. Lang
+

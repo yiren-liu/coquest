@@ -1,0 +1,12 @@
+corpus id: 207056169, 
+
+Title: Toward a Theory of Intrinsically Motivating Instruction
+
+Abstract: First, a number of previous theories of intrinsic motivation are reviewed. Then, several studies of highly motivating computer games are described. These studies focus on what makes the games fun, not on what makes them educational. Finally, with this background, a rudimentary theory of intrinsically motivating instruction is developed, based on three categories: challenge, fantasy, and curiosity.  Challenge is hypothesized to depend on goals with uncertain outcomes. Several ways of making outcomes uncertain are discussed, including variable difficulty level, multiple level goals, hidden information, and randomness. Fantasy is claimed to have both cognitive and emotional advantages in designing instructional environments. A distinction is made between extrinsic fantasies that depend only weakly on the skill used in a game, and intrinsic fantasies that are intimately related to the use of the skill. Curiosity is separated into sensory and cognitive components, and it is suggested that cognitive curiosity can be aroused by making learners believe their knowledge structures are incomplete, inconsistent, or unparsimonious.
+
+TLDR: A rudimentary theory of intrinsically motivating instruction is developed, based on three categories: challenge, fantasy, and curiosity, which suggests that cognitive curiosity can be aroused by making learners believe their knowledge structures are incomplete, inconsistent, or unparsimonious.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: T. Malone
+

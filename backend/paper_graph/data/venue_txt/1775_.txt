@@ -1,0 +1,12 @@
+corpus id: 51737170, 
+
+Title: Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)
+
+Abstract: The interpretation of deep learning models is a challenge due to their size, complexity, and often opaque internal state. In addition, many systems, such as image classifiers, operate on low-level features rather than high-level concepts. To address these challenges, we introduce Concept Activation Vectors (CAVs), which provide an interpretation of a neural net's internal state in terms of human-friendly concepts. The key idea is to view the high-dimensional internal state of a neural net as an aid, not an obstacle. We show how to use CAVs as part of a technique, Testing with CAVs (TCAV), that uses directional derivatives to quantify the degree to which a user-defined concept is important to a classification result--for example, how sensitive a prediction of "zebra" is to the presence of stripes. Using the domain of image classification as a testing ground, we describe how CAVs may be used to explore hypotheses and generate insights for a standard image classification network as well as a medical application.
+
+TLDR: Concept Activation Vectors (CAVs) are introduced, which provide an interpretation of a neural net's internal state in terms of human-friendly concepts, and may be used to explore hypotheses and generate insights for a standard image classification network as well as a medical application.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Been Kim, M. Wattenberg, J. Gilmer, Carrie J. Cai, James Wexler, F. Viégas, R. Sayres
+

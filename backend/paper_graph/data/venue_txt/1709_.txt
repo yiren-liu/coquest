@@ -1,0 +1,12 @@
+corpus id: 53491808, 
+
+Title: The Mutual Knowledge Problem and Its Consequences for Dispersed Collaboration
+
+Abstract: This paper proposes that maintaining "mutual knowledge" is a central problem of geographically dispersed collaboration and traces the consequences of failure to do so. It presents a model of these processes which is grounded in study of thirteen geographically dispersed teams. Five types of problems constituting failures of mutual knowledge are identified: failure to communicate and retain contextual information, unevenly distributed information, difficulty communicating and understanding the salience of information, differences in speed of access to information, and difficulty interpreting the meaning of silence. The frequency of occurrence and severity of each problem in the teams are analyzed. Attribution theory, the concept of cognitive load, and feedback dynamics are harnessed to explain how dispersed partners are likely to interpret failures of mutual knowledge and the consequences of these interpretations for the integrity of the effort. In particular, it is suggested that unrecognized differences in the situations, contexts, and constraints of dispersed collaborators constitute "hidden profiles" that can increase the likelihood of dispositional rather than situational attribution, with consequences for cohesion and learning. Moderators and accelerators of these dynamics are identified, and implications for both dispersed and collocated collaboration are discussed.
+
+TLDR: It is suggested that unrecognized differences in the situations, contexts, and constraints of dispersed collaborators constitute "hidden profiles" that can increase the likelihood of dispositional rather than situational attribution, with consequences for cohesion and learning.
+
+Fields of Study: ['Psychology']
+
+Authors: C. Cramton
+

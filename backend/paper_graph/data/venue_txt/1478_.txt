@@ -1,0 +1,12 @@
+corpus id: 144190105, 
+
+Title: Between Trust and Control: Developing Confidence in Partner Cooperation in Alliances
+
+Abstract: Strategic alliances have been recognized as arenas with potential for opportunistic behavior by partners. Hence, a firm needs to have an adequate level of confidence in its partner's cooperative behavior. In this article we examine the notion of confidence in partner cooperation in alliances and suggest that it comes from two distinct sources: trust and control. We make the argument that trust and control are parallel concepts and that their relationship is of a supplementary character in generating confidence. In addition, we suggest that control mechanisms have an impact on trust level and that the trust level moderates the effect of control mechanisms in determining the control level. Finally, we discuss various ways to build trust within strategic alliances and important alliance control mechanisms.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: T. Das, Bing-Sheng Teng
+

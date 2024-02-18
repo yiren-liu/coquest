@@ -1,0 +1,12 @@
+corpus id: 13800373, 
+
+Title: The need for cognition.
+
+Abstract: Four studies are reported in which a scale to assess the need for cognition (i.e., the tendency for an individual to engage in and enjoy thinking) was developed and validated. In Study 1 a pool of items was administered to groups known to differ in need for cognition. Members of a university faculty served as subjects in the high-need-for-cognition group, whereas assembly line workers served as subjects in the low-need-for-cognition group. The criteria of ambiguity, irrelevance, and internal consistency were used to select the items for subsequent studies. A factor analysis was performed on the selected items and yielded one major factor. In 'Study 2 the scale was administered to a more homogeneous population (400 undergraduates) to validate the factor structure obtained in Study 1 and to determine whether the scale tapped a construct distinct from test anxiety and cognitive style. The factor structure was replicated in Study 2, responses to the need for cognition scale were predictably and weakly related to cognitive style, and responses were unrelated,to test anxiety. In Study 3, 104 subjects completed need for cognition, social desirability, and dogmatism scales and indicated what their American College Test scores were. Results indicated that need for cognition was related weakly and negatively to being close minded, unrelated to social desirability, and positively correlated with general intelligence. Study 4 replicated the major findings of Study 3 and furnished evidence of thj predictive validity of the Need for Cognition Scale: Attitudes toward simple an complex versions of a cognitive task appeared indistinguishable until the subjects' need for cognition was considered. The theoretical utility of the construct and measure of need for cognition are discussed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Cacioppo, R. Petty
+

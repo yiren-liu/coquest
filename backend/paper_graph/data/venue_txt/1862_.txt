@@ -1,0 +1,12 @@
+corpus id: 15226837, 
+
+Title: Instructional Manipulation Checks: Detecting Satisficing to Increase Statistical Power
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Daniel M. Oppenheimer, T. Meyvis, Nicolas Davidenko
+

@@ -1,0 +1,12 @@
+corpus id: 29535089, 
+
+Title: Algorithms for Clustering Data
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: Anil K. Jain, R. Dubes
+

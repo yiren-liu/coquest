@@ -1,0 +1,12 @@
+corpus id: 220604456, 
+
+Title: Marketing in Hypermedia Computer-Mediated Environments: Conceptual Foundations
+
+Abstract: The authors address the role of marketing in hypermedia computer-mediated environments (CMEs). Their approach considers hypermedia CMEs to be large-scale (i.e., national or global) networked environments, of which the World Wide Web on the Internet is the first and current global implementation. They introduce marketers to this revolutionary new medium, propose a structural model of consumer navigation behavior in a CME that incorporates the notion of flow, and examine a series of research issues and marketing implications that follow from the model.
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: D. Hoffman, T. Novak
+

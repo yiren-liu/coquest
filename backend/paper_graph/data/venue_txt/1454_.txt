@@ -1,0 +1,12 @@
+corpus id: 1377132, 
+
+Title: Using Spin Images for Efficient Object Recognition in Cluttered 3D Scenes
+
+Abstract: We present a 3D shape-based object recognition system for simultaneous recognition of multiple objects in scenes containing clutter and occlusion. Recognition is based on matching surfaces by matching points using the spin image representation. The spin image is a data level shape descriptor that is used to match surfaces represented as surface meshes. We present a compression scheme for spin images that results in efficient multiple object recognition which we verify with results showing the simultaneous recognition of multiple objects from a library of 20 models. Furthermore, we demonstrate the robust performance of recognition in the presence of clutter and occlusion through analysis of recognition trials on 100 scenes.
+
+TLDR: A compression scheme for spin images that results in efficient multiple object recognition which is verified with results showing the simultaneous recognition of multiple objects from a library of 20 models.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Andrew E. Johnson, M. Hebert
+

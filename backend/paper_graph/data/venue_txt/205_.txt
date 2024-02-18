@@ -1,0 +1,12 @@
+corpus id: 9297057, 
+
+Title: Facebook and Online Privacy: Attitudes, Behaviors, and Unintended Consequences
+
+Abstract: This article investigates Facebook users' awareness of privacy issues and perceived benefits and risks of utilizing Facebook. Research found that Facebook is deeply integrated in users' daily lives through specific routines and rituals. Users claimed to understand privacy issues, yet reported uploading large amounts of personal information. Risks to privacy invasion were ascribed more to others than to the self. However, users reporting privacy invasion were more likely to change privacy settings than those merely hearing about others' privacy invasions. Results suggest that this lax attitude may be based on a combination of high gratification, usage patterns, and a psychological mechanism similar to third-person effect. Safer use of social network services would thus require changes in user attitude.
+
+TLDR: Investigating Facebook users' awareness of privacy issues and perceived benefits and risks of utilizing Facebook suggests that this lax attitude may be based on a combination of high gratification, usage patterns, and a psychological mechanism similar to third-person effect.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: B. Debatin, Jennette P. Lovejoy, Annamarie Horn, Brittany N. Hughes
+

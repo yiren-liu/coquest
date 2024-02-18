@@ -1,0 +1,12 @@
+corpus id: 16901865, 
+
+Title: Guided Search 2.0 A revised model of visual search
+
+Abstract: None
+
+TLDR: This paper reviews the visual search literature and presents a model of human search behavior, a revision of the guided search 2.0 model in which virtually all aspects of the model have been made more explicit and/or revised in light of new data.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Wolfe
+

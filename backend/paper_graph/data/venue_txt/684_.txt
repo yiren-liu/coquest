@@ -1,0 +1,12 @@
+corpus id: 30251243, 
+
+Title: Applying the Technology Acceptance Model and Flow Theory to Online Consumer Behavior
+
+Abstract: In this study, we consider the online consumer as both a shopper and a computer user. We test constructs from information systems (Technology Acceptance Model), marketing (Consumer Behavior), and psychology (Flow and Environmental Psychology) in an integrated theoretical framework of online consumer behavior. Specifically, we examine how emotional and cognitive responses to visiting a Web-based store for the first time can influence online consumers' intention to return and their likelihood to make unplanned purchases. The instrumentation shows reasonably good measurement properties and the constructs are validated as a nomological network.A questionnaire-based empirical study is used to test this nomological network. Results confirm the double identity of the online consumer as a shopper and a computer user because both shopping enjoyment and perceived usefulness of the site strongly predict intention to return. Our results on unplanned purchases are not conclusive. We also test some individual and Web site factors that can affect the consumer's emotional and cognitive responses. Product involvement, Web skills, challenges, and use of value-added search mechanisms all have a significant impact on the Web consumer. The study provides a more rounded, albeit partial, view of the online consumer and is a significant steptowards a better understanding of consumer behavior on the Web. The validated metrics should be of use to researchers and practitioners alike.
+
+TLDR: This study examines how emotional and cognitive responses to visiting a Web-based store for the first time can influence online consumers' intention to return and their likelihood to make unplanned purchases.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: M. Koufaris
+

@@ -1,0 +1,12 @@
+corpus id: 12476939, 
+
+Title: Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology
+
+Abstract: Valid measurement scales for predicting user acceptance of computers are in short supply. Most subjective measures used in practice are unvalidated, and their relationship to system usage is unknown. The present research develops and validates new scales for two specific variables, perceived usefulness and perceived ease of use, which are hypothesized to be fundamental determinants of user acceptance. Definitions of these two variables were used to develop scale items that were pretested for content validity and then tested for reliability and construct validity in two studies involving a total of 152 users and four application programs. The measures were refined and streamlined, resulting in two six-item scales with reliabilities of .98 for usefulness and .94 for ease of use. The scales exhibited hgih convergent, discriminant, and factorial validity. Perceived usefulness was significnatly correlated with both self-reported current usage r = .63, Study 1) and self-predicted future usage r = .85, Study 2). Perceived ease of use was also significantly correlated with current usage r = .45, Study 1) and future usage r = .59, Study 2). In both studies, usefulness had a signficnatly greater correaltion with usage behavior than did ease of use. Regression analyses suggest that perceived ease of use may actually be a causal antecdent to perceived usefulness, as opposed to a parallel, direct determinant of system usage. Implications are drawn for future research on user acceptance.
+
+TLDR: Regression analyses suggest that perceived ease of use may actually be a causal antecdent to perceived usefulness, as opposed to a parallel, direct determinant of system usage.
+
+Fields of Study: ['Computer Science', 'Engineering', 'Psychology']
+
+Authors: Fred D. Davis
+

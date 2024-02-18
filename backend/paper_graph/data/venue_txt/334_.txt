@@ -1,0 +1,12 @@
+corpus id: 2791599, 
+
+Title: Activity Recognition from User-Annotated Acceleration Data
+
+Abstract: None
+
+TLDR: This is the first work to investigate performance of recognition algorithms with multiple, wire-free accelerometers on 20 activities using datasets annotated by the subjects themselves, and suggests that multiple accelerometers aid in recognition.
+
+Fields of Study: ['Computer Science']
+
+Authors: Ling Bao, S. Intille
+

@@ -1,0 +1,12 @@
+corpus id: 4547500, 
+
+Title: Talking off the top of your head: toward a mental prosthesis utilizing event-related brain potentials.
+
+Abstract: None
+
+TLDR: The analyses suggest that this communication channel can be operated accurately at the rate of 0.20 bits/sec, which means that subjects can communicate 12.0 bits, or 2.3 characters, per min.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: L. Farwell, E. Donchin
+

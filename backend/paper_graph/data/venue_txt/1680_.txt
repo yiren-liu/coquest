@@ -1,0 +1,12 @@
+corpus id: 16444779, 
+
+Title: The Uncanny Valley
+
+Abstract: . The uncanny valley is a phenomenon first described in 1970 by Masahiro Mori. It characterizes the correlation between the degree of human likeness of e
+
+TLDR: The uncanny valley is a phenomenon first described in 1970 by Masahiro Mori that characterizes the correlation between the degree of human likeness of a person and that of a computer program.
+
+Fields of Study: None
+
+Authors: Heloir, A. Héloir
+

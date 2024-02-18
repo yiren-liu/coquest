@@ -1,0 +1,12 @@
+corpus id: 25986602, 
+
+Title: Stress and the individual. Mechanisms leading to disease.
+
+Abstract: OBJECTIVEThis article presents a new formulation of the relationship between stress and the processes leading to disease. It emphasizes the hidden cost of chronic stress to the body over long time periods, which act as a predisposing factor for the effects of acute, stressful life events. It also presents a model showing how individual differences in the susceptibility to stress are tied to individual behavioral responses to environmental challenges that are coupled to physiologic and pathophysiologic responses.DATA SOURCESPublished original articles from human and animal studies and selected reviews. Literature was surveyed using MEDLINE.DATA EXTRACTIONIndependent extraction and cross-referencing by us.DATA SYNTHESISStress is frequently seen as a significant contributor to disease, and clinical evidence is mounting for specific effects of stress on immune and cardiovascular systems. Yet, until recently, aspects of stress that precipitate disease have been obscure. The concept of homeostasis has failed to help us understand the hidden toll of chronic stress on the body. Rather than maintaining constancy, the physiologic systems within the body fluctuate to meet demands from external forces, a state termed allostasis. In this article, we extend the concept of allostasis over the dimension of time and we define allostatic load as the cost of chronic exposure to fluctuating or heightened neural or neuroendocrine response resulting from repeated or chronic environmental challenge that an individual reacts to as being particularly stressful.CONCLUSIONSThis new formulation emphasizes the cascading relationships, beginning early in life, between environmental factors and genetic predispositions that lead to large individual differences in susceptibility to stress and, in some cases, to disease. There are now empirical studies based on this formulation, as well as new insights into mechanisms involving specific changes in neural, neuroendocrine, and immune systems. The practical implications of this formulation for clinical practice and further research are discussed.
+
+TLDR: A new formulation of the relationship between stress and the processes leading to disease is presented, emphasizing the cascading relationships between environmental factors and genetic predispositions that lead to large individual differences in susceptibility to stress and, in some cases, to disease.
+
+Fields of Study: ['Medicine']
+
+Authors: B. McEwen, E. Stellar
+

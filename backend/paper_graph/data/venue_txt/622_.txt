@@ -1,0 +1,12 @@
+corpus id: 42456602, 
+
+Title: The Scree Test For The Number Of Factors.
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics', 'Psychology', 'Medicine']
+
+Authors: R. Cattell
+

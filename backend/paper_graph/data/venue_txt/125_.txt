@@ -1,0 +1,12 @@
+corpus id: 34441790, 
+
+Title: Contextual design - defining customer-centered systems
+
+Abstract: This book introduces a customer-centered approach to business by showing how data gathered from people while they work can drive the definition of a product or process while supporting the needs of teams and their organizations. This is a practical, hands-on guide for anyone trying to design systems that reflect the way customers want to do their work. The authors developed Contextual Design, the method discussed here, through their work with teams struggling to design products and internal systems. In this book, you'll find the underlying principles of the method and how to apply them to different problems, constraints, and organizational situations.  Contextual Design enables you to + gather detailed data about how people work and use systems + develop a coherent picture of a whole customer population + generate systems designs from a knowledge of customer work + diagram a set of existing systems, showing their relationships, inconsistencies, redundancies, and omissions  Table of Contents  Chapter 1 Introduction Chapter 2 Gathering Customer Data Chapter 3 Principles of Contextual Inquiry Chapter 4 Contextual Inquiry in Practice Chapter 5 A Language of Work Chapter 6 Work Models Chapter 7 The Interpretation Session Chapter 8 Consolidation Chapter 9 Creating One View of the Customer Chapter 10 Communicating to the Organization Chapter 11 Work Redesign Chapter 12 Using Data to Drive Design Chapter 13 Design from Data Chapter 14 System Design Chapter 15 The User Environment Design Chapter 16 Project Planning and Strategy Chapter 17 Prototyping as a Design Tool Chapter 18 From Structure to User Interface Chapter 19 Iterating with a Prototype Chapter 20 Putting It into Practice
+
+TLDR: This book introduces a customer-centered approach to business by showing how data gathered from people while they work can drive the definition of a product or process while supporting the needs of teams and their organizations.
+
+Fields of Study: ['Computer Science']
+
+Authors: H. Beyer, K. Holtzblatt
+

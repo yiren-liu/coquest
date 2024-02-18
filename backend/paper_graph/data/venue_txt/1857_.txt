@@ -1,0 +1,12 @@
+corpus id: 15770142, 
+
+Title: Improving clinical practice using clinical decision support systems: a systematic review of trials to identify features critical to success
+
+Abstract: Abstract Objective To identify features of clinical decision support systems critical for improving clinical practice. Design Systematic review of randomised controlled trials. Data sources Literature searches via Medline, CINAHL, and the Cochrane Controlled Trials Register up to 2003; and searches of reference lists of included studies and relevant reviews. Study selection Studies had to evaluate the ability of decision support systems to improve clinical practice. Data extraction Studies were assessed for statistically and clinically significant improvement in clinical practice and for the presence of 15 decision support system features whose importance had been repeatedly suggested in the literature. Results Seventy studies were included. Decision support systems significantly improved clinical practice in 68% of trials. Univariate analyses revealed that, for five of the system features, interventions possessing the feature were significantly more likely to improve clinical practice than interventions lacking the feature. Multiple logistic regression analysis identified four features as independent predictors of improved clinical practice: automatic provision of decision support as part of clinician workflow (P < 0.00001), provision of recommendations rather than just assessments (P = 0.0187), provision of decision support at the time and location of decision making (P = 0.0263), and computer based decision support (P = 0.0294). Of 32 systems possessing all four features, 30 (94%) significantly improved clinical practice. Furthermore, direct experimental justification was found for providing periodic performance feedback, sharing recommendations with patients, and requesting documentation of reasons for not following recommendations. Conclusions Several features were closely correlated with decision support systems' ability to improve patient care significantly. Clinicians and other stakeholders should implement clinical decision support systems that incorporate these features whenever feasible and appropriate.
+
+TLDR: Clinicians and other stakeholders should implement clinical decision support systems that incorporate these features whenever feasible and appropriate.
+
+Fields of Study: ['Medicine']
+
+Authors: Kensaku Kawamoto, C. Houlihan, E. Balas, D. Lobach
+

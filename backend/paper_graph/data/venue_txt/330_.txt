@@ -1,0 +1,12 @@
+corpus id: 2844722, 
+
+Title: Business-unit-level relationship between employee satisfaction, employee engagement, and business outcomes: a meta-analysis.
+
+Abstract: Based on 7,939 business units in 36 companies, this study used meta-analysis to examine the relationship at the business-unit level between employee satisfaction-engagement and the business-unit outcomes of customer satisfaction, productivity, profit, employee turnover, and accidents. Generalizable relationships large enough to have substantial practical value were found between unit-level employee satisfaction-engagement and these business-unit outcomes. One implication is that changes in management practices that increase employee satisfaction may increase business-unit outcomes, including profit.
+
+TLDR: Generalizable relationships large enough to have substantial practical value were found between unit-level employee satisfaction-engagement and business-unit outcomes of customer satisfaction, productivity, profit, employee turnover, and accidents.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: James K. Harter, F. Schmidt, Theodore L. Hayes
+

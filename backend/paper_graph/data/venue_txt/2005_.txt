@@ -1,0 +1,12 @@
+corpus id: 144411011, 
+
+Title: Opening up Closings
+
+Abstract: Abstract : The paper presents some of the ways that have been developed for dealing with closings in conversation. Earlier work on conversation formulations of several problems that have been employed to cut into aspects of the data. One may derive an initial problem from a consideration of the most basic features of conversation that are now known of. A partial solution is developed. Problematic aspects of that solution lead to the derivation of another problem which permits the further illumination of the data about closings. After relating the two problems, the paper closes with an attempt to specify the domain for which the closing problems, as they have been posed seem apposite. (Author)
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. Schegloff, Harvey Sacks
+

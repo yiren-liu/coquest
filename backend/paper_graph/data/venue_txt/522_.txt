@@ -1,0 +1,12 @@
+corpus id: 1518767, 
+
+Title: Structural Equation Modeling and Regression: Guidelines for Research Practice
+
+Abstract: The growing interest in Structured Equation Modeling (SEM) techniques and recognition of their importance in IS research suggests the need to compare and contrast different types of SEM techniques so that research designs can be selected appropriately. After assessing the extent to which these techniques are currently being used in IS research, the article presents a running example which analyzes the same dataset via three very different statistical techniques. It then compares two classes of SEM: covariance-based SEM and partial-least-squaresbased SEM. Finally, the article discusses linear regression models and offers guidelines as to when SEM techniques and when regression techniques should be used. The article concludes with heuristics and rule of thumb thresholds to guide practice, and a discussion of the extent to which practice is in accord with these guidelines.
+
+TLDR: The article presents a running example which analyzes the same dataset via three very different statistical techniques and compares two classes of SEM: covariance-based SEM and partial-least-squaresbased SEM, and discusses linear regression models and guidelines as to when SEM techniques and when regression techniques should be used.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Gefen, D. Straub, Marie-Claude Boudreau
+

@@ -1,0 +1,12 @@
+corpus id: 18268733, 
+
+Title: Why people use health services.
+
+Abstract: Aims of the Paper The principal aims of this paper are (1) to increase professional health workers’ knowledge of selected research findings and theory so that they may better understand why and under what conditions people take action to prevent, detect and diagnose disease; and (2) to increase awareness among qualified behavioral scientists about the kinds of behavioral research opportunities and needs that exist in public health.  A matter of personal philosophy of the author is that the goal of understanding and predicting behavior should appropriately precede the goal of attempting to persuade people to modify their health practices, even though behavior can sometimes be changed in a planned way without clear understanding of its original causes. Efforts to modify behavior will ultimately be more successful if they grow out of an understanding of causal processes. Accordingly, primary attention will here be given to an effort to understand why people behave as they do. Only then will brief consideration be given to problems of how to persuade people to use health services.
+
+TLDR: To increase professional health workers’ knowledge of selected research findings and theory so that they may better understand why and under what conditions people take action to prevent, detect and diagnose disease, this paper aims to increase awareness among qualified behavioral scientists about the kinds of behavioral research opportunities and needs that exist in public health.
+
+Fields of Study: ['Sociology', 'Medicine']
+
+Authors: I. Rosenstock
+

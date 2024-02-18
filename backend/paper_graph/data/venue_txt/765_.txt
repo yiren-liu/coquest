@@ -1,0 +1,12 @@
+corpus id: 9571753, 
+
+Title: SMOG Grading - A New Readability Formula.
+
+Abstract: in a recent issue of this journal, Fry (4) described "a readability formula that saves time." The panel immediately below gives a method of assessing readability which is even quicker and so simple that one statistician who glanced at an earlier version of this paper thought that it was a "put on," a fake. Although this system, SMOG Grading, is laughably simple, it is in fact more valid than previous readability formulas. The rest of this paper is devoted to substantiating that claim.
+
+TLDR: Although this system, SMOG Grading, is laughably simple, it is in fact more valid than previous readability formulas and the rest of this paper is devoted to substantiating that claim.
+
+Fields of Study: ['Computer Science']
+
+Authors: G. Mclaughlin
+

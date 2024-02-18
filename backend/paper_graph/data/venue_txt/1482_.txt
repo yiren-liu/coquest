@@ -1,0 +1,12 @@
+corpus id: 15272724, 
+
+Title: The Preventable Causes of Death in the United States: Comparative Risk Assessment of Dietary, Lifestyle, and Metabolic Risk Factors
+
+Abstract: Majid Ezzati and colleagues examine US data on risk factor exposures and disease-specific mortality and find that smoking and hypertension, which both have effective interventions, are responsible for the largest number of deaths.
+
+TLDR: Examination of US data on risk factor exposures and disease-specific mortality finds that smoking and hypertension, which both have effective interventions, are responsible for the largest number of deaths.
+
+Fields of Study: ['Medicine']
+
+Authors: G. Danaei, E. Ding, D. Mozaffarian, B. Taylor, J. Rehm, C. Murray, M. Ezzati
+

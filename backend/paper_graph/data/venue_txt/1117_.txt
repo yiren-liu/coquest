@@ -1,0 +1,12 @@
+corpus id: 2262951, 
+
+Title: Friends and neighbors on the Web
+
+Abstract: None
+
+TLDR: It is shown that some factors are better indicators of social connections than others, and that these indicators vary between user populations.
+
+Fields of Study: ['Computer Science', 'Sociology']
+
+Authors: Lada A. Adamic, Eytan Adar
+

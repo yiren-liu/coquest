@@ -1,0 +1,12 @@
+corpus id: 6868055, 
+
+Title: Random effects structure for confirmatory hypothesis testing: Keep it maximal.
+
+Abstract: None
+
+TLDR: It is argued that researchers using LMEMs for confirmatory hypothesis testing should minimally adhere to the standards that have been in place for many decades, and it is shown thatLMEMs generalize best when they include the maximal random effects structure justified by the design.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Barr, R. Levy, Christoph Scheepers, Harry J. Tily
+

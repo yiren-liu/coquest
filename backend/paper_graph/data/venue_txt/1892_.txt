@@ -1,0 +1,12 @@
+corpus id: 10790185, 
+
+Title: Three Approaches to Qualitative Content Analysis
+
+Abstract: Content analysis is a widely used qualitative research technique. Rather than being a single method, current applications of content analysis show three distinct approaches: conventional, directed, or summative. All three approaches are used to interpret meaning from the content of text data and, hence, adhere to the naturalistic paradigm. The major differences among the approaches are coding schemes, origins of codes, and threats to trustworthiness. In conventional content analysis, coding categories are derived directly from the text data. With a directed approach, analysis starts with a theory or relevant research findings as guidance for initial codes. A summative content analysis involves counting and comparisons, usually of keywords or content, followed by the interpretation of the underlying context. The authors delineate analytic procedures specific to each approach and techniques addressing trustworthiness with hypothetical examples drawn from the area of end-of-life care.
+
+TLDR: The authors delineate analytic procedures specific to each approach and techniques addressing trustworthiness with hypothetical examples drawn from the area of end-of-life care.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: H. Hsieh, S. Shannon
+

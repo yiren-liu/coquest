@@ -1,0 +1,12 @@
+corpus id: 144063242, 
+
+Title: Extrinsic and Intrinsic Motivation to Use Computers in the Workplace1
+
+Abstract: Previous research indicates that perceived usefulness is a major determinant and predictor of intentions to use computers in the workplace. In contrast, the impact of enjoyment on usage intentions has not been examined. Two studies are reported concerning the relative effects of usefulness and enjoyment on intentions to use, and usage of, computers in the workplace. Usefulness had a strong effect on usage intentions in both Study 1, regarding word processing software (β=.68), and Study 2, regarding business graphics programs (β=.79). As hypothesized, enjoyment also had a significant effect on intentions in both studies, controlling for perceived usefulness (β=.16 and 0.15 for Studies 1 and 2, respectively). Study 1 found that intentions correlated 0.63 with system usage and that usefulness and enjoyment influenced usage behavior entirely indirectly through their effects on intentions. In both studies, a positive interaction between usefulness and enjoyment was observed. Together, usefulness and enjoyment explained 62% (Study 1) and 75% (Study 2) of the variance in usage intentions. Moreover, usefulness and enjoyment were found to mediate fully the effects on usage intentions of perceived output quality and perceived ease of use. As hypothesized, a measure of task importance moderated the effects of ease of use and output quality on usefulness but not on enjoyment. Several implications are drawn for how to design computer programs to be both more useful and more enjoyable in order to increase their acceptability among potential users.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Fred D. Davis, R. Bagozzi, P. R. Warshaw
+

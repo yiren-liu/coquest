@@ -1,0 +1,12 @@
+corpus id: 118599296, 
+
+Title: Psychophysics: The Fundamentals
+
+Abstract: Contents: Preface. Psychophysical Measurement of Thresholds: Differential Sensitivity. Psychophysical Measurement of Thresholds: Absolute Sensitivity. The Classical Psychophysical Methods. Classical Psychophysical Theory. The Theory of Signal Detection. Further Considerations of TSD. Procedures of TSD. Some Applications of TSD. The Measurement of Sensory Attributes and Discrimination Scales. Partition Scales. Psychophysical Ration Scaling. Evaluation of Ratio Scaling Methods. The Psychophysical Law. Some Fundamental Issues in Psychophysical Scaling.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: G. Gescheider
+

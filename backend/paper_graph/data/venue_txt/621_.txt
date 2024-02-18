@@ -1,0 +1,12 @@
+corpus id: 20993687, 
+
+Title: Image Processing, Analysis and Machine Vision
+
+Abstract: None
+
+TLDR: The digitized image and its properties are studied, including shape representation and description, and linear discrete image transforms, and texture analysis.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Sonka, Václav Hlaváč, R. Boyle
+

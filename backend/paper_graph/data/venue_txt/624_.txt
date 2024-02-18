@@ -1,0 +1,12 @@
+corpus id: 207178999, 
+
+Title: Learning Deep Architectures for AI
+
+Abstract: Theoretical results strongly suggest that in order to learn the kind of complicated functions that can represent high-level abstractions (e.g. in vision, language, and other AI-level tasks), one needs deep architectures. Deep architectures are composed of multiple levels of non-linear operations, such as in neural nets with many hidden layers or in complicated propositional formulae re-using many sub-formulae. Searching the parameter space of deep architectures is a difficult optimization task, but learning algorithms such as those for Deep Belief Networks have recently been proposed to tackle this problem with notable success, beating the state-of-the-art in certain areas. This paper discusses the motivations and principles regarding learning algorithms for deep architectures, in particular those exploiting as building blocks unsupervised learning of single-layer models such as Restricted Boltzmann Machines, used to construct deeper models such as Deep Belief Networks.
+
+TLDR: The motivations and principles regarding learning algorithms for deep architectures, in particular those exploiting as building blocks unsupervised learning of single-layer modelssuch as Restricted Boltzmann Machines, used to construct deeper models such as Deep Belief Networks are discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: Yoshua Bengio
+

@@ -1,0 +1,12 @@
+corpus id: 13925042, 
+
+Title: The Hadoop Distributed File System
+
+Abstract: The Hadoop Distributed File System (HDFS) is designed to store very large data sets reliably, and to stream those data sets at high bandwidth to user applications. In a large cluster, thousands of servers both host directly attached storage and execute user application tasks. By distributing storage and computation across many servers, the resource can grow with demand while remaining economical at every size. We describe the architecture of HDFS and report on experience using HDFS to manage 25 petabytes of enterprise data at Yahoo!.
+
+TLDR: The architecture of HDFS is described and experience using HDFS to manage 25 petabytes of enterprise data at Yahoo! is reported on.
+
+Fields of Study: ['Computer Science']
+
+Authors: K. Shvachko, Hairong Kuang, S. Radia, R. Chansler
+

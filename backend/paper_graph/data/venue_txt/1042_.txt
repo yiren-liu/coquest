@@ -1,0 +1,12 @@
+corpus id: 15926286, 
+
+Title: A Coefficient of Agreement for Nominal Scales
+
+Abstract: CONSIDER Table 1. It represents in its formal characteristics a situation which arises in the clinical-social-personality areas of psychology, where it frequently occurs that the only useful level of measurement obtainable is nominal scaling (Stevens, 1951, pp. 2526), i.e. placement in a set of k unordered categories. Because the categorizing of the units is a consequence of some complex judgment process performed by a &dquo;two-legged meter&dquo; (Stevens, 1958), it becomes important to determine the extent to which these judgments are reproducible, i.e., reliable. The procedure which suggests itself is that of having two (or more) judges independently categorize a sample of units and determine the degree, significance, and
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Jacob Cohen
+

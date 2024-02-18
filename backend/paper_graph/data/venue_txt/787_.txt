@@ -1,0 +1,12 @@
+corpus id: 12946615, 
+
+Title: Pattern classification and scene analysis
+
+Abstract: Provides a unified, comprehensive and up-to-date treatment of both statistical and descriptive methods for pattern recognition. The topics treated include Bayesian decision theory, supervised and unsupervised learning, nonparametric techniques, discriminant analysis, clustering, preprosessing of pictorial data, spatial filtering, shape description techniques, perspective transformations, projective invariants, linguistic procedures, and artificial intelligence techniques for scene analysis.
+
+TLDR: The topics treated include Bayesian decision theory, supervised and unsupervised learning, nonparametric techniques, discriminant analysis, clustering, preprosessing of pictorial data, spatial filtering, shape description techniques, perspective transformations, projective invariants, linguistic procedures, and artificial intelligence techniques for scene analysis.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: R. Duda, P. Hart
+

@@ -1,0 +1,12 @@
+corpus id: 13561174, 
+
+Title: Tool release: gathering 802.11n traces with channel state information
+
+Abstract: We are pleased to announce the release of a tool that records detailed measurements of the wireless channel along with received 802.11 packet traces. It runs on a commodity 802.11n NIC, and records Channel State Information (CSI) based on the 802.11 standard. Unlike Receive Signal Strength Indicator (RSSI) values, which merely capture the total power received at the listener, the CSI contains information about the channel between sender and receiver at the level of individual data subcarriers, for each pair of transmit and receive antennas. Our toolkit uses the Intel WiFi Link 5300 wireless NIC with 3 antennas. It works on up-to-date Linux operating systems: in our testbed we use Ubuntu 10.04 LTS with the 2.6.36 kernel. The measurement setup comprises our customized versions of Intel's close-source firmware and open-source iwlwifi wireless driver, userspace tools to enable these measurements, access point functionality for controlling both ends of the link, and Matlab (or Octave) scripts for data analysis. We are releasing the binary of the modified firmware, and the source code to all the other components.
+
+TLDR: The measurement setup comprises the customized versions of Intel's close-source firmware and open-source iwlwifi wireless driver, userspace tools to enable these measurements, access point functionality for controlling both ends of the link, and Matlab scripts for data analysis.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Halperin, Wenjun Hu, Anmol Sheth, D. Wetherall
+

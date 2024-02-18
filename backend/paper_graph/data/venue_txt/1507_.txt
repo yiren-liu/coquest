@@ -1,0 +1,12 @@
+corpus id: 26372900, 
+
+Title: An Algorithm for Drawing General Undirected Graphs
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Tomihisa Kamada, S. Kawai
+

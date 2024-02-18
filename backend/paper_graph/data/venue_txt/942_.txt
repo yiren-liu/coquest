@@ -1,0 +1,12 @@
+corpus id: 33236398, 
+
+Title: Statistical notes for clinical researchers: assessing normal distribution (2) using skewness and kurtosis
+
+Abstract: As discussed in the previous statistical notes, although many statistical methods have been proposed to test normality of data in various ways, there is no current gold standard method. The eyeball test may be useful for medium to large sized (e.g., n > 50) samples, however may not useful for small samples. The formal normality tests including Shapiro-Wilk test and Kolmogorov-Smirnov test may be used from small to medium sized samples (e.g., n < 300), but may be unreliable for large samples. Moreover we may be confused because ‘eyeball test’ and ‘formal normality test’ may show incompatible results for the same data. To resolve the problem, another method of assessing normality using skewness and kurtosis of the distribution may be used, which may be relatively correct in both small samples and large samples. 1) Skewness and kurtosis Skewness is a measure of the asymmetry and kurtosis is a measure of ’peakedness’ of a distribution. Most statistical packages give you values of skewness and kurtosis as well as their standard errors.
+
+TLDR: As discussed in the previous statistical notes, although many statistical methods have been proposed to test normality of data in various ways, there is no current gold standard method and another method of assessing normality using skewness and kurtosis of the distribution may be used.
+
+Fields of Study: ['Mathematics', 'Medicine']
+
+Authors: Hae-Young Kim
+

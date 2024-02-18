@@ -1,0 +1,12 @@
+corpus id: 3767412, 
+
+Title: Dermatologist-level classification of skin cancer with deep neural networks
+
+Abstract: None
+
+TLDR: This work demonstrates an artificial intelligence capable of classifying skin cancer with a level of competence comparable to dermatologists, trained end-to-end from images directly, using only pixels and disease labels as inputs.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: A. Esteva, Brett Kuprel, R. Novoa, J. Ko, S. Swetter, H. Blau, S. Thrun
+

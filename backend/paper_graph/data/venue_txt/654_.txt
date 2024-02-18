@@ -1,0 +1,12 @@
+corpus id: 46159417, 
+
+Title: Notes on the Concept of Commitment
+
+Abstract: The concept of commitment is widely used but has received little formal analysis. It contains an implicit explanation of one mechanism producing consistent human behavior. Commitments come into being when a person, by making a side bet, links extraneous interests with a consistent line of activity. Side bets are often a consequence of the person's participation in social organizations. To understand commitments fully, an analysis of the system of value within which side bets are made is necessary.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: H. Becker
+

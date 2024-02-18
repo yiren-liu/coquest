@@ -1,0 +1,12 @@
+corpus id: 54272129, 
+
+Title: Order effects in belief updating: The belief-adjustment model
+
+Abstract: None
+
+TLDR: A theory of belief updating that explicitly accounts for order-effect phenomena as arising from the interaction of information-processing strategies and task characteristics is presented and shown both to account for much existing data and to make novel predictions for combinations of task characteristics where current data are sparse.
+
+Fields of Study: ['Mathematics']
+
+Authors: R. Hogarth, H. J. Einhorn
+

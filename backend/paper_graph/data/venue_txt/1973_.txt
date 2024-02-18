@@ -1,0 +1,12 @@
+corpus id: 16792474, 
+
+Title: Determinants of Perceived Ease of Use: Integrating Control, Intrinsic Motivation, and Emotion into the Technology Acceptance Model
+
+Abstract: Much previous research has established that perceived ease of use is an important factor influencing user acceptance and usage behavior of information technologies. However, very little research has been conducted to understand how that perception forms and changes over time. The current work presents and tests an anchoring and adjustment-based theoretical model of the determinants of system-specific perceived ease of use. The model proposes control (internal and external--conceptualized as computer self-efficacy and facilitating conditions, respectively), intrinsic motivation (conceptualized as computer playfulness), and emotion (conceptualized as computer anxiety) as anchors that determine early perceptions about the ease of use of a new system. With increasing experience, it is expected that system-specific perceived ease of use, while still anchored to the general beliefs regarding computers and computer use, will adjust to reflect objective usability, perceptions of external control specific to the new system environment, and system-specific perceived enjoyment. The proposed model was tested in three different organizations among 246 employees using three measurements taken over a three-month period. The proposed model was strongly supported at all points of measurement, and explained up to 60% of the variance in system-specific perceived ease of use, which is twice as much as our current understanding. Important theoretical and practical implications of these findings are discussed.
+
+TLDR: This work presents and tests an anchoring and adjustment-based theoretical model of the determinants of system-specific perceived ease of use, and proposes control, intrinsic motivation, and emotion as anchors that determine early perceptions about the ease ofuse of a new system.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: V. Venkatesh
+

@@ -1,0 +1,12 @@
+corpus id: 43306107, 
+
+Title: A meta-analysis of work-family conflict and various outcomes with a special emphasis on cross-domain versus matching-domain relations.
+
+Abstract: A literature review of studies analyzing work-family conflict and its consequences was conducted, and 427 effect sizes were analyzed meta-analytically. Work-family conflict was analyzed bidirectionally in terms of work interference with family (WIF) and family interference with work (FIW). We assessed 3 categories of potential outcomes: work-related outcomes, family-related outcomes, and domain-unspecific outcomes. Results show that WIF and FIW are consistently related to all 3 types of outcomes. Both types of interrole conflict showed stronger relationships to same-domain outcomes than to cross-domain outcomes. Thus, WIF was more strongly associated with work-related than with family-related outcomes, and FIW was more strongly associated with family-related than with work-related outcomes. In moderator analyses, parenthood could not explain variability in effect sizes. However, time spent at work did moderate the relationships between WIF and family-related outcomes, as well as FIW and domain-unspecific outcomes.
+
+TLDR: Work-family conflict was analyzed bidirectionally in terms of work interference with family (WIF) and family interference with work (FIW), and it was shown that WIF and FIW are consistently related to all 3 types of outcomes.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: F. Amstad, Laurenz L. Meier, Ursula Fasel, A. Elfering, N. Semmer
+

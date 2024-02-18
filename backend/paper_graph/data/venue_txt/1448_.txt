@@ -1,0 +1,12 @@
+corpus id: 27620029, 
+
+Title: Diffusion of innovations
+
+Abstract: Upon returning to the U.S., author Singhal’s Google search revealed the following: In January 2001, the impeachment trial against President Estrada was halted by senators who supported him. Within minutes, using cell phones, the opposition leaders broadcast a text message “Go 2EDSA. Wear blck” to folks on their telephone lists. The recipients, in turn, forwarded the message to others. The electronic ripples led the military to withdraw support, and the government fell without a shot being fired.
+
+TLDR: Upon returning to the U.S., author Singhal’s Google search revealed the following: in January 2001, the impeachment trial against President Estrada was halted by senators who supported him and the government fell without a shot being fired.
+
+Fields of Study: ['Medicine', 'Sociology']
+
+Authors: T. Valente
+

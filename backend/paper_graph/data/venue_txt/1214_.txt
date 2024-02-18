@@ -1,0 +1,12 @@
+corpus id: 167339931, 
+
+Title: PLS-SEM: Indeed a Silver Bullet
+
+Abstract: Structural equation modeling (SEM) has become a quasi-standard in marketing and management research when it comes to analyzing the cause-effect relations between latent constructs. For most researchers, SEM is equivalent to carrying out covariance-based SEM (CB-SEM). While marketing researchers have a basic understanding of CB-SEM, most of them are only barely familiar with the other useful approach to SEM-partial least squares SEM (PLS-SEM). The current paper reviews PLS-SEM and its algorithm, and provides an overview of when it can be most appropriately applied, indicating its potential and limitations for future research. The authors conclude that PLS-SEM path modeling, if appropriately applied, is indeed a "silver bullet" for estimating causal models in many theoretical models and empirical data situations.
+
+TLDR: The authors conclude that PLS-SEM path modeling, if appropriately applied, is indeed a "silver bullet" for estimating causal models in many theoretical models and empirical data situations.
+
+Fields of Study: ['Computer Science']
+
+Authors: Joseph F. Hair, C. Ringle, M. Sarstedt
+

@@ -1,0 +1,12 @@
+corpus id: 12508462, 
+
+Title: In two minds: dual-process accounts of reasoning
+
+Abstract: None
+
+TLDR: Researchers in thinking and reasoning have proposed recently that there are two distinct cognitive systems underlying reasoning, and experimental psychological evidence showing that the two systems compete for control of the authors' inferences and actions is presented.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: Jonathan Evans
+

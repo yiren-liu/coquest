@@ -1,0 +1,12 @@
+corpus id: 57987706, 
+
+Title: A primer on partial least squares structural equation modeling (PLS-SEM)
+
+Abstract: With applications using SmartPLS (www.smartpls.com)—the primary software used in partial least squares structural equation modeling (PLS-SEM)—this practical guide provides concise instructions on how to use this evolving statistical technique to conduct research and obtain solutions. Featuring the latest research, new examples, and expanded discussions throughout, the Second Edition is designed to be easily understood by those with limited statistical and mathematical training who want to pursue research opportunities in new ways.
+
+TLDR: The Second Edition of this practical guide to partial least squares structural equation modeling is designed to be easily understood by those with limited statistical and mathematical training who want to pursue research opportunities in new ways.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Joe F. Hair Jr, M. Sarstedt, Lucas M. Hopkins, Volker G. Kuppelwieser
+

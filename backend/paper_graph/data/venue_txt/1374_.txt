@@ -1,0 +1,12 @@
+corpus id: 54074761, 
+
+Title: Using Partial Least Squares in Operations Management Research: A Practical Guideline and Summary of Past Research
+
+Abstract: None
+
+TLDR: This study provides a practical guideline for evaluating and using PLS and uses examples from the operations management literature to demonstrate how the specific points in this guideline can be applied.
+
+Fields of Study: ['Computer Science']
+
+Authors: David Xiaosong Peng, F. Lai
+

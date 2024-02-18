@@ -1,0 +1,12 @@
+corpus id: 47459, 
+
+Title: Humans integrate visual and haptic information in a statistically optimal fashion
+
+Abstract: None
+
+TLDR: The nervous system seems to combine visual and haptic information in a fashion that is similar to a maximum-likelihood integrator, and this model behaved very similarly to humans in a visual–haptic task.
+
+Fields of Study: ['Physics', 'Medicine']
+
+Authors: M. Ernst, M. Banks
+

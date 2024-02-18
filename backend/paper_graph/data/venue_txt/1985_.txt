@@ -1,0 +1,12 @@
+corpus id: 213739669, 
+
+Title: Bitcoin : A Peer-to-Peer Electronic Cash System
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: Satoshi Nakamoto
+

@@ -1,0 +1,12 @@
+corpus id: 15248114, 
+
+Title: Accuracy of Deception Judgments
+
+Abstract: We analyze the accuracy of deception judgments, synthesizing research results from 206 documents and 24,483 judges. In relevant studies, people attempt to discriminate lies from truths in real time with no special aids or training. In these circumstances, people achieve an average of 54% correct lie-truth judgments, correctly classifying 47% of lies as deceptive and 61% of truths as nondeceptive. Relative to cross-judge differences in accuracy, mean lie-truth discrimination abilities are nontrivial, with a mean accuracy d of roughly .40. This produces an effect that is at roughly the 60th percentile in size, relative to others that have been meta-analyzed by social psychologists. Alternative indexes of lie-truth discrimination accuracy correlate highly with percentage correct, and rates of lie detection vary little from study to study. Our meta-analyses reveal that people are more accurate in judging audible than visible lies, that people appear deceptive when motivated to be believed, and that individuals regard their interaction partners as honest. We propose that people judge others' deceptions more harshly than their own and that this double standard in evaluating deceit can explain much of the accumulated literature.
+
+TLDR: It is proposed that people judge others' deceptions more harshly than their own and that this double standard in evaluating deceit can explain much of the accumulated literature.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: C. F. Bond, B. DePaulo
+

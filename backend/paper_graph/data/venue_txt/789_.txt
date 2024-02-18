@@ -1,0 +1,12 @@
+corpus id: 7893185, 
+
+Title: Validation of the five-factor model of personality across instruments and observers.
+
+Abstract: Two data sources--self-reports and peer ratings--and two instruments--adjective factors and questionnaire scales--were used to assess the five-factor model of personality. As in a previous study of self-reports (McCrae & Costa, 1985b), adjective factors of neuroticism, extraversion, openness to experience, agreeableness-antagonism, and conscientiousness-undirectedness were identified in an analysis of 738 peer ratings of 275 adult subjects. Intraclass correlations among raters, ranging from .30 to .65, and correlations between mean peer ratings and self-reports, from .25 to .62, showed substantial cross-observer agreement on all five adjective factors. Similar results were seen in analyses of scales from the NEO Personality Inventory. Items from the adjective factors were used as guides in a discussion of the nature of the five factors. These data reinforce recent appeals for the adoption of the five-factor model in personality research and assessment.
+
+TLDR: Two data sources--self-reports and peer ratings--and two instruments--adjective factors and questionnaire scales--were used to assess the five-factor model of personality, showing substantial cross-observer agreement on all five adjective factors.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: R. McCrae, P. Costa
+

@@ -1,0 +1,12 @@
+corpus id: 141842931, 
+
+Title: Cognitive Tutelage. (Book Reviews: Apprenticeship in Thinking. Cognitive Development in Social Context.)
+
+Abstract: PART I: The individual and the sociocultural context: Conceiving the relationship of the social world and the individual The sociocultural context of cognitive activity PART II: Processes of guided participation: Providing bridges from known to new Structuring situations and transferring responsibility Cultural universals and variations in guided participation PART III: Cognitive development through interaction with adults and peers: Explanations for cognitive development through social interaction: Vygotsky and Piaget Evidence of learning from guided participation with adults Peer interaction and cognitive development Shared thinking and guided participation.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: B. Rogoff
+

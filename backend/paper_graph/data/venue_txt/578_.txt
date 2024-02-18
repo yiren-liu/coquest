@@ -1,0 +1,12 @@
+corpus id: 15501905, 
+
+Title: Design-Based Research: Putting a Stake in the Ground
+
+Abstract: The emerging field of the learning sciences is one that is interdisciplinary, drawing on multiple theoretical perspectives and research paradigms so as to build understandings of the nature and conditions of learning, cognition, and development. Learning sciences researchers investigate cognition in context, at times emphasizing one more than the other but with the broad goal of developing evidence-based claims derived from both laboratory-based and naturalistic investigations that result in knowledge about how people learn. This work can involve the development of technological tools, curriculum, and especially theory that can be used to understand and support learning. A fundamental assumption of many learning scientists is that cognition is not a thing located within the individual thinker but is a process that is distributed across the knower, the environment in which knowing occurs, and the activity in which the learner participates. In other words, learning, cognition, knowing, and context are irreducibly co-constituted and cannot be treated as isolated entities or processes. If one believes that context matters in terms of learning and cognition, research paradigms that simply examine these processes as isolated variables within laboratory or other impoverished contexts of participation will necessarily lead to an incomplete understanding of their relevance in more naturalistic settings (Brown, 1992).1 Alternatively, simply observing learning and cognition as they naturally Correspondence and requests for reprints should be sent to Sasha A. Barab, School of Education,
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: S. Barab, K. Squire
+

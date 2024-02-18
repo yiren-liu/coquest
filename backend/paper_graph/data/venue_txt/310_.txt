@@ -1,0 +1,12 @@
+corpus id: 72989390, 
+
+Title: Heart rate variability. Standards of measurement, physiological interpretation, and clinical use
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Medicine']
+
+Authors: M. Malik, J. Bigger, A. Camm, R. Kleiger, A. Malliani, A. Moss, P. Schwartz
+

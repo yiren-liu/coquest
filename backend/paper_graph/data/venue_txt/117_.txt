@@ -1,0 +1,12 @@
+corpus id: 120555999, 
+
+Title: Statistical Power Analysis for the Behavioral Sciences (2nd ed.)
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: P. Lachenbruch
+

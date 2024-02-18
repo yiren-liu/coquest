@@ -1,0 +1,12 @@
+corpus id: 10811510, 
+
+Title: An Algorithm for Finding Best Matches in Logarithmic Expected Time
+
+Abstract: An algorithm and data structure are presented for searching a file containing N records, each described by k real valued keys, for the m closest matches or nearest neighbors to a given query record. The computation required to organize the file is proportional to kNlogN. The expected number of records examined in each search is independent of the file size. The expected computation to perform each search is proportional to logN. Empirical evidence suggests that except for very small files, this algorithm is considerably faster than other methods.
+
+TLDR: An algorithm and data structure are presented for searching a file containing N records, each described by k real valued keys, for the m closest matches or nearest neighbors to a given query record.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: J. Friedman, J. Bentley, R. Finkel
+

@@ -1,0 +1,12 @@
+corpus id: 212421040, 
+
+Title: COVID-19 and the cardiovascular system
+
+Abstract: None
+
+TLDR: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infects host cells through ACE2 receptors, leading to coronav virus disease (COVID-19)-related pneumonia, while also causing acute myocardial injury and chronic damage to the cardiovascular system.
+
+Fields of Study: ['Medicine']
+
+Authors: Ying-Ying Zheng, Yi-tong Ma, Jin-Ying Zhang, Xiang Xie
+

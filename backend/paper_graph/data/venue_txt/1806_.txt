@@ -1,0 +1,12 @@
+corpus id: 207228700, 
+
+Title: Application of Social Cognitive Theory to Training for Computer Skills
+
+Abstract: While computer training is widely recognized as an essential contributor to the productive use of computers in organizations, very little research has focused on identifying the processes through which training operates, and the relative effectiveness of different methods for such training. This research examined the training process, and compared a behavior modeling training program, based on Social Cognitive Theory Bandura [Bandura, A. 1977. Self-efficacy: Toward a unifying theory of behavioral change. Psych. Rev.842 191--215; Bandura, A. 1978. Reflections on self-efficacy. Adv. Behavioral Res. Therapy1 237--269; Bandura, A. 1982. Self-efficacy mechanism in human agency. Amer. Psychologist372 122--147; Bandura, A. 1986. Social Foundations of Thought and Action. Prentice-Hall, Englewood Cliffs, NJ.], to a more traditional, lecture-based program. According to Social Cognitive Theory, watching others performing a behavior, in this case interacting with a computer system, influences the observers' perceptions of their own ability to perform the behavior, or self-efficacy, and the expected outcomes that they perceive, as well as providing strategies for effective performance. The findings provide only partial support for the research model. Self-efficacy exerted a strong influence on performance in both models. In addition, behavior modeling was found to be more effective than the traditional method for training in Lotus 1-2-3, resulting in higher self-efficacy and higher performance. For WordPerfect, however, modeling did not significantly influence performance. This finding was unexpected, and several possible explanations are explored in the discussion. Of particular surprise were the negative relationships found between outcome expectations and performance. Outcome expectations were expected to positively influence performance, but the results indicated a strong negative effect. Measurement limitations are presented as the most plausible explanation for this result, but further research is necessary to provide conclusive explanations.
+
+TLDR: Self-efficacy exerted a strong influence on performance in both models, and behavior modeling was found to be more effective than the traditional method for training in Lotus 1-2-3, resulting in higher self- efficacy and higher performance.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: Deborah R. Compeau, C. Higgins
+

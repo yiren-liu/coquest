@@ -1,0 +1,12 @@
+corpus id: 43668821, 
+
+Title: Designing sociable robots
+
+Abstract: From the Publisher: Cynthia Breazeal here presents her vision of the sociable robot of the future, a synthetic creature and not merely a sophisticated tool. A sociable robot will be able to understand us, to communicate and interact with us, to learn from us and grow with us. It will be socially intelligent in a humanlike way. Eventually sociable robots will assist us in our daily lives, as collaborators and companions. Because the most successful sociable robots will share our social characteristics, the effort to make sociable robots is also a means for exploring human social intelligence and even what it means to be human. Breazeal defines the key components of social intelligence for these machines and offers a framework and set of design issues for their realization. Much of the book focuses on a nascent sociable robot she designed named Kismet. Breazeal offers a concrete implementation for Kismet, incorporating insights from the scientific study of animals and people, as well as from artistic disciplines such as classical animation. This blending of science, engineering, and art creates a lifelike quality that encourages people to treat Kismet as a social creature rather than just a machine. The book includes a CD-ROM that shows Kismet in action.
+
+TLDR: Cynthia Breazeal presents her vision of the sociable robot of the future, a synthetic creature and not merely a sophisticated tool, and defines the key components of social intelligence for these machines and offers a framework and set of design issues for their realization.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: C. Breazeal
+

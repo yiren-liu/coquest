@@ -1,0 +1,12 @@
+corpus id: 8508954, 
+
+Title: Confirmation Bias: A Ubiquitous Phenomenon in Many Guises
+
+Abstract: Confirmation bias, as the term is typically used in the psychological literature, connotes the seeking or interpreting of evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand. The author reviews evidence of such a bias in a variety of guises and gives examples of its operation in several practical contexts. Possible explanations are considered, and the question of its utility or disutility is discussed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Nickerson
+

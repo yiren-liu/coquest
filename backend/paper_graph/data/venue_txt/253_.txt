@@ -1,0 +1,12 @@
+corpus id: 36313706, 
+
+Title: Privacy in the Digital Age: A Review of Information Privacy Research in Information Systems
+
+Abstract: Information privacy refers to the desire of individuals to control or have some influence over data about themselves. Advances in information technology have raised concerns about information privacy and its impacts, and have motivated Information Systems researchers to explore information privacy issues, including technical solutions to address these concerns. In this paper, we inform researchers about the current state of information privacy research in IS through a critical analysis of the IS literature that considers information privacy as a key construct. The review of the literature reveals that information privacy is a multilevel concept, but rarely studied as such. We also find that information privacy research has been heavily reliant on studentbased and USA-centric samples, which results in findings of limited generalizability. Information privacy research focuses on explaining and predicting theoretical contributions, with few studies in journal articles focusing on design and action contributions. We recommend that future research should consider different levels of analysis as well as multilevel effects of information privacy. We illustrate this with a multilevel framework for information privacy concerns. We call for research on information privacy to use a broader diversity of sampling populations, and for more design and action information privacy research to be published in journal articles that can result in IT artifacts for protection or control of information privacy.
+
+TLDR: A critical analysis of the literature reveals that information privacy is a multilevel concept, but rarely studied as such, and calls for research on information privacy to use a broader diversity of sampling populations and to publish more design and action research in journal articles that can result in IT artifacts for protection or control of information privacy.
+
+Fields of Study: ['Computer Science']
+
+Authors: F. Bélanger, Robert E. Crossler
+

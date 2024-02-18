@@ -1,0 +1,12 @@
+corpus id: 61857080, 
+
+Title: SPARQL query language for RDF
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: E. P. hommeaux
+

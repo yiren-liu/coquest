@@ -1,0 +1,12 @@
+corpus id: 10080746, 
+
+Title: Support vector machines using GMM supervectors for speaker verification
+
+Abstract: Gaussian mixture models (GMMs) have proven extremely successful for text-independent speaker recognition. The standard training method for GMM models is to use MAP adaptation of the means of the mixture components based on speech from a target speaker. Recent methods in compensation for speaker and channel variability have proposed the idea of stacking the means of the GMM model to form a GMM mean supervector. We examine the idea of using the GMM supervector in a support vector machine (SVM) classifier. We propose two new SVM kernels based on distance metrics between GMM models. We show that these SVM kernels produce excellent classification accuracy in a NIST speaker recognition evaluation task.
+
+TLDR: This work examines the idea of using the GMM supervector in a support vector machine (SVM) classifier and proposes two new SVM kernels based on distance metrics between GMM models that produce excellent classification accuracy in a NIST speaker recognition evaluation task.
+
+Fields of Study: ['Computer Science']
+
+Authors: W. Campbell, D. Sturim, D. Reynolds
+

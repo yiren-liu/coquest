@@ -1,0 +1,12 @@
+corpus id: 215874460, 
+
+Title: SciPy: Open Source Scientific Tools for Python
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Jones, T. Oliphant, Pearu Peterson
+

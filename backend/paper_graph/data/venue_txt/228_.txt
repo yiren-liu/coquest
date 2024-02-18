@@ -1,0 +1,12 @@
+corpus id: 18196126, 
+
+Title: Personality and Performance at the Beginning of the New Millennium: What Do We Know and Where Do We Go Next?
+
+Abstract: As we begin the new millennium, it is an appropriate time to examine what we have learned about personality-performance relationships over the past century and to embark on new directions for research. In this study we quantitatively summarize the results of 15 prior meta-analytic studies that have investigated the relationship between the Five Factor Model (FFM) personality traits and job performance. Results support the previous findings that conscientiousness is a valid predictor across performance measures in all occupations studied. Emotional stability was also found to be a generalizable predictor when overall work performance was the criterion, but its relationship to specific performance criteria and occupations was less consistent than was conscientiousness. Though the other three Big Five traits (extraversion, openness and agreeableness) did not predict overall work performance, they did predict success in specific occupations or relate to specific criteria. The studies upon which these results are based comprise most of the research that has been conducted on this topic in the past century. Consequently, we call for a moratorium on meta-analytic studies of the type reviewed in our study and recommend that researchers embark on a new research agenda designed to further our understanding of personalityperformance linkages.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: M. Barrick, M. Mount, T. Judge
+

@@ -1,0 +1,12 @@
+corpus id: 6927503, 
+
+Title: IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+Abstract: In the context of the appearance-based paradigm for object recognition, it is generally believed that algorithms based on LDA (Linear Discriminant Analysis) are superior to those based on PCA (Principal Components Analysis). In this communication we show that this is not always the case. We present our case (cid:12)rst by using intuitively plausible arguments and then by showing actual results on a face database. Our overall conclusion is that when the training dataset is small, PCA can outperform LDA, and also that PCA is less sensitive to di(cid:11)erent training datasets.
+
+TLDR: The overall conclusion is that when the training dataset is small, PCA can outperform LDA, and also that PCA is less sensitive to di-erent training datasets.
+
+Fields of Study: None
+
+Authors: JooSeuk Kim, C. Scott
+

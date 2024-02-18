@@ -1,0 +1,12 @@
+corpus id: 143617589, 
+
+Title: The preference for self-correction in the organization of repair in conversation
+
+Abstract: An "organization of repair' operates in conversation, addressed to recurrent problems in speaking, hearing, and understanding. Several features of that organization are introduced to explicate the mechanism which produces a strong empirical skewing in which self-repair predominates over other-repair, and to show the operation of a preference for self-repair in the organization of repair. Several consequences of the preference for self-repair for conversational interaction are sketched.* 1. SELF- AND OTHER-CORRECTION. Among linguists and others who have at all concerned themselves with the phenomenon of'correction' (or, as we shall refer to it, 'repair'; cf. below, ?2.1), a distinction is commonly drawn between 'selfcorrection' and 'other-correction', i.e. correction by the speaker of that which is being corrected vs. correction by some 'other'.l Sociologists take an interest in such a distinction; its terms-'self' and 'other'-have long been understood as central to the study of social organization and social interaction.2 For our concerns in this paper, 'self' and 'other' are two classes of participants in interactive social
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: E. Schegloff, G. Jefferson, Harvey Sacks
+

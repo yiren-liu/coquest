@@ -1,0 +1,12 @@
+corpus id: 14627530, 
+
+Title: Measuring information systems success: models, dimensions, measures, and interrelationships
+
+Abstract: None
+
+TLDR: This work builds on the prior research related to IS success by summarizing the measures applied to the evaluation of IS success and by examining the relationships that comprise the D&M IS success model in both individual and organizational contexts.
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Petter, William H. DeLone, E. McLean
+

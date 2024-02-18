@@ -1,0 +1,12 @@
+corpus id: 71099563, 
+
+Title: The Body Multiple: Ontology in Medical Practice
+
+Abstract: The Body Multiple is an extraordinary ethnography of an ordinary disease. Drawing on fieldwork in a Dutch university hospital, Annemarie Mol looks at the day-to-day diagnosis and treatment of atherosclerosis. A patient information leaflet might describe atherosclerosis as the gradual obstruction of the arteries, but in hospital practice this one medical condition appears to be many other things. From one moment, place, apparatus, specialty, or treatment, to the next, a slightly different “atherosclerosis” is being discussed, measured, observed, or stripped away. This multiplicity does not imply fragmentation; instead, the disease is made to cohere through a range of tactics including transporting forms and files, making images, holding case conferences, and conducting doctor-patient conversations.The Body Multiple juxtaposes two distinct texts. Alongside Mol’s analysis of her ethnographic material—interviews with doctors and patients and observations of medical examinations, consultations, and operations—runs a parallel text in which she reflects on the relevant literature. Mol draws on medical anthropology, sociology, feminist theory, philosophy, and science and technology studies to reframe such issues as the disease-illness distinction, subject-object relations, boundaries, difference, situatedness, and ontology. In dialogue with one another, Mol’s two texts meditate on the multiplicity of reality-in-practice.Presenting philosophical reflections on the body and medical practice through vivid storytelling, The Body Multiple will be important to those in medical anthropology, philosophy, and the social study of science, technology, and medicine.
+
+TLDR: The Body Multiple draws on medical anthropology, sociology, feminist theory, philosophy, and science and technology studies to reframe such issues as the disease-illness distinction, subject-object relations, boundaries, difference, situatedness, and ontology.
+
+Fields of Study: ['Medicine']
+
+Authors: A. Mol
+

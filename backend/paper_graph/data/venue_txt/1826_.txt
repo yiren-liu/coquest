@@ -1,0 +1,12 @@
+corpus id: 154989667, 
+
+Title: Regression standard errors in clustered samples
+
+Abstract: We first sort the residuals and locate the observation in the residuals corresponding to the quantile in question, taking into account weights if they are applied. We then calculate wn, the square root of the sum of the weights. Unweighted data is equivalent to weighted data where each observation has weight 1, resulting in wn p n. For analytically weighted data, the weights are rescaled so that the sum of the weights is the sum of the observations, resulting in p n again. For frequency weighted data, wn literally is the square of the sum of the weights.
+
+TLDR: 
+
+Fields of Study: ['Business']
+
+Authors: W. Rogers
+

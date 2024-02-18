@@ -1,0 +1,12 @@
+corpus id: 10197772, 
+
+Title: The role of transportation in the persuasiveness of public narratives.
+
+Abstract: Transportation was proposed as a mechanism whereby narratives can affect beliefs. Defined as absorption into a story, transportation entails imagery, affect, and attentional focus. A transportation scale was developed and validated. Experiment 1 (N = 97) demonstrated that extent of transportation augmented story-consistent beliefs and favorable evaluations of protagonists. Experiment 2 (N = 69) showed that highly transported readers found fewer false notes in a story than less-transported readers. Experiments 3 (N = 274) and 4 (N = 258) again replicated the effects of transportation on beliefs and evaluations; in the latter study, transportation was directly manipulated by using processing instructions. Reduced transportation led to reduced story-consistent beliefs and evaluations. The studies also showed that transportation and corresponding beliefs were generally unaffected by labeling a story as fact or as fiction.
+
+TLDR: A transportation scale was developed and validated, and studies showed that transportation and corresponding beliefs were generally unaffected by labeling a story as fact or as fiction.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: M. Green, T. Brock
+

@@ -1,0 +1,12 @@
+corpus id: 19031190, 
+
+Title: Trust and TAM in Online Shopping: An Integrated Model
+
+Abstract: A separate and distinct interaction with both the actual e-vendor and with its IT Web site interface is at the heart of online shopping. Previous research has established, accordingly, that online purchase intentions are the product of both consumer assessments of the IT itself-specifically its perceived usefulness and ease-of-use (TAM)-and trust in the e-vendor. But these perspectives have been examined independently by IS researchers. Integrating these two perspectives and examining the factors that build online trust in an environment that lacks the typical human interaction that often leads to trust in other circumstances advances our understanding of these constructs and their linkages to behavior.  Our research on experienced repeat online shoppers shows that consumer trust is as important to online commerce as the widely accepted TAM use-antecedents, perceived usefulness and perceived ease of use. Together these variable sets explain a considerable proportion of variance in intended behavior. The study also provides evidence that online trust is built through (1) a belief that the vendor has nothing to gain by cheating, (2) a belief that there are safety mechanisms built into the Web site, and (3) by having a typical interface, (4) one that is, moreover, easy to use.
+
+TLDR: Research on experienced repeat online shoppers shows that consumer trust is as important to online commerce as the widely accepted TAM use-antecedents, perceived usefulness and perceived ease of use, and provides evidence that online trust is built through a belief that the vendor has nothing to gain by cheating.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: D. Gefen, Elena Karahanna, D. Straub
+

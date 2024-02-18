@@ -1,0 +1,12 @@
+corpus id: 5332982, 
+
+Title: Software metrics - a rigorous approach
+
+Abstract: From the Publisher: This book is the Second Edition of the highly successful Software Metrics: A Rigorous Approach. The book has been comprehensively re-written and re-designed to take account of the fast changing developments in software metrics, most notably their widespread penetration into industrial practice. Thus there are now extensive case studies, worked examples, and exercises. While every section of the book has been improved and updated, there are also entirely new sections dealing with process maturity and measurement, goal-question-metric, metrics plans, experimentation, empirical studies, object-oriented metrics, and metrics tools. The book continues to provide an accessible and comprehensive introduction to software metrics, now an essential component in the software engineering process. Software Metrics, 2/e is ideal for undergraduate and graduates studying a course in software metrics or software quality assurance. It also provides an excellent resource for practitioners in industry.
+
+TLDR: The book has been comprehensively re-written and re-designed to take account of the fast changing developments in software metrics, most notably their widespread penetration into industrial practice.
+
+Fields of Study: ['Computer Science']
+
+Authors: N. Fenton
+

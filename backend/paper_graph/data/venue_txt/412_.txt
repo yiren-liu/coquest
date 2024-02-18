@@ -1,0 +1,12 @@
+corpus id: 18242357, 
+
+Title: Augmented reality: a class of displays on the reality-virtuality continuum
+
+Abstract: In this paper we discuss augmented reality (AR) displays in a general sense, within the context of a reality-virtuality (RV) continuum, encompassing a large class of `mixed reality' (MR) displays, which also includes augmented virtuality (AV). MR displays are defined by means of seven examples of existing display concepts in which real objects and virtual objects are juxtaposed. Essential factors which distinguish different MR display systems from each other are presented, first by means of a table in which the nature of the underlying scene, how it is viewed, and the observer's reference to it are compared, and then by means of a three dimensional taxonomic framework comprising: extent of world knowledge, reproduction fidelity, and extent of presence metaphor. A principal objective of the taxonomy is to clarify terminology issues and to provide a framework for classifying research across different disciplines.
+
+TLDR: This paper discusses augmented reality (AR) displays in a general sense, within the context of a reality-virtuality (RV) continuum, encompassing a large class of `mixed reality' (MR) displays, which also includes augmented virtuality (AV).
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: P. Milgram, H. Takemura, A. Utsumi, F. Kishino
+

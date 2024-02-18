@@ -1,0 +1,12 @@
+corpus id: 205230357, 
+
+Title: A 61-million-person experiment in social influence and political mobilization
+
+Abstract: None
+
+TLDR: Results from a randomized controlled trial of political mobilization messages delivered to 61 million Facebook users during the 2010 US congressional elections show that the messages directly influenced political self-expression, information seeking and real-world voting behaviour of millions of people.
+
+Fields of Study: ['Medicine', 'Computer Science', 'Sociology']
+
+Authors: Robert M. Bond, Christopher J. Fariss, Jason Jeffrey Jones, Adam D. I. Kramer, Cameron A. Marlow, Jaime E. Settle, J. Fowler
+

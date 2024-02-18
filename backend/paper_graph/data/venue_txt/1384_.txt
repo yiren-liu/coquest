@@ -1,0 +1,12 @@
+corpus id: 14752473, 
+
+Title: A healthy heart is not a metronome: an integrative review of the heart's anatomy and heart rate variability
+
+Abstract: Heart rate variability (HRV), the change in the time intervals between adjacent heartbeats, is an emergent property of interdependent regulatory systems that operate on different time scales to adapt to challenges and achieve optimal performance. This article briefly reviews neural regulation of the heart, and its basic anatomy, the cardiac cycle, and the sinoatrial and atrioventricular pacemakers. The cardiovascular regulation center in the medulla integrates sensory information and input from higher brain centers, and afferent cardiovascular system inputs to adjust heart rate and blood pressure via sympathetic and parasympathetic efferent pathways. This article reviews sympathetic and parasympathetic influences on the heart, and examines the interpretation of HRV and the association between reduced HRV, risk of disease and mortality, and the loss of regulatory capacity. This article also discusses the intrinsic cardiac nervous system and the heart-brain connection, through which afferent information can influence activity in the subcortical and frontocortical areas, and motor cortex. It also considers new perspectives on the putative underlying physiological mechanisms and properties of the ultra-low-frequency (ULF), very-low-frequency (VLF), low-frequency (LF), and high-frequency (HF) bands. Additionally, it reviews the most common time and frequency domain measurements as well as standardized data collection protocols. In its final section, this article integrates Porges' polyvagal theory, Thayer and colleagues' neurovisceral integration model, Lehrer et al.'s resonance frequency model, and the Institute of HeartMath's coherence model. The authors conclude that a coherent heart is not a metronome because its rhythms are characterized by both complexity and stability over longer time scales. Future research should expand understanding of how the heart and its intrinsic nervous system influence the brain.
+
+TLDR: The authors conclude that a coherent heart is not a metronome because its rhythms are characterized by both complexity and stability over longer time scales.
+
+Fields of Study: ['Medicine']
+
+Authors: F. Shaffer, R. McCraty, Christopher L. Zerr
+

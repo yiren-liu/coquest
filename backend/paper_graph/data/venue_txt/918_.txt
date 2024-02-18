@@ -1,0 +1,12 @@
+corpus id: 154057587, 
+
+Title: Consumer Value: A Framework for Analysis and Research
+
+Abstract: As shoppers, what factors influence our decision to purchase an object or service? Why do we chose one product over another? How do we attribute value as part of the shopping experience? The theme of 'serving' the customer and customer satisfaction is central to every formulation of the marketing concept, yet few books attenpt to define and analyse exactly what it is that consumers want. In this provocative collection of essays, Morris Holbrook brings together a team of the top US and European scholars to discuss an issue of great importance to the study of marketing and consumer behaviour. This ground-breaking, interdisciplinary book provides an innovative framework for the study of consumer value which is used to critically examine the nature and type of value that consumers derive from the consumption experience - effiency, excellence, status, esteem, play, aesthetics, ethics, spirituality. Guaranteed to provoke debate and controversy, this is a courageous, individualistic and idiosyncratic book which should appeal to students of marketing, consumer behaviour, cultural studies and consumption studies.
+
+TLDR: 
+
+Fields of Study: ['Political Science']
+
+Authors: M. Holbrook
+

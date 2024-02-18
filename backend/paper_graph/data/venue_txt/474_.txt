@@ -1,0 +1,12 @@
+corpus id: 2139333, 
+
+Title: Electrical Impedance Tomography
+
+Abstract: Electrical impedance tomography (EIT) is an imaging modality that estimates the electrical properties at the interior of an object from measurements made on its surface. Typically, currents are injected into the object through electrodes placed on its surface, and the resulting electrode voltages are measured. An appropriate set of current patterns, with each pattern specifying the value of the current for each electrode, is applied to the object, and a reconstruction algorithm uses knowledge of the applied current patterns and the measured electrode voltages to solve the inverse problem, computing the electrical conductivity and permittivity distributions in the object. This article focuses on the type of EIT called adaptive current tomography (ACT) in which currents are applied simultaneously to all the electrodes. A number of current patterns are applied, where each pattern defines the current for each electrode, and the subsequent electrode voltages are measured to generate the data required for image reconstruction. A ring of electrodes may be placed in a single plane around the object, to define a two-dimensional problem, or in several layers of such rings, to define a three-dimensional problem. The reconstruction problem is described and two algorithms are discussed, a one-step, two-dimensional (2-D) Newton-Raphson algorithm and a one-step, full three-dimensional (3-D) reconstructor. Results from experimental data are presented which illustrate the performance of the algorithms.
+
+TLDR: This article focuses on the type of EIT called adaptive current tomography (ACT) in which currents are applied simultaneously to all the electrodes, where a number of current patterns are applied, where each pattern defines the current for each electrode, and the subsequent electrode voltages are measured to generate the data required for image reconstruction.
+
+Fields of Study: ['Computer Science', 'Mathematics', 'Physics']
+
+Authors: J. Newell, D. Isaacson, J. Mueller
+

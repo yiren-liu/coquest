@@ -1,0 +1,12 @@
+corpus id: 6555412, 
+
+Title: Estimation of probabilities from sparse data for the language model component of a speech recognizer
+
+Abstract: The description of a novel type of m-gram language model is given. The model offers, via a nonlinear recursive procedure, a computation and space efficient solution to the problem of estimating probabilities from sparse data. This solution compares favorably to other proposed methods. While the method has been developed for and successfully implemented in the IBM Real Time Speech Recognizers, its generality makes it applicable in other areas where the problem of estimating probabilities from sparse data arises.
+
+TLDR: The model offers, via a nonlinear recursive procedure, a computation and space efficient solution to the problem of estimating probabilities from sparse data, and compares favorably to other proposed methods.
+
+Fields of Study: ['Computer Science']
+
+Authors: Slava M. Katz
+

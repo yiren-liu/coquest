@@ -1,0 +1,12 @@
+corpus id: 6975432, 
+
+Title: A Public Domain Dataset for Human Activity Recognition using Smartphones
+
+Abstract: Human-centered computing is an emerging research field that aims to understand human behavior and integrate users and their social context with computer systems. One of the most recent, challenging and appealing applications in this framework consists in sensing human body motion using smartphones to gather context information about people actions. In this context, we describe in this work an Activity Recognition database, built from the recordings of 30 subjects doing Activities of Daily Living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors, which is released to public domain on a well-known on-line repository. Results, obtained on the dataset by exploiting a multiclass Support Vector Machine (SVM), are also acknowledged.
+
+TLDR: An Activity Recognition database is described, built from the recordings of 30 subjects doing Activities of Daily Living while carrying a waist-mounted smartphone with embedded inertial sensors, which is released to public domain on a well-known on-line repository.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. Anguita, A. Ghio, L. Oneto, X. Parra, Jorge Luis Reyes-Ortiz
+

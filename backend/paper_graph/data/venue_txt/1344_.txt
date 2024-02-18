@@ -1,0 +1,12 @@
+corpus id: 27778550, 
+
+Title: The ten-twenty electrode system of the International Federation. The International Federation of Clinical Neurophysiology.
+
+Abstract: During the First International EEG Congress, London in 1947, it was recommended that Dr. Herbert H. Jasper study methods to standardize the placement of electrodes used in EEG (Jasper 1958). A report with recommendations was to be presented to the Second International Congress in Paris in 1949. The electrode placement systems in use at various centers were found to be similar, with only minor differences, although their designations, letters and numbers were entirely different. Dr. Jasper established some guidelines which would be established in recommending a speci®c system to the federation and these are listed below.
+
+TLDR: During the First International EEG Congress, London in 1947, it was recommended that Dr. Herbert H. Jasper study methods to standardize the placement of electrodes used in EEG (Jasper 1958).
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: G. Klem, H. Lüders, H. Jasper, C. Elger
+

@@ -1,0 +1,12 @@
+corpus id: 14476283, 
+
+Title: Running Experiments on Amazon Mechanical Turk
+
+Abstract: Although Mechanical Turk has recently become popular among social scientists as a source of experimental data, doubts may linger about the quality of data provided by subjects recruited from online labor markets. We address these potential concerns by presenting new demographic data about the Mechanical Turk subject population, reviewing the strengths of Mechanical Turk relative to other online and offline methods of recruiting subjects, and comparing the magnitude of effects obtained using Mechanical Turk and traditional subject pools. We further discuss some additional benefits such as the possibility of longitudinal, cross cultural and prescreening designs, and offer some advice on how to best manage a common subject pool.
+
+TLDR: 
+
+Fields of Study: ['Engineering', 'Psychology']
+
+Authors: Gabriele Paolacci, Jesse J. Chandler, Panagiotis G. Ipeirotis
+

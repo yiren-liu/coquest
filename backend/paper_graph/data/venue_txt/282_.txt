@@ -1,0 +1,12 @@
+corpus id: 60635700, 
+
+Title: Motor Control and Learning: A Behavioral Emphasis
+
+Abstract: Chapter 1. Evolution of a Field of Study Chapter 2. Methodology for Studying Chapter 3. Human Information Processing Chapter 4. Attention and Performance Chapter 5. Sensory Contributions to Motor Control Chapter 6. Central Contributions to Motor Control Chapter 7. Principles of Speed and Accuracy Chapter 8. Coordination Chapter 9. Individual Differences and Capabilities Chapter 10. Motor Learning Concepts and Research Methods.
+
+TLDR: This chapter discusses the evolution of a field of study, methodology for Studying, and methods for studying human information processing and motor learning.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Schmidt, Timothy D. Lee
+

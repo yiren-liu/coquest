@@ -1,0 +1,12 @@
+corpus id: 215966761, 
+
+Title: A Tutorial on Support Vector Machines for Pattern Recognition
+
+Abstract: None
+
+TLDR: There are several arguments which support the observed high accuracy of SVMs, which are reviewed and numerous examples and proofs of most of the key theorems are given.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: J. C. BurgesChristopher
+

@@ -1,0 +1,12 @@
+corpus id: 1534407, 
+
+Title: Literature Review
+
+Abstract: . The reported changes in glutamate receptors and transporters subsequent to
+
+TLDR: The reported changes in glutamate receptors and transporters subsequent to the discovery of EMT have an important effect on the structure and function of these receptors.
+
+Fields of Study: ['Medicine']
+
+Authors: J. Gagné
+

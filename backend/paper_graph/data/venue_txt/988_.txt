@@ -1,0 +1,12 @@
+corpus id: 143878738, 
+
+Title: Social Cognitive Theory of Organizational Management
+
+Abstract: This article analyzes organizational functioning from the perspective of social cognitive theory, which explains psychosocial functioning in terms of triadic reciprocal causation. In this causal structure, behavior, cognitive, and other personal factors and environmental events operate as interacting determinants that influence each other bidirectionally. The application of the theory is illustrated in a series of experiments of complex managerial decision making, using a simulated organization. The interactional causal structure is tested in conjunction with experimentally varied organizational properties and belief systems that can enhance or undermine the operation of the self-regulatory determinants. Induced beliefs about the controllability of organizations and the conception of managerial ability strongly affect both managers' self-regulatory processes and their organizational attainments. Organizational complexity and assigned performance standards also serve as contributing influences. Path analys...
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: R. Wood, A. Bandura
+

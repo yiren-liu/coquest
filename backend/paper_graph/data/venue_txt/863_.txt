@@ -1,0 +1,12 @@
+corpus id: 197455156, 
+
+Title: Optimum Array Processing: Part IV of Detection, Estimation, and Modulation Theory
+
+Abstract: Optimum array processing: part IV of detection, estimation and modulation theory , Optimum array processing: part IV of detection, estimation and modulation theory , مرکز فناوری اطلاعات و اطلاع رسانی کشاورزی
+
+TLDR: Optimum array processing: part IV of detection, estimation and modulation theory, Optimum arrayprocessing: part III of detection- estimation-modulation theory.
+
+Fields of Study: ['Computer Science']
+
+Authors: H. V. Trees
+

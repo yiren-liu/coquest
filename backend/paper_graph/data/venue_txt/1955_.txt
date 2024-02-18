@@ -1,0 +1,12 @@
+corpus id: 1105134, 
+
+Title: Selecting Empirical Methods for Software Engineering Research
+
+Abstract: None
+
+TLDR: This chapter describes a number of empirical methods available and analyzes the types of questions each best addresses, providing a suitable basis for both understand- ing and selecting from the variety of methods applicable to empirical software engineering.
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Easterbrook, J. Singer, M. Storey, Daniela E. Damian
+

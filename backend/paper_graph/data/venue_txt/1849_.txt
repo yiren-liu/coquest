@@ -1,0 +1,12 @@
+corpus id: 14495436, 
+
+Title: Why a Diagram is (Sometimes) Worth Ten Thousand Words
+
+Abstract: None
+
+TLDR: This work describes systems that are informationally equivalent and that can be characterized as sentential or diagrammatic, and contrasts the computational efficiency of these representotions for solving several illustrative problems in mothematics and physics.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Larkin, H. Simon
+

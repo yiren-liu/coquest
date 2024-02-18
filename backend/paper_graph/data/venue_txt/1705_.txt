@@ -1,0 +1,12 @@
+corpus id: 140475379, 
+
+Title: Learning and Teaching Styles in Engineering Education.
+
+Abstract: When Linda Silverman and I wrote this paper in 1987, our goal was to offer some insights about teaching and learning based on Dr. Silverman’s expertise in educational psychology and my experience in engineering education that would be helpful to some of my fellow engineering professors. When the paper was published early in 1988, the response was astonishing. Almost immediately, reprint requests flooded in from all over the world. The paper started to be cited in the engineering education literature, then in the general science education literature; it was the first article cited in the premier issue of ERIC’s National Teaching and Learning Forum; and it was the most frequently cited paper in articles published in the Journal of Engineering Education over a 10-year period. A self-scoring web-based instrument called the Index of Learning Styles that assesses preferences on four scales of the learning style model developed in the paper currently gets about 100,000 hits a year and has been translated into half a dozen languages that I know about and probably more that I don’t, even though it has not yet been validated. The 1988 paper is still cited more than any other paper I have written, including more recent papers on learning styles.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Felder, L. Silverman
+

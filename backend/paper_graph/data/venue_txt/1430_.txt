@@ -1,0 +1,12 @@
+corpus id: 122773741, 
+
+Title: Significance Tests and Goodness of Fit in the Analysis of Covariance Structures
+
+Abstract: Factor analysis, path analysis, structural equation modeling, and related multivariate statistical methods are based on maximum likelihood or generalized least squares estimation developed for covariance structure models. Large-sample theory provides a chi-square goodness-of-fit test for comparing a model against a general alternative model based on correlated variables. This model comparison is insufficient for model evaluation: In large samples virtually any model tends to be rejected as inadequate, and in small samples various competing models, if evaluated, might be equally acceptable. A general null model based on modified independence among variables is proposed to provide an additional reference point for the statistical and scientific evaluation of covariance structure models. Use of the null model in the context of a procedure that sequentially evaluates the statistical necessity of various sets of parameters places statistical methods in covariance structure analysis into a more complete framework. The concepts of ideal models and pseudo chi-square tests are introduced, and their roles in hypothesis testing are developed. The importance of supplementing statistical evaluation with incremental fit indices associated with the comparison of hierarchical models is also emphasized. Normed and nonnormed fit indices are developed and illustrated.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: P. Bentler, D. Bonett
+

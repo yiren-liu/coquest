@@ -1,0 +1,12 @@
+corpus id: 9973484, 
+
+Title: TwitterRank: finding topic-sensitive influential twitterers
+
+Abstract: This paper focuses on the problem of identifying influential users of micro-blogging services. Twitter, one of the most notable micro-blogging services, employs a social-networking model called "following", in which each user can choose who she wants to "follow" to receive tweets from without requiring the latter to give permission first. In a dataset prepared for this study, it is observed that (1) 72.4% of the users in Twitter follow more than 80% of their followers, and (2) 80.5% of the users have 80% of users they are following follow them back. Our study reveals that the presence of "reciprocity" can be explained by phenomenon of homophily. Based on this finding, TwitterRank, an extension of PageRank algorithm, is proposed to measure the influence of users in Twitter. TwitterRank measures the influence taking both the topical similarity between users and the link structure into account. Experimental results show that TwitterRank outperforms the one Twitter currently uses and other related algorithms, including the original PageRank and Topic-sensitive PageRank.
+
+TLDR: Experimental results show that TwitterRank outperforms the one Twitter currently uses and other related algorithms, including the original PageRank and Topic-sensitive PageRank, which is proposed to measure the influence of users in Twitter.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Weng, Ee-Peng Lim, Jing Jiang, Qi He
+

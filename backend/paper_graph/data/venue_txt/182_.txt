@@ -1,0 +1,12 @@
+corpus id: 110983808, 
+
+Title: Three-dimensional millimeter-wave imaging for concealed weapon detection
+
+Abstract: Millimeter-wave imaging techniques and systems have been developed at the Pacific Northwest National Laboratory (PNNL), Richland, WA, for the detection of concealed weapons and contraband at airports and other secure locations. These techniques were derived from microwave holography techniques that utilize phase and amplitude information recorded over a two-dimensional aperture to reconstruct a focused image of the target. Millimeter-wave imaging is well suited for the detection of concealed weapons or other contraband carried on personnel since millimeter-waves are nonionizing, readily penetrate common clothing material, and are reflected from the human body and any concealed items. In this paper, a wide-bandwidth three-dimensional holographic microwave imaging technique is described. Practical weapon detection systems for airport or other high-throughput applications require high-speed scanning on the order of 3 to 10 s. To achieve this goal, a prototype imaging system utilizing a 27-33 GHz linear sequentially switched array and a high-speed linear scanner has been developed and tested. This system is described in detail along with numerous imaging results.
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: D. Sheen, D. McMakin, T. Hall
+

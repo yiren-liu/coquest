@@ -1,0 +1,12 @@
+corpus id: 29541163, 
+
+Title: Contributing to Discourse
+
+Abstract: For people to contribute to discourse, they must do more than utter the right sentence at the right time. The basic requirement is that they odd to their common ground in on orderly way. To do this, we argue, they try to establish for each utterance the mutual belief that the addressees hove understood what the speaker meant well enough for current purposes. This is accomplished by the collective actions of the current contributor and his or her partners, and these result in units of conversation called contributions. We present a model of contributions and show how it accounts for o variety of features of everyday conversations. People take part in conversation in order to plan, debate, discuss, gossip, and carry out other social processes. When they do take part, they could be said to contribute to the discourse. But how do they contribute? At first the answer seems obvious. A discourse is a sequence of utterances produced as the participants proceed turn by turn. All that participants have to do to contribute is utter the right sentence at the right time. They may make errors, but once they have corrected them, they are done. The other participants have merely to listen and understand. This is the view subscribed to in most discourse theories in psychology, linguistics, philosophy; and artificial intelligence. A closer look at actual conversations, however, suggests that they are much more than sequences of utterances produced turn by turn. They are highly coordinated activities in which the current speaker tries to make sure he or she is being attended to, heard, and understood by the other participants, and they in turn try to let the speaker know when he or she has succeeded. Contributing to a discourse, then, appears to require more than just uttering the right words at the right time. It seems to consist of collective acts performed by the participants working together. In this paper we describe a model of contributions as parts of collective acts. We first describe the need for such a model, next present the model
+
+TLDR: A model of contributions is described as parts of collective acts performed by the participants working together and it is shown how it accounts for o variety of features of everyday conversations.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: H. H. Clark, E. Schaefer
+

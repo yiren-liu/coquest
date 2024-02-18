@@ -1,0 +1,12 @@
+corpus id: 145634727, 
+
+Title: PERSONALITY STRUCTURE: EMERGENCE OF THE FIVE-FACTOR MODEL
+
+Abstract: L'auteur discute un modele a cinq facteurs de la personnalite qu'il confronte a d'autres systemes de la personnalite et dont les correlats des dimensions sont analyses ainsi que les problemes methodologiques
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. M. Digman
+

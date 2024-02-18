@@ -1,0 +1,12 @@
+corpus id: 12726134, 
+
+Title: [Principal components analysis].
+
+Abstract: OBJECTIVEThis study wants to identify factors or components latent besides health indicators from Spanish regions, and its graphic output.DESIGNObservational study.SETTINGTwenty eight indicators from regions were used: mortality, morbidity, communicable and no-communicable diseases, diet, dwelling and sanitary resources. Measurement was made between 1980-1988.INTERVENTIONSPrincipal component analysis has been applied to the indicators, reducing data dimension.MEASUREMENT AND MAIN RESULTSEight factors have been extracted, which explain 90% of the original information. This analysis, as can be seen from communnalities, represents correctly the set of original variables. The factors with more easily interpretation were: shortage sanitary resources, develop diet, mortality, chronic diseases and accidental.CONCLUSIONSOnly reduction data dimension could be justify the use of principal component analysis. Behind the agrupation of variables is mostly the socioeconomic background.
+
+TLDR: Only reduction data dimension could be justify the use of principal component analysis in identifying factors or components latent besides health indicators from Spanish regions, and its graphic output.
+
+Fields of Study: ['Medicine']
+
+Authors: J. A. López del Val, J. P. Alonso Pérez de Ágreda
+

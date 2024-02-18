@@ -1,0 +1,12 @@
+corpus id: 122581245, 
+
+Title: On the distribution of points in a cube and the approximate evaluation of integrals
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: I. Sobol
+

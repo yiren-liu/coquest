@@ -1,0 +1,12 @@
+corpus id: 399279, 
+
+Title: The active badge location system
+
+Abstract: A novel system for the location of people in an office environment is described. Members of staff wear badges that transmit signals providing information about their location to a centralized location service, through a network of sensors. The paper also examines alternative location techniques, system design issues and applications, particularly relating to telephone call routing. Location systems raise concerns about the privacy of an individual and these issues are also addressed.
+
+TLDR: A novel system for the location of people in an office environment is described, where members of staff wear badges that transmit signals providing information about their location to a centralized location service, through a network of sensors.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Want, A. Hopper, Veronica Falcao, Jonathan Gibbons
+

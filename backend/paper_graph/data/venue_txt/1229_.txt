@@ -1,0 +1,12 @@
+corpus id: 14313721, 
+
+Title: Characterizing Browsing Strategies in the World-Wide Web
+
+Abstract: None
+
+TLDR: A study conducted at Georgia Institute of Technology that captured client-side user events of NCSA's XMosaic supplemented the understanding of user navigation strategies as well as provided real interface usage data.
+
+Fields of Study: ['Computer Science']
+
+Authors: Lara D. Catledge, J. Pitkow
+

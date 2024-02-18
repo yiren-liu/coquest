@@ -1,0 +1,12 @@
+corpus id: 2185716, 
+
+Title: BoosTexter: A Boosting-based System for Text Categorization
+
+Abstract: None
+
+TLDR: This work describes in detail an implementation, called BoosTexter, of the new boosting algorithms for text categorization tasks, and presents results comparing the performance of Boos Texter and a number of other text-categorization algorithms on a variety of tasks.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: R. Schapire, Y. Singer
+

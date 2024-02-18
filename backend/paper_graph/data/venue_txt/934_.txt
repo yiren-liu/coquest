@@ -1,0 +1,12 @@
+corpus id: 17967380, 
+
+Title: Measurement Instruments for the Anthropomorphism, Animacy, Likeability, Perceived Intelligence, and Perceived Safety of Robots
+
+Abstract: None
+
+TLDR: A literature review has been performed on the measurements of five key concepts in HRI: anthropomorphism, animacy, likeability, perceived intelligence, and perceived safety, distilled into five consistent questionnaires using semantic differential scales.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: C. Bartneck, D. Kulić, E. Croft, S. Zoghbi
+

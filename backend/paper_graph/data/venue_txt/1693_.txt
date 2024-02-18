@@ -1,0 +1,12 @@
+corpus id: 60531168, 
+
+Title: Praat, a system for doing phonetics by computer
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Boersma
+

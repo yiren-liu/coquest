@@ -1,0 +1,12 @@
+corpus id: 11636639, 
+
+Title: Gender Differences in Preferences
+
+Abstract: This paper reviews the literature on gender differences in economic experiments. In the three main sections, we identify robust differences in risk preferences, social (other-regarding) preferences, and competitive preferences. We also speculate on the source of these differences, as well as on their implications. Our hope is that this article will serve as a resource for those seeking to understand gender differences and to use as a starting point to illuminate the debate on gender-specific outcomes in the labor and goods markets.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Rachel T. A. Croson, U. Gneezy
+

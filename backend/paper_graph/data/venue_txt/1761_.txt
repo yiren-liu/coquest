@@ -1,0 +1,12 @@
+corpus id: 39077571, 
+
+Title: Media, Tasks, and Communication Processes: A Theory of Media Synchronicity
+
+Abstract: This paper expands, refines, and explicates media synchronicity theory, originally proposed in a conference proceeding in 1999 (Dennis and Valacich 1999). Media synchronicity theory (MST) focuses on the ability of media to support synchronicity, a shared pattern of coordinated behavior among individuals as they work together. We expand on the original propositions of MST to argue that communication is composed of two primary processes: conveyance and convergence. The familiarity of individuals with the tasks they are performing and with their coworkers will also affect the relative amounts of these two processes. Media synchronicity theory proposes that for conveyance processes, use of media supporting lower synchronicity should result in better communication performance. For convergence processes, use of media supporting higher synchronicity should result in better communication performance. We identify five capabilities of media (symbol sets, parallelism, transmission velocity, rehearsability, and reprocessability) that influence the development of synchronicity and thus the successful performance of conveyance and convergence communication processes. The successful completion of most tasks involving more than one individual requires both conveyance and convergence processes, thus communication performance will be improved when individuals use a variety of media to perform a task, rather than just one medium.
+
+TLDR: The successful completion of most tasks involving more than one individual requires both conveyance and convergence processes, thus communication performance will be improved when individuals use a variety of media to perform a task, rather than just one medium.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Dennis, R. Fuller, J. Valacich
+

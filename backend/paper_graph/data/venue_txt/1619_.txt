@@ -1,0 +1,12 @@
+corpus id: 30573353, 
+
+Title: The Social Readjustment Rating Scale.
+
+Abstract: None
+
+TLDR: This report defines a method which achieves etiologic significance as a necessary but not sufficient cause of illness and accounts in part for the time of onset of disease and provides a quantitative basis for new epidemiological studies of diseases.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: T. H. Holmes, R. Rahe
+

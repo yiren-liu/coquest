@@ -1,0 +1,12 @@
+corpus id: 17226431, 
+
+Title: Psychological aspects of natural language. use: our words, our selves.
+
+Abstract: The words people use in their daily lives can reveal important aspects of their social and psychological worlds. With advances in computer technology, text analysis allows researchers to reliably and quickly assess features of what people say as well as subtleties in their linguistic styles. Following a brief review of several text analysis programs, we summarize some of the evidence that links natural word use to personality, social and situational fluctuations, and psychological interventions. Of particular interest are findings that point to the psychological value of studying particles-parts of speech that include pronouns, articles, prepositions, conjunctives, and auxiliary verbs. Particles, which serve as the glue that holds nouns and regular verbs together, can serve as markers of emotional state, social identity, and cognitive styles.
+
+TLDR: Findings that point to the psychological value of studying particles-parts of speech that include pronouns, articles, prepositions, conjunctives, and auxiliary verbs are summarized.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Pennebaker, M. Mehl, Kate Niederhoffer
+

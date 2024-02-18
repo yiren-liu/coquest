@@ -1,0 +1,12 @@
+corpus id: 21230372, 
+
+Title: [To err is human: building a safer health system].
+
+Abstract: ion “101” An Introduction for New Abstractors
+
+TLDR: In this chapter four new abstractors are introduced and three new techniques are introduced that help clarify the role of explicit description in the development of abstractions.
+
+Fields of Study: ['Medicine']
+
+Authors: P. Maurette
+

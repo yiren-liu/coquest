@@ -1,0 +1,12 @@
+corpus id: 4883312, 
+
+Title: Multimodal Unsupervised Image-to-Image Translation
+
+Abstract: None
+
+TLDR: A Multimodal Unsupervised Image-to-image Translation (MUNIT) framework that assumes that the image representation can be decomposed into a content code that is domain-invariant, and a style code that captures domain-specific properties.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Xun Huang, Ming-Yu Liu, Serge J. Belongie, J. Kautz
+

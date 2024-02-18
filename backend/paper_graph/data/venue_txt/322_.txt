@@ -1,0 +1,12 @@
+corpus id: 44780881, 
+
+Title: What's Mine Is Ours, or Is It? A Study of Attitudes about Information Sharing
+
+Abstract: As technology for information access improves, people have more opportunities to share information. A theory of information sharing is advanced and we report the results of three experiments on attitudes about sharing technical work and expertise in organizations. Based on research on sensitive topics difficult to study in the field, we derived vignette-based measures of attitudes. Subjects read a description of an employee's encounter with a previously unhelpful coworker who subsequently requested help-in the form of a computer program or computer advice. The influence of prosocial attitudes and organizational norms is inferred from subjects' support of sharing despite the previous unhelpful behavior of the coworker. Experiments 1 and 3 demonstrated that greater self interest reduces support of sharing, but that a belief in organizational ownership of work encourages and mediates attitudes favoring sharing. Work experience and business schooling contribute to these attitudes. The theory asserts that information as expertise belongs to a special category of information that is part of people's identity and is self-expressive. Experiments 2 and 3 demonstrated that subjects felt computer expertise belonged more to its possessor than the computer program did but would share it more than the program. Hence, attitudes about information sharing depend on the form of the information. Sharing tangible information work may depend on prosocial attitudes and norms of organizational ownership; sharing expertise may depend on people's own self-expressive needs.
+
+TLDR: Three experiments on attitudes about sharing technical work and expertise in organizations are reported and vignette-based measures of attitudes are derived based on research on sensitive topics difficult to study in the field, which show attitudes about information sharing depend on the form of the information.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: David Constant, S. Kiesler, L. Sproull
+

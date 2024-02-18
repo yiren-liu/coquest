@@ -1,0 +1,12 @@
+corpus id: 14088925, 
+
+Title: Color Transfer between Images
+
+Abstract: We use a simple statistical analysis to impose one image's color characteristics on another. We can achieve color correction by choosing an appropriate source image and apply its characteristic to another image.
+
+TLDR: This work uses a simple statistical analysis to impose one image's color characteristics on another by choosing an appropriate source image and applying its characteristic to another image.
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Reinhard, M. Ashikhmin, B. Gooch, P. Shirley
+

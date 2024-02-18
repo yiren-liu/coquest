@@ -1,0 +1,12 @@
+corpus id: 600035, 
+
+Title: Imagined Communities: Awareness, Information Sharing, and Privacy on the Facebook
+
+Abstract: None
+
+TLDR: It is found that an individual's privacy concerns are only a weak predictor of his membership to the Facebook, and also privacy concerned individuals join the network and reveal great amounts of personal information.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Acquisti, R. Gross
+

@@ -1,0 +1,12 @@
+corpus id: 17405787, 
+
+Title: Developing and Validating Trust Measures for e-Commerce: An Integrative Typology
+
+Abstract: Evidence suggests that consumers often hesitate to transact with Web-based vendors because of uncertainty about vendor behavior or the perceived risk of having personal information stolen by hackers. Trust plays a central role in helping consumers overcome perceptions of risk and insecurity. Trust makes consumers comfortable sharing personal information, making purchases, and acting on Web vendor advice--behaviors essential to widespread adoption of e-commerce. Therefore, trust is critical to both researchers and practitioners. Prior research on e-commerce trust has used diverse, incomplete, and inconsistent definitions of trust, making it difficult to compare results across studies. This paper contributes by proposing and validating measures for a multidisciplinary, multidimensional model of trust in e-commerce. The model includes four high-level constructs--disposition to trust, institution-based trust, trusting beliefs, and trusting intentions--which are further delineated into 16 measurable, literature-grounded subconstructs. The psychometric properties of the measures are demonstrated through use of a hypothetical, legal advice Web site. The results show that trust is indeed a multidimensional concept. Proposed relationships among the trust constructs are tested (for internal nomological validity), as are relationships between the trust constructs and three other e-commerce constructs (for external nomological validity)--Web experience, personal innovativeness, and Web site quality. Suggestions for future research as well as implications for practice are discussed.
+
+TLDR: This paper contributes by proposing and validating measures for a multidisciplinary, multidimensional model of trust in e-commerce, which shows that trust is indeed a multiddimensional concept.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: D. McKnight, V. Choudhury, C. Kacmar
+

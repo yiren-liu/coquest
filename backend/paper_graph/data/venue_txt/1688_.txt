@@ -1,0 +1,12 @@
+corpus id: 142680990, 
+
+Title: Detecting Lies and Deceit: Pitfalls and Opportunities
+
+Abstract: Detecting Lies and Deceit provides the most comprehensive review of deception to date. This revised edition provides an up-to-date account of deception research and discusses the working and efficacy of the most commonly used lie detection tools, including: •Behaviour Analysis Interview •Statement Validity Assessment •Reality Monitoring •Scientific Content Analysis •Several different polygraph tests •Voice Stress Analysis •Thermal Imaging •EEG-P300 •Functional Magnetic Resonance Imaging (fMRI) All three aspects of deception are covered: nonverbal cues, speech and written statement analysis and (neuro)physiological responses. The most common errors in lie detection are discussed and practical guidelines are provided to help professionals improve their lie detection skills. Detecting Lies and Deceit is a must-have resource for students, academics and professionals in psychology, criminology, policing and law.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Vrij
+

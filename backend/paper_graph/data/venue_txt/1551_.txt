@@ -1,0 +1,12 @@
+corpus id: 35569873, 
+
+Title: Introduction to Recommender Systems Handbook
+
+Abstract: None
+
+TLDR: The main goal is to delineate, in a coherent and structured way, the chapters included in this handbook and to help the reader navigate the extremely rich and detailed content that the handbook offers.
+
+Fields of Study: ['Computer Science']
+
+Authors: F. Ricci, L. Rokach, Bracha Shapira
+

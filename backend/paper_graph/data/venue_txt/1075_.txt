@@ -1,0 +1,12 @@
+corpus id: 145575751, 
+
+Title: What are emotions? And how can they be measured?
+
+Abstract: Defining “emotion” is a notorious problem. Without consensual conceptualization and operationalization of exactly what phenomenon is to be studied, progress in theory and research is difficult to achieve and fruitless debates are likely to proliferate. A particularly unfortunate example is William James’s asking the question “What is an emotion?” when he really meant “feeling”, a misnomer that started a debate which is still ongoing, more than a century later. This contribution attempts to sensitize researchers in the social and behavioral sciences to the importance of definitional issues and their consequences for distinguishing related but fundamentally different affective processes, states, and traits. Links between scientific and folk concepts of emotion are explored and ways to measure emotion and its components are discussed.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: K. Scherer
+

@@ -1,0 +1,12 @@
+corpus id: 10771465, 
+
+Title: Statistical analysis of repeated measures data using SAS procedures.
+
+Abstract: Mixed linear models were developed by animal breeders to evaluate genetic potential of bulls. Application of mixed models has recently spread to all areas of research, spurred by availability of advanced computer software. Previously, mixed model analyses were implemented by adapting fixed-effect methods to models with random effects. This imposed limitations on applicability because the covariance structure was not modeled. This is the case with PROC GLM in the SAS System. Recent versions of the SAS System include PROC MIXED. This procedure implements random effects in the statistical model and permits modeling the covariance structure of the data. Thereby, PROC MIXED can compute efficient estimates of fixed effects and valid standard errors of the estimates. Modeling the covariance structure is especially important for analysis of repeated measures data because measurements taken close in time are potentially more highly correlated than those taken far apart in time.
+
+TLDR: This procedure implements random effects in the statistical model and permits modeling the covariance structure of the data, and can compute efficient estimates of fixed effects and valid standard errors of the estimates in the SAS System.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: R. Littell, P. R. Henry, C. B. Ammerman
+

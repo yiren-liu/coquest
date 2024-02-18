@@ -1,0 +1,12 @@
+corpus id: 28318628, 
+
+Title: A new dawn for citizen science.
+
+Abstract: None
+
+TLDR: A citizen scientist is a volunteer who collects and/or processes data as part of a scientific enquiry, particularly in ecology and the environmental sciences.
+
+Fields of Study: ['Medicine']
+
+Authors: J. Silvertown
+

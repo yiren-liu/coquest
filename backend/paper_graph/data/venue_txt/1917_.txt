@@ -1,0 +1,12 @@
+corpus id: 1525146, 
+
+Title: Skills, rules, and knowledge; signals, signs, and symbols, and other distinctions in human performance models
+
+Abstract: The introduction of information technology based on digital computers for the design of man-machine interface systems has led to a requirement for consistent models of human performance in routine task environments and during unfamiliar task conditions. A discussion is presented of the requirement for different types of models for representing performance at the skill-, rule-, and knowledge-based levels, together with a review of the different levels in terms of signals, signs, and symbols. Particular attention is paid to the different possible ways of representing system properties which underlie knowledge-based performance and which can be characterised at several levels of abstraction-from the representation of physical form, through functional representation, to representation in terms of intention or purpose. Furthermore, the role of qualitative and quantitative models in the design and evaluation of interface systems is mentioned, and the need to consider such distinctions carefully is discussed.
+
+TLDR: A discussion is presented of the requirement for different types of models for representing performance at the skill-, rule-, and knowledge-based levels, together with a review of the different levels in terms of signals, signs, and symbols.
+
+Fields of Study: ['Computer Science', 'Psychology']
+
+Authors: J. Rasmussen
+

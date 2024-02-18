@@ -1,0 +1,12 @@
+corpus id: 28039886, 
+
+Title: NETWORK DATA AND MEASUREMENT
+
+Abstract: Data on social networks may be gathered for all ties linking elements of a closed population ("complete" network data) or for the sets of ties surrounding sampled individual units ("egocentric" network data). Network data have been obtained via surveys and questionnaires, archives, observation, diaries, electronic traces, and experiments. Most methodological research on data quality concerns surveys and questionnaires. The question of the accuracy with which informants can provide data on their network ties is nontrivial, but survey methods can make some claim to reliability. Unresolved issues include whether to measure perceived social ties or actual exchanges, how to treat temporal elements in the definition of relationships, and whether to seek accurate descriptions or reliable indicators. Continued research on data quality is needed; beyond improved samples and further investigation of the informant accuracy/reliability issue, this should cover common indices of network structure, address the consequences of sampling portions of a network, and examine the robustness of indicators of network structure and position to both random and nonrandom errors of measurement.
+
+TLDR: Continued research on data quality is needed; beyond improved samples and further investigation of the informant accuracy/reliability issue, this should cover common indices of network structure, address the consequences of sampling portions of a network, and examine the robustness of indicators ofnetwork structure and position to both random and nonrandom errors of measurement.
+
+Fields of Study: ['Sociology']
+
+Authors: P. Marsden
+

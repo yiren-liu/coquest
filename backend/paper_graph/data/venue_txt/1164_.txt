@@ -1,0 +1,12 @@
+corpus id: 36560421, 
+
+Title: From Max Weber: Essays in sociology
+
+Abstract: An introduction to the work of the greatest German sociologist and a key figure in the development of present-day sociological thought.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: M. Weber
+

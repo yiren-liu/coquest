@@ -1,0 +1,12 @@
+corpus id: 22642408, 
+
+Title: American College of Clinical Pharmacology Response to the Institute of Medicine Report “To Err Is Human: Building a Safer Health System”
+
+Abstract: Boken presenterer en helhetlig strategi for hvordan myndigheter, helsepersonell, industri og forbrukere kan redusere medisinske feil.
+
+TLDR: Boken presenterer en helhetlig strategi for hvordan myndigheter, helsepersonell, industri og forbrukere kan redusere medisinske feil.
+
+Fields of Study: ['Medicine']
+
+Authors: L. Kohn, J. Corrigan, M. Donaldson
+

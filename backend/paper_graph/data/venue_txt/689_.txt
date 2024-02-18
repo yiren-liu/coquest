@@ -1,0 +1,12 @@
+corpus id: 39660303, 
+
+Title: Task-Technology Fit and Individual Performance
+
+Abstract: A key concern in Information Systems (IS) research has been to better understand the linkage between information systems and individual performance. The research reported in this study has two primary objectives: (1) to propose a comprehensive theoretical model that incorporates valuable insights from two complementary streams of research, and (2) to empirically test the core of the model. At the heart of the new model is the assertion that for an information technology to have a positive impact on individual performance, the technology: (1) must be utilized and (2) must be a good fit with the tasks it supports. This new model is moderately supported by an analysis of data from over 600 individuals in two companies. This research highlights the importance of the fit between technologies and users' tasks in achieving individual performance impacts from information technology. It also suggests that task-technology fit when decomposed into its more detailed components, could be the basis for a strong diagnostic tool to evaluate whether information systems and services in a given organization are meeting user needs.
+
+TLDR: This research highlights the importance of the fit between technologies and users' tasks in achieving individual performance impacts from information technology and suggests that task-technology fit when decomposed into its more detailed components, could be the basis for a strong diagnostic tool to evaluate whether information systems and services in a given organization are meeting user needs.
+
+Fields of Study: ['Engineering', 'Computer Science']
+
+Authors: D. Goodhue, R. Thompson
+

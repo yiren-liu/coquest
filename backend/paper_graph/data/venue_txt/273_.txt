@@ -1,0 +1,12 @@
+corpus id: 14068874, 
+
+Title: The Stanford CoreNLP Natural Language Processing Toolkit
+
+Abstract: We describe the design and use of the Stanford CoreNLP toolkit, an extensible pipeline that provides core natural language analysis. This toolkit is quite widely used, both in the research NLP community and also among commercial and government users of open source NLP technology. We suggest that this follows from a simple, approachable design, straightforward interfaces, the inclusion of robust and good quality analysis components, and not requiring use of a large amount of associated baggage.
+
+TLDR: The design and use of the Stanford CoreNLP toolkit is described, an extensible pipeline that provides core natural language analysis, and it is suggested that this follows from a simple, approachable design, straightforward interfaces, the inclusion of robust and good quality analysis components, and not requiring use of a large amount of associated baggage.
+
+Fields of Study: ['Computer Science']
+
+Authors: Christopher D. Manning, M. Surdeanu, John Bauer, J. Finkel, Steven Bethard, David McClosky
+

@@ -1,0 +1,13 @@
+corpus id: 147630, 
+
+Title: Understanding and Using Context
+
+
+Abstract: None
+
+TLDR: An operational definition of context is provided and the different ways in which context can be used by context-aware applications are discussed, including the features and abstractions in the toolkit that make the task of building applications easier.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Dey
+

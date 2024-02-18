@@ -1,0 +1,12 @@
+corpus id: 34996006, 
+
+Title: The Effects of Personalizaion and Familiarity on Trust and Adoption of Recommendation Agents
+
+Abstract: In the context of personalization technologies, such as Web-based product-brokering recommendation agents (RAs) in electronic commerce, existing technology acceptance theories need to be expanded to take into account not only the cognitive beliefs leading to adoption behavior, but also the affect elicited by the personalized nature of the technology. This study takes a trust-centered, cognitive and emotional balanced perspective to study RA adoption. Grounded on the theory of reasoned action, the IT adoption literature, and the trust literature, this study theoretically articulates and empirically examines the effects of perceived personalization and familiarity on cognitive trust and emotional trust in an RA, and the impact of cognitive trust and emotional trust on the intention to adopt the RA either as a decision aid or as a delegated agent.  An experiment was conducted using two commercial RAs. PLS analysis results provide empirical support for the proposed theoretical perspective. Perceived personalization significantly increases customers' intention to adopt by increasing cognitive trust and emotional trust. Emotional trust plays an important role beyond cognitive trust in determining customers' intention to adopt. Emotional trust fully mediates the impact of cognitive trust on the intention to adopt the RA as a delegated agent, while it only partially mediates the impact of cognitive trust on the intention to adopt the RA as a decision aid. Familiarity increases the intention to adopt through cognitive trust and emotional trust.
+
+TLDR: A trust-centered, cognitive and emotional balanced perspective to study RA adoption is taken, and the effects of perceived personalization and familiarity on cognitive trust and emotional trust in an RA are examined.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: Sherrie Y. X. Komiak, I. Benbasat
+

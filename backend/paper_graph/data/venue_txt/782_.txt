@@ -1,0 +1,12 @@
+corpus id: 120581754, 
+
+Title: The Use of Ranks to Avoid the Assumption of Normality Implicit in the Analysis of Variance
+
+Abstract: (1937). The Use of Ranks to Avoid the Assumption of Normality Implicit in the Analysis of Variance. Journal of the American Statistical Association: Vol. 32, No. 200, pp. 675-701.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: M. Friedman
+

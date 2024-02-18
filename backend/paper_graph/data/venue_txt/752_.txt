@@ -1,0 +1,12 @@
+corpus id: 8261816, 
+
+Title: Between facets and domains: 10 aspects of the Big Five.
+
+Abstract: Factor analyses of 75 facet scales from 2 major Big Five inventories, in the Eugene-Springfield community sample (N=481), produced a 2-factor solution for the 15 facets in each domain. These findings indicate the existence of 2 distinct (but correlated) aspects within each of the Big Five, representing an intermediate level of personality structure between facets and domains. The authors characterized these factors in detail at the item level by correlating factor scores with the International Personality Item Pool (L. R. Goldberg, 1999). These correlations allowed the construction of a 100-item measure of the 10 factors (the Big Five Aspect Scales [BFAS]), which was validated in a 2nd sample (N=480). Finally, the authors examined the correlations of the 10 factors with scores derived from 10 genetic factors that a previous study identified underlying the shared variance among the Revised NEO Personality Inventory facets (K. L. Jang et al., 2002). The correspondence was strong enough to suggest that the 10 aspects of the Big Five may have distinct biological substrates.
+
+TLDR: Findings indicate the existence of 2 distinct (but correlated) aspects within each of the Big Five, representing an intermediate level of personality structure between facets and domains.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: C. DeYoung, L. Quilty, Jordan B. Peterson
+

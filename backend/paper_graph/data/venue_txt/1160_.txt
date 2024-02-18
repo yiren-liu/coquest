@@ -1,0 +1,12 @@
+corpus id: 149191349, 
+
+Title: Thinking, Fast and Slow
+
+Abstract: Daniel Kahneman, recipient of the Nobel Prize in Economic Sciences for his seminal work in psychology challenging the rational model of judgment and decision making, is one of the world's most important thinkers. His ideas have had a profound impact on many fields - including business, medicine, and politics - but until now, he has never brought together his many years of research in one book. In "Thinking, Fast and Slow", Kahneman takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think and make choices. One system is fast, intuitive, and emotional; the other is slower, more deliberative, and more logical. Kahneman exposes the extraordinary capabilities - and also the faults and biases - of fast thinking, and reveals the pervasive influence of intuitive impressions on our thoughts and behaviour. The importance of properly framing risks, the effects of cognitive biases on how we view others, the dangers of prediction, the right ways to develop skills, the pros and cons of fear and optimism, the difference between our experience and memory of events, the real components of happiness - each of these can be understood only by knowing how the two systems work together to shape our judgments and decisions. Drawing on a lifetime's experimental experience, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our professional and our personal lives-and how we can use different techniques to guard against the mental glitches that often get us into trouble. "Thinking, Fast and Slow" will transform the way you take decisions and experience the world.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Kahneman
+

@@ -1,0 +1,12 @@
+corpus id: 7807287, 
+
+Title: The Embodied Mind: Cognitive Science and Human Experience
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Combs, Guy Burneko, S. Goerner, Tracy Brown, H. Guenther
+

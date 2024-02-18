@@ -1,0 +1,12 @@
+corpus id: 167954010, 
+
+Title: Use of partial least squares (PLS) in strategic management research: a review of four recent studies
+
+Abstract: Advances in causal modeling techniques have made it possible for researchers to simultaneously examine theory and measures. However, researchers must use these new techniques appropriately. In addition to dealing with the methodological concerns associated with more traditional methods of analysis, researchers using causal modeling approaches must understand their underlying assumptions and limitations. Most researchers are well equipped with a basic understanding of LISREL‐type models. In contrast, current familiarity with PLS in the strategic management area is low. The current paper reviews four recent studies in the strategic management area which use PLS. The review notes that the technique has been applied inconsistently, and at times inappropriately, and suggests standards for evaluating future PLS applications. Copyright © 1999 John Wiley & Sons, Ltd.
+
+TLDR: The current paper reviews four recent studies in the strategic management area which use PLS and notes that the technique has been applied inconsistently, and at times inappropriately, and suggests standards for evaluating future PLS applications.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Hulland
+

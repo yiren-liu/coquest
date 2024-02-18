@@ -1,0 +1,12 @@
+corpus id: 7847482, 
+
+Title: UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.
+
+Abstract: In this article I evaluated the psychometric properties of the UCLA Loneliness Scale (Version 3). Using data from prior studies of college students, nurses, teachers, and the elderly, analyses of the reliability, validity, and factor structure of this new version of the UCLA Loneliness Scale were conducted. Results indicated that the measure was highly reliable, both in terms of internal consistency (coefficient alpha ranging from .89 to .94) and test-retest reliability over a 1-year period (r = .73). Convergent validity for the scale was indicated by significant correlations with other measures of loneliness. Construct validity was supported by significant relations with measures of the adequacy of the individual's interpersonal relationships, and by correlations between loneliness and measures of health and well-being. Confirmatory factor analyses indicated that a model incorporating a global bipolar loneliness factor along with two method factor reflecting direction of item wording provided a very good fit to the data across samples. Implications of these results for future measurement research on loneliness are discussed.
+
+TLDR: The psychometric properties of the UCLA Loneliness Scale (Version 3) were evaluated and it was indicated that the measure was highly reliable, both in terms of internal consistency and test-retest reliability over a 1-year period.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: D. Russell
+

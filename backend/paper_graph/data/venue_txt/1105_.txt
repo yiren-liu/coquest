@@ -1,0 +1,12 @@
+corpus id: 60953703, 
+
+Title: The Coding Manual for Qualitative Researchers
+
+Abstract: Chapter One: An Introduction to Codes and Coding Chapter Two: Writing Analytic Memos About Narrative and Visual Data Chapter Three: First Cycle Coding Methods Chapter Four: After First Cycle Coding Chapter Five: Second Cycle Coding Methods Chapter Six: After Second Cycle Coding Appendix A: A Glossary of Coding Methods Appendix B: A Glossary of Analytic Recommendations Appendix C: Field Note, Interview Transcript, and Document Samples for Coding Appendix D: Exercises and Activities for Coding and Qualitative Data Analytic Skill Development
+
+TLDR: This chapter discusses writing Analytic Memos About Narrative and Visual Data and exercises for Coding and Qualitative Data Analytic Skill Development.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Saldaña
+

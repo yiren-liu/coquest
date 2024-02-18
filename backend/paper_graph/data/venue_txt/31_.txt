@@ -1,0 +1,12 @@
+corpus id: 116939323, 
+
+Title: Topology Optimization: "Theory, Methods, And Applications"
+
+Abstract: 1 Topology optimization by distribution of isotropic material.- 2 Extensions and applications.- 3 Design with anisotropic materials.- 4 Topology design of truss structures.- 5 Appendices.- 6 Bibliographical notes.- References.- Author Index.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: M. Bendsøe, O. Sigmund
+

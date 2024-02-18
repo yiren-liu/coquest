@@ -1,0 +1,12 @@
+corpus id: 31251598, 
+
+Title: Multiple emitter location and signal Parameter estimation
+
+Abstract: Processing the signals received on an array of sensors for the location of the emitter is of great enough interest to have been treated under many special case assumptions. The general problem considers sensors with arbitrary locations and arbitrary directional characteristics (gain/phase/polarization) in a noise/interference environment of arbitrary covariance matrix. This report is concerned first with the multiple emitter aspect of this problem and second with the generality of solution. A description is given of the multiple signal classification (MUSIC) algorithm, which provides asymptotically unbiased estimates of 1) number of incident wavefronts present; 2) directions of arrival (DOA) (or emitter locations); 3) strengths and cross correlations among the incident waveforms; 4) noise/interference strength. Examples and comparisons with methods based on maximum likelihood (ML) and maximum entropy (ME), as well as conventional beamforming are included. An example of its use as a multiple frequency estimator operating on time series is included.
+
+TLDR: The multiple signal classification (MUSIC) algorithm is described, which provides asymptotically unbiased estimates of number of incident wavefronts present and directions of arrival (DOA) (or emitter locations) and strengths and cross correlations among the incident waveforms.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: R. Schmidt
+

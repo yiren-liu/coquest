@@ -1,0 +1,12 @@
+corpus id: 5071149, 
+
+Title: A 4-item measure of depression and anxiety: validation and standardization of the Patient Health Questionnaire-4 (PHQ-4) in the general population.
+
+Abstract: None
+
+TLDR: Results from this study support the reliability and validity of thePHQ-4, PHQ-2, and GAD-2 as ultra-brief measures of depression and anxiety in the general population and can be used to compare a subject's scale score with those determined from a general population reference group.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: B. Löwe, I. Wahl, M. Rose, C. Spitzer, H. Glaesmer, K. Wingenfeld, A. Schneider, E. Brähler
+

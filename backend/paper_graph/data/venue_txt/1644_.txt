@@ -1,0 +1,12 @@
+corpus id: 207240067, 
+
+Title: Deep Neural Networks for YouTube Recommendations
+
+Abstract: YouTube represents one of the largest scale and most sophisticated industrial recommendation systems in existence. In this paper, we describe the system at a high level and focus on the dramatic performance improvements brought by deep learning. The paper is split according to the classic two-stage information retrieval dichotomy: first, we detail a deep candidate generation model and then describe a separate deep ranking model. We also provide practical lessons and insights derived from designing, iterating and maintaining a massive recommendation system with enormous user-facing impact.
+
+TLDR: This paper details a deep candidate generation model and then describes a separate deep ranking model and provides practical lessons and insights derived from designing, iterating and maintaining a massive recommendation system with enormous user-facing impact.
+
+Fields of Study: ['Computer Science']
+
+Authors: Paul Covington, Jay K. Adams, Emre Sargin
+

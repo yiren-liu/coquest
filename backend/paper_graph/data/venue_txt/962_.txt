@@ -1,0 +1,12 @@
+corpus id: 207602540, 
+
+Title: A taxonomy of web search
+
+Abstract: Classic IR (information retrieval) is inherently predicated on users searching for information, the so-called "information need". But the need behind a web search is often not informational -- it might be navigational (give me the url of the site I want to reach) or transactional (show me sites where I can perform a certain transaction, e.g. shop, download a file, or find a map). We explore this taxonomy of web searches and discuss how global search engines evolved to deal with web-specific needs.
+
+TLDR: This taxonomy of web searches is explored and how global search engines evolved to deal with web-specific needs is discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Broder
+

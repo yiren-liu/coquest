@@ -1,0 +1,12 @@
+corpus id: 107284434, 
+
+Title: The Soundscape: Our Sonic Environment and the Tuning of the World
+
+Abstract: Schafer advocates soundscape study, or interdisciplinary research on the sonic environment that combines science, society, and the arts. Extensively quoting literature, he gives an historical overview of the changing soundscape, from a graceful state of nature to a heavily industrialised society filled with noise pollution. Explaining the notation and classification of sound, he gives exercises to develop sensitivity towards the acoustic ecology. Glossary. Bibl. 17 p. Index 5 p.
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: R. M. Schafer
+

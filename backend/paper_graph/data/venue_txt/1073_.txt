@@ -1,0 +1,12 @@
+corpus id: 147509026, 
+
+Title: The electrodermal system
+
+Abstract: Electrodermal activity (EDA), formerly called the Galvanic Skin Response (GSR), has been one of the most widely used response systems in the history of psychophysiology. Research involving EDA has been reported in practically all areas of psychology, psychiatry, and psychophysiology. EDA measures have been applied to a wide variety of topics ranging from basic research examining attention, information processing, and emotion, to more applied clinical research examining predictors and/or correlates of normal and abnormal behavior. The application of EDA measures to a wide variety of issues is due in large part to its low cost, relative ease of measurement and quantification, combined with its sensitivity to psychological states and processes. The purpose of this chapter is to provide a tutorial overview of EDA for interested students, researchers, and practitioners who are not specialists in this particular system. We begin with a historical description of different methods of measuring EDA, and then discuss the physical, inferential, psychological, and social aspects of EDA.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: M. Dawson, A. Schell, D. L. Filion
+

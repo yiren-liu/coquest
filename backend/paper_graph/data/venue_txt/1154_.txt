@@ -1,0 +1,12 @@
+corpus id: 25834952, 
+
+Title: A new scale for the measurement of interpersonal trust.
+
+Abstract: One of the most salient factors m the effecdveness of our present complex social organization is the willmgness of one or more mdividuals m a social unit to trust others The efficiency, adjustment, and even survival of any social group depends upon the presence or absence of such trust. Interpersonal tmst is defined here as an expectancy held by an mdividual or a group that the word, promise, verbal or wntten statement of another individual or group can be relied upon. This definition clearly departs significandy from Enkson's (1953) broad use of the concept of basic trust which Enkson descnbes as a central ingredient m "the healthy personality " Vanous wnters have already mdicated that a high expectancy that others can be relied upon is an important variable in the development of adequate family relationships and of healthy personahties in children The fadure to tmst others, particularly representatives of society, such as parents, teachers, and powerful commumty leaders, has frequently been cited as an important determmant m delmquency (Redl & Wmeman, 1951) Difficuldes m race relationships and m mmonty group-majonty group relationships have, likewise, been frequently related to expectancies of one group that the verbal statements of the other cannot be accepted Many psychotherapists believe interpersonal tmst is a major determinant in the success of psychotherapy In fact, an expectancy that others can be believed must be an important variable m human learmng in general Much of the formal and informal leaming that human bemgs acquire is based on the verbal and wntten statements of others, and what they leam must be significandy affected by the degree to which they believe their informants without independent evidence.
+
+TLDR: This definition clearly departs significandy from Enkson's (1953) broad use of the concept of basic trust, and an expectancy that others can be believed must be an important variable m human learmng in general.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. Rotter
+

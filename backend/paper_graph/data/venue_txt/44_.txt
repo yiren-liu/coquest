@@ -1,0 +1,12 @@
+corpus id: 17571592, 
+
+Title: Brain–computer interfaces for communication and control
+
+Abstract: None
+
+TLDR: With adequate recognition and effective engagement of all issues, BCI systems could eventually provide an important new communication and control option for those with motor disabilities and might also give those without disabilities a supplementary control channel or a control channel useful in special circumstances.
+
+Fields of Study: ['Medicine']
+
+Authors: J. Wolpaw, N. Birbaumer, D. McFarland, G. Pfurtscheller, T. Vaughan
+

@@ -1,0 +1,12 @@
+corpus id: 63925014, 
+
+Title: The PASCAL Visual Object Classes Challenge
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: Jianguo Zhang
+

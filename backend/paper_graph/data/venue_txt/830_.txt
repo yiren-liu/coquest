@@ -1,0 +1,12 @@
+corpus id: 13559932, 
+
+Title: The need to belong: desire for interpersonal attachments as a fundamental human motivation.
+
+Abstract: A hypothesized need to form and maintain strong, stable interpersonal relationships is evaluated in light of the empirical literature. The need is for frequent, nonaversive interactions within an ongoing relational bond. Consistent with the belongingness hypothesis, people form social attachments readily under most conditions and resist the dissolution of existing bonds. Belongingness appears to have multiple and strong effects on emotional patterns and on cognitive processes. Lack of attachments is linked to a variety of ill effects on health, adjustment, and well-being. Other evidence, such as that concerning satiation, substitution, and behavioral consequences, is likewise consistent with the hypothesized motivation. Several seeming counterexamples turned out not to disconfirm the hypothesis. Existing evidence supports the hypothesis that the need to belong is a powerful, fundamental, and extremely pervasive motivation.
+
+TLDR: Existing evidence supports the hypothesis that the need to belong is a powerful, fundamental, and extremely pervasive motivation, and people form social attachments readily under most conditions and resist the dissolution of existing bonds.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: R. Baumeister, M. Leary
+

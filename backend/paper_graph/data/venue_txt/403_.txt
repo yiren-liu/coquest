@@ -1,0 +1,12 @@
+corpus id: 159671711, 
+
+Title: The Problem of Abortion and the Doctrine of the Double Effect
+
+Abstract: One of the reasons why most of us feel puzzled about the problem of abortion is that we want, and do not want, to allow to the unborn child the rights that belong to adults and children. When we think of a baby about to be born it seems absurd to think that the next few minutes or even hours could make so radical a difference to its status; yet as we go back in the life of the foetus we are more and more reluctant to say that this is a human being and must be treated as such. No doubt this is the deepest source of our dilemma, but it is not the only one. For we are also confused about the general question of what we may and may not do where the interests of human beings conflict. We have strong intuitions about certain cases; saying, for instance, that it is all right to raise the level of education in our country, though statistics allow us to predict that a rise in the suicide rate will follow, while it is not all right to kill the feeble-minded to aid cancer research. It is not easy, however, to see the principles involved, and one way of throwing light on the abortion issue will be by setting up parallels involving adults or children once born. So we will be able to isolate the ‘equal rights’ issue and should be able to make some advance.
+
+TLDR: 
+
+Fields of Study: ['Philosophy']
+
+Authors: P. Foot
+

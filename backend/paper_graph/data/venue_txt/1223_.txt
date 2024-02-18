@@ -1,0 +1,12 @@
+corpus id: 144809197, 
+
+Title: Writing Ethnographic Fieldnotes
+
+Abstract: In "Writing Ethnographic Fieldnotes", Robert M. Emerson, Rachel I. Fretz, and Linda L. Shaw present a series of guidelines, suggestions, and practical advice for creating useful fieldnotes in a variety of settings, demystifying a process that is often assumed to be intuitive and impossible to teach. Using actual unfinished notes as examples, the authors illustrate options for composing, reviewing, and working fieldnotes into finished texts. They discuss different organizational and descriptive strategies and show how transforming direct observations into vivid descriptions results not simply from good memory but from learning to envision scenes as written. A good ethnographer, they demonstrate, must learn to remember dialogue and movement like an actor, to see colors and shapes like a painter, and to sense moods and rhythms like a poet. This new edition reflects the extensive feedback the authors have received from students and instructors since the first edition was published in 1995. As a result, they have updated the race, class, and gender section, created new sections on coding programs and revising first drafts, and provided new examples of working notes. An essential tool for budding social scientists, the second edition of "Writing Ethnographic Fieldnotes" will be invaluable for a new generation of researchers entering the field.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Emerson, Rachel I. Fretz, Linda L. Shaw
+

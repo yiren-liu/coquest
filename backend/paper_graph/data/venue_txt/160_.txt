@@ -1,0 +1,12 @@
+corpus id: 141688633, 
+
+Title: Life on the Screen: Identity in the Age of the Internet
+
+Abstract: From the Publisher: A Question of Identity Life on the Screen is a fascinating and wide-ranging investigation of the impact of computers and networking on society, peoples' perceptions of themselves, and the individual's relationship to machines. Sherry Turkle, a Professor of the Sociology of Science at MIT and a licensed psychologist, uses Internet MUDs (multi-user domains, or in older gaming parlance multi-user dungeons) as a launching pad for explorations of software design, user interfaces, simulation, artificial intelligence, artificial life, agents, "bots," virtual reality, and "the on-line way of life." Turkle's discussion of postmodernism is particularly enlightening. She shows how postmodern concepts in art, architecture, and ethics are related to concrete topics much closer to home, for example AI research (Minsky's "Society of Mind") and even MUDs (exemplified by students with X-window terminals who are doing homework in one window and simultaneously playing out several different roles in the same MUD in other windows). Those of you who have (like me) been turned off by the shallow, pretentious, meaningless paintings and sculptures that litter our museums of modern art may have a different perspective after hearing what Turkle has to say. This is a psychoanalytical book, not a technical one. However, software developers and engineers will find it highly accessible because of the depth of the author's technical understanding and credibility. Unlike most other authors in this genre, Turkle does not constantly jar the technically-literate reader with blatant errors or bogus assertions about how things work. Although I personally don't have time or patience for MUDs,view most of AI as snake-oil, and abhor postmodern architecture, I thought the time spent reading this book was an extremely good investment.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: S. Turkle
+

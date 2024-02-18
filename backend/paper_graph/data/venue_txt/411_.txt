@@ -1,0 +1,12 @@
+corpus id: 143072138, 
+
+Title: The Silent Language
+
+Abstract: Leading anthropologist Edward Hall analyzes the many aspects of non-verbal communication amd considers the concepts of space and time as tools for transmission of messages in this fascinating study. The Silent Language is a work of interest to both the intelligent general reader and the sophisticated social scientist.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: E. Hall
+

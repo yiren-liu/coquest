@@ -1,0 +1,12 @@
+corpus id: 9238949, 
+
+Title: Improving predictive inference under covariate shift by weighting the log-likelihood function
+
+Abstract: None
+
+TLDR: A class of predictive densities is derived by weighting the observed samples in maximizing the log-likelihood function, effective in cases such as sample surveys or design of experiments, where the observed covariate follows a different distribution than that in the whole population.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: Hidetoshi Shimodaira
+

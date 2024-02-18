@@ -1,0 +1,12 @@
+corpus id: 41055532, 
+
+Title: Sparse and Redundant Representations - From Theory to Applications in Signal and Image Processing
+
+Abstract: None
+
+TLDR: This textbook introduces sparse and redundant representations with a focus on applications in signal and image processing and how to use the proper model for tasks such as denoising, restoration, separation, interpolation and extrapolation, compression, sampling, analysis and synthesis, detection, recognition, and more.
+
+Fields of Study: ['Computer Science']
+
+Authors: Michael Elad
+

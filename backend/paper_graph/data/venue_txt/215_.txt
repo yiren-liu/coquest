@@ -1,0 +1,12 @@
+corpus id: 778478, 
+
+Title: Good features to track
+
+Abstract: No feature-based vision system can work unless good features can be identified and tracked from frame to frame. Although tracking itself is by and large a solved problem, selecting features that can be tracked well and correspond to physical points in the world is still hard. We propose a feature selection criterion that is optimal by construction because it is based on how the tracker works, and a feature monitoring method that can detect occlusions, disocclusions, and features that do not correspond to points in the world. These methods are based on a new tracking algorithm that extends previous Newton-Raphson style search methods to work under affine image transformations. We test performance with several simulations and experiments.<<ETX>>
+
+TLDR: A feature selection criterion that is optimal by construction because it is based on how the tracker works, and a feature monitoring method that can detect occlusions, disocclusions, and features that do not correspond to points in the world are proposed.
+
+Fields of Study: ['Computer Science']
+
+Authors: Jianbo Shi, Carlo Tomasi
+

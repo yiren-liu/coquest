@@ -1,0 +1,12 @@
+corpus id: 8451419, 
+
+Title: Incidence and determinants of lower extremity running injuries in long distance runners: a systematic review
+
+Abstract: The purpose of this study was to present a systematic overview of published reports on the incidence and associated potential risk factors of lower extremity running injuries in long distance runners. An electronic database search was conducted using the PubMed–Medline database. Two observers independently assessed the quality of the studies and a best evidence synthesis was used to summarise the results. The incidence of lower extremity running injuries ranged from 19.4% to 79.3%. The predominant site of these injuries was the knee. There was strong evidence that a long training distance per week in male runners and a history of previous injuries were risk factors for injuries, and that an increase in training distance per week was a protective factor for knee injuries.
+
+TLDR: There was strong evidence that a long training distance per week in male runners and a history of previous injuries were risk factors for injuries, and that an increase in trainingdistance per week was a protective factor for knee injuries.
+
+Fields of Study: ['Medicine']
+
+Authors: R. V. van Gent, D. Siem, M. van Middelkoop, A. G. van Os, S. Bierma-Zeinstra, B. Koes
+

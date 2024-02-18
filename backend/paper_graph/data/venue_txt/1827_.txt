@@ -1,0 +1,12 @@
+corpus id: 12022780, 
+
+Title: Preferred reporting items for systematic reviews and meta-analyses: the PRISMA Statement
+
+Abstract: Moher and colleagues introduce PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses), an update of the QUOROM guidelines for reporting systematic reviews and meta-analyses. Us...
+
+TLDR: PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) is introduced, an update of the QUOROM guidelines for reporting systematic reviews and meta-analyses.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: D. Moher, A. Liberati, J. Tetzlaff, D. Altman
+

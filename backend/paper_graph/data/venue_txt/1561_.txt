@@ -1,0 +1,12 @@
+corpus id: 16068354, 
+
+Title: Whose Space? Differences Among Users and Non-Users of Social Network Sites
+
+Abstract: Are there systematic differences between people who use social network sites and those who stay away, despite a familiarity with them? Based on data from a survey administered to a diverse group of young adults, this article looks at the predictors of SNS usage, with particular focus on Facebook, MySpace, Xanga, and Friendster. Findings suggest that use of such sites is not randomly distributed across a group of highly wired users. A person's gender, race and ethnicity, and parental educational background are all associated with use, but in most cases only when the aggregate concept of social network sites is disaggregated by service. Additionally, people with more experience and autonomy of use are more likely to be users of such sites. Unequal participation based on user background suggests that differential adoption of such services may be contributing to digital inequality.
+
+TLDR: The predictors of SNS usage are looked at, with particular focus on Facebook, MySpace, Xanga, and Friendster, suggesting that use of such sites is not randomly distributed across a group of highly wired users.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: E. Hargittai
+

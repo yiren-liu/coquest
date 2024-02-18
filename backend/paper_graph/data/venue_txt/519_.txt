@@ -1,0 +1,12 @@
+corpus id: 1958270, 
+
+Title: Role-Based Access Control Models
+
+Abstract: Security administration of large systems is complex, but it can be simplified by a role-based access control approach. This article explains why RBAC is receiving renewed attention as a method of security administration and review, describes a framework of four reference models developed to better understand RBAC and categorizes different implementations, and discusses the use of RBAC to manage itself.
+
+TLDR: Why RBAC is receiving renewed attention as a method of security administration and review is explained, a framework of four reference models developed to better understandRBAC is described, and the use of RBAC to manage itself is discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Sandhu, E. Coyne, H. Feinstein, C. E. Youman
+

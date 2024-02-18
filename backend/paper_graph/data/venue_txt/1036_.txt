@@ -1,0 +1,12 @@
+corpus id: 109186066, 
+
+Title: Working Minds: A Practitioner's Guide to Cognitive Task Analysis
+
+Abstract: Cognitive Task Analysis (CTA) helps researchers understand how cognitive skills and strategies make it possible for people to act effectively and get things done. CTA can yield information people need -- employers faced with personnel issues, market researchers who want to understand the thought processes of consumers, trainers and others who design instructional systems, health care professionals who want to apply lessons learned from errors and accidents, systems analysts developing user specifications, and many other professionals. CTA can show what makes the workplace work -- and what keeps it from working as well as it might. Working Minds is a true handbook, offering a set of tools for doing CTA: methods for collecting data about cognitive processes and events, analyzing them, and communicating them effectively. It covers both the "why" and the "how" of CTA methods, providing examples, guidance, and stories from the authors' own experiences as CTA practitioners. Because effective use of CTA depends on some conceptual grounding in cognitive theory and research -- on knowing what a cognitive perspective can offer -- the book also offers an overview of current research on cognition. The book provides detailed guidance for planning and carrying out CTA, with chapters on capturing knowledge and capturing the way people reason. It discusses studying cognition in real-world settings and the challenges of rapidly changing technology. And it describes key issues in applying CTA findings in a variety of fields. Working Minds makes the methodology of CTA accessible and the skills involved attainable.
+
+TLDR: 
+
+Fields of Study: ['Engineering']
+
+Authors: B. Crandall, Gary Klein, R. Hoffman
+

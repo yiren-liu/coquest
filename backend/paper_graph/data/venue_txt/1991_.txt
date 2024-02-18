@@ -1,0 +1,12 @@
+corpus id: 2871880, 
+
+Title: Domain-Adversarial Training of Neural Networks
+
+Abstract: None
+
+TLDR: A new representation learning approach for domain adaptation, in which data at training and test time come from similar but different distributions, which can be achieved in almost any feed-forward model by augmenting it with few standard layers and a new gradient reversal layer.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Yaroslav Ganin, E. Ustinova, Hana Ajakan, Pascal Germain, H. Larochelle, François Laviolette, M. Marchand, V. Lempitsky
+

@@ -1,0 +1,12 @@
+corpus id: 21926633, 
+
+Title: Heart rate variability: origins, methods, and interpretive caveats.
+
+Abstract: Components of heart rate variability have attracted considerable attention in psychology and medicine and have become important dependent measures in psychophysiology and behavioral medicine. Quantification and interpretation of heart rate variability, however, remain complex issues and are fraught with pitfalls. The present report (a) examines the physiological origins and mechanisms of heart rate variability, (b) considers quantitative approaches to measurement, and (c) highlights important caveats in the interpretation of heart rate variability. Summary guidelines for research in this area are outlined, and suggestions and prospects for future developments are considered.
+
+TLDR: Components of heart rate variability have attracted considerable attention in psychology and medicine and have become important dependent measures in psychophysiology and behavioral medicine.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: G. Berntson, J. Bigger, D. Eckberg, P. Grossman, P. Kaufmann, M. Malik, H. Nagaraja, S. Porges, J. Saul, P. Stone, M. W. van der Molen
+

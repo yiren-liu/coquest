@@ -1,0 +1,12 @@
+corpus id: 36031679, 
+
+Title: Thinking fast and slow.
+
+Abstract: In 1974 an article appeared in Science magazine with the dry-sounding title “Judgment Under Uncertainty: Heuristics and Biases” by a pair of psychologists who were not well known outside their discipline of decision theory. In it Amos Tversky and Daniel Kahneman introduced the world to Prospect Theory, which mapped out how humans actually behave when faced with decisions about gains and losses, in contrast to how economists assumed that people behave. Prospect Theory turned Economics on its head by demonstrating through a series of ingenious experiments that people are much more concerned with losses than they are with gains, and that framing a choice from one perspective or the other will result in decisions that are exactly the opposite of each other, even if the outcomes are monetarily the same. Prospect Theory led cognitive psychology in a new direction that began to uncover other human biases in thinking that are probably not learned but are part of our brain’s wiring.
+
+TLDR: Prospect Theory led cognitive psychology in a new direction that began to uncover other human biases in thinking that are probably not learned but are part of the authors' brain’s wiring.
+
+Fields of Study: ['Medicine', 'Biology']
+
+Authors: N. McGlynn
+

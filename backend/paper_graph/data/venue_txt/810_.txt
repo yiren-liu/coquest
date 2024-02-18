@@ -1,0 +1,12 @@
+corpus id: 13861754, 
+
+Title: The WEKA data mining software: an update
+
+Abstract: More than twelve years have elapsed since the first public release of WEKA. In that time, the software has been rewritten entirely from scratch, evolved substantially and now accompanies a text on data mining [35]. These days, WEKA enjoys widespread acceptance in both academia and business, has an active community, and has been downloaded more than 1.4 million times since being placed on Source-Forge in April 2000. This paper provides an introduction to the WEKA workbench, reviews the history of the project, and, in light of the recent 3.6 stable release, briefly discusses what has been added since the last stable version (Weka 3.4) released in 2003.
+
+TLDR: This paper provides an introduction to the WEKA workbench, reviews the history of the project, and, in light of the recent 3.6 stable release, briefly discusses what has been added since the last stable version (Weka 3.4) released in 2003.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Hall, E. Frank, G. Holmes, B. Pfahringer, P. Reutemann, I. Witten
+

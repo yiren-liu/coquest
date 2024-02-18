@@ -1,0 +1,12 @@
+corpus id: 61615905, 
+
+Title: The PASCAL visual object classes challenge 2006 (VOC2006) results
+
+Abstract: This report presents the results of the 2006 PASCAL Visual Object Classes Challenge (VOC2006). Details of the challenge, data, and evaluation are presented. Participants in the challenge submitted descriptions of their methods, and these have been included verbatim. This document should be considered preliminary, and subject to change.
+
+TLDR: This report presents the results of the 2006 PASCAL Visual Object Classes Challenge (VOC2006).
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Everingham, Andrew Zisserman, Christopher K. I. Williams, L. Gool
+

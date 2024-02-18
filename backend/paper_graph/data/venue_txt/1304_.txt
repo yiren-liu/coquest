@@ -1,0 +1,12 @@
+corpus id: 3117689, 
+
+Title: Human gaze control during real-world scene perception
+
+Abstract: None
+
+TLDR: Current approaches and empirical findings in human gaze control during real-world scene perception are reviewed.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Henderson
+

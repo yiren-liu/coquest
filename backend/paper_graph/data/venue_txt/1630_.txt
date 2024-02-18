@@ -1,0 +1,12 @@
+corpus id: 175905, 
+
+Title: Actions as space-time shapes
+
+Abstract: Human action in video sequences can be seen as silhouettes of a moving torso and protruding limbs undergoing articulated motion. We regard human actions as three-dimensional shapes induced by the silhouettes in the space-time volume. We adopt a recent approach by Gorelick et al. (2004) for analyzing 2D shapes and generalize it to deal with volumetric space-time action shapes. Our method utilizes properties of the solution to the Poisson equation to extract space-time features such as local space-time saliency, action dynamics, shape structure and orientation. We show that these features are useful for action recognition, detection and clustering. The method is fast, does not require video alignment and is applicable in (but not limited to) many scenarios where the background is known. Moreover, we demonstrate the robustness of our method to partial occlusions, non-rigid deformations, significant changes in scale and viewpoint, high irregularities in the performance of an action and low quality video
+
+TLDR: The method is fast, does not require video alignment and is applicable in many scenarios where the background is known, and the robustness of the method is demonstrated to partial occlusions, non-rigid deformations, significant changes in scale and viewpoint, high irregularities in the performance of an action and low quality video.
+
+Fields of Study: ['Computer Science', 'Medicine', 'Mathematics']
+
+Authors: M. Blank, Lena Gorelick, Eli Shechtman, M. Irani, R. Basri
+

@@ -1,0 +1,12 @@
+corpus id: 1946917, 
+
+Title: Usage patterns of collaborative tagging systems
+
+Abstract: Collaborative tagging describes the process by which many users add metadata in the form of keywords to shared content. Recently, collaborative tagging has grown in popularity on the web, on sites that allow users to tag bookmarks, photographs and other content. In this paper we analyze the structure of collaborative tagging systems as well as their dynamic aspects. Specifically, we discovered regularities in user activity, tag frequencies, kinds of tags used, bursts of popularity in bookmarking and a remarkable stability in the relative proportions of tags within a given URL. We also present a dynamic model of collaborative tagging that predicts these stable patterns and relates them to imitation and shared knowledge.
+
+TLDR: A dynamic model of collaborative tagging is presented that predicts regularities in user activity, tag frequencies, kinds of tags used, bursts of popularity in bookmarking and a remarkable stability in the relative proportions of tags within a given URL.
+
+Fields of Study: ['Computer Science']
+
+Authors: Scott A. Golder, B. Huberman
+

@@ -1,0 +1,12 @@
+corpus id: 125037489, 
+
+Title: LIII. On lines and planes of closest fit to systems of points in space
+
+Abstract: (1901). LIII. On lines and planes of closest fit to systems of points in space. The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science: Vol. 2, No. 11, pp. 559-572.
+
+TLDR: This paper is concerned with the construction of planes of closest fit to systems of points in space and the relationships between these planes and the planes themselves.
+
+Fields of Study: ['Computer Science']
+
+Authors: Karl Pearson F.R.S.
+

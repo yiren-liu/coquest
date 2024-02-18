@@ -1,0 +1,12 @@
+corpus id: 144494595, 
+
+Title: Qualitative Psychology: A Practical Guide to Research Methods
+
+Abstract: Book synopsis: Undertaking qualitative research in psychology can seem like a daunting and complex process, especially when it comes to selecting the most appropriate approach for your project or assignment. This book, written and edited by a world-leading group of academics and researchers, offers an accessible, critical and practical way into qualitative research in psychology. Each chapter provides a detailed, step-by-step guide to using a qualitative research method – from Conversation Analysis or Focus Groups to Interpretative Phenomenological Analysis or Narrative Psychology. Whatever approach you choose to take, this book will ensure you get it right from the start.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Jonathan A. Smith
+

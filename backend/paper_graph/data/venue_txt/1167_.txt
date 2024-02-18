@@ -1,0 +1,12 @@
+corpus id: 60131901, 
+
+Title: Multiple criteria decision making
+
+Abstract: None
+
+TLDR: In this Chapter, a decision maker (or a group of experts) trying to establish or examine fair procedures to combine opinions about alternatives related to different points of view is imagined.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Fodor, M. Roubens
+

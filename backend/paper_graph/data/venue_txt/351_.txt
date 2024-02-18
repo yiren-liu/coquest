@@ -1,0 +1,12 @@
+corpus id: 33768556, 
+
+Title: A level set method for structural topology optimization
+
+Abstract: None
+
+TLDR: A new approach to structural topology optimization that represents the structural boundary by a level set model that is embedded in a scalar function of a higher dimension that demonstrates outstanding flexibility of handling topological changes, fidelity of boundary representation and degree of automation.
+
+Fields of Study: ['Mathematics']
+
+Authors: M. Wang, Xiaoming Wang, D. Guo
+

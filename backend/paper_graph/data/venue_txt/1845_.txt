@@ -1,0 +1,12 @@
+corpus id: 18165915, 
+
+Title: Listen, attend and spell: A neural network for large vocabulary conversational speech recognition
+
+Abstract: We present Listen, Attend and Spell (LAS), a neural speech recognizer that transcribes speech utterances directly to characters without pronunciation models, HMMs or other components of traditional speech recognizers. In LAS, the neural network architecture subsumes the acoustic, pronunciation and language models making it not only an end-to-end trained system but an end-to-end model. In contrast to DNN-HMM, CTC and most other models, LAS makes no independence assumptions about the probability distribution of the output character sequences given the acoustic sequence. Our system has two components: a listener and a speller. The listener is a pyramidal recurrent network encoder that accepts filter bank spectra as inputs. The speller is an attention-based recurrent network decoder that emits each character conditioned on all previous characters, and the entire acoustic sequence. On a Google voice search task, LAS achieves a WER of 14.1% without a dictionary or an external language model and 10.3% with language model rescoring over the top 32 beams. In comparison, the state-of-the-art CLDNN-HMM model achieves a WER of 8.0% on the same set.
+
+TLDR: Listen, Attend and Spell (LAS), a neural speech recognizer that transcribes speech utterances directly to characters without pronunciation models, HMMs or other components of traditional speech recognizers is presented.
+
+Fields of Study: ['Computer Science']
+
+Authors: William Chan, N. Jaitly, Quoc V. Le, Oriol Vinyals
+

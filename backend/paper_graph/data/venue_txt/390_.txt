@@ -1,0 +1,12 @@
+corpus id: 41149078, 
+
+Title: Humans and Automation: Use, Misuse, Disuse, Abuse
+
+Abstract: This paper addresses theoretical, empirical, and analytical studies pertaining to human use, misuse, disuse, and abuse of automation technology. Use refers to the voluntary activation or disengagement of automation by human operators. Trust, mental workload, and risk can influence automation use, but interactions between factors and large individual differences make prediction of automation use difficult. Misuse refers to over reliance on automation, which can result in failures of monitoring or decision biases. Factors affecting the monitoring of automation include workload, automation reliability and consistency, and the saliency of automation state indicators. Disuse, or the neglect or underutilization of automation, is commonly caused by alarms that activate falsely. This often occurs because the base rate of the condition to be detected is not considered in setting the trade-off between false alarms and omissions. Automation abuse, or the automation of functions by designers and implementation by managers without due regard for the consequences for human performance, tends to define the operator's roles as by-products of the automation. Automation abuse can also promote misuse and disuse of automation by human operators. Understanding the factors associated with each of these aspects of human use of automation can lead to improved system design, effective training methods, and judicious policies and procedures involving automation use.
+
+TLDR: Understanding the factors associated with each of these aspects of human use of automation can lead to improved system design, effective training methods, and judicious policies and procedures involving automation use.
+
+Fields of Study: ['Psychology', 'Engineering', 'Computer Science']
+
+Authors: R. Parasuraman, V. Riley
+

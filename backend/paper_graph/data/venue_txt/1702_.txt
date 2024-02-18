@@ -1,0 +1,12 @@
+corpus id: 26890269, 
+
+Title: The Five Factor Model of personality and job performance in the European Community.
+
+Abstract: In 3 prior meta-analyses, the relationship between the Big Five factors of personality and job criteria was investigated. However, these meta-analyses showed different findings. Furthermore, these reviews included studies carried out only in the United States and Canada. This study reports meta-analytic research on the same topic but with studies conducted in the European Community, which were not included in the prior reviews. The results indicate that Conscientiousness and Emotional Stability are valid predictors across job criteria and occupational groups. The remaining factors are valid only for some criteria and for some occupational groups. Extraversion was a predictor for 2 occupations, and Openness and Agreeableness were valid predictors of training proficiency. These findings are consistent with M.R. Barrick and M.K. Mount (1991) and L.M. Hough, N.K. Eaton, M.D. Dunnette, J.D. Kamp, and R.A. McCloy (1990). Implications of the results for future research and the practice of personnel selection are suggested.
+
+TLDR: The results indicate that Conscientiousness and Emotional Stability are valid predictors across job criteria and occupational groups, and the remaining factors are valid only for some criteria and for some occupational groups.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: J. Salgado
+

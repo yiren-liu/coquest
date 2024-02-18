@@ -1,0 +1,12 @@
+corpus id: 3276924, 
+
+Title: Using Technology and Constituting Structures: A Practice Lens for Studying Technology in Organizations
+
+Abstract: None
+
+TLDR: An extension to the structurational perspective on technology is proposed that develops a practice lens to examine how people, as they interact with a technology in their ongoing practices, enact structures which shape their emergent and situated use of that technology.
+
+Fields of Study: ['Sociology', 'Computer Science']
+
+Authors: W. Orlikowski
+

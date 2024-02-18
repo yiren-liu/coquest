@@ -1,0 +1,12 @@
+corpus id: 7964637, 
+
+Title: Motivational beliefs, values, and goals.
+
+Abstract: This chapter reviews the recent research on motivation, beliefs, values, and goals, focusing on developmental and educational psychology. The authors divide the chapter into four major sections: theories focused on expectancies for success (self-efficacy theory and control theory), theories focused on task value (theories focused on intrinsic motivation, self-determination, flow, interest, and goals), theories that integrate expectancies and values (attribution theory, the expectancy-value models of Eccles et al., Feather, and Heckhausen, and self-worth theory), and theories integrating motivation and cognition (social cognitive theories of self-regulation and motivation, the work by Winne & Marx, Borkowski et al., Pintrich et al., and theories of motivation and volition). The authors end the chapter with a discussion of how to integrate theories of self-regulation and expectancy-value models of motivation and suggest new directions for future research.
+
+TLDR: The authors end the chapter with a discussion of how to integrate theories of self-regulation and expectancy-value models of motivation and suggest new directions for future research.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: J. Eccles, Allan Wigfield
+

@@ -1,0 +1,12 @@
+corpus id: 12109801, 
+
+Title: Interpersonal Effects in Computer-Mediated Interaction
+
+Abstract: This study examined the effects of time restriction on social interaction in computer-mediated communication through a meta-analysis of applicable research. Time was defined as whether subjects were restricted or unrestricted in their opportunity to exchange messages. Studies were included that assessed either of two outcome variables: socially oriented (as opposed to task-oriented) communication, and negative / uninhibited communication. Hypotheses were derived from Walther's social information processing perspective. Meta-analytic tests supported the hypotheses on social communication. Although no effects were found on negative / uninhibited communication, a reexamination of original studies suggests caution regarding previous findings.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Walther, Jeffrey F. Anderson, David W. Park
+

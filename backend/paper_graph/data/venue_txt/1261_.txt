@@ -1,0 +1,12 @@
+corpus id: 8125630, 
+
+Title: An overview of data warehousing and OLAP technology
+
+Abstract: Data warehousing and on-line analytical processing (OLAP) are essential elements of decision support, which has increasingly become a focus of the database industry. Many commercial products and services are now available, and all of the principal database management system vendors now have offerings in these areas. Decision support places some rather different requirements on database technology compared to traditional on-line transaction processing applications. This paper provides an overview of data warehousing and OLAP technologies, with an emphasis on their new requirements. We describe back end tools for extracting, cleaning and loading data into a data warehouse; multidimensional data models typical of OLAP; front end client tools for querying and data analysis; server extensions for efficient query processing; and tools for metadata management and for managing the warehouse. In addition to surveying the state of the art, this paper also identifies some promising research issues, some of which are related to problems that the database research community has worked on for years, but others are only just beginning to be addressed. This overview is based on a tutorial that the authors presented at the VLDB Conference, 1996.
+
+TLDR: An overview of data warehousing and OLAP technologies, with an emphasis on their new requirements, is provided, based on a tutorial presented at the VLDB Conference, 1996.
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Chaudhuri, U. Dayal
+

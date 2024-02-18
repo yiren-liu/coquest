@@ -1,0 +1,12 @@
+corpus id: 3157751, 
+
+Title: Hand movements: A window into haptic object recognition
+
+Abstract: None
+
+TLDR: Two experiments establish links between desired knowledge about objects and hand movements during haptic object exploration, and establish that in free exploration, a procedure is generally used to acquire information about an object property, not because it is merely sufficient, butBecause it is optimal or even necessary.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: S. Lederman, R. Klatzky
+

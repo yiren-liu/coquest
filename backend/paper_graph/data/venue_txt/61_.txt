@@ -1,0 +1,12 @@
+corpus id: 10701255, 
+
+Title: Deformation transfer for triangle meshes
+
+Abstract: Deformation transfer applies the deformation exhibited by a source triangle mesh onto a different target triangle mesh. Our approach is general and does not require the source and target to share the same number of vertices or triangles, or to have identical connectivity. The user builds a correspondence map between the triangles of the source and those of the target by specifying a small set of vertex markers. Deformation transfer computes the set of transformations induced by the deformation of the source mesh, maps the transformations through the correspondence from the source to the target, and solves an optimization problem to consistently apply the transformations to the target shape. The resulting system of linear equations can be factored once, after which transferring a new deformation to the target mesh requires only a backsubstitution step. Global properties such as foot placement can be achieved by constraining vertex positions. We demonstrate our method by retargeting full body key poses, applying scanned facial deformations onto a digital character, and remapping rigid and non-rigid animation sequences from one mesh onto another.
+
+TLDR: This paper demonstrates the method offormation transfer by retargeting full body key poses, applying scanned facial deformations onto a digital character, and remapping rigid and non-rigid animation sequences from one mesh onto another.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: R. Sumner, Jovan Popović
+

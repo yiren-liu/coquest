@@ -1,0 +1,12 @@
+corpus id: 13252401, 
+
+Title: Induction of Decision Trees
+
+Abstract: None
+
+TLDR: This paper summarizes an approach to synthesizing decision trees that has been used in a variety of systems, and it describes one such system, ID3, in detail, which is described in detail.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. R. Quinlan
+

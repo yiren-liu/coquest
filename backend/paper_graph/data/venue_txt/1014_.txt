@@ -1,0 +1,12 @@
+corpus id: 142061533, 
+
+Title: Understanding Attitudes and Predicting Social Behavior
+
+Abstract: Core text in attitude courses. Explains "theory and reasoned action" model and then applies the model to various cases.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: I. Ajzen, M. Fishbein
+

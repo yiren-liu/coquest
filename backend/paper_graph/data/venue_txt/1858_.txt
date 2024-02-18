@@ -1,0 +1,12 @@
+corpus id: 33656271, 
+
+Title: The Ecological Approach to Visual Perception
+
+Abstract: Contents: Preface. Introduction. Part I: The Environment To Be Perceived.The Animal And The Environment. Medium, Substances, Surfaces. The Meaningful Environment. Part II: The Information For Visual Perception.The Relationship Between Stimulation And Stimulus Information. The Ambient Optic Array. Events And The Information For Perceiving Events. The Optical Information For Self-Perception. The Theory Of Affordances. Part III: Visual Perception.Experimental Evidence For Direct Perception: Persisting Layout. Experiments On The Perception Of Motion In The World And Movement Of The Self. The Discovery Of The Occluding Edge And Its Implications For Perception. Looking With The Head And Eyes. Locomotion And Manipulation. The Theory Of Information Pickup And Its Consequences. Part IV: Depiction.Pictures And Visual Awareness. Motion Pictures And Visual Awareness. Conclusion. Appendixes: The Principal Terms Used in Ecological Optics. The Concept of Invariants in Ecological Optics.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Gibson
+

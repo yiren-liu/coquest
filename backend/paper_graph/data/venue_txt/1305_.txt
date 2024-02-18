@@ -1,0 +1,12 @@
+corpus id: 2560175, 
+
+Title: LEDA: a platform for combinatorial and geometric computing
+
+Abstract: Combinatorial and geometric computing is a core area of computer science (CS). In fact, most CS curricula contain a course in data structures and algorithms. The area deals with objects such as graphs, sequences, dictionaries, trees, shortest paths, flows, matchings, points, segments, lines, convex hulls, and Voronoi diagrams and forms the basis for application areas such as discrete optimization, scheduling, traffic control, CAD, and graphics. There is no standard library of the data structures and algorithms of combinatorial and geometric computing. This is in sharp contrast to many other areas of computing. There are, for example, packages in statistics (SPSS), numerical analysis (LINPACK, EISPACK), symbolic computation (MAPLE, MATHEMATICA), and linear programming (CPLEX).
+
+TLDR: There is no standard library of the data structures and algorithms of combinatorial and geometric computing, and there are, for example, packages in statistics (SPSS), numerical analysis (LINPACK), symbolic computation (MAPLE, MATHEMATICA), and linear programming (CPLEX).
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Näher
+

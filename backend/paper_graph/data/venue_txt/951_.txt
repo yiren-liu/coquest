@@ -1,0 +1,12 @@
+corpus id: 5328928, 
+
+Title: Automatic Panoramic Image Stitching using Invariant Features
+
+Abstract: None
+
+TLDR: This work forms stitching as a multi-image matching problem, and uses invariant local features to find matches between all of the images, and is insensitive to the ordering, orientation, scale and illumination of the input images.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Matthew A. Brown, D. Lowe
+

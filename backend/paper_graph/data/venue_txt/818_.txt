@@ -1,0 +1,12 @@
+corpus id: 144067074, 
+
+Title: Basics of qualitative research: Grounded theory procedures and techniques.
+
+Abstract: Introduction Getting Started Theoretical Sensitivity The Uses of Literature Open Coding Techniques for Enhancing Theoretical Sensitivity Axial Coding Selective Coding Process The Conditional Matrix Theoretical Sampling Memos and Diagrams Writing Theses and Monographs, and Giving Talks about Your Research Criteria for Judging a Grounded Theory Study
+
+TLDR: 
+
+Fields of Study: ['Sociology', 'Psychology']
+
+Authors: A. Strauss, J. Corbin
+

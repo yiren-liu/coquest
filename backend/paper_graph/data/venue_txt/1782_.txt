@@ -1,0 +1,12 @@
+corpus id: 44398206, 
+
+Title: Service Quality: A Measure of Information System Effectiveness
+
+Abstract: The IS function now includes a significant service component. However, commonly used measures of IS effectiveness focus on the products, rather than the services, of the IS function. Thus, there is the danger that IS researchers will mismeasure IS effectiveness if they do not include in their assessment package a measure of IS service quality. SERVQUAL, an instrument developed by marketing researchers, is offered as a possible measure of IS service quality. SERVQUAL measures service dimensions of tangibles, reliability, responsiveness, assurance, and empathy. The suitability of SERVQUAL was assessed in three different types of organizations in three countries. After examination of content validity, reliability, convergent validity, nomological validity, and discriminant validity, the study concludes that SERVQUAL is an appropriate instrument for researchers seeking a measure of IS service quality.
+
+TLDR: The study concludes that SERVQUAL is an appropriate instrument for researchers seeking a measure of IS service quality.
+
+Fields of Study: ['Computer Science']
+
+Authors: L. Pitt, R. Watson, C. Kavan
+

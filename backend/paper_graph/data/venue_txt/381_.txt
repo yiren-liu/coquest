@@ -1,0 +1,12 @@
+corpus id: 145567148, 
+
+Title: Predictors of Internet Use
+
+Abstract: We examined audience uses o f the Internet from a uses-and-gratifications perspective. We expected contextual age, unwillingness to communicate, social presence, and Internet motives to predict outcomes of Internet exposure, affinity and satisfaction. The analyses identified five motives for using the Internet and multivariate links among the antecedents and motives. The results suggested distinctions between instrumental and ritualized Internet use, as well as Internet use serving as a functional alternative to face-to-face interaction.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Zizi Papacharissi, A. Rubin
+

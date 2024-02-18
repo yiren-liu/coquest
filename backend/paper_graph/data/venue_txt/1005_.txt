@@ -1,0 +1,12 @@
+corpus id: 144666468, 
+
+Title: Costs of a predictible switch between simple cognitive tasks.
+
+Abstract: In an investigation of task-set reconfiguration, participants switched between 2 tasks on every 2nd trial in 5 experiments and on every 4th trial in a final experiment. The tasks were to classify either the digit member of a pair of characters as even/odd or the letter member as consonant/vowel. As the response-stimulus interval increased up to 0.6 s, the substantial cost to performance of this predictable task-switch fell: Participants could partially reconfigure in advance of the stimulus. However, even with 1.2 s available for preparation, a large asymptotic reaction time (RT) cost remained, but only on the 1st trial of the new task. This is attributed to a component of reconfiguration triggered exogenously, i. e., only by a task-relevant stimulus. That stimuli evoke associated task-sets also explains why RT and switch costs increased when the stimulus included a character associated with the currently irrelevant task. © 1995 American Psychological Association.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Rogers, S. Monsell
+

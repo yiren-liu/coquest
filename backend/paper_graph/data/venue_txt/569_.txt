@@ -1,0 +1,12 @@
+corpus id: 145404241, 
+
+Title: Social Identity Complexity
+
+Abstract: In this article, we introduce the concept of social identity complexity—a new theoretical construct that refers to an individual's subjective representation of the interrelationships among his or her multiple group identities. Social identity complexity reflects the degree of overlap perceived to exist between groups of which a person is simultaneously a member When the overlap of multiple ingroups is perceived to be high, the individual maintains a relatively simplified identity structure whereby memberships in different groups converge to form a single ingroup identification. When a person acknowledges, and accepts, that memberships in multiple ingroups are not fully convergent or overlapping, the associated identity structure is both more inclusive and more complex. In this article, we define the concept of social identity complexity and discuss its possible antecedents and consequences. Results from initial studies support the prediction that social identity complexity is affected by stress and is related to personal value priorities and to tolerance of outgroup members.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: Sonia Roccas, M. Brewer
+

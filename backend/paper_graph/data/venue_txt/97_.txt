@@ -1,0 +1,12 @@
+corpus id: 9426884, 
+
+Title: The Hungarian method for the assignment problem
+
+Abstract: None
+
+TLDR: This paper has always been one of my favorite “children,” combining as it does elements of the duality of linear programming and combinatorial tools from graph theory.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: H. Kuhn
+

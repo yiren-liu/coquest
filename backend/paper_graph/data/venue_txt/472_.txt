@@ -1,0 +1,12 @@
+corpus id: 587699, 
+
+Title: Understanding predictive information criteria for Bayesian models
+
+Abstract: None
+
+TLDR: The Akaike, deviance, and Watanabe-Akaike information criteria are reviewed from a Bayesian perspective and it is better understood, through small examples, how these methods can apply in practice.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: A. Gelman, Jessica Hwang, Aki Vehtari
+

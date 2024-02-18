@@ -1,0 +1,12 @@
+corpus id: 149424304, 
+
+Title: Epistemic injustice
+
+Abstract: My aim in this article is to propose that an insightful way of articulating the feminist concept of epistemic injustice can be provided by paying significant attention to recognition theory. The article intends to provide an account for diagnosing epistemic injustice as a social pathology and also attempts to paint a picture of some social cure of structural forms of epistemic injustice. While there are many virtues to the literature on epistemic injustice, epistemic exclusion and silencing, current discourse on diagnosing as well as explicating and overcoming these social pathologies can be improved and enriched by bringing recognition theory into the conversation: under recognition theory, social normative standards are constructed out of the moral grammar of recognition attributions. I shall argue that the failure to properly recognize and afford somebody or a social group the epistemic respect they merit is an act of injustice in the sense of depriving individuals of a progressive social environment in which the epistemic respect afforded to them plays a significant role in enabling and fostering their self-confidence as rational enquirers. Testimonial injustice is particularly harrowing, because it robs a group or an individual of the status of a rational enquirer, thereby creating an asymmetrical cognitive environment in which that group or individual is not deemed one’s conversational peer. Hermeneutical injustice is particularly harrowing, because asymmetrical cognitive environments further entrench the normative power of ideology.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: P. Giladi
+

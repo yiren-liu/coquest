@@ -1,0 +1,12 @@
+corpus id: 10718909, 
+
+Title: Gene Ontology: tool for the unification of biology
+
+Abstract: None
+
+TLDR: The goal of the Gene Ontology Consortium is to produce a dynamic, controlled vocabulary that can be applied to all eukaryotes even as knowledge of gene and protein roles in cells is accumulating and changing.
+
+Fields of Study: ['Medicine', 'Biology']
+
+Authors: M. Ashburner, C. Ball, J. Blake, D. Botstein, Heather L. Butler, J. Cherry, A. P. Davis, K. Dolinski, S. Dwight, J. Eppig, M. Harris, D. Hill, L. Issel-Tarver, A. Kasarskis, S. Lewis, J. Matese, J. Richardson, M. Ringwald, G. Rubin, G. Sherlock
+

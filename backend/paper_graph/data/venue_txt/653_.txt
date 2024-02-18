@@ -1,0 +1,12 @@
+corpus id: 144761583, 
+
+Title: The relation between socioeconomic status and academic achievement.
+
+Abstract: Although it is widely believed that socioeconomic status (SES) is strongly correlated with measures of academic achievement, weak and moderate correlations are frequently reported. Using meta-analysis techniques, almost 200 studies that considered the relation between SES and academic achievement were examined. Results indicated that as SES is typically defined (income, education, and/or occupation of household heads) and typically used (individuals as the unit of analysis), SES is only weakly correlated (r = .22) with academic achievement, With aggregated units of analysis, typically obtained correlations between SES and academic achievement jump to .73. Family characteristics, such as home atmosphere, sometimes incorrectly referred to as SES, are substantially correlated with academic achievement when individuals are the unit of analysis (r = .55). Factors such as grade level at which the measurement was taken, type of academic achievement measure, type of SES measure, and the year in which the data were collected are significantly correlated statistically with the magnitude of the correlation between academic achievement and SES. Variables considered in the meta-analysis accounted for 75% of the variance in observed correlation coefficients in the studies examined.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: K. White
+

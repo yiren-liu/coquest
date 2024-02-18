@@ -1,0 +1,12 @@
+corpus id: 1049872, 
+
+Title: Domain-specific languages: an annotated bibliography
+
+Abstract: We survey the literature available on the topic of domain-specific languages as used for the construction and maintenance of software systems. We list a selection of 75 key publications in the area, and provide a summary for each of the papers. Moreover, we discuss terminology, risks and benefits, example domain-specific languages, design methodologies, and implementation techniques.
+
+TLDR: The literature available on the topic of domain-specific languages as used for the construction and maintenance of software systems is surveyed, and a selection of 75 key publications in the area is listed.
+
+Fields of Study: ['Computer Science']
+
+Authors: A. Deursen, P. Klint, Joost Visser
+

@@ -1,0 +1,12 @@
+corpus id: 11569603, 
+
+Title: Recommender Systems Handbook
+
+Abstract: None
+
+TLDR: This handbook illustrates how recommender systems can support the user in decision-making, planning and purchasing processes, and works for well known corporations such as Amazon, Google, Microsoft and AT&T.
+
+Fields of Study: ['Computer Science']
+
+Authors: Bracha Shapira
+

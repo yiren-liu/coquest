@@ -1,0 +1,12 @@
+corpus id: 31993898, 
+
+Title: Pattern Recognition and Machine Learning
+
+Abstract: the selection of symmetric factorial designs, that is, a design where all factors have the same number of levels. Chapter 3 focuses on selection of two-level factorial designs and discusses complementary design theory and related topics in the selection of designs. Chapter 4 covers the selection of three level designs followed by the general case of s-levels. Chapter 5 discusses estimation capacity, presenting the connections with complementary designs followed by the estimation capacity for two-level and s-level designs. Chapter 6 discusses and presents results for the construction of mixed-level designs. Giving many examples of the use of mixed two and four-level designs. The final unit of the book discusses designs where there are two-different groups of factors. Chapters 7 and 8 discuss factorial designs with restricted randomization. Focusing first on blocked designs for full factorials as well as blocked fractional factorial designs. Chapter 8 focuses on split-plot designs. The booked is concluded with a chapter on robust parameter designs. This book covers a broad range of topics for regular factorial designs and presents all of the material in very mathematical fashion. However, the authors do a wonderful job of keeping the statistical methodology at the forefront of the book and the mathematical detail is presented as the necessary tool to study these designs. The book will serve as a great text for an advanced graduate level course in design theory for students with the necessary mathematical background. The book will surely become an invaluable resource for researchers and graduate students doing research in the design of factorial experiments. In addition, practitioners will also find the book useful for the comprehensive collection of optimal designs presented at the end of many chapters. Overall, this is a very well written book and a necessary addition to the existing literature on the design of factorial experiments.
+
+TLDR: This book covers a broad range of topics for regular factorial designs and presents all of the material in very mathematical fashion and will surely become an invaluable resource for researchers and graduate students doing research in the design of factorial experiments.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: Radford M. Neal
+

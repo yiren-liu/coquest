@@ -1,0 +1,12 @@
+corpus id: 207228791, 
+
+Title: A Respecification and Extension of the DeLone and McLean Model of IS Success
+
+Abstract: DeLone and McLean's DeLone, W. H., E. R. McLean. 1992. Information systems success: The quest for the dependent variable. Inform. Systems Res.31 60--95. comprehensive review of different information system success measures concludes with a model of “temporal and causal” interdependencies between their six categories of IS Success. After working with this model for some years, it has become apparent that the inclusion of both variance and process interpretations in their model leads to so many potentially confusing meanings that the value of the model is diminished. Because of the confusion that this overloading of meanings can cause, this paper presents and justifies a respecified and slightly extended version of DeLone and McLean's model.
+
+TLDR: This paper presents and justifies a respecified and slightly extended version of DeLone and McLean's model of “temporal and causal” interdependencies between their six categories of IS Success.
+
+Fields of Study: ['Computer Science']
+
+Authors: Peter B. Seddon
+

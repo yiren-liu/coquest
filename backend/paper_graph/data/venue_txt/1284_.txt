@@ -1,0 +1,12 @@
+corpus id: 24451473, 
+
+Title: The Autism-Spectrum Quotient (AQ): Evidence from Asperger Syndrome/High-Functioning Autism, Malesand Females, Scientists and Mathematicians
+
+Abstract: None
+
+TLDR: The Autism-Spectrum Quotient is a valuable instrument for rapidly quantifying where any given individual is situated on the continuum from autism to normality, and its potential for screening for autism spectrum conditions in adults of normal intelligence remains to be fully explored.
+
+Fields of Study: ['Medicine', 'Psychology']
+
+Authors: S. Baron-Cohen, S. Wheelwright, Richard Skinner, J. Martin, E. Clubley
+

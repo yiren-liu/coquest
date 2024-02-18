@@ -1,0 +1,12 @@
+corpus id: 16416502, 
+
+Title: STRUCTURAL EQUATION MODELING IN PRACTICE: A REVIEW AND RECOMMENDED TWO-STEP APPROACH
+
+Abstract: In this article, we provide guidance for substantive researchers on the use of structural equation modeling in practice for theory testing and development. We present a comprehensive, two-step modeling approach that employs a series of nested models and sequential chi-square difference tests. We discuss the comparative advantages of this approach over a one-step approach. Considerations in specification, assessment of fit, and respecification of measurement models using confirmatory factor analysis are reviewed. As background to the two-step approach, the distinction between exploratory and confirmatory analysis, the distinction between complementary approaches for theory testing versus predictive application, and some developments in estimation methods also are discussed.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: James C. Anderson, D. Gerbing
+

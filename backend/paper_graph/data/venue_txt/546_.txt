@@ -1,0 +1,12 @@
+corpus id: 126350979, 
+
+Title: A Note on the Multiplying Factors for Various χ2 Approximations
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: M. Bartlett
+

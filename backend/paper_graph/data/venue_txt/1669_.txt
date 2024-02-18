@@ -1,0 +1,12 @@
+corpus id: 5548799, 
+
+Title: Finite-State Transducers in Language and Speech Processing
+
+Abstract: Finite-machines have been used in various domains of natural language processing. We consider here the use of a type of transducer that supports very efficient programs: sequential transducers. We recall classical theorems and give new ones characterizing sequential string-to-string transducers. Transducers that outpur weights also play an important role in language and speech processing. We give a specific study of string-to-weight transducers, including algorithms for determinizing and minizizing these transducers very efficiently, and characterizations of the transducers admitting determinization and the corresponding algorithms. Some applications of these algorithms in speech recognition are described and illustrated.
+
+TLDR: This work recalls classical theorems and gives new ones characterizing sequential string-to-string transducers, including algorithms for determinizing and minizizing these transducers very efficiently, and characterizations of the transducers admitting determinization and the corresponding algorithms.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Mohri
+

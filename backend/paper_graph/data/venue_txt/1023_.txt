@@ -1,0 +1,12 @@
+corpus id: 15407990, 
+
+Title: Technology Acceptance Model 3 and a Research Agenda on Interventions
+
+Abstract: Prior research has provided valuable insights into how and why employees make a decision about the adoption and use of information technologies (ITs) in the workplace. From an organizational point of view, however, the more important issue is how managers make informed decisions about interventions that can lead to greater acceptance and effective utilization of IT. There is limited research in the IT implementation literature that deals with the role of interventions to aid such managerial decision making. Particularly, there is a need to understand how various interventions can influence the known determinants of IT adoption and use. To address this gap in the literature, we draw from the vast body of research on the technology acceptance model (TAM), particularly the work on the determinants of perceived usefulness and perceived ease of use, and: (i) develop a comprehensive nomological network (integrated model) of the determinants of individual level (IT) adoption and use; (ii) empirically test the proposed integrated model; and (iii) present a research agenda focused on potential pre- and postimplementation interventions that can enhance employees' adoption and use of IT. Our findings and research agenda have important implications for managerial decision making on IT implementation in organizations.
+
+TLDR: This work draws from the vast body of research on the technology acceptance model (TAM) to develop a comprehensive nomological network of the determinants of individual level IT adoption and use and present a research agenda focused on potential pre- and postimplementation interventions that can enhance employees' adopted and use of IT.
+
+Fields of Study: ['Computer Science', 'Business']
+
+Authors: V. Venkatesh, Hillol Bala
+

@@ -1,0 +1,12 @@
+corpus id: 9528522, 
+
+Title: The Netflix Prize
+
+Abstract: Netflix released a dataset containing 100 million anonymous movie ratings and challenged the data mining, machine learning and computer science communities to develop systems that could beat the accuracy of its recommendation system, Cinematch. We briefly describe the challenge itself, review related work and efforts, and summarize visible progress to date. Other potential uses of the data are outlined, including its application to the KDD Cup 2007.
+
+TLDR: Netflix released a dataset containing 100 million anonymous movie ratings and challenged the data mining, machine learning and computer science communities to develop systems that could beat the accuracy of its recommendation system, Cinematch.
+
+Fields of Study: ['Engineering']
+
+Authors: J. Bennett, S. Lanning
+

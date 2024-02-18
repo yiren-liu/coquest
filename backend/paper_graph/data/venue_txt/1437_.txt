@@ -1,0 +1,12 @@
+corpus id: 21028777, 
+
+Title: Why Don't Men Ever Stop to Ask for Directions? Gender, Social Influence, and Their Role in Technology Acceptance and Usage Behavior
+
+Abstract: Using the Technology Acceptance Model (TAM), this research investigated gender differences in the overlooked context of individual adoption and sustained usage of technology in the workplace. User reactions and technology usage behavior were studied over a five-month period among 342 workers being introduced to a new software system. At all three points of measurement, compared to women, men's technology usage deci
+
+TLDR: Using the Technology Acceptance Model (TAM), gender differences in the overlooked context of individual adoption and sustained usage of technology in the workplace are investigated.
+
+Fields of Study: ['Computer Science']
+
+Authors: V. Venkatesh, Michael G. Morris
+

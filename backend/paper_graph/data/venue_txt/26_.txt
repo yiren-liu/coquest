@@ -1,0 +1,12 @@
+corpus id: 791733, 
+
+Title: Recent Advances in Augmented Reality
+
+Abstract: In 1997, Azuma published a survey on augmented reality (AR). Our goal is to complement, rather than replace, the original survey by presenting representative examples of the new advances. We refer one to the original survey for descriptions of potential applications (such as medical visualization, maintenance and repair of complex equipment, annotation, and path planning); summaries of AR system characteristics (such as the advantages and disadvantages of optical and video approaches to blending virtual and real, problems in display focus and contrast, and system portability); and an introduction to the crucial problem of registration, including sources of registration error and error-reduction strategies.
+
+TLDR: This work refers one to the original survey for descriptions of potential applications, summaries of AR system characteristics, and an introduction to the crucial problem of registration, including sources of registration error and error-reduction strategies.
+
+Fields of Study: ['Computer Science']
+
+Authors: Ronald T. Azuma, Y. Baillot, R. Behringer, Steven K. Feiner, S. Julier, B. MacIntyre
+

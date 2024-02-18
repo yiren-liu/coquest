@@ -1,0 +1,12 @@
+corpus id: 145613393, 
+
+Title: A Critical Assessment of Charismatic—Transformational Leadership Research: Back to the Drawing Board?
+
+Abstract: There is a widely shared consensus that charismatic–transformational leadership is a particularly effective form of leadership. In a critical assessment of the state-of-the-science in this area of research, we question the validity of that conclusion. We identify four problems with theory and research in charismatic–transformational leadership. First, a clear conceptual definition of charismatic–transformational leadership is lacking. Current theories advance multi-dimensional conceptualizations of charismatic–transformational leadership without specifying how these different dimensions combine to form charismatic–transformational leadership, or how dimensions are selected for inclusion or exclusion. Second, theories fail to sufficiently specify the causal model capturing how each dimension has a distinct influence on mediating processes and outcomes and how this is contingent on moderating influences. Third, conceptualization and operationalization confounds charismatic–transformational leadership with i...
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: D. Knippenberg, S. Sitkin
+

@@ -1,0 +1,12 @@
+corpus id: 14552983, 
+
+Title: Probabilistic robotics
+
+Abstract: Planning and navigation algorithms exploit statistics gleaned from uncertain, imperfect real-world environments to guide robots toward their goals and around obstacles.
+
+TLDR: This research presents a novel approach to planning and navigation algorithms that exploit statistics gleaned from uncertain, imperfect real-world environments to guide robots toward their goals and around obstacles.
+
+Fields of Study: ['Computer Science']
+
+Authors: S. Thrun
+

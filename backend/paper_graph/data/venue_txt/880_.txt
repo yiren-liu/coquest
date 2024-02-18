@@ -1,0 +1,12 @@
+corpus id: 59656859, 
+
+Title: PDDL-the planning domain definition language
+
+Abstract: This manual describes the syntax of PDDL, the Planning Domain Definition Language, the problem-specification language for the AIPS-98 planning competition. The language has roughly the the expressiveness of Pednault’s ADL [10] for propositions, and roughly the expressiveness of UMCP [6] for actions. Our hope is to encourage empirical evaluation of planner performance, and development of standard sets of problems all in comparable notations.
+
+TLDR: This manual describes the syntax of PDDL, the Planning Domain Definition Language, the problem-specification language for the AIPS-98 planning competition, and hopes to encourage empirical evaluation of planner performance, and development of standard sets of problems all in comparable notations.
+
+Fields of Study: ['Computer Science']
+
+Authors: D. McDermott, M. Ghallab, A. Howe, Craig A. Knoblock, A. Ram, M. Veloso, Daniel S. Weld, D. Wilkins
+

@@ -1,0 +1,12 @@
+corpus id: 142695129, 
+
+Title: Critical Race Theory: An Introduction
+
+Abstract: This best-selling primer explains the movement's organizational history, major themes, central figures, and likely future. The second edition contains material on new developments that have taken place since the first edition, including the rapid growth in the Latino population, nativism against that group, the election of the nation's first black president, and the advent of right-wing populism.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: R. Delgado, Jean Stefancic
+

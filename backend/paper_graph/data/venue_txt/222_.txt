@@ -1,0 +1,12 @@
+corpus id: 14591930, 
+
+Title: A continuous measure of phasic electrodermal activity
+
+Abstract: None
+
+TLDR: A deconvolution approach is proposed, which separates SC data into continuous signals of tonic and phasic activity, which shows a zero baseline, and overlapping SCRs are represented by predominantly distinct, compact impulses showing an average duration of less than 2 s.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: M. Benedek, C. Kaernbach
+

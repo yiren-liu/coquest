@@ -1,0 +1,12 @@
+corpus id: 62683118, 
+
+Title: Practical statistics for medical research
+
+Abstract: Most medical researchers, whether clinical or non-clinical, receive some background in statistics as undergraduates. However, it is most often brief, a long time ago, and largely forgotten by the time it is needed. Furthermore, many introductory texts fall short of adequately explaining the underlying concepts of statistics, and often are divorced from the reality of conducting and assessing medical research.  Practical Statistics for Medical Research is a problem-based text for medical researchers, medical students, and others in the medical arena who need to use statistics but have no specialized mathematics background.  The author draws on twenty years of experience as a consulting medical statistician to provide clear explanations to key statistical concepts, with a firm emphasis on practical aspects of designing and analyzing medical research. The text gives special attention to the presentation and interpretation of results and the many real problems that arise in medical research
+
+TLDR: Practical Statistics for Medical Research is a problem-based text for medical researchers, medical students, and others in the medical arena who need to use statistics but have no specialized mathematics background.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: D. Altman
+

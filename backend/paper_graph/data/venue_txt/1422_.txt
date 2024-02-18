@@ -1,0 +1,12 @@
+corpus id: 122794245, 
+
+Title: Better Bootstrap Confidence Intervals
+
+Abstract: Abstract We consider the problem of setting approximate confidence intervals for a single parameter θ in a multiparameter family. The standard approximate intervals based on maximum likelihood theory, , can be quite misleading. In practice, tricks based on transformations, bias corrections, and so forth, are often used to improve their accuracy. The bootstrap confidence intervals discussed in this article automatically incorporate such tricks without requiring the statistician to think them through for each new application, at the price of a considerable increase in computational effort. The new intervals incorporate an improvement over previously suggested methods, which results in second-order correctness in a wide variety of problems. In addition to parametric families, bootstrap intervals are also developed for nonparametric situations.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: B. Efron
+

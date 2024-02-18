@@ -1,0 +1,12 @@
+corpus id: 143333487, 
+
+Title: An approach to environmental psychology
+
+Abstract: Environmental psychology, though a fast-growing field, is one of the most difficult to fit into the confines of scientific inquiry. Measuring such subjective data as reactions to color, heat, light, and sound would seem to be an almost impossible task; indeed, until now there has been no theory around which the research in this field could be organized. This volume represents a preliminary effort to identify the relevant variables involved and fit them into a systematic framework. Furthermore, it presents extensive sets of measures for investigating the theory and implementing it in a variety of everyday environments.Basically, the framework outlined here proposes that environmental stimuli are linked to behavioral responses by the primary emotional responses of arousal, pleasure, and dominance. By considering the impact of the environment on these basic emotional responses, the effects of diverse stimulus components within or across sense modalities can be readily compared. An additional concept, information rate, is used to compare the effects of different environments, each with stimulation in many sense modalities. In the final chapters the authors present a series of hypotheses which relate the emotional response variables to a diversity of behaviors such as physical approach, performance, affiliation, and verbally or nonverbally expressed preference.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: A. Mehrabian, J. Russell
+

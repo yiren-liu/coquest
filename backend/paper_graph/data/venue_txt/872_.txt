@@ -1,0 +1,12 @@
+corpus id: 9334387, 
+
+Title: Image quilting for texture synthesis and transfer
+
+Abstract: We present a simple image-based method of generating novel visual appearance in which a new image is synthesized by stitching together small patches of existing images. We call this process image quilting. First, we use quilting as a fast and very simple texture synthesis algorithm which produces surprisingly good results for a wide range of textures. Second, we extend the algorithm to perform texture transfer — rendering an object with a texture taken from a different object. More generally, we demonstrate how an image can be re-rendered in the style of a different image. The method works directly on the images and does not require 3D information.
+
+TLDR: This work uses quilting as a fast and very simple texture synthesis algorithm which produces surprisingly good results for a wide range of textures and extends the algorithm to perform texture transfer — rendering an object with a texture taken from a different object.
+
+Fields of Study: ['Computer Science']
+
+Authors: Alexei A. Efros, W. Freeman
+

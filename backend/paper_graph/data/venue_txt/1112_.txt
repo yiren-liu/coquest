@@ -1,0 +1,12 @@
+corpus id: 121245380, 
+
+Title: Advances in Record-Linkage Methodology as Applied to Matching the 1985 Census of Tampa, Florida
+
+Abstract: Abstract A test census of Tampa, Florida and an independent postenumeration survey (PES) were conducted by the U.S. Census Bureau in 1985. The PES was a stratified block sample with heavy emphasis placed on hard-to-count population groups. Matching the individuals in the census to the individuals in the PES is an important aspect of census coverage evaluation and consequently a very important process for any census adjustment operations that might be planned. For such an adjustment to be feasible, record-linkage software had to be developed that could perform matches with a high degree of accuracy and that was based on an underlying mathematical theory. A principal purpose of the PES was to provide an opportunity to evaluate the newly implemented record-linkage system and associated methodology. This article discusses the theoretical and practical issues encountered in conducting the matching operation and presents the results of that operation. A review of the theoretical background of the record-linkage...
+
+TLDR: The theoretical and practical issues encountered in conducting the matching operation and the results of that operation are discussed.
+
+Fields of Study: ['Computer Science']
+
+Authors: M. Jaro
+

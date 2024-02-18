@@ -1,0 +1,12 @@
+corpus id: 62091749, 
+
+Title: Modeling Strategic Relationships for Process Reengineering
+
+Abstract: Existing models for describing a process (such as a business process or a software development process) tend to focus on the "what" or the "how" of the process. For example, a health insurance claim process would typically be described in terms of a number of steps for assessing and approving a claim. In trying to improve or redesign a process, however, one also needs to have an understanding of the "why"--for example, why do physicians submit treatment plans to insurance companies before giving treatment? and why do claims managers seek medical opinions when assessing treatment plans? An understanding of the motivations and interests of process participants is often crucial to the successful redesign of processes. This thesis proposes a modelling framework i* (pronounced i-star) consisting of two modelling components. The Strategic Dependency (SD) model describes a process in terms of intentional dependency relationships among agents. Agents depended on each other for goals to be achieved, tasks to be performed, and resources to be furnished. Agents are intentional in that they have desires and wants, and strategic in that they are concerned about opportunities and vulnerabilities. The Strategic Rationale (SR) model describes the issues and concerns that agents have about existing processes and proposed alternatives, and how they might be addressed, in terms of a network of means-ends relationships. An agent's routines for carrying out a process can be analyzed for their ability, workability, viability and believability. Means-ends rules are used to suggest methods for addressing issues, related issues to be raised, and assumptions to be challenged. The models are represented in the conceptual modelling language Telos. The modelling concepts are axiomatically characterized. The utility of the framework is illustrated each of four application areas: requirements engineering, business process reengineering, organizational impacts analysis, and software process modelling. Advantage of i* over existing modelling techniques in each of these areas are described.
+
+TLDR: This thesis proposes a modelling framework i* (pronounced i-star) consisting of two modelling components: the Strategic Dependency (SD) model and the Strategic Rationale (SR) model, which describes a process in terms of intentional dependency relationships among agents.
+
+Fields of Study: ['Computer Science']
+
+Authors: E. Yu
+

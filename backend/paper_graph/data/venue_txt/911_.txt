@@ -1,0 +1,12 @@
+corpus id: 144328559, 
+
+Title: Internet Paradox Revisited
+
+Abstract: Kraut et al. (1998) reported negative effects of using the Internet on social involvement and psychological well-being among new Internet users in 1995–96. We called the effects a “paradox” because participants used the Internet heavily for communication, which generally has positive effects. A 3-year follow-up of 208 of these respondents found that negative effects dissipated. We also report findings from a longitudinal survey in 1998–99 of 406 new computer and television purchasers. This sample generally experienced positive effects of using the Internet on communication, social involvement, and well-being. However, consistent with a “rich get richer” model, using the Internet predicted better outcomes for extraverts and those with more social support but worse outcomes for introverts and those with less support.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Kraut, S. Kiesler, B. Boneva, Jonathon N. Cummings, V. Helgeson, A. M. Crawford
+

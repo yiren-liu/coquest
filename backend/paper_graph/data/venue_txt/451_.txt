@@ -1,0 +1,12 @@
+corpus id: 11940919, 
+
+Title: The Benefits of Facebook "Friends: " Social Capital and College Students' Use of Online Social Network Sites
+
+Abstract: This study examines the relationship between use of Facebook, a popular online social network site, and the formation and maintenance of social capital. In addition to assessing bonding and bridging social capital, we explore a dimension of social capital that assesses one’s ability to stay connected with members of a previously inhabited community, which we call maintained social capital. Regression analyses conducted on results from a survey of undergraduate students (N = 286) suggest a strong association between use of Facebook and the three types of social capital, with the strongest relationship being to bridging social capital. In addition, Facebook usage was found to interact with measures of psychological well-being, suggesting that it might provide greater benefits for users experiencing low self-esteem and low life satisfaction.
+
+TLDR: Facebook usage was found to interact with measures of psychological well-being, suggesting that it might provide greater benefits for users experiencing low self-esteem and low life satisfaction.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: N. Ellison, C. Steinfield, Cliff Lampe
+

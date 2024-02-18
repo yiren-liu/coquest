@@ -1,0 +1,12 @@
+corpus id: 12694148, 
+
+Title: Social loafing: A meta-analytic review and theoretical integration.
+
+Abstract: Social loafing is the tendency for individuals to expend less effort when working collectively than when working individually. A meta-analysis of 78 studies demonstrates that social loafing is robust and generalizes across tasks and S populations. A large number of variables were found to moderate social loafing. Evaluation potential, expectations of co-worker performance, task meaningfulness, and culture had especially strong influence. These findings are interpreted in the light of a Collective Effort Model that integrates elements of expectancy-value, social identity, and self-validation theories. Many of life's most important tasks can only be accomplished in groups, and many group tasks are collective tasks that require the pooling of individual members' inputs. Government task forces, sports teams, organizational committees, symphony orchestras, juries, and quality control teams provide but a few examples of groups that combine individual efforts to form a single product. Because collective work settings are so pervasive and indispensable, it is important to determine which factors motivate and demotivate individuals within these collective contexts. Intuition might lead to the conclusion that working with others should inspire individuals to maximize their potential and work especially hard. Research on social loafing, however, has revealed that individuals frequently exert less effort on collective tasks than on individual tasks. Formally, social loafing is the reduction in motivation and effort when individuals work collectively compared with when they work individually or coactively. When working collectively, individuals work in the real or imagined presence of others with whom they combine their inputs to form a single group product. When working coactively, individuals work in the real or imagined presence of others, but their inputs are not combined with the inputs of others. Determining the conditions under which individuals do or do not engage in social loafing is a problem of both theoretical and practical importance. At a practical level, the identification of moderating variables may
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: S. Karau, K. Williams
+

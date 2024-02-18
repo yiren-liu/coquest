@@ -1,0 +1,12 @@
+corpus id: 59868493, 
+
+Title: Agents that reduce work and information overload
+
+Abstract: Publisher Summary Computers are becoming the vehicle for an increasing range of everyday activities. Acquisition of news and information, mail and even social interactions and entertainment have become more and more computer based. These technological developments are not in line with a change in the way people interact with computers. Techniques from the field of AI, in particular so-called autonomous agents, can be used to implement a complementary style of interaction, which has been referred to as indirect management. Agents assist users in a range of different ways. They hide the complexity of difficult tasks, they perform tasks on the user's behalf, they can train or teach the user, they help different users collaborate, and they monitor events and procedures. The chapter focuses on an approach to building interface agents. It presents results from several prototype agents that have been built using this approach, including agents that provide personalized assistance with meeting scheduling, email handling, electronic news filtering, and selection of entertainment.
+
+TLDR: Results from several prototype agents that have been built using an approach to building interface agents are presented, including agents that provide personalized assistance with meeting scheduling, email handling, electronic news filtering, and selection of entertainment.
+
+Fields of Study: ['Computer Science']
+
+Authors: P. Maes
+

@@ -1,0 +1,12 @@
+corpus id: 16489508, 
+
+Title: In the Eye of the Beholder: A Survey of Models for Eyes and Gaze
+
+Abstract: Despite active research and significant progress in the last 30 years, eye detection and tracking remains challenging due to the individuality of eyes, occlusion, variability in scale, location, and light conditions. Data on eye location and details of eye movements have numerous applications and are essential in face detection, biometric identification, and particular human-computer interaction tasks. This paper reviews current progress and state of the art in video-based eye detection and tracking in order to identify promising techniques as well as issues to be further addressed. We present a detailed review of recent eye models and techniques for eye detection and tracking. We also survey methods for gaze estimation and compare them based on their geometric properties and reported accuracies. This review shows that, despite their apparent simplicity, the development of a general eye detection technique involves addressing many challenges, requires further theoretical developments, and is consequently of interest to many other domains problems in computer vision and beyond.
+
+TLDR: This review shows that, despite their apparent simplicity, the development of a general eye detection technique involves addressing many challenges, requires further theoretical developments, and is consequently of interest to many other domains problems in computer vision and beyond.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: D. Hansen, Q. Ji
+

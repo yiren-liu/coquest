@@ -1,0 +1,12 @@
+corpus id: 145444205, 
+
+Title: Proactive Behavior in Organizations
+
+Abstract: Many practitioner-oriented publications argue that managers should be more proactive on the job, and that proactive behavior is an increasingly important component of job performance. Organizational research on the antecedents and consequences of proactive behavior has appeared in several different literatures and has taken different approaches toward defining, measuring, and understanding proactivity. In this article, I review a diverse set of literatures that directly address proactive behavior in organizational contexts. I describe four constructs related to proactive behavior: proactive personality, personal initiative, role breadth self-efficacy, and taking charge. Next, I review six research domains that have explicitly addressed proactive behaviors: socialization, feedback seeking, issue selling, innovation, career management, and certain kinds of stress management. After considering findings from these research streams, I offer an analysis of the different approaches to the study of proactive behavior and provide a set of suggestions for future research.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: J. Crant
+

@@ -1,0 +1,12 @@
+corpus id: 14835931, 
+
+Title: Interactive-engagement versus traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses
+
+Abstract: A survey of pre/post-test data using the Halloun–Hestenes Mechanics Diagnostic test or more recent Force Concept Inventory is reported for 62 introductory physics courses enrolling a total number of students N=6542. A consistent analysis over diverse student populations in high schools, colleges, and universities is obtained if a rough measure of the average effectiveness of a course in promoting conceptual understanding is taken to be the average normalized gain 〈g〉. The latter is defined as the ratio of the actual average gain (%〈post〉−%〈pre〉) to the maximum possible average gain (100−%〈pre〉). Fourteen “traditional” (T) courses (N=2084) which made little or no use of interactive-engagement (IE) methods achieved an average gain 〈g〉T-ave=0.23±0.04 (std dev). In sharp contrast, 48 courses (N=4458) which made substantial use of IE methods achieved an average gain 〈g〉IE-ave=0.48±0.14 (std dev), almost two standard deviations of 〈g〉IE-ave above that of the traditional courses. Results for 30 (N=3259) of the a...
+
+TLDR: 
+
+Fields of Study: ['Physics']
+
+Authors: R. Hake
+

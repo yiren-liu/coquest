@@ -1,0 +1,12 @@
+corpus id: 25948530, 
+
+Title: Psychometric properties of the Intrinsic Motivation Inventory in a competitive sport setting: a confirmatory factor analysis.
+
+Abstract: The present study was designed to assess selected psychometric properties of the Intrinsic Motivation Inventory (IMI) (Ryan, 1982), a multidimensional measure of subjects' experience with regard to experimental tasks. Subjects (N = 116) competed in a basketball free-throw shooting game, following which they completed the IMI. The LISREL VI computer program was employed to conduct a confirmatory factor analysis to assess the tenability of a five factor hierarchical model representing four first-order factors or dimensions and a second-order general factor representing intrinsic motivation. Indices of model acceptability tentatively suggest that the sport data adequately fit the hypothesized five factor hierarchical model. Alternative models were tested but did not result in significant improvements in the goodness-of-fit indices, suggesting the proposed model to be the most accurate of the models tested. Coefficient alphas for the four dimensions and the overall scale indicated adequate reliability. The results are discussed with regard to the importance of accurate assessment of psychological constructs and the use of linear structural equations in confirming the factor structures of measures.
+
+TLDR: Indices of model acceptability tentatively suggest that the sport data adequately fit the hypothesized five factor hierarchical model, and coefficient alphas for the four dimensions and the overall scale indicated adequate reliability.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: E. McAuley, Terry E. Duncan, V. V. Tammen
+

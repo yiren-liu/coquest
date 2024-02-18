@@ -1,0 +1,12 @@
+corpus id: 35055970, 
+
+Title: Computing and Applying Trust in Web-based Social Networks
+
+Abstract: The proliferation of web-based social networks has lead to new innovations in social networking, particularly by allowing users to describe their relationships beyond a basic connection. In this dissertation, I look specifically at trust in web-based social networks, how it can be computed, and how it can be used in applications. I begin with a definition of trust and a description of several properties that affect how it is used in algorithms. This is complemented by a survey of web-based social networks to gain an understanding of their scope, the types of relationship information available, and the current state of trust. The computational problem of trust is to determine how much one person in the network should trust another person to whom they are not connected. I present two sets of algorithms for calculating these trust inferences: one for networks with binary trust ratings, and one for continuous ratings. For each rating scheme, the algorithms are built upon the defined notions of trust. Each is then analyzed theoretically and with respect to simulated and actual trust networks to determine how accurately they calculate the opinions of people in the system. I show that in both rating schemes the algorithms presented can be expected to be quite accurate. These calculations are then put to use in two applications. FilmTrust is a website that combines trust, social networks, and movie ratings and reviews. Trust is used to personalize the website for each user, displaying recommended movie ratings, and ordering reviews by relevance. I show that, in the case where the user's opinion is divergent from the average, the trust-based recommended ratings are more accurate than several other common collaborative filtering techniques. The second application is TrustMail, an email client that uses the trust rating of each sender as a score for the message. Users can then sort messages according to their trust value. I conclude with a description of other applications where trust inferences can be used, and how the lessons from this dissertation can be applied to infer information about relationships in other complex systems.
+
+TLDR: It is shown that, in the case where the user's opinion is divergent from the average, the trust-based recommended ratings are more accurate than several other common collaborative filtering techniques.
+
+Fields of Study: ['Computer Science']
+
+Authors: J. Golbeck
+

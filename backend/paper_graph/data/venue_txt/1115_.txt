@@ -1,0 +1,12 @@
+corpus id: 34347569, 
+
+Title: Digital processing of speech signals
+
+Abstract: None
+
+TLDR: This paper presents a meta-modelling framework for digital Speech Processing for Man-Machine Communication by Voice that automates the very labor-intensive and therefore time-heavy and expensive process of encoding and decoding speech.
+
+Fields of Study: ['Computer Science', 'Mathematics']
+
+Authors: M. Bellanger
+

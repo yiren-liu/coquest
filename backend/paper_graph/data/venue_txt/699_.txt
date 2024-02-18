@@ -1,0 +1,12 @@
+corpus id: 19909625, 
+
+Title: At the Heart of It All: The Concept of Presence
+
+Abstract: A number of emerging technologies including virtual reality, simulation rides, video conferencing, home theater, and high definition television are designed to provide media users with an illusion that a mediated experience is not mediated, a perception defined here as presence. Traditional media such as the telephone, radio, television, film, and many others offer a lesser degree of presence as well. This article examines the key concept of presence. It begins by noting practical and theoretical reasons for studying this concept. Six conceptualizations of presence found in a diverse set of literatures are identified and a detailed explication of the concept that incorporates these conceptualizations is presented. Existing research and speculation about the factors that encourage or discourage a sense of presence in media users as well as the physiological and psychological effects of presence are then outlined. Finally, suggestions concerning future systematic research about presence are presented.
+
+TLDR: A number of emerging technologies including virtual reality, simulation rides, video conferencing, home theater, and high definition television are designed to provide media users with an illusion that a mediated experience is not mediated, a perception defined here as presence.
+
+Fields of Study: ['Psychology', 'Computer Science']
+
+Authors: M. Lombard, T. Ditton
+

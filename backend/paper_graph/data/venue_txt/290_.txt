@@ -1,0 +1,12 @@
+corpus id: 17002902, 
+
+Title: Membership Size, Communication Activity, and Sustainability: A Resource-Based Model of Online Social Structures
+
+Abstract: As telecommunication networks become more common, there is an increasing interest in the factors underlying the development of online social structures. It has been proposed that these structures are new forms of organizing which are not subject to the same constraints as traditional social structures. However, from anecdotal evidence and case studies it is difficult to evaluate whether online social structures are subject to the same problems as traditional social structures. Drawing from prior studies of traditional social structures and empirical analyses of longitudinal data from a sample of Internet-based groups, this exploratory work considers the role of size and communication activity in sustainable online social structures.A resource-based theory of sustainable social structures is presented. Members contribute time, energy, and other resources, enabling a social structure to provide benefits for individuals. These benefits, which include information, influence, and social support, are the basis for a social structure's ability to attract and retain members. This model focuses on the system of opposing forces that link membership size as a component of resource availability and communication activity as an aspect of benefit provision to the sustainability of an online social structure. Analyses of data from a random sample of e-mail-based Internet social structures (listservs) indicate that communication activity and size have both positive and negative effects on a structure's sustainability. These results suggest that while the use of networked communication technologies may alter the form of communication, balancing the opposing impacts of membership size and communication activity in order to maintain resource availability and provide benefits for current members remains a fundamental problem underlying the development of sustainable online social structures.
+
+TLDR: The results suggest that while the use of networked communication technologies may alter the form of communication, balancing the opposing impacts of membership size and communication activity in order to maintain resource availability and provide benefits for current members remains a fundamental problem underlying the development of sustainable online social structures.
+
+Fields of Study: ['Business', 'Computer Science']
+
+Authors: B. Butler
+

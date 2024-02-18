@@ -1,0 +1,12 @@
+corpus id: 5258236, 
+
+Title: Object recognition from local scale-invariant features
+
+Abstract: An object recognition system has been developed that uses a new class of local image features. The features are invariant to image scaling, translation, and rotation, and partially invariant to illumination changes and affine or 3D projection. These features share similar properties with neurons in inferior temporal cortex that are used for object recognition in primate vision. Features are efficiently detected through a staged filtering approach that identifies stable points in scale space. Image keys are created that allow for local geometric deformations by representing blurred image gradients in multiple orientation planes and at multiple scales. The keys are used as input to a nearest neighbor indexing method that identifies candidate object matches. Final verification of each match is achieved by finding a low residual least squares solution for the unknown model parameters. Experimental results show that robust object recognition can be achieved in cluttered partially occluded images with a computation time of under 2 seconds.
+
+TLDR: Experimental results show that robust object recognition can be achieved in cluttered partially occluded images with a computation time of under 2 seconds.
+
+Fields of Study: ['Mathematics', 'Computer Science']
+
+Authors: D. Lowe
+

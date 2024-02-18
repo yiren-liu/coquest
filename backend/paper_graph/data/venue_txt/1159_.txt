@@ -1,0 +1,12 @@
+corpus id: 5583167, 
+
+Title: Introduction to Probability
+
+Abstract: The articles [8], [9], [4], [7], [6], [2], [5], [1], and [3] provide the notation and terminology for this paper. For simplicity, we adopt the following convention: E denotes a non empty set, a denotes an element ofE, A, B denote subsets of E, Y denotes a set, and p denotes a finite sequence. Let E be a non empty set. Observe that there exists a subset of E which is non empty and trivial. Let us consider E. An elementary event of E is a non empty trivial subset of E. Next we state the proposition
+
+TLDR: 
+
+Fields of Study: None
+
+Authors: Charles M. Grinstead, J. Snell
+

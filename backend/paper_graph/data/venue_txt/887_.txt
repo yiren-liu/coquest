@@ -1,0 +1,12 @@
+corpus id: 182656421, 
+
+Title: Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead
+
+Abstract: None
+
+TLDR: This Perspective clarifies the chasm between explaining black boxes and using inherently interpretable models, outlines several key reasons why explainable black boxes should be avoided in high-stakes decisions, identifies challenges to interpretable machine learning, and provides several example applications whereinterpretable models could potentially replace black box models in criminal justice, healthcare and computer vision.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: C. Rudin
+

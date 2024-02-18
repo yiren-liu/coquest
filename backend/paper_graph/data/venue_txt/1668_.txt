@@ -1,0 +1,12 @@
+corpus id: 3039510, 
+
+Title: Crafting Normative Messages to Protect the Environment
+
+Abstract: It is widely recognized that communications that activate social norms can be effective in producing societally beneficial conduct. Not so well recognized are the circumstances under which normative information can backfire to produce the opposite of what a communicator intends. There is an understandable, but misguided, tendency to try to mobilize action against a problem by depicting it as regrettably frequent. Information campaigns emphasize that alcohol and drug use is intolerably high, that adolescent suicide rates are alarming, and—most relevant to this article—that rampant polluters are spoiling the environment. Although these claims may be both true and well intentioned, the campaigns' creators have missed something critically important: Within the statement “Many people are doing this undesirable thing” lurks the powerful and undercutting normative message “Many people are doing this.” Only by aligning descriptive norms (what people typically do) with injunctive norms (what people typically approve or disapprove) can one optimize the power of normative appeals. Communicators who fail to recognize the distinction between these two types of norms imperil their persuasive efforts.
+
+TLDR: 
+
+Fields of Study: ['Psychology']
+
+Authors: R. Cialdini
+

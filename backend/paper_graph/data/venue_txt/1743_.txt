@@ -1,0 +1,12 @@
+corpus id: 9270553, 
+
+Title: Brain-computer interface technology: a review of the first international meeting.
+
+Abstract: Over the past decade, many laboratories have begun to explore brain-computer interface (BCI) technology as a radically new communication option for those with neuromuscular impairments that prevent them from using conventional augmentative communication methods. BCI's provide these users with communication channels that do not depend on peripheral nerves and muscles. This article summarizes the first international meeting devoted to BCI research and development. Current BCI's use electroencephalographic (EEG) activity recorded at the scalp or single-unit activity recorded from within cortex to control cursor movement, select letters or icons, or operate a neuroprosthesis. The central element in each BCI is a translation algorithm that converts electrophysiological input from the user into output that controls external devices. BCI operation depends on effective interaction between two adaptive controllers, the user who encodes his or her commands in the electrophysiological input provided to the BCI, and the BCI which recognizes the commands contained in the input and expresses them in device control. Current BCI's have maximum information transfer rates of 5-25 b/min. Achievement of greater speed and accuracy depends on improvements in signal processing, translation algorithms, and user training. These improvements depend on increased interdisciplinary cooperation between neuroscientists, engineers, computer programmers, psychologists, and rehabilitation specialists, and on adoption and widespread application of objective methods for evaluating alternative methods. The practical use of BCI technology depends on the development of appropriate applications, identification of appropriate user groups, and careful attention to the needs and desires of individual users. BCI research and development will also benefit from greater emphasis on peer-reviewed publications, and from adoption of standard venues for presentations and discussion.
+
+TLDR: The first international meeting devoted to brain-computer interface research and development is summarized, which focuses on the development of appropriate applications, identification of appropriate user groups, and careful attention to the needs and desires of individual users.
+
+Fields of Study: ['Computer Science', 'Medicine']
+
+Authors: J. Wolpaw, N. Birbaumer, W. Heetderks, D. McFarland, P. Peckham, G. Schalk, E. Donchin, L. Quatrano, C. Robinson, T. Vaughan
+

@@ -1,0 +1,12 @@
+corpus id: 122009246, 
+
+Title: Multiple Comparisons among Means
+
+Abstract: Abstract Methods for constructing simultaneous confidence intervals for all possible linear contrasts among several means of normally distributed variables have been given by Scheffe and Tukey. In this paper the possibility is considered of picking in advance a number (say m) of linear contrasts among k means, and then estimating these m linear contrasts by confidence intervals based on a Student t statistic, in such a way that the overall confidence level for the m intervals is greater than or equal to a preassigned value. It is found that for some values of k, and for m not too large, intervals obtained in this way are shorter than those using the F distribution or the Studentized range. When this is so, the experimenter may be willing to select the linear combinations in advance which he wishes to estimate in order to have m shorter intervals instead of an infinite number of longer intervals.
+
+TLDR: 
+
+Fields of Study: ['Mathematics']
+
+Authors: O. J. Dunn
+

@@ -1,0 +1,12 @@
+corpus id: 60848655, 
+
+Title: A Primer for Soft Modeling
+
+Abstract: None
+
+TLDR: 
+
+Fields of Study: ['Computer Science']
+
+Authors: R. Falk, N. B. Miller
+

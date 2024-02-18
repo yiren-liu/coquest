@@ -1,0 +1,12 @@
+corpus id: 145385769, 
+
+Title: Toward A Hierarchical Model of Intrinsic and Extrinsic Motivation
+
+Abstract: None
+
+TLDR: The Hierarchical model provides a framework to organize the literature on intrinsic and extrinsic motivation, as well as to identify the psychological mechanisms underlying motivational changes, and to lead to novel and testable hypotheses.
+
+Fields of Study: ['Psychology']
+
+Authors: R. Vallerand
+

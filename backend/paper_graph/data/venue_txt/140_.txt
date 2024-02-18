@@ -1,0 +1,12 @@
+corpus id: 17783728, 
+
+Title: A Taxonomy of Mixed Reality Visual Displays
+
+Abstract: Paul Milgram received the B.A.Sc. degree from the University of Toronto in 1970, the M.S.E.E. degree from the Technion (Israel) in 1973 and the Ph.D. degree from the University of Toronto in 1980. From 1980 to 1982 he was a ZWO Visiting Scientist and a NATO Postdoctoral in the Netherlands, researching automobile driving behaviour. From 1982 to 1984 he was a Senior Research Engineer in Human Engineering at the National Aerospace Laboratory (NLR) in Amsterdam, where his work involved the modelling of aircraft flight crew activity, advanced display concepts and control loops with human operators in space teleoperation. Since 1986 he has worked at the Industrial Engineering Department of the University of Toronto, where he is currently an Associate Professor and Coordinator of the Human Factors Engineering group. He is also cross appointed to the Department of Psychology. In 1993-94 he was an invited researcher at the ATR Communication Systems Research Laboratories, in Kyoto, Japan. His research interests include display and control issues in telerobotics and virtual environments, stereoscopic video and computer graphics, cognitive engineering, and human factors issues in medicine. He is also President of Translucent Technologies, a company which produces "Plato" liquid crystal visual occlusion spectacles (of which he is the inventor), for visual and psychomotor research.
+
+TLDR: Paul Milgram's research interests include display and control issues in telerobotics and virtual environments, stereoscopic video and computer graphics, cognitive engineering, and human factors issues in medicine.
+
+Fields of Study: ['Psychology']
+
+Authors: P. Milgram, F. Kishino
+

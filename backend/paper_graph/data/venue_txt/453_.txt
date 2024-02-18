@@ -1,0 +1,12 @@
+corpus id: 334148, 
+
+Title: Designing the user interface strategies for effective human-computer interaction
+
+Abstract: For courses in Human-Computer Interaction. The Sixth Edition of Designing the User Interface provides a comprehensive, authoritative, and up-to-date introduction to the dynamic field of human-computer interaction (HCI) and user experience (UX) design. This classic book has defined and charted the astonishing evolution of user interfaces for three decades. Students and professionals learn practical principles and guidelines needed to develop high quality interface designs that users can understand, predict, and control. The book covers theoretical foundations and design processes such as expert reviews and usability testing. By presenting current research andinnovations in human-computer interaction, the authors strive toinspire students, guide designers, and provoke researchers to seek solutions that improve the experiences of novice and expert users, while achieving universal usability. The authors also provide balanced presentations on controversial topics such as augmented and virtual reality, voice and natural language interfaces, and information visualization. Updates include current HCI design methods, new design examples, and totally revamped coverage of social media, search and voice interaction. Major revisions were made toEVERY chapter, changing almost every figure (170 new color figures) and substantially updating the references.
+
+TLDR: The Sixth Edition of Designing the User Interface provides a comprehensive, authoritative, and up-to-date introduction to the dynamic field of human-computer interaction (HCI) and user experience (UX) design.
+
+Fields of Study: ['Computer Science']
+
+Authors: B. Shneiderman, C. Plaisant
+

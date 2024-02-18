@@ -1,0 +1,12 @@
+corpus id: 44308473, 
+
+Title: Social Capital, Intellectual Capital, and the Organizational Advantage
+
+Abstract: Scholars of the theory of the firm have begun to emphasize the sources and conditions of what has been described as “the organizational advantage,” rather than focus on the causes and consequences of market failure. Typically, researchers see such organizational advantage as accruing from the particular capabilities organizations have for creating and sharing knowledge. In this article we seek to contribute to this body of work by developing the following arguments: (1) social capital facilitates the creation of new intellectual capital; (2) organizations, as institutional settings, are conducive to the development of high levels of social capital; and (3) it is because of their more dense social capital that firms, within certain limits, have an advantage over markets in creating and sharing intellectual capital. We present a model that incorporates this overall argument in the form of a series of hypothesized relationships between different dimensions of social capital and the main mechanisms and proces...
+
+TLDR: 
+
+Fields of Study: ['Economics']
+
+Authors: Janine Nahapiet, S. Ghoshal
+

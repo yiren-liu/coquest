@@ -1,0 +1,12 @@
+corpus id: 20345615, 
+
+Title: Persuasive technology: using computers to change what we think and do
+
+Abstract: Mother Nature knows best--How engineered organizations of the future will resemble natural-born systems.
+
+TLDR: Mother Nature knows best--How engineered organizations of the future will resemble natural-born systems.
+
+Fields of Study: ['Computer Science', 'Engineering']
+
+Authors: B. J. Fogg
+

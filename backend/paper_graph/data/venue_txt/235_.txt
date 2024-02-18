@@ -1,0 +1,12 @@
+corpus id: 8107077, 
+
+Title: Facial expression and emotion.
+
+Abstract: Cross-cultural research on facial expression and the developments of methods to measure facial expression are briefly summarized. What has been learned about emotion from this work on the face is then elucidated. Four questions about facial expression and emotion are discussed: What information does an expression typically convey? Can there be emotion without facial expression? Can there be a facial expression of emotion without emotion? How do individuals differ in their facial expressions of emotion?
+
+TLDR: Cross-cultural research on facial expression and the developments of methods to measure facial expression are briefly summarized and what has been learned about emotion from this work on the face is elucidated.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: P. Ekman
+

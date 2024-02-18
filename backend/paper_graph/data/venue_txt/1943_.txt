@@ -1,0 +1,12 @@
+corpus id: 12519167, 
+
+Title: Automatic generation and detection of highly reliable fiducial markers under occlusion
+
+Abstract: None
+
+TLDR: A fiducial marker system specially appropriated for camera pose estimation in applications such as augmented reality and robot localization is presented and an algorithm for generating configurable marker dictionaries following a criterion to maximize the inter-marker distance and the number of bit transitions is proposed.
+
+Fields of Study: ['Computer Science']
+
+Authors: Sergio Garrido-Jurado, R. Muñoz-Salinas, F. J. Madrid-Cuevas, M. Marín-Jiménez
+

@@ -1,0 +1,12 @@
+corpus id: 4833016, 
+
+Title: Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator models
+
+Abstract: None
+
+TLDR: An overview of simple and multiple mediation is provided and three approaches that can be used to investigate indirect processes, as well as methods for contrasting two or more mediators within a single model are explored.
+
+Fields of Study: ['Psychology', 'Medicine']
+
+Authors: Kristopher J Preacher, A. Hayes
+

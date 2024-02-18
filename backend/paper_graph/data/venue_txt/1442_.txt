@@ -1,0 +1,12 @@
+corpus id: 14888094, 
+
+Title: Thematic networks: an analytic tool for qualitative research
+
+Abstract: The growth in qualitative research is a well-noted and welcomed fact within the social sciences; however, there is a regrettable lack of tools available for the analysis of qualitative material. There is a need for greater disclosure in qualitative analysis, and for more sophisticated tools to facilitate such analyses. This article details a technique for conducting thematic analysis of qualitative material, presenting a step-by-step guide of the analytic process, with the aid of an empirical example. The analytic method presented employs established, well-known techniques; the article proposes that thematic analyses can be usefully aided by and presented as thematic networks. Thematic networks are web-like illustrations that summarize the main themes constituting a piece of text. The thematic networks technique is a robust and highly sensitive tool for the systematization and presentation of qualitative analyses.
+
+TLDR: 
+
+Fields of Study: ['Sociology']
+
+Authors: Jennifer Attride-Stirling
+

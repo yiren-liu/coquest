@@ -1,0 +1,12 @@
+corpus id: 2930547, 
+
+Title: ImageNet Large Scale Visual Recognition Challenge
+
+Abstract: None
+
+TLDR: The creation of this benchmark dataset and the advances in object recognition that have been possible as a result are described, and the state-of-the-art computer vision accuracy with human accuracy is compared.
+
+Fields of Study: ['Computer Science']
+
+Authors: Olga Russakovsky, Jia Deng, Hao Su, J. Krause, S. Satheesh, S. Ma, Zhiheng Huang, A. Karpathy, A. Khosla, Michael S. Bernstein, A. Berg, Li Fei-Fei
+

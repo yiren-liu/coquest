@@ -1,0 +1,12 @@
+corpus id: 13847306, 
+
+Title: Limits of Predictability in Human Mobility
+
+Abstract: Predictable Travel Routines While people rarely perceive their actions to be random, current models of human activity are fundamentally stochastic. Processes that rely on human mobility patterns, like the prediction of new epidemics, traffic engineering, or city planning, could benefit from highly accurate predictive models. To investigate the predictability of human dynamics, Song et al. (p. 1018) used the recorded trajectories of millions of mobile phone users, collected by mobile phone companies and anonymized for research purposes. They hypothesized that given the wide range of travel patterns that different users follow, there would be significant differences between their predictability as well: Users who travel less should be easier to predict than those who are constantly on the road. Surprisingly, there was 93% predictability across the whole user base, and individuals' predictability did not in general fall significantly below 80%. Analysis of the trajectories of people carrying cell phones reveals that human mobility patterns are highly predictable. A range of applications, from predicting the spread of human and electronic viruses to city planning and resource management in mobile communications, depend on our ability to foresee the whereabouts and mobility of individuals, raising a fundamental question: To what degree is human behavior predictable? Here we explore the limits of predictability in human dynamics by studying the mobility patterns of anonymized mobile phone users. By measuring the entropy of each individual’s trajectory, we find a 93% potential predictability in user mobility across the whole user base. Despite the significant differences in the travel patterns, we find a remarkable lack of variability in predictability, which is largely independent of the distance users cover on a regular basis.
+
+TLDR: Analysis of the trajectories of people carrying cell phones reveals that human mobility patterns are highly predictable, and a remarkable lack of variability in predictability is found, which is largely independent of the distance users cover on a regular basis.
+
+Fields of Study: ['Medicine', 'Computer Science']
+
+Authors: Chaoming Song, Zehui Qu, N. Blumm, A. Barabasi
+

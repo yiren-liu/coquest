@@ -1,0 +1,12 @@
+corpus id: 49862415, 
+
+Title: Object Detection With Deep Learning: A Review
+
+Abstract: Due to object detection’s close relationship with video analysis and image understanding, it has attracted much research attention in recent years. Traditional object detection methods are built on handcrafted features and shallow trainable architectures. Their performance easily stagnates by constructing complex ensembles that combine multiple low-level image features with high-level context from object detectors and scene classifiers. With the rapid development in deep learning, more powerful tools, which are able to learn semantic, high-level, deeper features, are introduced to address the problems existing in traditional architectures. These models behave differently in network architecture, training strategy, and optimization function. In this paper, we provide a review of deep learning-based object detection frameworks. Our review begins with a brief introduction on the history of deep learning and its representative tool, namely, the convolutional neural network. Then, we focus on typical generic object detection architectures along with some modifications and useful tricks to improve detection performance further. As distinct specific detection tasks exhibit different characteristics, we also briefly survey several specific tasks, including salient object detection, face detection, and pedestrian detection. Experimental analyses are also provided to compare various methods and draw some meaningful conclusions. Finally, several promising directions and tasks are provided to serve as guidelines for future work in both object detection and relevant neural network-based learning systems.
+
+TLDR: This paper provides a review of deep learning-based object detection frameworks and focuses on typical generic object detection architectures along with some modifications and useful tricks to improve detection performance further.
+
+Fields of Study: ['Medicine', 'Computer Science']
+
+Authors: Zhong-Qiu Zhao, Peng Zheng, Shou-tao Xu, Xindong Wu
+
