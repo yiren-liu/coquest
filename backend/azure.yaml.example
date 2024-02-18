@@ -1,0 +1,7 @@
+azure_api_type: azure
+azure_api_base: https://[REPLACE_WITH_YOUR_OWN].azure.com/
+azure_api_version: 2023-03-15-preview
+azure_model_map:
+    fast_llm_model_deployment_id: [REPLACE_WITH_YOUR_OWN]
+    smart_llm_model_deployment_id: [REPLACE_WITH_YOUR_OWN]
+    embedding_model_deployment_id: [REPLACE_WITH_YOUR_OWN]

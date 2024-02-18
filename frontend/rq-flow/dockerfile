@@ -1,0 +1,27 @@
+# Frontend Dockerfile
+FROM node:18
+
+RUN apt-get update && apt-get install -y \
+    jq 
+
+WORKDIR /app
+
+ARG BACKEND_URL
+ENV BACKEND_URL $BACKEND_URL
+RUN echo "BACKEND_URL: $BACKEND_URL"
+
+
+COPY package*.json ./
+
+RUN npm install
+
+COPY . .
+
+COPY ./set_proxy.sh .
+RUN chmod +x set_proxy.sh && \
+    cat set_proxy.sh | tr -d '\r' > set_proxy_unix.sh && \
+    chmod +x set_proxy_unix.sh && \
+    ./set_proxy_unix.sh
+
+
+CMD ["npm", "start"]

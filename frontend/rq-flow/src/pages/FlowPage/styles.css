@@ -1,0 +1,5 @@
+.react-flow__edge-text {
+  font-size: 20px;
+  fill: #222;
+  pointer-events: none;
+}

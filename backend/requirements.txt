@@ -1,0 +1,36 @@
+beautifulsoup4
+colorama==0.4.6
+openai==0.27.2
+playsound==1.2.2
+python-dotenv==1.0.0
+pyyaml==6.0
+readability-lxml==0.8.1
+requests
+tiktoken==0.3.3
+gTTS==2.3.1
+docker
+duckduckgo-search==3.5.0
+google-api-python-client #(https://developers.google.com/custom-search/v1/overview)
+pinecone-client==2.2.1
+redis
+orjson
+Pillow
+selenium
+webdriver-manager
+jsonschema
+tweepy
+click
+spacy>=3.0.0,<4.0.0
+gitpython==3.1.31
+# en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
+
+
+# serving 
+fastapi[all]
+uvicorn[standard]
+
+boto3
+langchain
+sqlalchemy
+chromadb==0.4.15
+psycopg2

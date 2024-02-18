@@ -1,0 +1,37 @@
+{
+    "rqgen": {
+        "RQ Node": {
+            "template": {
+                "llm": {
+                    "required": true,
+                    "placeholder": "",
+                    "show": true,
+                    "multiline": false,
+                    "password": false,
+                    "name": "input",
+                    "advanced": false,
+                    "type": "RQNode",
+                    "list": false
+                },
+                "RQ": {
+                    "required": false,
+                    "placeholder": "",
+                    "show": true,
+                    "multiline": true,
+                    "value": "",
+                    "password": false,
+                    "name": "Research Question",
+                    "advanced": false,
+                    "type": "str",
+                    "list": false
+                },
+                "_type": "RQ Node"
+            },
+            "description": "",
+            "hide_header": true,
+            "base_classes": [
+                "RQNode"
+            ]
+        }
+    }
+}

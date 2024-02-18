@@ -1,0 +1,35 @@
+version: '3'
+services:
+  db:
+    image: postgres:12
+    networks:
+      - internal
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+
+  backend:
+    build: ./backend
+    networks:
+      - internal
+    environment:
+      - RQGEN_DB_USER=postgres
+      - RQGEN_DB_PASS=admin
+      - RQGEN_DB_HOST=db
+      - RQGEN_DB_PORT=5432
+    # env_file:
+    #   - ./.env
+
+  frontend:
+    build: 
+      context: ./frontend/rq-flow
+      args:
+        - BACKEND_URL=http://backend:8000
+    ports:
+      - '3000:3000'
+    networks:
+      - internal
+
+networks:
+  internal:
+    driver: bridge
