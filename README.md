@@ -36,7 +36,10 @@ Major features of the CoQuest system:
 
 
 #### Demo Video
-![Demo Video](https://drive.google.com/file/d/1nK-T4aHCTxBdPXBs-ADs273yPEPulwi_/view?usp=sharing)
+
+https://github.com/yiren-liu/coquest/assets/34183793/3eab285c-c300-4407-baab-fb4c0373ae28
+
+
 
 ### Built With
 
