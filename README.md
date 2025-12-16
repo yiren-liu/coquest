@@ -129,6 +129,19 @@ Currently, the embedding model we used is OpenAI Ada 2, but you could use any ot
 
 
 
+<!-- Citation -->
+## Citation
+To cite our paper, please use the followng bibtex:
+```
+@inproceedings{liu2024ai,
+  title={How ai processing delays foster creativity: Exploring research question co-creation with an llm-based agent},
+  author={Liu, Yiren and Chen, Si and Cheng, Haocong and Yu, Mengxia and Ran, Xiao and Mo, Andrew and Tang, Yiliu and Huang, Yun},
+  booktitle={Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
+  pages={1--25},
+  year={2024}
+}
+```
+
 
 <!-- CONTACT -->
 ## Contact
