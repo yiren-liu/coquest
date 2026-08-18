@@ -1,3 +1,5 @@
+
+
 <a name="readme-top"></a>
 
 
@@ -14,7 +16,6 @@
     This is the code for the system introduced in SIGCHI 2024 paper <a href="https://arxiv.org/abs/2310.06155">"CoQuest: Exploring Research Question Co-Creation with an LLM-based Agent"</a>.
   </p>
 </div>
-
 
 
 
@@ -105,7 +106,7 @@ This is required for both running from docker or source.
   ```
 4. Run backend server (Dev mode)
   ```sh
-  python main.py
+  uvicorn main:app --host 0.0.0.0 --port 8000 --reload
   ```
 
 The backend DB for logging change be changed to any self-hosted postgres DB by modifying the ```.env``` configs. 
@@ -125,7 +126,6 @@ Currently, the embedding model we used is OpenAI Ada 2, but you could use any ot
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
